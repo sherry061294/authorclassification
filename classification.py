@@ -1,4 +1,4 @@
-import pandas
+import pandas as pd
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -8,31 +8,29 @@ from nltk.corpus import stopwords
 # Average number of words per sentence in the file - done
 # Average word length in the file - done
 # Number of stop words per book - done
-# Number of determiners per book
-# Number of possessives per book 
+# Number of determiners per book -done
+# Number of possessives per book - done
 
 
-def get_no_of_sentences_in_file(filename):
-    # folder = nltk.data.find(filename)
-    corpusReader = nltk.corpus.PlaintextCorpusReader(filename,'.txt')
-    print(corpusReader)
-    num_sentences = len(corpusReader.sents())
-    # print ('The number of patagraphs =', len(corpusReader.paras()))
-    num_words = len([word for sentence in corpusReader.sents() for word in sentence])
-    num_chars = len([char for sentence in corpusReader.sents() for word in sentence for char in word])
-    print ("The number of characters =", num_chars)
-    print ('The number of words =', num_words)
-    print ('The number of sentences =', num_sentences)
-
-    return [num_sentences,num_words,num_chars]
 #START
 authorName = []
 number_of_sentences_file = []
 avg_no_word_in_sentence_file = []
 avg_word_length_file = []
 avg_no_of_stopwords = []
+avg_no_of_determiners = []
+avg_no_of_possessives = []
 #Read one File
 import os
+stopWords = set(stopwords.words('english'))
+
+with open(os.getcwd() +'/DeterminersList', 'r') as d :
+    Determiners_list = d.read()
+d.close()
+with open (os.getcwd() +'/PossessivesList', 'r') as p:
+    Possessives_list = p.read()
+p.close()
+count=0
 for filename in os.listdir(os.getcwd() + '/final/data/processed_data/'):
     filename_full_path = os.getcwd() + '/final/data/processed_data/'+ filename
     print(filename)
@@ -43,7 +41,8 @@ for filename in os.listdir(os.getcwd() + '/final/data/processed_data/'):
         number_of_sentences_file.append(num_sentences - 1)
         num_words_sentence = []
         num_chars = []
-        no_of_stopwords = []
+        no_of_determiners = no_of_possessives = 0
+        no_of_stopwords = 0
         for sentence in filedata.split('\n'):
             word_tokens = sentence.split()
             # print(word_tokens)
@@ -54,47 +53,62 @@ for filename in os.listdir(os.getcwd() + '/final/data/processed_data/'):
                     continue
                 else:
                     word_len += len(word)
-            num_chars.append(word_len)
-            stopWords = set(stopwords.words('english'))
             
+                if word in stopWords:
+                    no_of_stopwords+=1
 
-            for w in word_tokens:
-                if w in stopWords:
-                    no_of_stopwords.append(w)
+                if word in Determiners_list:
+                    no_of_determiners += 1
+                if word in Possessives_list:
+                    no_of_possessives += 1
+            num_chars.append(word_len)
         
-        avg_no_of_stopwords.append(len(no_of_stopwords)/num_sentences)
+        avg_no_of_stopwords.append(no_of_stopwords/num_sentences)
+        avg_no_of_determiners.append(no_of_determiners/num_sentences)
+        avg_no_of_possessives.append(no_of_possessives/num_sentences)
         print("avg_no_of_stopwords - ",avg_no_of_stopwords)
         # print(num_chars)  
-        print(sum(num_words_sentence))
-        print(sum(num_chars))
+        print("number of words in a sentence - ",sum(num_words_sentence))
+        print("number of chars - ",sum(num_chars))
         avg_no_word_in_sentence_file.append(sum(num_words_sentence)/num_sentences)
         avg_word_length_file.append(sum(num_chars)/sum(num_words_sentence))
         print("number_of_sentences_file - ",number_of_sentences_file)
         print("avg_no_word_in_sentence_file - ",avg_no_word_in_sentence_file)
         print("avg_word_length_file - ",avg_word_length_file)
+        count+=1
+        print(count)
         print()
-        
-
-        
-        
-
-
-
-        # [num_sentences,num_words,num_chars] = get_no_of_sentences_in_file(filename_full_path)
-        # number_of_sentences_file.append(num_sentences)
-        # avg_no_word_in_sentence_file.append(num_words/num_sentences)
-        # avg_word_len_file.append(num_chars/num_words)
-
-        
-        
-         
-# Get all information/ features from that file. including author name
-
-# append each to their own lists
-
-#Take next file / Repeat from START till all files are over
 
 # Add all lists as colums to the data frame
+
+dfObj = pd.DataFrame(columns=[])
+dfObj2 = pd.DataFrame(columns=[])
+dfObj['avg_stopwords'] = avg_no_of_stopwords
+dfObj['avg_determiners'] = avg_no_of_determiners
+dfObj['avg_possessives'] = avg_no_of_possessives
+dfObj['avg_word_sentence'] = avg_no_word_in_sentence_file
+dfObj['avg_word_length'] = avg_word_length_file
+dfObj['no_of_sentences'] = number_of_sentences_file
+
+dfObj2['author_name'] = authorName
+
+import numpy as np
+from sklearn import preprocessing
+import matplotlib.pyplot as plt 
+plt.rc("font", size=14)
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+import seaborn as sns
+sns.set(style="white")
+sns.set(style="whitegrid", color_codes=True)
+
+X_train, X_test, y_train, y_test = train_test_split(dfObj, dfObj2, test_size=0.1, random_state=0)
+print(dfObj)
+
+
+
+
+model = LogisticRegression(solver='liblinear', random_state=0)
 
 #Do Train/Test Split
 
