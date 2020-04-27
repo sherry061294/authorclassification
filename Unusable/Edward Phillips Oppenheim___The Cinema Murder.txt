@@ -480,7 +480,6 @@
 <s> "Why, it's James P </s>
 <s> Busby, of course" </s>
 <s> he exclaimed </s>
-<s> "Your father's the Busby Iron Works, isn't he" </s>
 <s> The young man nodded </s>
 <s> "And this is Mr Caroll, one of our engineers," he said, indicating a rather rough-looking personage by his side </s>
 <s> "Delighted to meet you both," Mr Greene assured them </s>
@@ -552,7 +551,7 @@
 <s> Philip frowned slightly </s>
 <s> "That is very kind of you, Mr Greene," he acknowledged, "but do you know I would very much rather not talk business with any one while I am on the steamer </s>
 <s> I am a little overworked and I need the rest" </s>
-<s> Elizabeth Dalstan looked at her vis-Ã -vis with some renewal of her former interest </s>
+<s> Elizabeth Dalstan looked at her vis-ï¿½ -vis with some renewal of her former interest </s>
 <s> She saw a young man who was, without doubt, good-looking, although he certainly had an over-tired and somewhat depressed appearance </s>
 <s> His cheeks were colourless, and there were little dark lines under his eyes as though he suffered from sleeplessness </s>
 <s> He was clean-shaven and he had the sensitive mouth of an artist </s>
@@ -569,7 +568,7 @@
 <s> "Listen" </s>
 <s> They talked together for some time, earnestly </s>
 <s> Mr Greene addressed his conversation to his neighbours lower down the table </s>
-<s> It was not until the arrival of dessert that Philip and his vis-Ã -vis abandoned their discussion </s>
+<s> It was not until the arrival of dessert that Philip and his vis-ï¿½ -vis abandoned their discussion </s>
 <s> "Tell me, have you written yourself, Mr Romilly" </s>
 <s> Elizabeth Dalstan asked him with interest </s>
 <s> "I have made an attempt at it," he confessed </s>

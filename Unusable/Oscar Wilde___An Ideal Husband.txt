@@ -156,8 +156,7 @@
 <s> [_Announcing guests_.] Lady Markby </s>
 <s> Mrs Cheveley </s>
 <s> [_Enter_ LADY MARKBY _and_ MRS </s>
-<s> CHEVELEY </s>
-<s> LADY MARKBY _is a pleasant_, _kindly_, _popular woman_, _with gray hair Ã la marquise and good lace_ </s>
+<s> LADY MARKBY _is a pleasant_, _kindly_, _popular woman_, _with gray hair ï¿½ la marquise and good lace_ </s>
 <s> MRS </s>
 <s> CHEVELEY, _who accompanies her_, _is tall and rather slight_ </s>
 <s> _Lips very thin and highly-coloured_, _a line of scarlet on a pallid face_ </s>
@@ -3455,7 +3454,7 @@
 <s> You decline </s>
 <s> Very well </s>
 <s> If Sir Robert doesnâ€™t uphold my Argentine scheme, I expose him </s>
-<s> VoilÃ tout </s>
+<s> Voilï¿½ tout </s>
 <s> LORD GORING </s>
 <s> You mustnâ€™t do that </s>
 <s> It would be vile, horrible, infamous </s>

@@ -2714,7 +2714,6 @@
 <s> "You poor slave </s>
 <s> Did you go and kiss your master's foot when he gave it to you" </s>
 <s> "I didn't," Arnold declared </s>
-<s> "To tell you the truth, I believe it would have annoyed him </s>
 <s> He hasn't any sense of humor, you see </s>
 <s> Good night, Isaac </s>
 <s> If you're writing one of those shattering articles to-night, remember that Ruth can hear you, and don't keep her awake too late" </s>
@@ -2822,7 +2821,7 @@
 <s> "Nevertheless," Arnold persisted, "she disturbs the serenity of your room" </s>
 <s> Sabatini threw away his cigarette and passed his arm through his companion's </s>
 <s> "It is as well always to be reminded that life is many-sided," he murmured </s>
-<s> "You will not mind a _tête-� -tête_ dinner" </s>
+<s> "You will not mind a _tête-� -tête_ dinner" </s>
 <s> Some curtains of dark green brocaded material had been silently drawn aside, and they passed into a smaller apartment, of which the coloring and style of decoration was the same </s>
 <s> A round table, before which stood two high-backed, black oak chairs, and which was lit with softly-shaded candles, stood in the middle of the room </s>
 <s> It was very simply set out, but the two wine-glasses were richly cut in quaint fashion, and the bowl of violets was of old yellow Sèvres </s>

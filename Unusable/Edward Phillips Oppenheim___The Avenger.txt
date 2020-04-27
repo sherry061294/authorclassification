@@ -1497,7 +1497,6 @@
 <s> "I cannot," she said slowly </s>
 <s> "I can tell you nothing" </s>
 <s> Wrayson was speechless for a moment </s>
-<s> It was not only the words themselves, but the note of absolute finality with which they were uttered, which staggered him </s>
 <s> Then he found himself laughing, a sound so unnatural and ominous that, for the first time, fear shone in the girl's eyes </s>
 <s> "Don't," she cried, and her hands flashed towards him for a moment as though the sight of him hurt her </s>
 <s> "Don't be angry </s>
@@ -1634,7 +1633,7 @@
 <s> In her place, the Baroness was standing upon the threshold, dressed in a wonderful blue wrapper, and with a cigarette between her teeth </s>
 <s> She burst into a little peal of laughter as she looked into his distraught face </s>
 <s> "For an Englishman," she remarked, "you are a little rapid in your love affairs, my dear Mr Wrayson, is it not so </s>
-<s> So she has left you _planté l� _" </s>
+<s> So she has left you _planté l� _" </s>
 <s> "I--was mad," Wrayson muttered </s>
 <s> The Baroness helped herself to whisky and soda </s>
 <s> "Come again and make your peace, my friend," she said </s>

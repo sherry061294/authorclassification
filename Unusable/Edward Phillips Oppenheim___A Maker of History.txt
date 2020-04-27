@@ -1424,7 +1424,6 @@
 <s> Her lover perhaps </s>
 <s> It was good to make him suffer </s>
 <s> "Flossie here," she continued, "was outside, and saw them depart </s>
-<s> They drove off together in the Vicomte's coupÃ© </s>
 <s> They were apparently on the best of terms </s>
 <s> Since then we have not seen her again--nor the Vicomte </s>
 <s> Monsieur knows now as much as we know" </s>
@@ -1485,7 +1484,7 @@
 <s> I might start all over again </s>
 <s> It is worth a little risk </s>
 <s> Heavens, how nervous I am" </s>
-<s> She entered a cafÃ© and drank _Ã petit verre_ </s>
+<s> She entered a cafÃ© and drank _ï¿½ petit verre_ </s>
 <s> As she set her glass down a man looked at her over the top of his newspaper </s>
 <s> She tried to smile, but her heart was beating, and she was sick with fear </s>
 <s> "What a fool I am" </s>
@@ -6295,7 +6294,7 @@
 <s> The three men looked at one another </s>
 <s> "If this is genuine" </s>
 <s> the younger murmured </s>
-<s> "It is the Russian official paper," his _vis-Ã -vis_ declared, holding it up to the light </s>
+<s> "It is the Russian official paper," his _vis-ï¿½ -vis_ declared, holding it up to the light </s>
 <s> Then the Duc de Bergillac and Guy Poynton were ushered in </s>
 <s> Monsieur Grisson rose to his feet </s>
 <s> "Monsieur Poynton," he said, "we have all three heard your story as to what you witnessed in the forest of Pozen </s>
@@ -6849,7 +6848,7 @@
 <s> The duel was a fake </s>
 <s> You were--not exactly sober </s>
 <s> That was entirely our fault, and we had to invent some plan to induce you to come into hiding peacefully </s>
-<s> _VoilÃ tout!_ It is forgiven" </s>
+<s> _Voilï¿½ tout!_ It is forgiven" </s>
 <s> Guy laughed a great laugh of relief </s>
 <s> "Rather" </s>
 <s> he exclaimed </s>

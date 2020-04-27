@@ -1736,7 +1736,6 @@
 <s> "The shooting, eh, Mr Thain" </s>
 <s> He sipped his wine and considered </s>
 <s> First Broomleys, and then the shooting </s>
-<s> The gods were very kind to him on this pleasant April morning </s>
 <s> "You haven't preserved lately, I understand," his guest observed </s>
 <s> "Not for some years," the Marquis acknowledged </s>
 <s> "I don't mind about that at all," David went on </s>
@@ -1809,7 +1808,7 @@
 <s> "She is a perfect stranger to me </s>
 <s> She came up to me at a party, the other night, and asked me, as a great favour, to dine at her house and to tell her how to invest some money so that she could double it" </s>
 <s> "I know," Letitia assented, with her mouth full of muffin </s>
-<s> "She does that to all the financiers and expects them to give her tips just because she has dark eyes and asks them to a tête-� -tête dinner </s>
+<s> "She does that to all the financiers and expects them to give her tips just because she has dark eyes and asks them to a tête-� -tête dinner </s>
 <s> I expect we are all as bad, though," she went on rather gloomily, "even if we are not quite so blatant </s>
 <s> What on earth have you been doing to father </s>
 <s> He swaggers about as though he were already a millionaire" </s>

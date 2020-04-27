@@ -347,7 +347,6 @@
 <s> Anna looked at her sister gravely </s>
 <s> Even in her painting smock and with her disarranged hair, the likeness between the two girls was marvellous </s>
 <s> "The adventures I do not doubt, Annabel," she said </s>
-<s> "They seem to come to you as naturally as disappointment--to other people </s>
 <s> But to England </s>
 <s> What has happened, then" </s>
 <s> Already the terror of a few hours ago seemed to have passed away from the girl who leaned back so lazily in her chair, watching the tip of her patent shoe swing backwards and forwards </s>
@@ -446,7 +445,7 @@
 <s> We had not then recovered from thef shock </s>
 <s> Our ideal had fallen </s>
 <s> A sense of loss was amongst us </s>
-<s> Drummond," he continued, looking across at his _vis-Ã -vis_, "we look to you to give expression to our sentiments </s>
+<s> Drummond," he continued, looking across at his _vis-ï¿½ -vis_, "we look to you to give expression to our sentiments </s>
 <s> Your career at the bar had given you a command of language, also a self-control not vouchsafed to us ordinary mortals </s>
 <s> Explain to Sir John our feelings" </s>
 <s> Drummond, a few years older, dark, clean-shaven, with bright eyes and humorous mouth, laid down his paper and turned towards Sir John </s>

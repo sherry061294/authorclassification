@@ -1803,7 +1803,6 @@
 <s> They live miles from any help </s>
 <s> There are one maid, an old manservant, the sister, and the brother, the latter not a very strong man </s>
 <s> They would be helpless in the hands of a desperate fellow like this Notting Hill criminal, if he could once effect an entrance </s>
-<s> Both Sir Henry and I were concerned at their situation, and it was suggested that Perkins the groom should go over to sleep there, but Stapleton would not hear of it </s>
 <s> The fact is that our friend, the baronet, begins to display a considerable interest in our fair neighbour </s>
 <s> It is not to be wondered at, for time hangs heavily in this lonely spot to an active man like him, and she is a very fascinating and beautiful woman </s>
 <s> There is something tropical and exotic about her which forms a singular contrast to her cool and unemotional brother </s>
@@ -1827,7 +1826,7 @@
 <s> They dine here to-night, and there is some talk of our going to them next week </s>
 <s> One would imagine that such a match would be very welcome to Stapleton, and yet I have more than once caught a look of the strongest disapprobation in his face when Sir Henry has been paying some attention to his sister </s>
 <s> He is much attached to her, no doubt, and would lead a lonely life without her, but it would seem the height of selfishness if he were to stand in the way of her making so brilliant a marriage </s>
-<s> Yet I am certain that he does not wish their intimacy to ripen into love, and I have several times observed that he has taken pains to prevent them from being _tête-� -tête_ </s>
+<s> Yet I am certain that he does not wish their intimacy to ripen into love, and I have several times observed that he has taken pains to prevent them from being _tête-� -tête_ </s>
 <s> By the way, your instructions to me never to allow Sir Henry to go out alone will become very much more onerous if a love affair were to be added to our other difficulties </s>
 <s> My popularity would soon suffer if I were to carry out your orders to the letter </s>
 <s> The other day--Thursday, to be more exact--Dr </s>

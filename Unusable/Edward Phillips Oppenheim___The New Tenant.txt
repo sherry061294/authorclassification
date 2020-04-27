@@ -1080,7 +1080,6 @@
 <s> BROWN DINES AT THE COURT Both to him and to her there was something strangely unreal in the little banquet to which they three--Mr Thurwell, his daughter, and his tenant--sat down that evening </s>
 <s> For many months afterwards, until, indeed, after the culmination of the tragedy in which she was the principal moving figure, Helen Thurwell looked back upon that night with strangely mingled feelings </s>
 <s> It was the dawn of a new era in her existence, a fact which she never doubted, although she struggled vainly against it </s>
-<s> And to him it was like a sudden transition into fairyland </s>
 <s> The long years of lonely life and rigorous asceticism through which he had passed had been a period of no ordinary self-denial </s>
 <s> Instinctively and with his whole nature the man was an artist </s>
 <s> His homely fare, ill-cooked and ill-served among dreary surroundings, had for long been a horror to him </s>
@@ -1104,7 +1103,7 @@
 <s> Why should she go away now </s>
 <s> They were making no stranger of Mr Brown </s>
 <s> And so she stayed </s>
-<s> Presently she found herself strolling round the room by his side, showing him the pictures which hung lightly upon the high oak panels, and the foreign bric-� -brac and Italian vases ranged along the wide black ledge a little below </s>
+<s> Presently she found herself strolling round the room by his side, showing him the pictures which hung lightly upon the high oak panels, and the foreign bric-� -brac and Italian vases ranged along the wide black ledge a little below </s>
 <s> Her father had been obliged to go out and speak to the head gamekeeper about some suspected poaching, and they were alone </s>
 <s> "This is where I like to sit after dinner, when we are alone," she said; and, lifting some heavy drooping curtains, she led him into a quaint recess, almost as large as an ordinary room </s>
 <s> A shaded lamp was burning on a small Burmese table, and the faint fragrance of burning pine logs stole up from the open hearth and floated about on the air, already slightly perfumed with the odor of chrysanthemums clustered together in quaint blue china bowls, little patches of gold-and-white coloring, where everything else was somber and subdued </s>
@@ -2095,7 +2094,7 @@
 <s> Another of those bright butterfly visions of his fancy, gorgeous with hope and brilliancy--another one to be crushed by the iron hand of necessity </s>
 <s> He had gone away wounded, and he had come back to find the wound still bleeding </s>
 <s> Gradually the rooms were thinning, and at last Lady Thurwell, impatient of her niece's long absence, came to fetch her </s>
-<s> When she found her _tête-� -tête_ with the lion of the day, however, her manner was most gracious </s>
+<s> When she found her _tête-� -tête_ with the lion of the day, however, her manner was most gracious </s>
 <s> "I hope you have been able to persuade Mr Maddison to come and see us," she said to her niece </s>
 <s> "We are at home on Thursdays at Cadogan Square, and we lunch every day at two," she added, turning towards him </s>
 <s> "Come whenever you like" </s>

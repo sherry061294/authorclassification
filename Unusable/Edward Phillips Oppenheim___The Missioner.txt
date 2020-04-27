@@ -1111,7 +1111,6 @@
 <s> "He has nothing to do with Thorpe" </s>
 <s> "He came down to see them practise a few evenings ago, and Antill asked him," the agent answered </s>
 <s> "If I had known earlier I would have stopped it" </s>
-<s> Wilhelmina did not immediately reply </s>
 <s> She was watching the young man who stood now at the wicket, bat in hand </s>
 <s> In his flannels, he seemed a very different person from the missioner whose request a few days ago had so much offended her </s>
 <s> Nevertheless, her lip curled as she saw the terrible Mills prepare to deliver his first ball </s>
@@ -1226,7 +1225,7 @@
 <s> "Madam," he answered gravely, "I know too little of your life to answer your question" </s>
 <s> She shrugged her shoulders </s>
 <s> For a moment her parasol hid her face </s>
-<s> "We are quite _Ã la mode_, are we not, my dear Peggy" </s>
+<s> "We are quite _ï¿½ la mode_, are we not, my dear Peggy" </s>
 <s> she remarked, with a curious little laugh </s>
 <s> "Philosophy upon the village green </s>
 <s> Gilbert, tell them to drive on" </s>
@@ -4149,7 +4148,7 @@
 <s> "What about me" </s>
 <s> Davenant exclaimed </s>
 <s> "Oh </s>
-<s> lÃ , lÃ " </s>
+<s> lï¿½ , lï¿½ " </s>
 <s> she answered, pinching his arm </s>
 <s> "I'm sure I don't mind," Ella declared </s>
 <s> "I guess we're all free to talk to whom we please" </s>
@@ -6266,7 +6265,7 @@
 <s> she answered, a little bitterly </s>
 <s> "I fight, of course" </s>
 <s> Deyes was carefully scanning the menu through his horn-rimmed eyeglass </s>
-<s> "Becassine Ã la Broche," he murmured </s>
+<s> "Becassine ï¿½ la Broche," he murmured </s>
 <s> "I must remember that" </s>
 <s> Then he turned in his chair and looked at Wilhelmina </s>
 <s> "You are worrying," he declared abruptly </s>

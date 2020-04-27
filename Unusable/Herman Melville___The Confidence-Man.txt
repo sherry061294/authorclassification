@@ -2801,7 +2801,6 @@
 <s> My dear fellow," beaming his eyes full upon him, "what injury have I done you, that you should receive my greeting with a curtailed civility" </s>
 <s> "Off hands;" once more shaking the friendly member from him </s>
 <s> "Who in the name of the great chimpanzee, in whose likeness, you, Marzetti, and the other chatterers are made, who in thunder are you" </s>
-<s> "A cosmopolitan, a catholic man; who, being such, ties himself to no narrow tailor or teacher, but federates, in heart as in costume, something of the various gallantries of men under various suns </s>
 <s> Oh, one roams not over the gallant globe in vain </s>
 <s> Bred by it, is a fraternal and fusing feeling </s>
 <s> No man is a stranger </s>
@@ -2813,7 +2812,7 @@
 <s> Out of my sight" </s>
 <s> "Is the sight of humanity so very disagreeable to you then </s>
 <s> Ah, I may be foolish, but for my part, in all its aspects, I love it </s>
-<s> Served up Ã la Pole, or Ã la Moor, Ã la Ladrone, or Ã la Yankee, that good dish, man, still delights me; or rather is man a wine I never weary of comparing and sipping; wherefore am I a pledged cosmopolitan, a sort of London-Dock-Vault connoisseur, going about from Teheran to Natchitoches, a taster of races; in all his vintages, smacking my lips over this racy creature, man, continually </s>
+<s> Served up ï¿½ la Pole, or ï¿½ la Moor, ï¿½ la Ladrone, or ï¿½ la Yankee, that good dish, man, still delights me; or rather is man a wine I never weary of comparing and sipping; wherefore am I a pledged cosmopolitan, a sort of London-Dock-Vault connoisseur, going about from Teheran to Natchitoches, a taster of races; in all his vintages, smacking my lips over this racy creature, man, continually </s>
 <s> But as there are teetotal palates which have a distaste even for Amontillado, so I suppose there may be teetotal souls which relish not even the very best brands of humanity </s>
 <s> Excuse me, but it just occurs to me that you, my dear fellow, possibly lead a solitary life" </s>
 <s> "Solitary" </s>

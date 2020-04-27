@@ -112,7 +112,6 @@
 <s> _Introductory._ Technical meaning of "some" 8 '=Proposition=' " '=Normal form=' of a Proposition " '=Subject=', '=Predicate=', and '=Terms=' 9 Â§ 2 </s>
 <s> _Normal form of a Proposition._ Its four parts:-- (1) '=Sign of Quantity=' 9 (2) Name of Subject " (3) '=Copula=' " (4) Name of Predicate " Â§ 3 </s>
 <s> _Various kinds of Propositions._ Three kinds of Propositions:-- (1) Begins with "Some" </s>
-<s> Called a '=Particular=' Proposition: also a Proposition '=in I=' 10 (2) Begins with "No" </s>
 <s> Called a '=Universal Negative=' Proposition: also a Proposition '=in E=' " (3) Begins with "All" </s>
 <s> Called a '=Universal Affirmative=' Proposition: also a Proposition '=in A=' " pg-xviii A Proposition, whose Subject is an Individual, is to be regarded as Universal " Two kinds of Propositions, 'Propositions of Existence', and 'Propositions of Relation' " CHAPTER II </s>
 <s> _PROPOSITIONS OF EXISTENCE._ '=Proposition of Existence =' 11 CHAPTER III </s>
@@ -132,13 +131,13 @@
 <s> " Proposition '=in terms of=' certain Letters " Â§ 2 </s>
 <s> _Representation of Propositions of Existence._ The Proposition "Some x exist" 28 Three other similar Propositions " The Proposition "No x exist" " Three other similar Propositions 29 The Proposition "Some xy exist" " Three other similar Propositions " The Proposition "No xy exist" " Three other similar Propositions " The Proposition "No x exist" is _Double_, and is equivalent to the two Propositions "No xy exist" and "No xy' exist" 30 pg-xxi Â§ 3 </s>
 <s> _Representation of Propositions of Relations._ The Proposition "Some x are y" " Three other similar Propositions " The Proposition "Some y are x" 31 Three other similar Propositions " Trio of equivalent Propositions, viz </s>
-<s> "Some xy exist"Â =Â "Some x are y"Â =Â "Some y are x" " '=Converse=' Propositions, and '=Conversion=' " Three other similar Trios 32 The Proposition "No x are y" " Three other similar Propositions " The Proposition "No y are x" " Three other similar Propositions " Trio of equivalent Propositions, viz </s>
-<s> "No xy exist"Â =Â "No x are y"Â =Â "No y are x" 33 Three other similar Trios " The Proposition "All x are y" is _Double_, and is equivalent to the two Propositions "Some x are y" and "No x are _y'_" " Seven other similar Propositions 34 =Tables II, III.= Representation of Propositions of Existence and Relation 34, 35 CHAPTER IV </s>
+<s> "Some xy exist"ï¿½ =ï¿½ "Some x are y"ï¿½ =ï¿½ "Some y are x" " '=Converse=' Propositions, and '=Conversion=' " Three other similar Trios 32 The Proposition "No x are y" " Three other similar Propositions " The Proposition "No y are x" " Three other similar Propositions " Trio of equivalent Propositions, viz </s>
+<s> "No xy exist"ï¿½ =ï¿½ "No x are y"ï¿½ =ï¿½ "No y are x" 33 Three other similar Trios " The Proposition "All x are y" is _Double_, and is equivalent to the two Propositions "Some x are y" and "No x are _y'_" " Seven other similar Propositions 34 =Tables II, III.= Representation of Propositions of Existence and Relation 34, 35 CHAPTER IV </s>
 <s> _INTERPRETATION OF BILITERAL DIAGRAM, WHEN MARKED WITH COUNTERS._ Â·-------Â· |(.)| | Interpretation of |---|---| 36 | | | Â·-------Â· And of three other similar arrangements " pg-xxii Â·-------Â· |( )| | Interpretation of |---|---| " | | | Â·-------Â· And of three other similar arrangements " Â·-------Â· | (.) | Interpretation of |---|---| 37 | | | Â·-------Â· And of three other similar arrangements " Â·-------Â· |(.)|(.)| Interpretation of |---|---| " | | | Â·-------Â· And of three other similar arrangements " Â·-------Â· |( )|( )| Interpretation of |---|---| " | | | Â·-------Â· And of three other similar arrangements " Â·-------Â· |(.)|( )| Interpretation of |---|---| " | | | Â·-------Â· And of seven other similar arrangements 38 =BOOK IV.= =THE TRILITERAL DIAGRAM.= CHAPTER I </s>
 <s> _SYMBOLS AND CELLS._ Change of Biliteral into Triliteral Diagram 39 The xy-Class subdivided into 'the xym-Class' and 'the xym'-Class' 40 pg-xxiii The Inner and Outer Cells of the North-West Quarter assigned to these Classes " The xy'-Class, the x'y-Class, and the x'y'-Class similarly subdivided " The Inner and Outer Cells of the North-East, the South-West, and the South-East Quarter similarly assigned " The Inner Square and the Outer Border have thus been assigned to 'the m-Class' and 'the _m'_-Class' " Rules for finding readily the Compartment, or Cell, assigned to any given Attribute or Attributes " =Table IV.= Attributes of Classes, and Compartments, or Cells, assigned to them 42 CHAPTER II </s>
 <s> _REPRESENTATION OF PROPOSITIONS IN TERMS OF x AND m, OR OF y AND m._ Â§ 1 </s>
 <s> _Representation of Propositions of Existence in terms of x and m, or of y and m._ The Proposition "Some xm exist" 43 Seven other similar Propositions " The Proposition "No xm exist" 44 Seven other similar Propositions " Â§ 2 </s>
-<s> _Representation of Propositions of Relation in terms of x and m, or of y and m._ The Pair of Converse Propositions "Some x are m"Â =Â "Some m are x" " Seven other similar Pairs " The Pair of Converse Propositions "No x are m"Â =Â "No m are x" " Seven other similar Pairs " The Proposition "All x are m" 45 Fifteen other similar Propositions " =Tables V, VI, VII, VIII.= Representations of Propositions in terms of x and m, or of y and m 46 to 49 pg-xxiv CHAPTER III </s>
+<s> _Representation of Propositions of Relation in terms of x and m, or of y and m._ The Pair of Converse Propositions "Some x are m"ï¿½ =ï¿½ "Some m are x" " Seven other similar Pairs " The Pair of Converse Propositions "No x are m"ï¿½ =ï¿½ "No m are x" " Seven other similar Pairs " The Proposition "All x are m" 45 Fifteen other similar Propositions " =Tables V, VI, VII, VIII.= Representations of Propositions in terms of x and m, or of y and m 46 to 49 pg-xxiv CHAPTER III </s>
 <s> _REPRESENTATION OF TWO PROPOSITIONS OF RELATION, ONE IN TERMS OF x AND m, AND THE OTHER IN TERMS OF y AND m, ON THE SAME DIAGRAM._ The Digits "I" and "O" to be used instead of Red and Grey Counters 50 Rules " Examples worked " CHAPTER IV </s>
 <s> _INTERPRETATION, IN TERMS OF x AND y, OF TRILITERAL DIAGRAM, WHEN MARKED WITH COUNTERS OR DIGITS._ Rules 53 Examples worked 54 =BOOK V.= =SYLLOGISMS.= CHAPTER I </s>
 <s> _INTRODUCTORY._ '=Syllogism=' 56 '=Premisses=' " '=Conclusion=' " '=Eliminands=' 57 '=Retinends=' " '=Consequent=' " The Symbol "'." </s>
@@ -150,7 +149,7 @@
 <s> _INTRODUCTORY._ Meaning of x_{1}, xy_{1}, &c </s>
 <s> 70 '=Entity=' " Meaning of x_{0}, xy_{0}, &c </s>
 <s> " '=Nullity=' " The Symbols "+" and "Â¶" " '=Like=' and '=unlike=' Signs " CHAPTER II </s>
-<s> _REPRESENTATION OF PROPOSITIONS OF RELATION._ The Pair of Converse Propositions "Some x are y"Â =Â "Some y are x" 71 Three other similar Pairs " The Pair of Converse Propositions "No x are y"Â =Â "No y are x" " Three other similar Pairs " The Proposition "All x are y" 72 The Proposition "All x are y" is _Double_, and is equivalent to the two Propositions "Some x exist" and "No x and y'" " Seven other similar Propositions " Rule for translating "All x are y" from abstract into subscript form, and _vice versÃ¢_ " pg-xxvii CHAPTER III </s>
+<s> _REPRESENTATION OF PROPOSITIONS OF RELATION._ The Pair of Converse Propositions "Some x are y"ï¿½ =ï¿½ "Some y are x" 71 Three other similar Pairs " The Pair of Converse Propositions "No x are y"ï¿½ =ï¿½ "No y are x" " Three other similar Pairs " The Proposition "All x are y" 72 The Proposition "All x are y" is _Double_, and is equivalent to the two Propositions "Some x exist" and "No x and y'" " Seven other similar Propositions " Rule for translating "All x are y" from abstract into subscript form, and _vice versÃ¢_ " pg-xxvii CHAPTER III </s>
 <s> _SYLLOGISMS._ Â§ 1 </s>
 <s> _Representation of Syllogisms._ Rules 73 Â§ 2 </s>
 <s> _FormulÃ¦ for Syllogisms._ Three FormulÃ¦ worked out:-- Fig </s>
@@ -577,10 +576,10 @@
 <s> Â·-------Â· |(.)| | |---|---| | | | Â·-------Â· Hence these three Propositions are equivalent </s>
 <s> [In the "books" example, these Propositions would be (1) "Some old English books exist; (2) Some old books are English; (3) Some English books are old".] The two equivalent Propositions, "Some x are y" and "Some y are x", are said to be '=Converse=' to each other; and the Process, of changing one into the other, is called '=Converting=', or '=Conversion=' </s>
 <s> [For example, if we were told to convert the Proposition "Some apples are not ripe," we should first choose our Univ </s>
-<s> (say "fruit"), and then complete the Proposition, by supplying the Substantive "fruit" in the Predicate, so that it would be "Some apples are not-ripe fruit"; and we should then convert it by interchanging its Terms, so that it would be "Some not-ripe fruit are apples".] pg032 Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of _four_ Trios being as follows:-- (1) "Some xy exist"Â =Â "Some x are y"Â =Â "Some y are x" </s>
-<s> (2) "Some xy' exist"Â =Â "Some x are y'"Â =Â "Some y' are x" </s>
-<s> (3) "Some x'y exist"Â =Â "Some x' are y"Â =Â "Some y are x'" </s>
-<s> (4) "Some x'y' exist"Â =Â "Some x' are y'"Â =Â "Some y' are x'" </s>
+<s> (say "fruit"), and then complete the Proposition, by supplying the Substantive "fruit" in the Predicate, so that it would be "Some apples are not-ripe fruit"; and we should then convert it by interchanging its Terms, so that it would be "Some not-ripe fruit are apples".] pg032 Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of _four_ Trios being as follows:-- (1) "Some xy exist"ï¿½ =ï¿½ "Some x are y"ï¿½ =ï¿½ "Some y are x" </s>
+<s> (2) "Some xy' exist"ï¿½ =ï¿½ "Some x are y'"ï¿½ =ï¿½ "Some y' are x" </s>
+<s> (3) "Some x'y exist"ï¿½ =ï¿½ "Some x' are y"ï¿½ =ï¿½ "Some y are x'" </s>
+<s> (4) "Some x'y' exist"ï¿½ =ï¿½ "Some x' are y'"ï¿½ =ï¿½ "Some y' are x'" </s>
 <s> Let us take, next, the Proposition "No x are y" </s>
 <s> This tell us that no Thing, in the _North_ Half, is also in the _West_ Half </s>
 <s> Hence there is _nothing_ in the space _common_ to them, that is, in the _North-West Cell_ </s>
@@ -600,10 +599,10 @@
 <s> Hence these three Propositions are equivalent </s>
 <s> [In the "books" example, these Propositions would be (1) "No old English books exist; (2) No old books are English; (3) No English books are old".] The two equivalent Propositions, "No x are y" and "No y are x", are said to be 'Converse' to each other </s>
 <s> [For example, if we were told to convert the Proposition "No porcupines are talkative", we should first choose our Univ </s>
-<s> (say "animals"), and then complete the Proposition, by supplying the Substantive "animals" in the Predicate, so that it would be "No porcupines are talkative animals", and we should then convert it, by interchanging its Terms, so that it would be "No talkative animals are porcupines".] Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of _four_ Trios being as follows:-- (1) "No xy exist"Â =Â "No x are y"Â =Â "No y are x" </s>
-<s> (2) "No xy' exist"Â =Â "No x are y'"Â =Â "No y' are x" </s>
-<s> (3) "No x'y exist"Â =Â "No x' are y"Â =Â "No y are x'" </s>
-<s> (4) "No x'y' exist"Â =Â "No x' are y'"Â =Â "No y' are x'" </s>
+<s> (say "animals"), and then complete the Proposition, by supplying the Substantive "animals" in the Predicate, so that it would be "No porcupines are talkative animals", and we should then convert it, by interchanging its Terms, so that it would be "No talkative animals are porcupines".] Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of _four_ Trios being as follows:-- (1) "No xy exist"ï¿½ =ï¿½ "No x are y"ï¿½ =ï¿½ "No y are x" </s>
+<s> (2) "No xy' exist"ï¿½ =ï¿½ "No x are y'"ï¿½ =ï¿½ "No y' are x" </s>
+<s> (3) "No x'y exist"ï¿½ =ï¿½ "No x' are y"ï¿½ =ï¿½ "No y are x'" </s>
+<s> (4) "No x'y' exist"ï¿½ =ï¿½ "No x' are y'"ï¿½ =ï¿½ "No y' are x'" </s>
 <s> Let us take, next, the Proposition "All x are y" </s>
 <s> We know (see p </s>
 <s> 17) that this is a _Double_ Proposition, and equivalent to the _two_ Propositions "Some x are y" and "No x are y'", each of which we already know how to represent </s>
@@ -616,14 +615,14 @@
 <s> "Some y exist", "No y' are x", "All x are y", &c </s>
 <s> &c </s>
 <s> pg035 TABLE III </s>
-<s> Â·-------------------------------------------------------------Â· | | Â·-------Â· | | Â·-------Â· | | Some xy exist | |(.)| | | | |(.)|( )| | | Â =Â Some x are y | |---|---| | All x are y | |---|---| | | Â =Â Some y are x | | | | | | | | | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | Some xy' exist | | |(.)| | | |( )|(.)| | | Â =Â Some x are y' | |---|---| | All x are y' | |---|---| | | Â =Â Some y' are x | | | | | | | | | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | Some x'y exist | | | | | | | | | | | Â =Â Some x' are y | |---|---| | All x' are y | |---|---| | | Â =Â Some y are x' | |(.)| | | | |(.)|( )| | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | Some x'y' exist | | | | | | | | | | | Â =Â Some x' are y'| |---|---| | All x' are y' | |---|---| | | Â =Â Some y' are x'| | |(.)| | | |( )|(.)| | | | Â·-------Â· | | Â·-------Â· | Â·-------------------------------------------------------------Â· Â·-------------------------------------------------------------Â· | | Â·-------Â· | | Â·-------Â· | | No xy exist | |( )| | | | |(.)| | | | Â =Â No x are y | |---|---| | All y are x | |---|---| | | Â =Â No y are x | | | | | | |( )| | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | No xy' exist | | |( )| | | |( )| | | | Â =Â No x are y' | |---|---| | All y are x' | |---|---| | | Â =Â No y' are x | | | | | | |(.)| | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | No x'y exist | | | | | | | |(.)| | | Â =Â No x' are y | |---|---| | All y' are x | |---|---| | | Â =Â No y are x' | |( )| | | | | |( )| | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | No x'y' exist | | | | | | | |( )| | | Â =Â No x' are y' | |---|---| | All y' are x' | |---|---| | | Â =Â No y' are x' | | |( )| | | | |(.)| | | | Â·-------Â· | | Â·-------Â· | Â·-------------------------------------------------------------Â· Â·-------------------------------------------------------------Â· | | Â·-------Â· | | Â·-------Â· | | | |(.)|(.)| | | |(.)| | | | Some x are y, | |---|---| | Some y are x | |---|---| | | and some are y' | | | | | and some are x' | |(.)| | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | | | | | | | | |(.)| | | Some x' are y, | |---|---| | Some y' are x | |---|---| | | and some are y' | |(.)|(.)| | and some are x' | | |(.)| | | | Â·-------Â· | | Â·-------Â· | Â·-------------------------------------------------------------Â· pg036 CHAPTER IV </s>
+<s> Â·-------------------------------------------------------------Â· | | Â·-------Â· | | Â·-------Â· | | Some xy exist | |(.)| | | | |(.)|( )| | | ï¿½ =ï¿½ Some x are y | |---|---| | All x are y | |---|---| | | ï¿½ =ï¿½ Some y are x | | | | | | | | | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | Some xy' exist | | |(.)| | | |( )|(.)| | | ï¿½ =ï¿½ Some x are y' | |---|---| | All x are y' | |---|---| | | ï¿½ =ï¿½ Some y' are x | | | | | | | | | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | Some x'y exist | | | | | | | | | | | ï¿½ =ï¿½ Some x' are y | |---|---| | All x' are y | |---|---| | | ï¿½ =ï¿½ Some y are x' | |(.)| | | | |(.)|( )| | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | Some x'y' exist | | | | | | | | | | | ï¿½ =ï¿½ Some x' are y'| |---|---| | All x' are y' | |---|---| | | ï¿½ =ï¿½ Some y' are x'| | |(.)| | | |( )|(.)| | | | Â·-------Â· | | Â·-------Â· | Â·-------------------------------------------------------------Â· Â·-------------------------------------------------------------Â· | | Â·-------Â· | | Â·-------Â· | | No xy exist | |( )| | | | |(.)| | | | ï¿½ =ï¿½ No x are y | |---|---| | All y are x | |---|---| | | ï¿½ =ï¿½ No y are x | | | | | | |( )| | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | No xy' exist | | |( )| | | |( )| | | | ï¿½ =ï¿½ No x are y' | |---|---| | All y are x' | |---|---| | | ï¿½ =ï¿½ No y' are x | | | | | | |(.)| | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | No x'y exist | | | | | | | |(.)| | | ï¿½ =ï¿½ No x' are y | |---|---| | All y' are x | |---|---| | | ï¿½ =ï¿½ No y are x' | |( )| | | | | |( )| | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | No x'y' exist | | | | | | | |( )| | | ï¿½ =ï¿½ No x' are y' | |---|---| | All y' are x' | |---|---| | | ï¿½ =ï¿½ No y' are x' | | |( )| | | | |(.)| | | | Â·-------Â· | | Â·-------Â· | Â·-------------------------------------------------------------Â· Â·-------------------------------------------------------------Â· | | Â·-------Â· | | Â·-------Â· | | | |(.)|(.)| | | |(.)| | | | Some x are y, | |---|---| | Some y are x | |---|---| | | and some are y' | | | | | and some are x' | |(.)| | | | | Â·-------Â· | | Â·-------Â· | |------------------|-----------|------------------|-----------| | | Â·-------Â· | | Â·-------Â· | | | | | | | | | |(.)| | | Some x' are y, | |---|---| | Some y' are x | |---|---| | | and some are y' | |(.)|(.)| | and some are x' | | |(.)| | | | Â·-------Â· | | Â·-------Â· | Â·-------------------------------------------------------------Â· pg036 CHAPTER IV </s>
 <s> _INTERPRETATION OF BILITERAL DIAGRAM WHEN MARKED WITH COUNTERS._ The Diagram is supposed to be set before us, with certain Counters placed upon it; and the problem is to find out what Proposition, or Propositions, the Counters represent </s>
 <s> As the process is simply the reverse of that discussed in the previous Chapter, we can avail ourselves of the results there obtained, as far as they go </s>
 <s> First, let us suppose that we find a _Red_ Counter placed in the North-West Cell </s>
-<s> Â·-------Â· |(.)| | |---|---| | | | Â·-------Â· We know that this represents each of the Trio of equivalent Propositions "Some xy exist"Â =Â "Some x are y"Â =Â "Some y are x" </s>
+<s> Â·-------Â· |(.)| | |---|---| | | | Â·-------Â· We know that this represents each of the Trio of equivalent Propositions "Some xy exist"ï¿½ =ï¿½ "Some x are y"ï¿½ =ï¿½ "Some y are x" </s>
 <s> Similarly we may interpret a _Red_ Counter, when placed in the North-East, or South-West, or South-East Cell </s>
 <s> Next, let us suppose that we find a _Grey_ Counter placed in the North-West Cell </s>
-<s> Â·-------Â· |( )| | |---|---| | | | Â·-------Â· We know that this represents each of the Trio of equivalent Propositions "No xy exist"Â =Â "No x are y"Â =Â "No y are x" </s>
+<s> Â·-------Â· |( )| | |---|---| | | | Â·-------Â· We know that this represents each of the Trio of equivalent Propositions "No xy exist"ï¿½ =ï¿½ "No x are y"ï¿½ =ï¿½ "No y are x" </s>
 <s> Similarly we may interpret a _Grey_ Counter, when placed in the North-East, or South-West, or South-East Cell </s>
 <s> pg037 Next, let us suppose that we find a _Red_ Counter placed on the partition which divides the North Half </s>
 <s> Â·-------Â· | (.) | |---|---| | | | Â·-------Â· We know that this represents the Proposition "Some x exist" </s>
@@ -657,7 +656,7 @@
 <s> Interpret Grey Counter in S.W </s>
 <s> Cell </s>
 <s> A </s>
-<s> "No x'y exist"Â =Â "No x' are y"Â =Â "No y are x'" </s>
+<s> "No x'y exist"ï¿½ =ï¿½ "No x' are y"ï¿½ =ï¿½ "No y are x'" </s>
 <s> &c., &c </s>
 <s> At first the Examinee will need to have the Board and Counters before him; but he will soon learn to dispense with these, and to answer with his eyes shut or gazing into vacancy </s>
 <s> [Work Examples Â§ =1=, 5-8 (p </s>
@@ -734,10 +733,10 @@
 <s> "No xm' exist", "No x'm exist", &c </s>
 <s> * * * * * These sixteen Propositions of Existence are the only ones that we shall have to represent on this Diagram </s>
 <s> Â§ 2 </s>
-<s> _Representation of Propositions of Relation in terms of x and m, or of y and m._ Let us take, first, the Pair of Converse Propositions "Some x are m"Â =Â "Some m are x" </s>
+<s> _Representation of Propositions of Relation in terms of x and m, or of y and m._ Let us take, first, the Pair of Converse Propositions "Some x are m"ï¿½ =ï¿½ "Some m are x" </s>
 <s> We know that each of these is equivalent to the Proposition of Existence "Some xm exist", which we already know how to represent </s>
 <s> Â·---------------Â· | | | | Â·---|---Â· | | | (.) | | |---|---|---|---| | | | | | | Â·---|---Â· | | | | Â·---------------Â· Similarly for the seven similar Pairs, in terms of x and m, or of y and m </s>
-<s> Let us take, next, the Pair of Converse Propositions "No x are m"Â =Â "No m are x" </s>
+<s> Let us take, next, the Pair of Converse Propositions "No x are m"ï¿½ =ï¿½ "No m are x" </s>
 <s> We know that each of these is equivalent to the Proposition of Existence "No xm exist", which we already know how to represent </s>
 <s> Â·---------------Â· | | | | Â·---|---Â· | | |( )|( )| | |---|---|---|---| | | | | | | Â·---|---Â· | | | | Â·---------------Â· Similarly for the seven similar Pairs, in terms of x and m, or of y and m </s>
 <s> pg045 Let us take, next, the Proposition "All x are m" </s>
@@ -748,8 +747,8 @@
 <s> The Reader should now get his genial friend to question him on the following four Tables </s>
 <s> The Victim should have nothing before him but a blank Triliteral Diagram, a Red Counter, and 2 Grey ones, with which he is to represent the various Propositions named by the Inquisitor, _e.g._ "No y' are m", "Some xm' exist", &c., &c </s>
 <s> pg046 TABLE V </s>
-<s> Â·---------------------------------------------------------Â· | Â·---------------Â· Some xm exist | Â·---------------Â· | | | | | Â =Â Some x are m | | | | | | | Â·---|---Â· | Â =Â Some m are x | | Â·---|---Â· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No xm exist | | | | | | | | Â·---|---Â· | | Â =Â No x are m | Â·---|---Â· | | | | | | | Â =Â No m are x | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some xm' exist | Â·---------------Â· | | | (.) | Â =Â Some x are m' | |( ) | ( )| | | | Â·---|---Â· | Â =Â Some m' are x | | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No xm' exist | | | | | | | | Â·---|---Â· | | Â =Â No x are m' | Â·---|---Â· | | | | | | | Â =Â No m' are x | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some x'm exist | Â·---------------Â· | | | | | Â =Â Some x' are m | | | | | | | Â·---|---Â· | Â =Â Some m are x' | | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | (.) | | | No x'm exist | |( )|( )| | | | | Â·---|---Â· | | Â =Â No x' are m | Â·---|---Â· | | | | | | | Â =Â No m are x' | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some x'm' exist | Â·---------------Â· | | | | | Â =Â Some x' are m'| | | | | | | Â·---|---Â· | Â =Â Some m' are x'| | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No x'm' exist | | | | | | | | Â·---|---Â· | | Â =Â No x' are m' | Â·---|---Â· | | | | (.) | | Â =Â No m' are x' |( ) | ( )| | | Â·---------------Â· | Â·---------------Â· | Â·---------------------------------------------------------Â· pg047 TABLE VI </s>
-<s> Â·---------------------------------------------------------Â· | Â·---------------Â· Some ym exist | Â·---------------Â· | | | | | Â =Â Some y are m | | | | | | | Â·---|---Â· | Â =Â Some m are y | | Â·---|---Â· | | | | | | | | | | |( )| | | | | |---|(.)|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No ym exist | |( )| | | | | | Â·---|---Â· | | Â =Â No y are m | Â·---|---Â· | | | | | | | Â =Â No m are y | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some ym' exist | Â·---------------Â· | | | | | Â =Â Some y are m' | |( ) | | | | | Â·---|---Â· | Â =Â Some m' are y | | Â·---|---Â· | | | | | | | | | | | | | | | | |(.)|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No ym' exist | | | | | | | | Â·---|---Â· | | Â =Â No y are m' | Â·---|---Â· | | | | | | | Â =Â No m' are y |( ) | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some y'm exist | Â·---------------Â· | | | | | Â =Â Some y' are m | | | | | | | Â·---|---Â· | Â =Â Some m are y' | | Â·---|---Â· | | | | | | | | | | | |( )| | | | |---|---|(.)|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No y'm exist | | |( )| | | | | Â·---|---Â· | | Â =Â No y' are m | Â·---|---Â· | | | | | | | Â =Â No m are y' | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some y'm' exist | Â·---------------Â· | | | | | Â =Â Some y' are m'| | | ( )| | | | Â·---|---Â· | Â =Â Some m' are y'| | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|(.)| Â·-----------------Â· |---|---|---|---| | | | | | | | | No y'm' exist | | | | | | | | Â·---|---Â· | | Â =Â No y' are m' | Â·---|---Â· | | | | | | | Â =Â No m' are y' | | ( )| | | Â·---------------Â· | Â·---------------Â· | Â·---------------------------------------------------------Â· pg048 TABLE VII </s>
+<s> Â·---------------------------------------------------------Â· | Â·---------------Â· Some xm exist | Â·---------------Â· | | | | | ï¿½ =ï¿½ Some x are m | | | | | | | Â·---|---Â· | ï¿½ =ï¿½ Some m are x | | Â·---|---Â· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No xm exist | | | | | | | | Â·---|---Â· | | ï¿½ =ï¿½ No x are m | Â·---|---Â· | | | | | | | ï¿½ =ï¿½ No m are x | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some xm' exist | Â·---------------Â· | | | (.) | ï¿½ =ï¿½ Some x are m' | |( ) | ( )| | | | Â·---|---Â· | ï¿½ =ï¿½ Some m' are x | | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No xm' exist | | | | | | | | Â·---|---Â· | | ï¿½ =ï¿½ No x are m' | Â·---|---Â· | | | | | | | ï¿½ =ï¿½ No m' are x | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some x'm exist | Â·---------------Â· | | | | | ï¿½ =ï¿½ Some x' are m | | | | | | | Â·---|---Â· | ï¿½ =ï¿½ Some m are x' | | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | (.) | | | No x'm exist | |( )|( )| | | | | Â·---|---Â· | | ï¿½ =ï¿½ No x' are m | Â·---|---Â· | | | | | | | ï¿½ =ï¿½ No m are x' | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some x'm' exist | Â·---------------Â· | | | | | ï¿½ =ï¿½ Some x' are m'| | | | | | | Â·---|---Â· | ï¿½ =ï¿½ Some m' are x'| | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No x'm' exist | | | | | | | | Â·---|---Â· | | ï¿½ =ï¿½ No x' are m' | Â·---|---Â· | | | | (.) | | ï¿½ =ï¿½ No m' are x' |( ) | ( )| | | Â·---------------Â· | Â·---------------Â· | Â·---------------------------------------------------------Â· pg047 TABLE VI </s>
+<s> Â·---------------------------------------------------------Â· | Â·---------------Â· Some ym exist | Â·---------------Â· | | | | | ï¿½ =ï¿½ Some y are m | | | | | | | Â·---|---Â· | ï¿½ =ï¿½ Some m are y | | Â·---|---Â· | | | | | | | | | | |( )| | | | | |---|(.)|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No ym exist | |( )| | | | | | Â·---|---Â· | | ï¿½ =ï¿½ No y are m | Â·---|---Â· | | | | | | | ï¿½ =ï¿½ No m are y | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some ym' exist | Â·---------------Â· | | | | | ï¿½ =ï¿½ Some y are m' | |( ) | | | | | Â·---|---Â· | ï¿½ =ï¿½ Some m' are y | | Â·---|---Â· | | | | | | | | | | | | | | | | |(.)|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No ym' exist | | | | | | | | Â·---|---Â· | | ï¿½ =ï¿½ No y are m' | Â·---|---Â· | | | | | | | ï¿½ =ï¿½ No m' are y |( ) | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some y'm exist | Â·---------------Â· | | | | | ï¿½ =ï¿½ Some y' are m | | | | | | | Â·---|---Â· | ï¿½ =ï¿½ Some m are y' | | Â·---|---Â· | | | | | | | | | | | |( )| | | | |---|---|(.)|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | No y'm exist | | |( )| | | | | Â·---|---Â· | | ï¿½ =ï¿½ No y' are m | Â·---|---Â· | | | | | | | ï¿½ =ï¿½ No m are y' | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· Some y'm' exist | Â·---------------Â· | | | | | ï¿½ =ï¿½ Some y' are m'| | | ( )| | | | Â·---|---Â· | ï¿½ =ï¿½ Some m' are y'| | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|(.)| Â·-----------------Â· |---|---|---|---| | | | | | | | | No y'm' exist | | | | | | | | Â·---|---Â· | | ï¿½ =ï¿½ No y' are m' | Â·---|---Â· | | | | | | | ï¿½ =ï¿½ No m' are y' | | ( )| | | Â·---------------Â· | Â·---------------Â· | Â·---------------------------------------------------------Â· pg048 TABLE VII </s>
 <s> Â·---------------------------------------------------------Â· | Â·---------------Â· | Â·---------------Â· | | |( ) | ( )| All x are m | | (.) | | | | Â·---|---Â· | | | Â·---|---Â· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | | | | | | | | | Â·---|---Â· | | All x are m' | Â·---|---Â· | | | | | | | | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· | Â·---------------Â· | | | | | All x' are m | | | | | | | Â·---|---Â· | | | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | (.) | | | | |( )|( )| | | | | Â·---|---Â· | | All x' are m' | Â·---|---Â· | | | |( ) | ( )| | | (.) | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· | Â·---------------Â· | | | | | All m are x | | | | | | | Â·---|---Â· | | | Â·---|---Â· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | |( )|( )| | | | | (.) | | | | | Â·---|---Â· | | All m are x' | Â·---|---Â· | | | | | | | | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· | Â·---------------Â· | | | (.) | All m' are x | |( ) | ( )| | | | Â·---|---Â· | | | Â·---|---Â· | | | | | | | | | | | | | | | | |---|---|---|---| Â·-----------------Â· |---|---|---|---| | | | | | | | | | | | | | | | | Â·---|---Â· | | All m' are x' | Â·---|---Â· | | | |( ) | ( )| | | (.) | | | Â·---------------Â· | Â·---------------Â· | Â·---------------------------------------------------------Â· pg049 TABLE VIII </s>
 <s> Â·---------------------------------------------------------Â· | Â·---------------Â· | Â·---------------Â· | | |( ) | | All y are m | | | | | | | Â·---|---Â· | | | Â·---|---Â· | | | | | | | | | | |( )| | | | | |---|(.)|---|---| Â·-----------------Â· |(.)|---|---|---| | | | | | | | | | |( )| | | | | | Â·---|---Â· | | All y are m' | Â·---|---Â· | | | |( ) | | | | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· | Â·---------------Â· | | | | ( )| All y' are m | | | | | | | Â·---|---Â· | | | Â·---|---Â· | | | | | | | | | | | |( )| | | | |---|---|(.)|---| Â·-----------------Â· |---|---|---|(.)| | | | | | | | | | | |( )| | | | | Â·---|---Â· | | All y' are m' | Â·---|---Â· | | | | | ( )| | | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· | Â·---------------Â· | | | | | All m are y | | | | | | | Â·---|---Â· | | | Â·---|---Â· | | | | | |( )| | | | |( )| | | | | |---|(.)|---|---| Â·-----------------Â· |---|---|(.)|---| | | | | |( )| | | | |( )| | | | | | Â·---|---Â· | | All m are y' | Â·---|---Â· | | | | | | | | | | | | Â·---------------Â· | Â·---------------Â· | |---------------------------------------------------------| | Â·---------------Â· | Â·---------------Â· | | | | ( )| All m' are y | |( ) | | | | | Â·---|---Â· | | | Â·---|---Â· | | | | | | | | | | | | | | | | |(.)|---|---|---| Â·-----------------Â· |---|---|---|(.)| | | | | | | | | | | | | | | | | Â·---|---Â· | | All m' are y' | Â·---|---Â· | | | | | ( )| | |( ) | | | | Â·---------------Â· | Â·---------------Â· | Â·---------------------------------------------------------Â· pg050 CHAPTER III </s>
 <s> _REPRESENTATION OF TWO PROPOSITIONS OF RELATION, ONE IN TERMS OF x AND m, AND THE OTHER IN TERMS OF y AND m, ON THE SAME DIAGRAM._ The Reader had better now begin to draw little Diagrams for himself, and to mark them with the Digits "I" and "O", instead of using the Board and Counters: he may put a "I" to represent a _Red_ Counter (this may be interpreted to mean "There is at least _one_ Thing here"), and a "O" to represent a _Grey_ Counter (this may be interpreted to mean "There is _nothing_ here") </s>
@@ -905,7 +904,7 @@
 <s> Then the Proposition may be written "Some military men are brave men"; _i.e._ "Some x-men are y-men"; _i.e._ (omitting "men," as explained at p </s>
 <s> 26) "Some x are y" </s>
 <s> In practice, we should merely say "Let Univ </s>
-<s> be "men", xÂ =Â soldiers, yÂ =Â brave", and at once translate "Some soldiers are brave" into "Some x are y".] The Problems we shall have to solve are of two kinds, viz </s>
+<s> be "men", xï¿½ =ï¿½ soldiers, yï¿½ =ï¿½ brave", and at once translate "Some soldiers are brave" into "Some x are y".] The Problems we shall have to solve are of two kinds, viz </s>
 <s> (1) "Given a Pair of Propositions of Relation, which contain between them a pair of codivisional Classes, and which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them" </s>
 <s> (2) "Given a Trio of Propositions of Relation, of which every two contain a pair of codivisional Classes, and which are proposed as a Syllogism: to ascertain whether the proposed Conclusion is consequent from the proposed Premisses, and, if so, whether it is _complete_" </s>
 <s> These Problems we will discuss separately </s>
@@ -922,8 +921,8 @@
 <s> (1) "No son of mine is dishonest; People always treat an honest man with respect" </s>
 <s> Taking "men" as Univ., we may write these as follows:-- "No sons of mine are dishonest men; All honest men are men treated with respect" </s>
 <s> We can now construct our Dictionary, viz </s>
-<s> mÂ =Â honest; xÂ =Â sons of mine; yÂ =Â treated with respect </s>
-<s> (Note that the expression "xÂ =Â sons of mine" is an abbreviated form of "xÂ =Â the Differentia of 'sons of mine', when regarded as a Species of 'men'".) The next thing is to translate the proposed Premisses into abstract form, as follows:-- "No x are m'; All m are y" </s>
+<s> mï¿½ =ï¿½ honest; xï¿½ =ï¿½ sons of mine; yï¿½ =ï¿½ treated with respect </s>
+<s> (Note that the expression "xï¿½ =ï¿½ sons of mine" is an abbreviated form of "xï¿½ =ï¿½ the Differentia of 'sons of mine', when regarded as a Species of 'men'".) The next thing is to translate the proposed Premisses into abstract form, as follows:-- "No x are m'; All m are y" </s>
 <s> pg061 Next, by the process described at p </s>
 <s> 50, we represent these on a Triliteral Diagram, thus:-- Â·---------------Â· |(O) | (O)| | Â·---|---Â· | | | |(O)| | |---|(I)|---|---| | | |(O)| | | Â·---|---Â· | | | | Â·---------------Â· Next, by the process described at p </s>
 <s> 53, we transfer to a Biliteral Diagram all the information we can </s>
@@ -932,7 +931,7 @@
 <s> (2) "All cats understand French; Some chickens are cats" </s>
 <s> Taking "creatures" as Univ., we write these as follows:-- "All cats are creatures understanding French; Some chickens are cats" </s>
 <s> We can now construct our Dictionary, viz </s>
-<s> mÂ =Â cats; xÂ =Â understanding French; yÂ =Â chickens </s>
+<s> mï¿½ =ï¿½ cats; xï¿½ =ï¿½ understanding French; yï¿½ =ï¿½ chickens </s>
 <s> The proposed Premisses, translated into abstract form, are "All m are x; Some y are m" </s>
 <s> In order to represent these on a Triliteral Diagram, we break up the first into the two Propositions to which it is equivalent, and thus get the _three_ Propositions (1) "Some m are x; (2) No m are x'; (3) Some y are m" </s>
 <s> The Rule, given at p </s>
@@ -945,7 +944,7 @@
 <s> After consulting our Dictionary, we choose "Some y are x", which, translated into concrete form, is "Some chickens understand French" </s>
 <s> (3) "All diligent students are successful; All ignorant students are unsuccessful" </s>
 <s> Let Univ </s>
-<s> be "students"; mÂ =Â successful; xÂ =Â diligent; yÂ =Â ignorant </s>
+<s> be "students"; mï¿½ =ï¿½ successful; xï¿½ =ï¿½ diligent; yï¿½ =ï¿½ ignorant </s>
 <s> These Premisses, in abstract form, are "All x are m; All y are m'" </s>
 <s> These, broken up, give us the four Propositions (1) "Some x are m; (2) No x are m'; (3) Some y are m'; (4) No y are m" </s>
 <s> which we will take in the order 2, 4, 1, 3 </s>
@@ -955,7 +954,7 @@
 <s> (See p </s>
 <s> 4.) (4) "Of the prisoners who were put on their trial at the last Assizes, all, against whom the verdict 'guilty' was returned, were sentenced to imprisonment; Some, who were sentenced to imprisonment, were also sentenced to hard labour" </s>
 <s> Let Univ </s>
-<s> be "the prisoners who were put on their trial at the last Assizes"; mÂ =Â who were sentenced to imprisonment; xÂ =Â against whom the verdict 'guilty' was returned; yÂ =Â who were sentenced to hard labour </s>
+<s> be "the prisoners who were put on their trial at the last Assizes"; mï¿½ =ï¿½ who were sentenced to imprisonment; xï¿½ =ï¿½ against whom the verdict 'guilty' was returned; yï¿½ =ï¿½ who were sentenced to hard labour </s>
 <s> The Premisses, translated into abstract form, are "All x are m; Some m are y" </s>
 <s> Breaking up the first, we get the three (1) "Some x are m; (2) No x are m'; (3) Some m are y" </s>
 <s> Representing these, in the order 2, 1, 3, on a Triliteral Diagram, we get Â·---------------Â· |(O) | (O)| | Â·---|---Â· | | | (I) | | |---|(I)|---|---| | | | | | | Â·---|---Â· | | | | Â·---------------Â· Here we get no Conclusion at all </s>
@@ -971,7 +970,7 @@
 <s> pg064 (1) [see p </s>
 <s> 60] "No son of mine is dishonest; People always treat an honest man with respect" </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â honest; xÂ =Â my sons; yÂ =Â treated with respect </s>
+<s> "men"; mï¿½ =ï¿½ honest; xï¿½ =ï¿½ my sons; yï¿½ =ï¿½ treated with respect </s>
 <s> Â·---------------Â· Â·-------Â· "No x are m'; |(O) | (O)| | |(O)| All m are y" </s>
 <s> | Â·---|---Â· | |---|---| | | |(O)| | | | | |---|(I)|---|---| Â·-------Â· | | |(O)| | | Â·---|---Â· | '. </s>
 <s> "No x are y'" </s>
@@ -980,7 +979,7 @@
 <s> (2) [see p </s>
 <s> 61] "All cats understand French; Some chickens are cats" </s>
 <s> Univ </s>
-<s> "creatures"; mÂ =Â cats; xÂ =Â understanding French; yÂ =Â chickens </s>
+<s> "creatures"; mï¿½ =ï¿½ cats; xï¿½ =ï¿½ understanding French; yï¿½ =ï¿½ chickens </s>
 <s> Â·---------------Â· Â·-------Â· "All m are x; | | | |(I)| | Some y are m" </s>
 <s> | Â·---|---Â· | |---|---| | |(I)| | | | | | |---|---|---|---| Â·-------Â· | |(O)|(O)| | | Â·---|---Â· | '. </s>
 <s> "Some y are x" </s>
@@ -989,7 +988,7 @@
 <s> (3) [see p </s>
 <s> 62] "All diligent students are successful; All ignorant students are unsuccessful" </s>
 <s> Univ </s>
-<s> "students"; mÂ =Â successful; xÂ =Â diligent; yÂ =Â ignorant </s>
+<s> "students"; mï¿½ =ï¿½ successful; xï¿½ =ï¿½ diligent; yï¿½ =ï¿½ ignorant </s>
 <s> Â·---------------Â· Â·-------Â· "All x are m; |(O) | (O)| |(O)|(I)| All y are m'" </s>
 <s> | Â·---|---Â· | |---|---| | |(O)|(I)| | |(I)| | |---|---|---|---| Â·-------Â· | |(O)| | | | Â·---|---Â· | '. </s>
 <s> "All x are y'; |(I) | | All y are x'" </s>
@@ -998,7 +997,7 @@
 <s> pg065 (4) [see p </s>
 <s> 63] "Of the prisoners who were put on their trial at the last Assizes, all, against whom the verdict 'guilty' was returned, were sentenced to imprisonment; Some, who were sentenced to imprisonment, were also sentenced to hard labour" </s>
 <s> Univ </s>
-<s> "prisoners who were put on their trial at the last Assizes", mÂ =Â sentenced to imprisonment; xÂ =Â against whom the verdict 'guilty' was returned; yÂ =Â sentenced to hard labour </s>
+<s> "prisoners who were put on their trial at the last Assizes", mï¿½ =ï¿½ sentenced to imprisonment; xï¿½ =ï¿½ against whom the verdict 'guilty' was returned; yï¿½ =ï¿½ sentenced to hard labour </s>
 <s> Â·---------------Â· "All x are m; |(O) | (O)| Some m are y" </s>
 <s> | Â·---|---Â· | | | (I) | | |---|(I)|---|---| | | | | | | Â·---|---Â· | There is no | | | Conclusion </s>
 <s> Â·---------------Â· [Review Tables VII, VIII (pp </s>
@@ -1015,7 +1014,7 @@
 <s> (1) "All soldiers are strong; All soldiers are brave </s>
 <s> Some strong men are brave" </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â soldiers; xÂ =Â strong; yÂ =Â brave </s>
+<s> "men"; mï¿½ =ï¿½ soldiers; xï¿½ =ï¿½ strong; yï¿½ =ï¿½ brave </s>
 <s> pg067 Â·---------------Â· Â·-------Â· "All m are x; | | | |(I)| | All m are y </s>
 <s> | Â·---|---Â· | |---|---| Some x are y" </s>
 <s> | |(I)|(O)| | | | | |---|---|---|---| Â·-------Â· | |(O)|(O)| | | Â·---|---Â· | '. </s>
@@ -1024,7 +1023,7 @@
 <s> (2) "I admire these pictures; When I admire anything I wish to examine it thoroughly </s>
 <s> I wish to examine some of these pictures thoroughly" </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â admired by me; xÂ =Â these pictures; yÂ =Â things which I wish to examine thoroughly </s>
+<s> "things"; mï¿½ =ï¿½ admired by me; xï¿½ =ï¿½ these pictures; yï¿½ =ï¿½ things which I wish to examine thoroughly </s>
 <s> Â·---------------Â· Â·-------Â· "All x are m; |(O) | (O)| |(I)|(O)| All m are y </s>
 <s> | Â·---|---Â· | |---|---| Some x are y" </s>
 <s> | |(I)|(O)| | | | | |---|---|---|---| Â·-------Â· | | |(O)| | | Â·---|---Â· | '. </s>
@@ -1033,7 +1032,7 @@
 <s> (3) "None but the brave deserve the fair; Some braggarts are cowards </s>
 <s> Some braggarts do not deserve the fair" </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â brave; xÂ =Â deserving of the fair; yÂ =Â braggarts </s>
+<s> "persons"; mï¿½ =ï¿½ brave; xï¿½ =ï¿½ deserving of the fair; yï¿½ =ï¿½ braggarts </s>
 <s> Â·---------------Â· Â·-------Â· "No m' are x; |(O) | (O)| | | | Some y are m' </s>
 <s> | Â·---|---Â· | |---|---| Some y are x'" </s>
 <s> | | | | | |(I)| | |---|---|---|---| Â·-------Â· | | | | | | Â·---|---Â· | '. </s>
@@ -1042,14 +1041,14 @@
 <s> pg068 (4) "All soldiers can march; Some babies are not soldiers </s>
 <s> Some babies cannot march" </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â soldiers; xÂ =Â able to march; yÂ =Â babies </s>
+<s> "persons"; mï¿½ =ï¿½ soldiers; xï¿½ =ï¿½ able to march; yï¿½ =ï¿½ babies </s>
 <s> Â·---------------Â· "All m are x; | | | Some y are m' </s>
 <s> | Â·---|---Â· | Some y are x'" </s>
 <s> | | (I) | | |(I)|---|---|---| | |(O)|(O)| | | Â·---|---Â· | There is no | | | Conclusion </s>
 <s> Â·---------------Â· (5) "All selfish men are unpopular; All obliging men are popular </s>
 <s> All obliging men are unselfish" </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â popular; xÂ =Â selfish; yÂ =Â obliging </s>
+<s> "men"; mï¿½ =ï¿½ popular; xï¿½ =ï¿½ selfish; yï¿½ =ï¿½ obliging </s>
 <s> Â·---------------Â· Â·-------Â· "All x are m'; |(O) | (I)| |(O)|(I)| All y are m </s>
 <s> | Â·---|---Â· | |---|---| All y are x'" </s>
 <s> | |(O)|(O)| | |(I)| | |---|---|---|---| Â·-------Â· | |(I)| | | | Â·---|---Â· | '. </s>
@@ -1058,7 +1057,7 @@
 <s> (6) "No one, who means to go by the train and cannot get a conveyance, and has not enough time to walk to the station, can do without running; This party of tourists mean to go by the train and cannot get a conveyance, but they have plenty of time to walk to the station </s>
 <s> This party of tourists need not run" </s>
 <s> Univ </s>
-<s> "persons meaning to go by the train, and unable to get a conveyance"; mÂ =Â having enough time to walk to the station; xÂ =Â needing to run; yÂ =Â these tourists </s>
+<s> "persons meaning to go by the train, and unable to get a conveyance"; mï¿½ =ï¿½ having enough time to walk to the station; xï¿½ =ï¿½ needing to run; yï¿½ =ï¿½ these tourists </s>
 <s> pg069 Â·---------------Â· "No m' are x'; |(O) | | All y are m </s>
 <s> | Â·---|---Â· | All y are x'" </s>
 <s> | | | | | |---|(I)|---|---| | | | | | | Â·---|---Â· | There is no |(O) | (O)| Conclusion </s>
@@ -1096,14 +1095,14 @@
 <s> 31.) Hence it may be represented by the expression "xy_{1}" </s>
 <s> The Converse Proposition "Some y are x" may of course be represented by the _same_ expression, viz </s>
 <s> "xy_{1}" </s>
-<s> Similarly we may represent the three similar Pairs of Converse Propositions, viz.-- "Some x are y'" Â =Â "Some y' are x", "Some x' are y" Â =Â "Some y are x'", "Some x' are y'"Â =Â "Some y' are x'" </s>
+<s> Similarly we may represent the three similar Pairs of Converse Propositions, viz.-- "Some x are y'" ï¿½ =ï¿½ "Some y' are x", "Some x' are y" ï¿½ =ï¿½ "Some y are x'", "Some x' are y'"ï¿½ =ï¿½ "Some y' are x'" </s>
 <s> Let us take, next, the Proposition "No x are y" </s>
 <s> This, we know, is equivalent to the Proposition of Existence "No xy exist" </s>
 <s> (See p </s>
 <s> 33.) Hence it may be represented by the expression "xy_{0}" </s>
 <s> The Converse Proposition "No y are x" may of course be represented by the _same_ expression, viz </s>
 <s> "xy_{0}" </s>
-<s> Similarly we may represent the three similar Pairs of Converse Propositions, viz.-- "No x are y'" Â =Â "No y' are x", "No x' are y" Â =Â "No y are x'", "No x' are y'"Â =Â "No y' are x'" </s>
+<s> Similarly we may represent the three similar Pairs of Converse Propositions, viz.-- "No x are y'" ï¿½ =ï¿½ "No y' are x", "No x' are y" ï¿½ =ï¿½ "No y are x'", "No x' are y'"ï¿½ =ï¿½ "No y' are x'" </s>
 <s> pg072 Let us take, next, the Proposition "All x are y" </s>
 <s> Now it is evident that the Double Proposition of Existence "Some x exist and no xy' exist" tells us that _some_ x-Things exist, but that _none_ of them have the Attribute y': that is, it tells us that _all_ of them have the Attribute y: that is, it tells us that "All x are y" </s>
 <s> Also it is evident that the expression "x_{1} + xy'_{0}" represents this Double Proposition </s>
@@ -1129,7 +1128,7 @@
 <s> _FormulÃ¦ for solving Problems in Syllogisms._ When once we have found, by Diagrams, the Conclusion to a given Pair of Premisses, and have represented the Syllogism in subscript form, we have a _Formula_, by which we can at once find, without having to use Diagrams again, the Conclusion to any _other_ Pair of Premisses having the _same_ subscript forms </s>
 <s> [Thus, the expression xm_{0} + ym'_{0} Â¶ xy_{0} is a Formula, by which we can find the Conclusion to any Pair of Premisses whose subscript forms are xm_{0} + ym'_{0} For example, suppose we had the Pair of Propositions "No gluttons are healthy; No unhealthy men are strong" </s>
 <s> proposed as Premisses </s>
-<s> Taking "men" as our 'Universe', and making mÂ =Â healthy; xÂ =Â gluttons; yÂ =Â strong; we might translate the Pair into abstract form, thus:-- "No x are m; No m' are y" </s>
+<s> Taking "men" as our 'Universe', and making mï¿½ =ï¿½ healthy; xï¿½ =ï¿½ gluttons; yï¿½ =ï¿½ strong; we might translate the Pair into abstract form, thus:-- "No x are m; No m' are y" </s>
 <s> These, in subscript form, would be xm_{0} + m'y_{0} which are identical with those in our _Formula_ </s>
 <s> Hence we at once know the Conclusion to be xy_{0} that is, in abstract form, "No x are y"; that is, in concrete form, "No gluttons are strong".] I shall now take three different forms of Pairs of Premisses, and work out their Conclusions, once for all, by Diagrams; and thus obtain some useful FormulÃ¦ </s>
 <s> I shall call them "Fig </s>
@@ -1175,21 +1174,21 @@
 <s> (1) [see p </s>
 <s> 64] "No son of mine is dishonest; People always treat an honest man with respect" </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â honest; xÂ =Â my sons; yÂ =Â treated with respect </s>
+<s> "men"; mï¿½ =ï¿½ honest; xï¿½ =ï¿½ my sons; yï¿½ =ï¿½ treated with respect </s>
 <s> xm'_{0} + m_{1}y'_{0} Â¶ xy'_{0} [Fig </s>
 <s> I </s>
 <s> _i.e._ "No son of mine ever fails to be treated with respect" </s>
 <s> pg079 (2) [see p </s>
 <s> 64] "All cats understand French; Some chickens are cats" </s>
 <s> Univ </s>
-<s> "creatures"; mÂ =Â cats; xÂ =Â understanding French; yÂ =Â chickens </s>
+<s> "creatures"; mï¿½ =ï¿½ cats; xï¿½ =ï¿½ understanding French; yï¿½ =ï¿½ chickens </s>
 <s> m_{1}x'_{0} + ym_{1} Â¶ xy_{1} [Fig </s>
 <s> II </s>
 <s> _i.e._ "Some chickens understand French" </s>
 <s> (3) [see p </s>
 <s> 64] "All diligent students are successful; All ignorant students are unsuccessful" </s>
 <s> Univ </s>
-<s> "students"; mÂ =Â successful; xÂ =Â diligent; yÂ =Â ignorant </s>
+<s> "students"; mï¿½ =ï¿½ successful; xï¿½ =ï¿½ diligent; yï¿½ =ï¿½ ignorant </s>
 <s> x_{1}m'_{0} + y_{1}m_{0} Â¶ x_{1}y_{0} + y_{1}x_{0} [Fig </s>
 <s> I (b) </s>
 <s> _i.e._ "All diligent students are learned; and all ignorant students are idle" </s>
@@ -1197,7 +1196,7 @@
 <s> 66] "All soldiers are strong; All soldiers are brave </s>
 <s> Some strong men are brave" </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â soldiers; xÂ =Â strong; yÂ =Â brave </s>
+<s> "men"; mï¿½ =ï¿½ soldiers; xï¿½ =ï¿½ strong; yï¿½ =ï¿½ brave </s>
 <s> m_{1}x'_{0} + m_{1}y'_{0} Â¶ xy_{1} [Fig </s>
 <s> III </s>
 <s> Hence proposed Conclusion is right </s>
@@ -1205,7 +1204,7 @@
 <s> 67] "I admire these pictures; When I admire anything, I wish to examine it thoroughly </s>
 <s> I wish to examine some of these pictures thoroughly" </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â admired by me; xÂ =Â these; yÂ =Â things which I wish to examine thoroughly </s>
+<s> "things"; mï¿½ =ï¿½ admired by me; xï¿½ =ï¿½ these; yï¿½ =ï¿½ things which I wish to examine thoroughly </s>
 <s> x_{1}m'_{0} + m_{1}y'_{0} Â¶ x_{1}y'_{0} [Fig </s>
 <s> I (a) </s>
 <s> Hence proposed Conclusion, xy_{1}, is _incomplete_, the _complete_ one being "I wish to examine _all_ these pictures thoroughly" </s>
@@ -1213,7 +1212,7 @@
 <s> 67] "None but the brave deserve the fair; Some braggarts are cowards </s>
 <s> Some braggarts do not deserve the fair" </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â brave; xÂ =Â deserving of the fair; yÂ =Â braggarts </s>
+<s> "persons"; mï¿½ =ï¿½ brave; xï¿½ =ï¿½ deserving of the fair; yï¿½ =ï¿½ braggarts </s>
 <s> m'x_{0} + ym'_{1} Â¶ x'y_{1} [Fig </s>
 <s> II </s>
 <s> Hence proposed Conclusion is right </s>
@@ -1221,7 +1220,7 @@
 <s> 69] "No one, who means to go by the train and cannot get a conveyance, and has not enough time to walk to the station, can do without running; This party of tourists mean to go by the train and cannot get a conveyance, but they have plenty of time to walk to the station </s>
 <s> This party of tourists need not run" </s>
 <s> Univ </s>
-<s> "persons meaning to go by the train, and unable to get a conveyance"; mÂ =Â having enough time to walk to the station; xÂ =Â needing to run; yÂ =Â these tourists </s>
+<s> "persons meaning to go by the train, and unable to get a conveyance"; mï¿½ =ï¿½ having enough time to walk to the station; xï¿½ =ï¿½ needing to run; yï¿½ =ï¿½ these tourists </s>
 <s> m'x'_{0} + y_{1}m'_{0} do not come under any of the three Figures </s>
 <s> Hence it is necessary to return to the Method of Diagrams, as shown at p </s>
 <s> 69 </s>
@@ -1314,7 +1313,7 @@
 <s> (9) Put the last Conclusion, which is the Complete Conclusion of the Sorites, into concrete form </s>
 <s> [As an example of this process, let us take, as the proposed Set of Premisses, (1) "All the policemen on this beat sup with our cook; (2) No man with long hair can fail to be a poet; (3) Amos Judd has never been in prison; (4) Our cook's 'cousins' all love cold mutton; (5) None but policemen on this beat are poets; (6) None but her 'cousins' ever sup with our cook; (7) Men with short hair have all been in prison" </s>
 <s> Univ </s>
-<s> "men"; aÂ =Â Amos Judd; bÂ =Â cousins of our cook; cÂ =Â having been in prison; dÂ =Â long-haired; eÂ =Â loving cold mutton; hÂ =Â poets; kÂ =Â policemen on this beat; lÂ =Â supping with our cook pg089 We now have to put the proposed Premisses into _subscript_ form </s>
+<s> "men"; aï¿½ =ï¿½ Amos Judd; bï¿½ =ï¿½ cousins of our cook; cï¿½ =ï¿½ having been in prison; dï¿½ =ï¿½ long-haired; eï¿½ =ï¿½ loving cold mutton; hï¿½ =ï¿½ poets; kï¿½ =ï¿½ policemen on this beat; lï¿½ =ï¿½ supping with our cook pg089 We now have to put the proposed Premisses into _subscript_ form </s>
 <s> Let us begin by putting them into _abstract_ form </s>
 <s> The result is (1) "All k are l; (2) No d are h'; (3) All a are c'; (4) All b are e; (5) No k' are h; (6) No b' are l; (7) All d' are c" </s>
 <s> And it is now easy to put them into _subscript_ form, as follows:-- (1) k_{1}l'_{0} (2) dh'_{0} (3) a_{1}c_{0} (4) b_{1}e'_{0} (5) k'h_{0} (6) b'l_{0} (7) d'_{1}c'_{0} We now have to find a pair of Premisses which will yield a Conclusion </s>
@@ -1413,7 +1412,7 @@
 <s> If he fails to bring out the Conclusion a_{1}e'_{0}, I would advise him to take a third piece of paper, and _begin again_!] I will now work out, in its briefest form, a Sorites of 5 Premisses, to serve as a model for the Reader to imitate in working examples </s>
 <s> (1) "I greatly value everything that John gives me; (2) Nothing but this bone will satisfy my dog; (3) I take particular care of everything that I greatly value; (4) This bone was a present from John; (5) The things, of which I take particular care, are things I do _not_ give to my dog" </s>
 <s> Univ </s>
-<s> "things"; aÂ =Â given by John to me; bÂ =Â given by me to my dog; cÂ =Â greatly valued by me; dÂ =Â satisfactory to my dog; eÂ =Â taken particular care of by me; hÂ =Â this bone </s>
+<s> "things"; aï¿½ =ï¿½ given by John to me; bï¿½ =ï¿½ given by me to my dog; cï¿½ =ï¿½ greatly valued by me; dï¿½ =ï¿½ satisfactory to my dog; eï¿½ =ï¿½ taken particular care of by me; hï¿½ =ï¿½ this bone </s>
 <s> 1 2 3 4 5 a_{1}c'_{0} + h'd_{0} + c_{1}e'_{0} + h_{1}a'_{0} + e_{1}b_{0} 1 3 4 2 5 ac' + ce' + ha' + h'd + eb Â¶ db_{0} -- =- -= = = i.e </s>
 <s> "Nothing, that I give my dog, satisfies him," or, "My dog is not satisfied with _anything_ that I give him" </s>
 <s> [Note that, in working a Sorites by this process, we may begin with _any_ Premiss we choose </s>
@@ -2427,185 +2426,185 @@
 <s> Hence Â§ 8 really contains 129 different Examples, and Â§ 9 contains 273.] pg112 Â§ 9 </s>
 <s> EX9 _Sets of Concrete Propositions, proposed as Premisses for Soriteses: Conclusions to be found._ =1.= (1) Babies are illogical; (2) Nobody is despised who can manage a crocodile; (3) Illogical persons are despised </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â able to manage a crocodile; bÂ =Â babies; cÂ =Â despised; dÂ =Â logical </s>
+<s> "persons"; aï¿½ =ï¿½ able to manage a crocodile; bï¿½ =ï¿½ babies; cï¿½ =ï¿½ despised; dï¿½ =ï¿½ logical </s>
 <s> =2.= (1) My saucepans are the only things I have that are made of tin; (2) I find all _your_ presents very useful; (3) None of my saucepans are of the slightest use </s>
 <s> Univ </s>
-<s> "things of mine"; aÂ =Â made of tin; bÂ =Â my saucepans; cÂ =Â useful; dÂ =Â your presents </s>
+<s> "things of mine"; aï¿½ =ï¿½ made of tin; bï¿½ =ï¿½ my saucepans; cï¿½ =ï¿½ useful; dï¿½ =ï¿½ your presents </s>
 <s> =3.= (1) No potatoes of mine, that are new, have been boiled; (2) All my potatoes in this dish are fit to eat; (3) No unboiled potatoes of mine are fit to eat </s>
 <s> Univ </s>
-<s> "my potatoes"; aÂ =Â boiled; bÂ =Â eatable; cÂ =Â in this dish; dÂ =Â new </s>
+<s> "my potatoes"; aï¿½ =ï¿½ boiled; bï¿½ =ï¿½ eatable; cï¿½ =ï¿½ in this dish; dï¿½ =ï¿½ new </s>
 <s> =4.= (1) There are no Jews in the kitchen; (2) No Gentiles say "shpoonj"; (3) My servants are all in the kitchen </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â in the kitchen; bÂ =Â Jews; cÂ =Â my servants; dÂ =Â saying "shpoonj" </s>
+<s> "persons"; aï¿½ =ï¿½ in the kitchen; bï¿½ =ï¿½ Jews; cï¿½ =ï¿½ my servants; dï¿½ =ï¿½ saying "shpoonj" </s>
 <s> =5.= (1) No ducks waltz; (2) No officers ever decline to waltz; (3) All my poultry are ducks </s>
 <s> Univ </s>
-<s> "creatures"; aÂ =Â ducks; bÂ =Â my poultry; cÂ =Â officers; dÂ =Â willing to waltz </s>
+<s> "creatures"; aï¿½ =ï¿½ ducks; bï¿½ =ï¿½ my poultry; cï¿½ =ï¿½ officers; dï¿½ =ï¿½ willing to waltz </s>
 <s> =6.= (1) Every one who is sane can do Logic; (2) No lunatics are fit to serve on a jury; (3) None of _your_ sons can do Logic </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â able to do Logic; bÂ =Â fit to serve on a jury; cÂ =Â sane; dÂ =Â your sons </s>
+<s> "persons"; aï¿½ =ï¿½ able to do Logic; bï¿½ =ï¿½ fit to serve on a jury; cï¿½ =ï¿½ sane; dï¿½ =ï¿½ your sons </s>
 <s> pg113 =7.= (1) There are no pencils of mine in this box; (2) No sugar-plums of mine are cigars; (3) The whole of my property, that is not in this box, consists of cigars </s>
 <s> Univ </s>
-<s> "things of mine"; aÂ =Â cigars; bÂ =Â in this box; cÂ =Â pencils; dÂ =Â sugar-plums </s>
+<s> "things of mine"; aï¿½ =ï¿½ cigars; bï¿½ =ï¿½ in this box; cï¿½ =ï¿½ pencils; dï¿½ =ï¿½ sugar-plums </s>
 <s> =8.= (1) No experienced person is incompetent; (2) Jenkins is always blundering; (3) No competent person is always blundering </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â always blundering; bÂ =Â competent; cÂ =Â experienced; dÂ =Â Jenkins </s>
+<s> "persons"; aï¿½ =ï¿½ always blundering; bï¿½ =ï¿½ competent; cï¿½ =ï¿½ experienced; dï¿½ =ï¿½ Jenkins </s>
 <s> =9.= (1) No terriers wander among the signs of the zodiac; (2) Nothing, that does not wander among the signs of the zodiac, is a comet; (3) Nothing but a terrier has a curly tail </s>
 <s> Univ </s>
-<s> "things"; aÂ =Â comets; bÂ =Â curly-tailed; cÂ =Â terriers; dÂ =Â wandering among the signs of the zodiac </s>
+<s> "things"; aï¿½ =ï¿½ comets; bï¿½ =ï¿½ curly-tailed; cï¿½ =ï¿½ terriers; dï¿½ =ï¿½ wandering among the signs of the zodiac </s>
 <s> =10.= (1) No one takes in the _Times_, unless he is well-educated; (2) No hedge-hogs can read; (3) Those who cannot read are not well-educated </s>
 <s> Univ </s>
-<s> "creatures"; aÂ =Â able to read; bÂ =Â hedge-hogs; cÂ =Â taking in the Times; dÂ =Â well-educated </s>
+<s> "creatures"; aï¿½ =ï¿½ able to read; bï¿½ =ï¿½ hedge-hogs; cï¿½ =ï¿½ taking in the Times; dï¿½ =ï¿½ well-educated </s>
 <s> =11.= (1) All puddings are nice; (2) This dish is a pudding; (3) No nice things are wholesome </s>
 <s> Univ </s>
-<s> "things"; aÂ =Â nice; bÂ =Â puddings; cÂ =Â this dish; dÂ =Â wholesome </s>
+<s> "things"; aï¿½ =ï¿½ nice; bï¿½ =ï¿½ puddings; cï¿½ =ï¿½ this dish; dï¿½ =ï¿½ wholesome </s>
 <s> =12.= (1) My gardener is well worth listening to on military subjects; (2) No one can remember the battle of Waterloo, unless he is very old; (3) Nobody is really worth listening to on military subjects, unless he can remember the battle of Waterloo </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â able to remember the battle of Waterloo; bÂ =Â my gardener; cÂ =Â well worth listening to on military subjects; dÂ =Â very old </s>
+<s> "persons"; aï¿½ =ï¿½ able to remember the battle of Waterloo; bï¿½ =ï¿½ my gardener; cï¿½ =ï¿½ well worth listening to on military subjects; dï¿½ =ï¿½ very old </s>
 <s> pg114 =13.= (1) All humming-birds are richly coloured; (2) No large birds live on honey; (3) Birds that do not live on honey are dull in colour </s>
 <s> Univ </s>
-<s> "birds"; aÂ =Â humming-birds; bÂ =Â large; cÂ =Â living on honey; dÂ =Â richly coloured </s>
+<s> "birds"; aï¿½ =ï¿½ humming-birds; bï¿½ =ï¿½ large; cï¿½ =ï¿½ living on honey; dï¿½ =ï¿½ richly coloured </s>
 <s> =14.= (1) No Gentiles have hooked noses; (2) A man who is a good hand at a bargain always makes money; (3) No Jew is ever a bad hand at a bargain </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â good hands at a bargain; bÂ =Â hook-nosed; cÂ =Â Jews; dÂ =Â making money </s>
+<s> "persons"; aï¿½ =ï¿½ good hands at a bargain; bï¿½ =ï¿½ hook-nosed; cï¿½ =ï¿½ Jews; dï¿½ =ï¿½ making money </s>
 <s> =15.= (1) All ducks in this village, that are branded 'B,' belong to Mrs Bond; (2) Ducks in this village never wear lace collars, unless they are branded 'B'; (3) Mrs Bond has no gray ducks in this village </s>
 <s> Univ </s>
-<s> "ducks in this village"; aÂ =Â belonging to Mrs Bond; bÂ =Â branded 'B'; cÂ =Â gray; dÂ =Â wearing lace-collars </s>
+<s> "ducks in this village"; aï¿½ =ï¿½ belonging to Mrs Bond; bï¿½ =ï¿½ branded 'B'; cï¿½ =ï¿½ gray; dï¿½ =ï¿½ wearing lace-collars </s>
 <s> =16.= (1) All the old articles in this cupboard are cracked; (2) No jug in this cupboard is new; (3) Nothing in this cupboard, that is cracked, will hold water </s>
 <s> Univ </s>
-<s> "things in this cupboard"; aÂ =Â able to hold water; bÂ =Â cracked; cÂ =Â jugs; dÂ =Â old </s>
+<s> "things in this cupboard"; aï¿½ =ï¿½ able to hold water; bï¿½ =ï¿½ cracked; cï¿½ =ï¿½ jugs; dï¿½ =ï¿½ old </s>
 <s> =17.= (1) All unripe fruit is unwholesome; (2) All these apples are wholesome; (3) No fruit, grown in the shade, is ripe </s>
 <s> Univ </s>
-<s> "fruit"; aÂ =Â grown in the shade; bÂ =Â ripe; cÂ =Â these apples; dÂ =Â wholesome </s>
+<s> "fruit"; aï¿½ =ï¿½ grown in the shade; bï¿½ =ï¿½ ripe; cï¿½ =ï¿½ these apples; dï¿½ =ï¿½ wholesome </s>
 <s> =18.= (1) Puppies, that will not lie still, are always grateful for the loan of a skipping-rope; (2) A lame puppy would not say "thank you" if you offered to lend it a skipping-rope </s>
 <s> (3) None but lame puppies ever care to do worsted-work </s>
 <s> Univ </s>
-<s> "puppies"; aÂ =Â caring to do worsted-work; bÂ =Â grateful for the loan of a skipping-rope; cÂ =Â lame; dÂ =Â willing to lie still </s>
+<s> "puppies"; aï¿½ =ï¿½ caring to do worsted-work; bï¿½ =ï¿½ grateful for the loan of a skipping-rope; cï¿½ =ï¿½ lame; dï¿½ =ï¿½ willing to lie still </s>
 <s> pg115 =19.= (1) No name in this list is unsuitable for the hero of a romance; (2) Names beginning with a vowel are always melodious; (3) No name is suitable for the hero of a romance, if it begins with a consonant </s>
 <s> Univ </s>
-<s> "names"; aÂ =Â beginning with a vowel; bÂ =Â in this list; cÂ =Â melodious; dÂ =Â suitable for the hero of a romance </s>
+<s> "names"; aï¿½ =ï¿½ beginning with a vowel; bï¿½ =ï¿½ in this list; cï¿½ =ï¿½ melodious; dï¿½ =ï¿½ suitable for the hero of a romance </s>
 <s> =20.= (1) All members of the House of Commons have perfect self-command; (2) No M.P., who wears a coronet, should ride in a donkey-race; (3) All members of the House of Lords wear coronets </s>
 <s> Univ </s>
-<s> "M.P'.s"; aÂ =Â belonging to the House of Commons; bÂ =Â having perfect self-command; cÂ =Â one who may ride in a donkey-race; dÂ =Â wearing a coronet </s>
+<s> "M.P'.s"; aï¿½ =ï¿½ belonging to the House of Commons; bï¿½ =ï¿½ having perfect self-command; cï¿½ =ï¿½ one who may ride in a donkey-race; dï¿½ =ï¿½ wearing a coronet </s>
 <s> =21.= (1) No goods in this shop, that have been bought and paid for, are still on sale; (2) None of the goods may be carried away, unless labeled "sold"; (3) None of the goods are labeled "sold," unless they have been bought and paid for </s>
 <s> Univ </s>
-<s> "goods in this shop"; aÂ =Â allowed to be carried away; bÂ =Â bought and paid for; cÂ =Â labeled "sold"; dÂ =Â on sale </s>
+<s> "goods in this shop"; aï¿½ =ï¿½ allowed to be carried away; bï¿½ =ï¿½ bought and paid for; cï¿½ =ï¿½ labeled "sold"; dï¿½ =ï¿½ on sale </s>
 <s> =22.= (1) No acrobatic feats, that are not announced in the bills of a circus, are ever attempted there; (2) No acrobatic feat is possible, if it involves turning a quadruple somersault; (3) No impossible acrobatic feat is ever announced in a circus bill </s>
 <s> Univ </s>
-<s> "acrobatic feats"; aÂ =Â announced in the bills of a circus; bÂ =Â attempted in a circus; cÂ =Â involving the turning of a quadruple somersault; dÂ =Â possible </s>
+<s> "acrobatic feats"; aï¿½ =ï¿½ announced in the bills of a circus; bï¿½ =ï¿½ attempted in a circus; cï¿½ =ï¿½ involving the turning of a quadruple somersault; dï¿½ =ï¿½ possible </s>
 <s> =23.= (1) Nobody, who really appreciates Beethoven, fails to keep silence while the Moonlight-Sonata is being played; (2) Guinea-pigs are hopelessly ignorant of music; (3) No one, who is hopelessly ignorant of music, ever keeps silence while the Moonlight-Sonata is being played </s>
 <s> Univ </s>
-<s> "creatures"; aÂ =Â guinea-pigs; bÂ =Â hopelessly ignorant of music; cÂ =Â keeping silence while the Moonlight-Sonata is being played; dÂ =Â really appreciating Beethoven </s>
+<s> "creatures"; aï¿½ =ï¿½ guinea-pigs; bï¿½ =ï¿½ hopelessly ignorant of music; cï¿½ =ï¿½ keeping silence while the Moonlight-Sonata is being played; dï¿½ =ï¿½ really appreciating Beethoven </s>
 <s> pg116 =24.= (1) Coloured flowers are always scented; (2) I dislike flowers that are not grown in the open air; (3) No flowers grown in the open air are colourless </s>
 <s> Univ </s>
-<s> "flowers"; aÂ =Â coloured; bÂ =Â grown in the open air; cÂ =Â liked by me; dÂ =Â scented </s>
+<s> "flowers"; aï¿½ =ï¿½ coloured; bï¿½ =ï¿½ grown in the open air; cï¿½ =ï¿½ liked by me; dï¿½ =ï¿½ scented </s>
 <s> =25.= (1) Showy talkers think too much of themselves; (2) No really well-informed people are bad company; (3) People who think too much of themselves are not good company </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â good company; bÂ =Â really well-informed; cÂ =Â showy talkers; dÂ =Â thinking too much of one's self </s>
+<s> "persons"; aï¿½ =ï¿½ good company; bï¿½ =ï¿½ really well-informed; cï¿½ =ï¿½ showy talkers; dï¿½ =ï¿½ thinking too much of one's self </s>
 <s> =26.= (1) No boys under 12 are admitted to this school as boarders; (2) All the industrious boys have red hair; (3) None of the day-boys learn Greek; (4) None but those under 12 are idle </s>
 <s> Univ </s>
-<s> "boys in this school"; aÂ =Â boarders; bÂ =Â industrious; cÂ =Â learning Greek; dÂ =Â red-haired; eÂ =Â under 12 </s>
+<s> "boys in this school"; aï¿½ =ï¿½ boarders; bï¿½ =ï¿½ industrious; cï¿½ =ï¿½ learning Greek; dï¿½ =ï¿½ red-haired; eï¿½ =ï¿½ under 12 </s>
 <s> =27.= (1) The only articles of food, that my doctor allows me, are such as are not very rich; (2) Nothing that agrees with me is unsuitable for supper; (3) Wedding-cake is always very rich; (4) My doctor allows me all articles of food that are suitable for supper </s>
 <s> Univ </s>
-<s> "articles of food"; aÂ =Â agreeing with me; bÂ =Â allowed by my doctor; cÂ =Â suitable for supper; dÂ =Â very rich; eÂ =Â wedding-cake </s>
+<s> "articles of food"; aï¿½ =ï¿½ agreeing with me; bï¿½ =ï¿½ allowed by my doctor; cï¿½ =ï¿½ suitable for supper; dï¿½ =ï¿½ very rich; eï¿½ =ï¿½ wedding-cake </s>
 <s> =28.= (1) No discussions in our Debating-Club are likely to rouse the British Lion, so long as they are checked when they become too noisy; (2) Discussions, unwisely conducted, endanger the peacefulness of our Debating-Club; (3) Discussions, that go on while Tomkins is in the Chair, are likely to rouse the British Lion; (4) Discussions in our Debating-Club, when wisely conducted, are always checked when they become too noisy </s>
 <s> Univ </s>
-<s> "discussions in our Debating-Club"; aÂ =Â checked when too noisy; bÂ =Â dangerous to the peacefulness of our Debating-Club; cÂ =Â going on while Tomkins is in the chair; dÂ =Â likely to rouse the British Lion; eÂ =Â wisely conducted </s>
+<s> "discussions in our Debating-Club"; aï¿½ =ï¿½ checked when too noisy; bï¿½ =ï¿½ dangerous to the peacefulness of our Debating-Club; cï¿½ =ï¿½ going on while Tomkins is in the chair; dï¿½ =ï¿½ likely to rouse the British Lion; eï¿½ =ï¿½ wisely conducted </s>
 <s> pg117 =29.= (1) All my sons are slim; (2) No child of mine is healthy who takes no exercise; (3) All gluttons, who are children of mine, are fat; (4) No daughter of mine takes any exercise </s>
 <s> Univ </s>
-<s> "my children"; aÂ =Â fat; bÂ =Â gluttons; cÂ =Â healthy; dÂ =Â sons; eÂ =Â taking exercise </s>
+<s> "my children"; aï¿½ =ï¿½ fat; bï¿½ =ï¿½ gluttons; cï¿½ =ï¿½ healthy; dï¿½ =ï¿½ sons; eï¿½ =ï¿½ taking exercise </s>
 <s> =30.= (1) Things sold in the street are of no great value; (2) Nothing but rubbish can be had for a song; (3) Eggs of the Great Auk are very valuable; (4) It is only what is sold in the street that is really _rubbish_ </s>
 <s> Univ </s>
-<s> "things"; aÂ =Â able to be had for a song; bÂ =Â eggs of the Great Auk; cÂ =Â rubbish; dÂ =Â sold in the street; eÂ =Â very valuable </s>
+<s> "things"; aï¿½ =ï¿½ able to be had for a song; bï¿½ =ï¿½ eggs of the Great Auk; cï¿½ =ï¿½ rubbish; dï¿½ =ï¿½ sold in the street; eï¿½ =ï¿½ very valuable </s>
 <s> =31.= (1) No books sold here have gilt edges, except what are in the front shop; (2) All the _authorised_ editions have red labels; (3) All the books with red labels are priced at 5s </s>
 <s> and upwards; (4) None but _authorised_ editions are ever placed in the front shop </s>
 <s> Univ </s>
-<s> "books sold here"; aÂ =Â authorised editions; bÂ =Â gilt-edged; cÂ =Â having red labels; dÂ =Â in the front shop; eÂ =Â priced at 5s </s>
+<s> "books sold here"; aï¿½ =ï¿½ authorised editions; bï¿½ =ï¿½ gilt-edged; cï¿½ =ï¿½ having red labels; dï¿½ =ï¿½ in the front shop; eï¿½ =ï¿½ priced at 5s </s>
 <s> and upwards </s>
 <s> =32.= (1) Remedies for bleeding, which fail to check it, are a mockery; (2) Tincture of Calendula is not to be despised; (3) Remedies, which will check the bleeding when you cut your finger, are useful; (4) All mock remedies for bleeding are despicable </s>
 <s> Univ </s>
-<s> "remedies for bleeding"; aÂ =Â able to check bleeding; bÂ =Â despicable; cÂ =Â mockeries; dÂ =Â Tincture of Calendula; eÂ =Â useful when you cut your finger </s>
+<s> "remedies for bleeding"; aï¿½ =ï¿½ able to check bleeding; bï¿½ =ï¿½ despicable; cï¿½ =ï¿½ mockeries; dï¿½ =ï¿½ Tincture of Calendula; eï¿½ =ï¿½ useful when you cut your finger </s>
 <s> =33.= (1) None of the unnoticed things, met with at sea, are mermaids; (2) Things entered in the log, as met with at sea, are sure to be worth remembering; (3) I have never met with anything worth remembering, when on a voyage; (4) Things met with at sea, that are noticed, are sure to be recorded in the log; Univ </s>
-<s> "things met with at sea"; aÂ =Â entered in log; bÂ =Â mermaids; cÂ =Â met with by me; dÂ =Â noticed; eÂ =Â worth remembering </s>
+<s> "things met with at sea"; aï¿½ =ï¿½ entered in log; bï¿½ =ï¿½ mermaids; cï¿½ =ï¿½ met with by me; dï¿½ =ï¿½ noticed; eï¿½ =ï¿½ worth remembering </s>
 <s> pg118 =34.= (1) The only books in this library, that I do _not_ recommend for reading, are unhealthy in tone; (2) The bound books are all well-written; (3) All the romances are healthy in tone; (4) I do not recommend you to read any of the unbound books </s>
 <s> Univ </s>
-<s> "books in this library"; aÂ =Â bound; bÂ =Â healthy in tone; cÂ =Â recommended by me; dÂ =Â romances; eÂ =Â well-written </s>
+<s> "books in this library"; aï¿½ =ï¿½ bound; bï¿½ =ï¿½ healthy in tone; cï¿½ =ï¿½ recommended by me; dï¿½ =ï¿½ romances; eï¿½ =ï¿½ well-written </s>
 <s> =35.= (1) No birds, except ostriches, are 9 feet high; (2) There are no birds in this aviary that belong to any one but _me_; (3) No ostrich lives on mince-pies; (4) I have no birds less than 9 feet high </s>
 <s> Univ </s>
-<s> "birds"; aÂ =Â in this aviary; bÂ =Â living on mince-pies; cÂ =Â my; dÂ =Â 9 feet high; eÂ =Â ostriches </s>
+<s> "birds"; aï¿½ =ï¿½ in this aviary; bï¿½ =ï¿½ living on mince-pies; cï¿½ =ï¿½ my; dï¿½ =ï¿½ 9 feet high; eï¿½ =ï¿½ ostriches </s>
 <s> =36.= (1) A plum-pudding, that is not really solid, is mere porridge; (2) Every plum-pudding, served at my table, has been boiled in a cloth; (3) A plum-pudding that is mere porridge is indistinguishable from soup; (4) No plum-puddings are really solid, except what are served at _my_ table </s>
 <s> Univ </s>
-<s> "plum-puddings"; aÂ =Â boiled in a cloth; bÂ =Â distinguishable from soup; cÂ =Â mere porridge; dÂ =Â really solid; eÂ =Â served at my table </s>
+<s> "plum-puddings"; aï¿½ =ï¿½ boiled in a cloth; bï¿½ =ï¿½ distinguishable from soup; cï¿½ =ï¿½ mere porridge; dï¿½ =ï¿½ really solid; eï¿½ =ï¿½ served at my table </s>
 <s> =37.= (1) No interesting poems are unpopular among people of real taste; (2) No modern poetry is free from affectation; (3) All _your_ poems are on the subject of soap-bubbles; (4) No affected poetry is popular among people of real taste; (5) No ancient poem is on the subject of soap-bubbles </s>
 <s> Univ </s>
-<s> "poems"; aÂ =Â affected; bÂ =Â ancient; cÂ =Â interesting; dÂ =Â on the subject of soap-bubbles; eÂ =Â popular among people of real taste; hÂ =Â written by you </s>
+<s> "poems"; aï¿½ =ï¿½ affected; bï¿½ =ï¿½ ancient; cï¿½ =ï¿½ interesting; dï¿½ =ï¿½ on the subject of soap-bubbles; eï¿½ =ï¿½ popular among people of real taste; hï¿½ =ï¿½ written by you </s>
 <s> =38.= (1) All the fruit at this Show, that fails to get a prize, is the property of the Committee; (2) None of my peaches have got prizes; (3) None of the fruit, sold off in the evening, is unripe; (4) None of the ripe fruit has been grown in a hot-house; (5) All fruit, that belongs to the Committee, is sold off in the evening </s>
 <s> Univ </s>
-<s> "fruit at this Show"; aÂ =Â belonging to the Committee; bÂ =Â getting prizes; cÂ =Â grown in a hot-house; dÂ =Â my peaches; eÂ =Â ripe; hÂ =Â sold off in the evening </s>
+<s> "fruit at this Show"; aï¿½ =ï¿½ belonging to the Committee; bï¿½ =ï¿½ getting prizes; cï¿½ =ï¿½ grown in a hot-house; dï¿½ =ï¿½ my peaches; eï¿½ =ï¿½ ripe; hï¿½ =ï¿½ sold off in the evening </s>
 <s> pg119 =39.= (1) Promise-breakers are untrustworthy; (2) Wine-drinkers are very communicative; (3) A man who keeps his promises is honest; (4) No teetotalers are pawnbrokers; (5) One can always trust a very communicative person </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â honest; bÂ =Â pawnbrokers; cÂ =Â promise-breakers; dÂ =Â trustworthy; eÂ =Â very communicative; hÂ =Â wine-drinkers </s>
+<s> "persons"; aï¿½ =ï¿½ honest; bï¿½ =ï¿½ pawnbrokers; cï¿½ =ï¿½ promise-breakers; dï¿½ =ï¿½ trustworthy; eï¿½ =ï¿½ very communicative; hï¿½ =ï¿½ wine-drinkers </s>
 <s> =40.= (1) No kitten, that loves fish, is unteachable; (2) No kitten without a tail will play with a gorilla; (3) Kittens with whiskers always love fish; (4) No teachable kitten has green eyes; (5) No kittens have tails unless they have whiskers </s>
 <s> Univ </s>
-<s> "kittens"; aÂ =Â green-eyed; bÂ =Â loving fish; cÂ =Â tailed; dÂ =Â teachable; eÂ =Â whiskered; hÂ =Â willing to play with a gorilla </s>
+<s> "kittens"; aï¿½ =ï¿½ green-eyed; bï¿½ =ï¿½ loving fish; cï¿½ =ï¿½ tailed; dï¿½ =ï¿½ teachable; eï¿½ =ï¿½ whiskered; hï¿½ =ï¿½ willing to play with a gorilla </s>
 <s> =41.= (1) All the Eton men in this College play cricket; (2) None but the Scholars dine at the higher table; (3) None of the cricketers row; (4) _My_ friends in this College all come from Eton; (5) All the Scholars are rowing-men </s>
 <s> Univ </s>
-<s> "men in this College"; aÂ =Â cricketers; bÂ =Â dining at the higher table; cÂ =Â Etonians; dÂ =Â my friends; eÂ =Â rowing-men; hÂ =Â Scholars </s>
+<s> "men in this College"; aï¿½ =ï¿½ cricketers; bï¿½ =ï¿½ dining at the higher table; cï¿½ =ï¿½ Etonians; dï¿½ =ï¿½ my friends; eï¿½ =ï¿½ rowing-men; hï¿½ =ï¿½ Scholars </s>
 <s> =42.= (1) There is no box of mine here that I dare open; (2) My writing-desk is made of rose-wood; (3) All my boxes are painted, except what are here; (4) There is no box of mine that I dare not open, unless it is full of live scorpions; (5) All my rose-wood boxes are unpainted </s>
 <s> Univ </s>
-<s> "my boxes"; aÂ =Â boxes that I dare open; bÂ =Â full of live scorpions; cÂ =Â here; dÂ =Â made of rose-wood; eÂ =Â painted; hÂ =Â writing-desks </s>
+<s> "my boxes"; aï¿½ =ï¿½ boxes that I dare open; bï¿½ =ï¿½ full of live scorpions; cï¿½ =ï¿½ here; dï¿½ =ï¿½ made of rose-wood; eï¿½ =ï¿½ painted; hï¿½ =ï¿½ writing-desks </s>
 <s> =43.= (1) Gentiles have no objection to pork; (2) Nobody who admires pigsties ever reads Hogg's poems; (3) No Mandarin knows Hebrew; (4) Every one, who does not object to pork, admires pigsties; (5) No Jew is ignorant of Hebrew </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â admiring pigsties; bÂ =Â Jews; cÂ =Â knowing Hebrew; dÂ =Â Mandarins; eÂ =Â objecting to pork; hÂ =Â reading Hogg's poems </s>
+<s> "persons"; aï¿½ =ï¿½ admiring pigsties; bï¿½ =ï¿½ Jews; cï¿½ =ï¿½ knowing Hebrew; dï¿½ =ï¿½ Mandarins; eï¿½ =ï¿½ objecting to pork; hï¿½ =ï¿½ reading Hogg's poems </s>
 <s> pg120 =44.= (1) All writers, who understand human nature, are clever; (2) No one is a true poet unless he can stir the hearts of men; (3) Shakespeare wrote "Hamlet"; (4) No writer, who does not understand human nature, can stir the hearts of men; (5) None but a true poet could have written "Hamlet".; Univ </s>
-<s> "writers"; aÂ =Â able to stir the hearts of men; bÂ =Â clever; cÂ =Â Shakespeare; dÂ =Â true poets; eÂ =Â understanding human nature; hÂ =Â writer of 'Hamlet' </s>
+<s> "writers"; aï¿½ =ï¿½ able to stir the hearts of men; bï¿½ =ï¿½ clever; cï¿½ =ï¿½ Shakespeare; dï¿½ =ï¿½ true poets; eï¿½ =ï¿½ understanding human nature; hï¿½ =ï¿½ writer of 'Hamlet' </s>
 <s> =45.= (1) I despise anything that cannot be used as a bridge; (2) Everything, that is worth writing an ode to, would be a welcome gift to me; (3) A rainbow will not bear the weight of a wheel-barrow; (4) Whatever can be used as a bridge will bear the weight of a wheel-barrow; (5) I would not take, as a gift, a thing that I despise </s>
 <s> Univ </s>
-<s> "things"; aÂ =Â able to bear the weight of a wheel-barrow; bÂ =Â acceptable to me; cÂ =Â despised by me; dÂ =Â rainbows; eÂ =Â useful as a bridge; hÂ =Â worth writing an ode to </s>
+<s> "things"; aï¿½ =ï¿½ able to bear the weight of a wheel-barrow; bï¿½ =ï¿½ acceptable to me; cï¿½ =ï¿½ despised by me; dï¿½ =ï¿½ rainbows; eï¿½ =ï¿½ useful as a bridge; hï¿½ =ï¿½ worth writing an ode to </s>
 <s> =46.= (1) When I work a Logic-example without grumbling, you may be sure it is one that I can understand; (2) These Soriteses are not arranged in regular order, like the examples I am used to; (3) No easy example ever make my head ache; (4) I ca'n't understand examples that are not arranged in regular order, like those I am used to; (5) I never grumble at an example, unless it gives me a headache </s>
 <s> Univ </s>
-<s> "Logic-examples worked by me"; aÂ =Â arranged in regular order, like the examples I am used to; bÂ =Â easy; cÂ =Â grumbled at by me; dÂ =Â making my head ache; eÂ =Â these Soriteses; hÂ =Â understood by me </s>
+<s> "Logic-examples worked by me"; aï¿½ =ï¿½ arranged in regular order, like the examples I am used to; bï¿½ =ï¿½ easy; cï¿½ =ï¿½ grumbled at by me; dï¿½ =ï¿½ making my head ache; eï¿½ =ï¿½ these Soriteses; hï¿½ =ï¿½ understood by me </s>
 <s> =47.= (1) Every idea of mine, that cannot be expressed as a Syllogism, is really ridiculous; (2) None of my ideas about Bath-buns are worth writing down; (3) No idea of mine, that fails to come true, can be expressed as a Syllogism; (4) I never have any really ridiculous idea, that I do not at once refer to my solicitor; (5) My dreams are all about Bath-buns; (6) I never refer any idea of mine to my solicitor, unless it is worth writing down </s>
 <s> Univ </s>
-<s> "my ideas"; aÂ =Â able to be expressed as a Syllogism; bÂ =Â about Bath-buns; cÂ =Â coming true; dÂ =Â dreams; eÂ =Â really ridiculous hÂ =Â referred to my solicitor; kÂ =Â worth writing down </s>
+<s> "my ideas"; aï¿½ =ï¿½ able to be expressed as a Syllogism; bï¿½ =ï¿½ about Bath-buns; cï¿½ =ï¿½ coming true; dï¿½ =ï¿½ dreams; eï¿½ =ï¿½ really ridiculous hï¿½ =ï¿½ referred to my solicitor; kï¿½ =ï¿½ worth writing down </s>
 <s> pg121 =48.= (1) None of the pictures here, except the battle-pieces, are valuable; (2) None of the unframed ones are varnished; (3) All the battle-pieces are painted in oils; (4) All those that have been sold are valuable; (5) All the English ones are varnished; (6) All those in frames have been sold </s>
 <s> Univ </s>
-<s> "the pictures here"; aÂ =Â battle-pieces; bÂ =Â English; cÂ =Â framed; dÂ =Â oil-paintings; eÂ =Â sold; hÂ =Â valuable; kÂ =Â varnished </s>
+<s> "the pictures here"; aï¿½ =ï¿½ battle-pieces; bï¿½ =ï¿½ English; cï¿½ =ï¿½ framed; dï¿½ =ï¿½ oil-paintings; eï¿½ =ï¿½ sold; hï¿½ =ï¿½ valuable; kï¿½ =ï¿½ varnished </s>
 <s> =49.= (1) Animals, that do not kick, are always unexcitable; (2) Donkeys have no horns; (3) A buffalo can always toss one over a gate; (4) No animals that kick are easy to swallow; (5) No hornless animal can toss one over a gate; (6) All animals are excitable, except buffaloes </s>
 <s> Univ </s>
-<s> "animals"; aÂ =Â able to toss one over a gate; bÂ =Â buffaloes; cÂ =Â donkeys; dÂ =Â easy to swallow; eÂ =Â excitable; hÂ =Â horned; kÂ =Â kicking </s>
+<s> "animals"; aï¿½ =ï¿½ able to toss one over a gate; bï¿½ =ï¿½ buffaloes; cï¿½ =ï¿½ donkeys; dï¿½ =ï¿½ easy to swallow; eï¿½ =ï¿½ excitable; hï¿½ =ï¿½ horned; kï¿½ =ï¿½ kicking </s>
 <s> =50.= (1) No one, who is going to a party, ever fails to brush his hair; (2) No one looks fascinating, if he is untidy; (3) Opium-eaters have no self-command; (4) Every one, who has brushed his hair, looks fascinating; (5) No one wears white kid gloves, unless he is going to a party; (6) A man is always untidy, if he has no self-command </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â going to a party; bÂ =Â having brushed one's hair; cÂ =Â having self-command; dÂ =Â looking fascinating; eÂ =Â opium-eaters; hÂ =Â tidy; kÂ =Â wearing white kid gloves </s>
+<s> "persons"; aï¿½ =ï¿½ going to a party; bï¿½ =ï¿½ having brushed one's hair; cï¿½ =ï¿½ having self-command; dï¿½ =ï¿½ looking fascinating; eï¿½ =ï¿½ opium-eaters; hï¿½ =ï¿½ tidy; kï¿½ =ï¿½ wearing white kid gloves </s>
 <s> =51.= (1) No husband, who is always giving his wife new dresses, can be a cross-grained man; (2) A methodical husband always comes home for his tea; (3) No one, who hangs up his hat on the gas-jet, can be a man that is kept in proper order by his wife; (4) A good husband is always giving his wife new dresses; (5) No husband can fail to be cross-grained, if his wife does not keep him in proper order; (6) An unmethodical husband always hangs up his hat on the gas-jet </s>
 <s> Univ </s>
-<s> "husbands"; aÂ =Â always coming home for his tea; bÂ =Â always giving his wife new dresses; cÂ =Â cross-grained; dÂ =Â good; eÂ =Â hanging up his hat on the gas-jet; hÂ =Â kept in proper order; kÂ =Â methodical </s>
+<s> "husbands"; aï¿½ =ï¿½ always coming home for his tea; bï¿½ =ï¿½ always giving his wife new dresses; cï¿½ =ï¿½ cross-grained; dï¿½ =ï¿½ good; eï¿½ =ï¿½ hanging up his hat on the gas-jet; hï¿½ =ï¿½ kept in proper order; kï¿½ =ï¿½ methodical </s>
 <s> pg122 =52.= (1) Everything, not absolutely ugly, may be kept in a drawing-room; (2) Nothing, that is encrusted with salt, is ever quite dry; (3) Nothing should be kept in a drawing-room, unless it is free from damp; (4) Bathing-machines are always kept near the sea; (5) Nothing, that is made of mother-of-pearl, can be absolutely ugly; (6) Whatever is kept near the sea gets encrusted with salt </s>
 <s> Univ </s>
-<s> "things"; aÂ =Â absolutely ugly; bÂ =Â bathing-machines; cÂ =Â encrusted with salt; dÂ =Â kept near the sea; eÂ =Â made of mother-of-pearl; hÂ =Â quite dry; kÂ =Â things that may be kept in a drawing-room </s>
+<s> "things"; aï¿½ =ï¿½ absolutely ugly; bï¿½ =ï¿½ bathing-machines; cï¿½ =ï¿½ encrusted with salt; dï¿½ =ï¿½ kept near the sea; eï¿½ =ï¿½ made of mother-of-pearl; hï¿½ =ï¿½ quite dry; kï¿½ =ï¿½ things that may be kept in a drawing-room </s>
 <s> =53.= (1) I call no day "unlucky," when Robinson is civil to me; (2) Wednesdays are always cloudy; (3) When people take umbrellas, the day never turns out fine; (4) The only days when Robinson is uncivil to me are Wednesdays; (5) Everybody takes his umbrella with him when it is raining; (6) My "lucky" days always turn out fine </s>
 <s> Univ </s>
-<s> "days"; aÂ =Â called by me 'lucky'; bÂ =Â cloudy; cÂ =Â days when people take umbrellas; dÂ =Â days when Robinson is civil to me; eÂ =Â rainy; hÂ =Â turning out fine; kÂ =Â Wednesdays </s>
+<s> "days"; aï¿½ =ï¿½ called by me 'lucky'; bï¿½ =ï¿½ cloudy; cï¿½ =ï¿½ days when people take umbrellas; dï¿½ =ï¿½ days when Robinson is civil to me; eï¿½ =ï¿½ rainy; hï¿½ =ï¿½ turning out fine; kï¿½ =ï¿½ Wednesdays </s>
 <s> =54.= (1) No shark ever doubts that it is well fitted out; (2) A fish, that cannot dance a minuet, is contemptible; (3) No fish is quite certain that it is well fitted out, unless it has three rows of teeth; (4) All fishes, except sharks, are kind to children; (5) No heavy fish can dance a minuet; (6) A fish with three rows of teeth is not to be despised </s>
 <s> Univ </s>
-<s> "fishes"; aÂ =Â able to dance a minuet; bÂ =Â certain that he is well fitted out; cÂ =Â contemptible; dÂ =Â having 3 rows of teeth; eÂ =Â heavy; hÂ =Â kind to children; kÂ =Â sharks </s>
+<s> "fishes"; aï¿½ =ï¿½ able to dance a minuet; bï¿½ =ï¿½ certain that he is well fitted out; cï¿½ =ï¿½ contemptible; dï¿½ =ï¿½ having 3 rows of teeth; eï¿½ =ï¿½ heavy; hï¿½ =ï¿½ kind to children; kï¿½ =ï¿½ sharks </s>
 <s> =55.= (1) All the human race, except my footmen, have a certain amount of common-sense; (2) No one, who lives on barley-sugar, can be anything but a mere baby; (3) None but a hop-scotch player knows what real happiness is; (4) No mere baby has a grain of common sense; (5) No engine-driver ever plays hop-scotch; (6) No footman of mine is ignorant of what true happiness is </s>
 <s> Univ </s>
-<s> "human beings"; aÂ =Â engine-drivers; bÂ =Â having common sense; cÂ =Â hop-scotch players; dÂ =Â knowing what real happiness is; eÂ =Â living on barley-sugar; hÂ =Â mere babies; kÂ =Â my footmen </s>
+<s> "human beings"; aï¿½ =ï¿½ engine-drivers; bï¿½ =ï¿½ having common sense; cï¿½ =ï¿½ hop-scotch players; dï¿½ =ï¿½ knowing what real happiness is; eï¿½ =ï¿½ living on barley-sugar; hï¿½ =ï¿½ mere babies; kï¿½ =ï¿½ my footmen </s>
 <s> pg123 =56.= (1) I trust every animal that belongs to me; (2) Dogs gnaw bones; (3) I admit no animals into my study, unless they will beg when told to do so; (4) All the animals in the yard are mine; (5) I admit every animal, that I trust, into my study; (6) The only animals, that are really willing to beg when told to do so, are dogs </s>
 <s> Univ </s>
-<s> "animals"; aÂ =Â admitted to my study; bÂ =Â animals that I trust; cÂ =Â dogs; dÂ =Â gnawing bones; eÂ =Â in the yard; hÂ =Â my; kÂ =Â willing to beg when told </s>
+<s> "animals"; aï¿½ =ï¿½ admitted to my study; bï¿½ =ï¿½ animals that I trust; cï¿½ =ï¿½ dogs; dï¿½ =ï¿½ gnawing bones; eï¿½ =ï¿½ in the yard; hï¿½ =ï¿½ my; kï¿½ =ï¿½ willing to beg when told </s>
 <s> =57.= (1) Animals are always mortally offended if I fail to notice them; (2) The only animals that belong to _me_ are in that field; (3) No animal can guess a conundrum, unless it has been properly trained in a Board-School; (4) None of the animals in that field are badgers; (5) When an animal is mortally offended, it always rushes about wildly and howls; (6) I never notice any animal, unless it belongs to me; (7) No animal, that has been properly trained in a Board-School, ever rushes about wildly and howls </s>
 <s> Univ </s>
-<s> "animals"; aÂ =Â able to guess a conundrum; bÂ =Â badgers; cÂ =Â in that field; dÂ =Â mortally offended; eÂ =Â my; hÂ =Â noticed by me; kÂ =Â properly trained in a Board-School; lÂ =Â rushing about wildly and howling </s>
+<s> "animals"; aï¿½ =ï¿½ able to guess a conundrum; bï¿½ =ï¿½ badgers; cï¿½ =ï¿½ in that field; dï¿½ =ï¿½ mortally offended; eï¿½ =ï¿½ my; hï¿½ =ï¿½ noticed by me; kï¿½ =ï¿½ properly trained in a Board-School; lï¿½ =ï¿½ rushing about wildly and howling </s>
 <s> =58.= (1) I never put a cheque, received by me, on that file, unless I am anxious about it; (2) All the cheques received by me, that are not marked with a cross, are payable to bearer; (3) None of them are ever brought back to me, unless they have been dishonoured at the Bank; (4) All of them, that are marked with a cross, are for amounts of over Â£100; (5) All of them, that are not on that file, are marked "not negotiable"; (6) No cheque of yours, received by me, has ever been dishonoured; (7) I am never anxious about a cheque, received by me, unless it should happen to be brought back to me; (8) None of the cheques received by me, that are marked "not negotiable," are for amounts of over Â£100 </s>
 <s> Univ </s>
-<s> "cheques received by me"; aÂ =Â brought back to me; bÂ =Â cheques that I am anxious about; cÂ =Â honoured; dÂ =Â marked with a cross; eÂ =Â marked 'not negotiable'; hÂ =Â on that file; kÂ =Â over Â£100; lÂ =Â payable to bearer; mÂ =Â your </s>
+<s> "cheques received by me"; aï¿½ =ï¿½ brought back to me; bï¿½ =ï¿½ cheques that I am anxious about; cï¿½ =ï¿½ honoured; dï¿½ =ï¿½ marked with a cross; eï¿½ =ï¿½ marked 'not negotiable'; hï¿½ =ï¿½ on that file; kï¿½ =ï¿½ over Â£100; lï¿½ =ï¿½ payable to bearer; mï¿½ =ï¿½ your </s>
 <s> pg124 =59.= (1) All the dated letters in this room are written on blue paper; (2) None of them are in black ink, except those that are written in the third person; (3) I have not filed any of them that I can read; (4) None of them, that are written on one sheet, are undated; (5) All of them, that are not crossed, are in black ink; (6) All of them, written by Brown, begin with "Dear Sir"; (7) All of them, written on blue paper, are filed; (8) None of them, written on more than one sheet, are crossed; (9) None of them, that begin with "Dear Sir," are written in the third person </s>
 <s> Univ </s>
-<s> "letters in this room"; aÂ =Â beginning with "Dear Sir"; bÂ =Â crossed; cÂ =Â dated; dÂ =Â filed; eÂ =Â in black ink; hÂ =Â in third person; kÂ =Â letters that I can read; lÂ =Â on blue paper; mÂ =Â on one sheet; nÂ =Â written by Brown </s>
+<s> "letters in this room"; aï¿½ =ï¿½ beginning with "Dear Sir"; bï¿½ =ï¿½ crossed; cï¿½ =ï¿½ dated; dï¿½ =ï¿½ filed; eï¿½ =ï¿½ in black ink; hï¿½ =ï¿½ in third person; kï¿½ =ï¿½ letters that I can read; lï¿½ =ï¿½ on blue paper; mï¿½ =ï¿½ on one sheet; nï¿½ =ï¿½ written by Brown </s>
 <s> =60.= (1) The only animals in this house are cats; (2) Every animal is suitable for a pet, that loves to gaze at the moon; (3) When I detest an animal, I avoid it; (4) No animals are carnivorous, unless they prowl at night; (5) No cats fails to kill mice; (6) No animals ever take to me, except what are in this house; (7) Kangaroos are not suitable for pets; (8) None but carnivora kill mice; (9) I detest animals that do not take to me; (10) Animals, that prowl at night, always love to gaze at the moon </s>
 <s> Univ </s>
-<s> "animals"; aÂ =Â avoided by me; bÂ =Â carnivora; cÂ =Â cats; dÂ =Â detested by me; eÂ =Â in this house; hÂ =Â kangaroos; kÂ =Â killing mice; lÂ =Â loving to gaze at the moon; mÂ =Â prowling at night; nÂ =Â suitable for pets; rÂ =Â taking to me </s>
+<s> "animals"; aï¿½ =ï¿½ avoided by me; bï¿½ =ï¿½ carnivora; cï¿½ =ï¿½ cats; dï¿½ =ï¿½ detested by me; eï¿½ =ï¿½ in this house; hï¿½ =ï¿½ kangaroos; kï¿½ =ï¿½ killing mice; lï¿½ =ï¿½ loving to gaze at the moon; mï¿½ =ï¿½ prowling at night; nï¿½ =ï¿½ suitable for pets; rï¿½ =ï¿½ taking to me </s>
 <s> pg125 CHAPTER II </s>
 <s> _ANSWERS._ _Answers to Â§ 1._ AN1 1 </s>
 <s> "All" _Sign of Quantity._ "persons represented by the Name 'I'" (or "I's") _Subject._ "are" _Copula._ "persons who have been out for a walk" _Predicate._ or, more briefly, "All | 'I's | are | persons who have been out for a walk" </s>
@@ -3566,7 +3565,7 @@
 <s> 1-12._ SL5-A 1 </s>
 <s> I have been out for a walk; I am feeling better </s>
 <s> Univ </s>
-<s> is "persons"; mÂ =Â the Class of I's; xÂ =Â persons who have been out for a walk; yÂ =Â persons who are feeling better </s>
+<s> is "persons"; mï¿½ =ï¿½ the Class of I's; xï¿½ =ï¿½ persons who have been out for a walk; yï¿½ =ï¿½ persons who are feeling better </s>
 <s> Â·---------------Â· Â·-------Â· All m are x; | | | |(I)| | All m are y </s>
 <s> | Â·---|---Â· | |---|---| | |(I)|(O)| | | | | |---|---|---|---| Â·-------Â· | |(O)|(O)| | | Â·---|---Â· | '. </s>
 <s> Some x are y </s>
@@ -3575,7 +3574,7 @@
 <s> pg139 2 </s>
 <s> No one has read the letter but John; No one, who has _not_ read it, knows what it is about </s>
 <s> Univ </s>
-<s> is "persons"; mÂ =Â persons who have read the letter; xÂ =Â the Class of Johns; yÂ =Â persons who know what the letter is about </s>
+<s> is "persons"; mï¿½ =ï¿½ persons who have read the letter; xï¿½ =ï¿½ the Class of Johns; yï¿½ =ï¿½ persons who know what the letter is about </s>
 <s> Â·---------------Â· Â·-------Â· No x' are m; |(O) | | | | | No m' are y </s>
 <s> | Â·---|---Â· | |---|---| | | | | | |(O)| | |---|---|---|---| Â·-------Â· | |(O)|(O)| | | Â·---|---Â· | '. </s>
 <s> No x' are y </s>
@@ -3584,7 +3583,7 @@
 <s> 3 </s>
 <s> Those who are not old like walking; You and I are young </s>
 <s> Univ </s>
-<s> is "persons"; mÂ =Â old; xÂ =Â persons who like walking; yÂ =Â you and I </s>
+<s> is "persons"; mï¿½ =ï¿½ old; xï¿½ =ï¿½ persons who like walking; yï¿½ =ï¿½ you and I </s>
 <s> Â·---------------Â· Â·-------Â· All m' are x; |(I) | | |(I)| | All y are m' </s>
 <s> | Â·---|---Â· | |---|---| | |(O)| | | |(O)| | |---|---|---|---| Â·-------Â· | |(O)| | | | Â·---|---Â· | '. </s>
 <s> All y are x </s>
@@ -3593,7 +3592,7 @@
 <s> 4 </s>
 <s> Your course is always honest; Your course is always the best policy </s>
 <s> Univ </s>
-<s> is "courses"; mÂ =Â your; xÂ =Â honest; yÂ =Â courses which are the best policy </s>
+<s> is "courses"; mï¿½ =ï¿½ your; xï¿½ =ï¿½ honest; yï¿½ =ï¿½ courses which are the best policy </s>
 <s> Â·---------------Â· Â·-------Â· All m are x; | | | |(I)| | All m are y </s>
 <s> | Â·---|---Â· | |---|---| | |(I)|(O)| | | | | |---|---|---|---| Â·-------Â· | |(O)|(O)| | | Â·---|---Â· | '. </s>
 <s> Some x are y </s>
@@ -3602,7 +3601,7 @@
 <s> 5 </s>
 <s> No fat creatures run well; Some greyhounds run well </s>
 <s> Univ </s>
-<s> is "creatures"; mÂ =Â creatures that run well; xÂ =Â fat; yÂ =Â greyhounds </s>
+<s> is "creatures"; mï¿½ =ï¿½ creatures that run well; xï¿½ =ï¿½ fat; yï¿½ =ï¿½ greyhounds </s>
 <s> Â·---------------Â· Â·-------Â· No x are m; | | | | | | Some y are m </s>
 <s> | Â·---|---Â· | |---|---| | |(O)|(O)| | |(I)| | |---|---|---|---| Â·-------Â· | |(I)| | | | Â·---|---Â· | '. </s>
 <s> Some y are x' </s>
@@ -3611,7 +3610,7 @@
 <s> pg140 6 </s>
 <s> Some, who deserve the fair, get their deserts; None but the brave deserve the fair </s>
 <s> Univ </s>
-<s> is "persons"; mÂ =Â persons who deserve the fair; xÂ =Â persons who get their deserts; yÂ =Â brave </s>
+<s> is "persons"; mï¿½ =ï¿½ persons who deserve the fair; xï¿½ =ï¿½ persons who get their deserts; yï¿½ =ï¿½ brave </s>
 <s> Â·---------------Â· Â·-------Â· Some m are x; | | | |(I)| | No y' are m </s>
 <s> | Â·---|---Â· | |---|---| | |(I)|(O)| | | | | |---|---|---|---| Â·-------Â· | | |(O)| | | Â·---|---Â· | '. </s>
 <s> Some y are x </s>
@@ -3620,7 +3619,7 @@
 <s> 7 </s>
 <s> Some Jews are rich; All Esquimaux are Gentiles </s>
 <s> Univ </s>
-<s> is "persons"; mÂ =Â Jews; xÂ =Â rich; yÂ =Â Esquimaux </s>
+<s> is "persons"; mï¿½ =ï¿½ Jews; xï¿½ =ï¿½ rich; yï¿½ =ï¿½ Esquimaux </s>
 <s> Â·---------------Â· Â·-------Â· Some m are x; | | | | |(I)| All y are m' </s>
 <s> | Â·---|---Â· | |---|---| | |(O)|(I)| | | | | |(I)|---|---|---| Â·-------Â· | |(O)| | | | Â·---|---Â· | '. </s>
 <s> Some x are y' </s>
@@ -3629,13 +3628,13 @@
 <s> 8 </s>
 <s> Sugar-plums are sweet; Some sweet things are liked by children </s>
 <s> Univ </s>
-<s> is "things"; mÂ =Â sweet; xÂ =Â sugar-plums; yÂ =Â things that are liked by children </s>
+<s> is "things"; mï¿½ =ï¿½ sweet; xï¿½ =ï¿½ sugar-plums; yï¿½ =ï¿½ things that are liked by children </s>
 <s> Â·---------------Â· All x are m; |(O) | (O)| Some m are y </s>
 <s> | Â·---|---Â· | | | (I) | | |---|(I)|---|---| | | | | | | Â·---|---Â· | | | | Â·---------------Â· There is no Conclusion </s>
 <s> 9 </s>
 <s> John is in the house; Everybody in the house is ill </s>
 <s> Univ </s>
-<s> is "persons"; mÂ =Â persons in the house; xÂ =Â the Class of Johns; yÂ =Â ill </s>
+<s> is "persons"; mï¿½ =ï¿½ persons in the house; xï¿½ =ï¿½ the Class of Johns; yï¿½ =ï¿½ ill </s>
 <s> Â·---------------Â· Â·-------Â· All x are m; |(O) | (O)| |(I)|(O)| All m are y </s>
 <s> | Â·---|---Â· | |---|---| | |(I)|(O)| | | | | |---|---|---|---| Â·-------Â· | | |(O)| | | Â·---|---Â· | '. </s>
 <s> All x are y </s>
@@ -3644,7 +3643,7 @@
 <s> pg141 10 </s>
 <s> Umbrellas are useful on a journey; What is useless on a journey should be left behind </s>
 <s> Univ </s>
-<s> is "things"; mÂ =Â useful on a journey; xÂ =Â umbrellas; yÂ =Â things that should be left behind </s>
+<s> is "things"; mï¿½ =ï¿½ useful on a journey; xï¿½ =ï¿½ umbrellas; yï¿½ =ï¿½ things that should be left behind </s>
 <s> Â·---------------Â· Â·-------Â· All x are m; |(O) | (O)| | | | All m' are y </s>
 <s> | Â·---|---Â· | |---|---| | | (I) | | |(I)| | |---|---|---|---| Â·-------Â· | | | | | | Â·---|---Â· | '. </s>
 <s> Some x' are y </s>
@@ -3653,7 +3652,7 @@
 <s> 11 </s>
 <s> Audible music causes vibration in the air; Inaudible music is not worth paying for </s>
 <s> Univ </s>
-<s> is "music"; mÂ =Â audible; xÂ =Â music that causes vibration in the air; yÂ =Â worth paying for </s>
+<s> is "music"; mï¿½ =ï¿½ audible; xï¿½ =ï¿½ music that causes vibration in the air; yï¿½ =ï¿½ worth paying for </s>
 <s> Â·---------------Â· Â·-------Â· All m are x; |(O) | | | | | All m' are y' </s>
 <s> | Â·---|---Â· | |---|---| | | (I) | | |(O)| | |---|---|---|(I)| Â·-------Â· | |(O)|(O)| | | Â·---|---Â· | '. </s>
 <s> No x' are y </s>
@@ -3662,7 +3661,7 @@
 <s> 12 </s>
 <s> Some holidays are rainy; Rainy days are tiresome </s>
 <s> Univ </s>
-<s> is "days"; mÂ =Â rainy; xÂ =Â holidays; yÂ =Â tiresome </s>
+<s> is "days"; mï¿½ =ï¿½ rainy; xï¿½ =ï¿½ holidays; yï¿½ =ï¿½ tiresome </s>
 <s> Â·---------------Â· Â·-------Â· Some x are m; | | | |(I)| | All m are y </s>
 <s> | Â·---|---Â· | |---|---| | |(I)|(O)| | | | | |---|---|---|---| Â·-------Â· | | |(O)| | | Â·---|---Â· | '. </s>
 <s> Some x are y </s>
@@ -3714,7 +3713,7 @@
 <s> No doctors are enthusiastic; You are enthusiastic </s>
 <s> You are not a doctor </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â enthusiastic; xÂ =Â doctors; yÂ =Â you </s>
+<s> "persons"; mï¿½ =ï¿½ enthusiastic; xï¿½ =ï¿½ doctors; yï¿½ =ï¿½ you </s>
 <s> Â·---------------Â· Â·-------Â· |(O) | | |(O)| | | Â·---|---Â· | |---|---| No x are m; | |(O)|(O)| | |(I)| | All y are m </s>
 <s> |---|---|---|---| Â·-------Â· All y are x' </s>
 <s> | |(I)| | | | Â·---|---Â· | '. </s>
@@ -3724,7 +3723,7 @@
 <s> All dictionaries are useful; Useful books are valuable </s>
 <s> Dictionaries are valuable </s>
 <s> Univ </s>
-<s> "books"; mÂ =Â useful; xÂ =Â dictionaries; yÂ =Â valuable </s>
+<s> "books"; mï¿½ =ï¿½ useful; xï¿½ =ï¿½ dictionaries; yï¿½ =ï¿½ valuable </s>
 <s> Â·---------------Â· Â·-------Â· |(O) | (O)| |(I)|(O)| | Â·---|---Â· | |---|---| All x are m; | |(I)|(O)| | | | | All m are y </s>
 <s> |---|---|---|---| Â·-------Â· All x are y </s>
 <s> | | |(O)| | | Â·---|---Â· | '. </s>
@@ -3734,7 +3733,7 @@
 <s> No misers are unselfish; None but misers save egg-shells </s>
 <s> No unselfish people save egg-shells </s>
 <s> Univ </s>
-<s> "people"; mÂ =Â misers; xÂ =Â selfish; yÂ =Â people who save egg-shells </s>
+<s> "people"; mï¿½ =ï¿½ misers; xï¿½ =ï¿½ selfish; yï¿½ =ï¿½ people who save egg-shells </s>
 <s> Â·---------------Â· Â·-------Â· |(O) | | | | | | Â·---|---Â· | |---|---| No m are x'; | | | | | |(O)| | No m' are y </s>
 <s> |---|---|---|---| Â·-------Â· No x' are y </s>
 <s> | |(O)|(O)| | | Â·---|---Â· | '. </s>
@@ -3744,7 +3743,7 @@
 <s> Some epicures are ungenerous; All my uncles are generous </s>
 <s> My uncles are not epicures </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â generous; xÂ =Â epicures; yÂ =Â my uncles </s>
+<s> "persons"; mï¿½ =ï¿½ generous; xï¿½ =ï¿½ epicures; yï¿½ =ï¿½ my uncles </s>
 <s> Â·---------------Â· Â·-------Â· |(O) | (I)| | |(I)| | Â·---|---Â· | |---|---| Some x are m' </s>
 <s> | | | | | | | | All y are m </s>
 <s> |---|(I)|---|---| Â·-------Â· All y are x' </s>
@@ -3755,7 +3754,7 @@
 <s> Gold is heavy; Nothing but gold will silence him </s>
 <s> Nothing light will silence him </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â gold; xÂ =Â heavy; yÂ =Â able to silence him </s>
+<s> "things"; mï¿½ =ï¿½ gold; xï¿½ =ï¿½ heavy; yï¿½ =ï¿½ able to silence him </s>
 <s> Â·---------------Â· Â·-------Â· |(O) | | | | | | Â·---|---Â· | |---|---| All m are x; | | (I) | | |(O)| | No m' are y </s>
 <s> |---|---|---|---| Â·-------Â· No x' are y </s>
 <s> | |(O)|(O)| | | Â·---|---Â· | '. </s>
@@ -3765,7 +3764,7 @@
 <s> Some healthy people are fat; No unhealthy people are strong </s>
 <s> Some fat people are not strong </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â healthy; xÂ =Â fat; yÂ =Â strong </s>
+<s> "persons"; mï¿½ =ï¿½ healthy; xï¿½ =ï¿½ fat; yï¿½ =ï¿½ strong </s>
 <s> Â·---------------Â· |(O) | | | Â·---|---Â· | Some m are x; | | (I) | | No m' are y </s>
 <s> |---|---|---|---| There is no Conclusion </s>
 <s> Some x are y'.| | | | | | Â·---|---Â· | |(O) | | Â·---------------Â· pg146 Â§ 3 </s>
@@ -3958,7 +3957,7 @@
 <s> 13-24._ SL5-B 13 </s>
 <s> No Frenchmen like plumpudding; All Englishmen like plumpudding </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â liking plumpudding; xÂ =Â French; yÂ =Â English </s>
+<s> "men"; mï¿½ =ï¿½ liking plumpudding; xï¿½ =ï¿½ French; yï¿½ =ï¿½ English </s>
 <s> xm_{0} + y_{1}m'_{0} Â¶ y_{1}x_{0} [Fig </s>
 <s> I (a) </s>
 <s> i.e </s>
@@ -3966,7 +3965,7 @@
 <s> 14 </s>
 <s> No portrait of a lady, that makes her simper or scowl, is satisfactory; No photograph of a lady ever fails to make her simper or scowl </s>
 <s> Univ </s>
-<s> "portraits of ladies"; mÂ =Â making the subject simper or scowl; xÂ =Â satisfactory; yÂ =Â photographic </s>
+<s> "portraits of ladies"; mï¿½ =ï¿½ making the subject simper or scowl; xï¿½ =ï¿½ satisfactory; yï¿½ =ï¿½ photographic </s>
 <s> mx_{0} + ym'_{0} Â¶ xy_{0} [Fig </s>
 <s> I </s>
 <s> i.e </s>
@@ -3974,7 +3973,7 @@
 <s> 15 </s>
 <s> All pale people are phlegmatic; No one looks poetical unless he is pale </s>
 <s> Univ </s>
-<s> "people"; mÂ =Â pale; xÂ =Â phlegmatic; yÂ =Â looking poetical </s>
+<s> "people"; mï¿½ =ï¿½ pale; xï¿½ =ï¿½ phlegmatic; yï¿½ =ï¿½ looking poetical </s>
 <s> m_{1}x'_{0} + m'y_{0} Â¶ x'y_{0} [Fig </s>
 <s> I </s>
 <s> i.e </s>
@@ -3982,7 +3981,7 @@
 <s> 16 </s>
 <s> No old misers are cheerful; Some old misers are thin </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â old misers; xÂ =Â cheerful; yÂ =Â thin </s>
+<s> "persons"; mï¿½ =ï¿½ old misers; xï¿½ =ï¿½ cheerful; yï¿½ =ï¿½ thin </s>
 <s> mx_{0} + my_{1} Â¶ x'y_{1} [Fig </s>
 <s> II </s>
 <s> i.e </s>
@@ -3990,7 +3989,7 @@
 <s> 17 </s>
 <s> No one, who exercises self-control, fails to keep his temper; Some judges lose their tempers </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â keeping their tempers; xÂ =Â exercising self-control; yÂ =Â judges </s>
+<s> "persons"; mï¿½ =ï¿½ keeping their tempers; xï¿½ =ï¿½ exercising self-control; yï¿½ =ï¿½ judges </s>
 <s> xm'_{0} + ym'_{1} Â¶ x'y_{1} [Fig </s>
 <s> II </s>
 <s> i.e </s>
@@ -3998,7 +3997,7 @@
 <s> pg148 18 </s>
 <s> All pigs are fat; Nothing that is fed on barley-water is fat </s>
 <s> Univ </s>
-<s> is "things"; mÂ =Â fat; xÂ =Â pigs; yÂ =Â fed on barley-water </s>
+<s> is "things"; mï¿½ =ï¿½ fat; xï¿½ =ï¿½ pigs; yï¿½ =ï¿½ fed on barley-water </s>
 <s> x_{1}m'_{0} + ym_{0} Â¶ x_{1}y_{0} [Fig </s>
 <s> I (a) </s>
 <s> i.e </s>
@@ -4006,7 +4005,7 @@
 <s> 19 </s>
 <s> All rabbits, that are not greedy, are black; No old rabbits are free from greediness </s>
 <s> Univ </s>
-<s> is "rabbits"; mÂ =Â greedy; xÂ =Â black; yÂ =Â old </s>
+<s> is "rabbits"; mï¿½ =ï¿½ greedy; xï¿½ =ï¿½ black; yï¿½ =ï¿½ old </s>
 <s> m'_{1}x'_{0} + ym'_{0} Â¶ xy'_{1} [Fig </s>
 <s> III </s>
 <s> i.e </s>
@@ -4014,17 +4013,17 @@
 <s> 20 </s>
 <s> Some pictures are not first attempts; No first attempts are really good </s>
 <s> Univ </s>
-<s> is "things"; mÂ =Â first attempts; xÂ =Â pictures; yÂ =Â really good </s>
+<s> is "things"; mï¿½ =ï¿½ first attempts; xï¿½ =ï¿½ pictures; yï¿½ =ï¿½ really good </s>
 <s> xm'_{1} + my_{0} Â¶ nothing </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 21 </s>
 <s> I never neglect important business; Your business is unimportant </s>
 <s> Univ </s>
-<s> is "business"; mÂ =Â important; xÂ =Â neglected by me; yÂ =Â your </s>
+<s> is "business"; mï¿½ =ï¿½ important; xï¿½ =ï¿½ neglected by me; yï¿½ =ï¿½ your </s>
 <s> mx_{0} + y_{1}m_{0} Â¶ nothing </s>
 <s> [Fallacy of Like Eliminands not asserted to exist.] 22 </s>
 <s> Some lessons are difficult; What is difficult needs attention </s>
 <s> Univ </s>
-<s> is "things"; mÂ =Â difficult; xÂ =Â lessons; yÂ =Â needing attention </s>
+<s> is "things"; mï¿½ =ï¿½ difficult; xï¿½ =ï¿½ lessons; yï¿½ =ï¿½ needing attention </s>
 <s> xm_{1} + m_{1}y'_{0} Â¶ xy_{1} [Fig </s>
 <s> II </s>
 <s> i.e </s>
@@ -4032,12 +4031,12 @@
 <s> 23 </s>
 <s> All clever people are popular; All obliging people are popular </s>
 <s> Univ </s>
-<s> is "people"; mÂ =Â popular; xÂ =Â clever; yÂ =Â obliging </s>
+<s> is "people"; mï¿½ =ï¿½ popular; xï¿½ =ï¿½ clever; yï¿½ =ï¿½ obliging </s>
 <s> x_{1}m'_{0} + y_{1}m'_{0} Â¶ nothing </s>
 <s> [Fallacy of Like Eliminands not asserted to exist.] 24 </s>
 <s> Thoughtless people do mischief; No thoughtful person forgets a promise </s>
 <s> Univ </s>
-<s> is "persons"; mÂ =Â thoughtful; xÂ =Â mischievous; yÂ =Â forgetful of promises </s>
+<s> is "persons"; mï¿½ =ï¿½ thoughtful; xï¿½ =ï¿½ mischievous; yï¿½ =ï¿½ forgetful of promises </s>
 <s> m'_{1}x'_{0} + my_{0} Â¶ x'y_{0} i.e </s>
 <s> No one, who forgets a promise, fails to do mischief </s>
 <s> _Solutions for Â§ 6._ SL6-B 1 </s>
@@ -4140,7 +4139,7 @@
 <s> No doctors are enthusiastic; You are enthusiastic </s>
 <s> You are not a doctor </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â enthusiastic; xÂ =Â doctors; yÂ =Â you </s>
+<s> "persons"; mï¿½ =ï¿½ enthusiastic; xï¿½ =ï¿½ doctors; yï¿½ =ï¿½ you </s>
 <s> xm_{0} + y_{1}m'_{0} Â¶ y_{1}x_{0} [Fig </s>
 <s> I (a) </s>
 <s> Conclusion right </s>
@@ -4148,7 +4147,7 @@
 <s> Dictionaries are useful; Useful books are valuable </s>
 <s> Dictionaries are valuable </s>
 <s> Univ </s>
-<s> "books"; mÂ =Â useful; xÂ =Â dictionaries; yÂ =Â valuable </s>
+<s> "books"; mï¿½ =ï¿½ useful; xï¿½ =ï¿½ dictionaries; yï¿½ =ï¿½ valuable </s>
 <s> x_{1}m'_{0} + m_{1}y'_{0} Â¶ x_{1}y'_{0} [Fig </s>
 <s> I (a) </s>
 <s> Conclusion right </s>
@@ -4156,7 +4155,7 @@
 <s> No misers are unselfish; None but misers save egg-shells </s>
 <s> No unselfish people save egg-shells </s>
 <s> Univ </s>
-<s> "people"; mÂ =Â misers; xÂ =Â selfish; yÂ =Â people who save egg-shells </s>
+<s> "people"; mï¿½ =ï¿½ misers; xï¿½ =ï¿½ selfish; yï¿½ =ï¿½ people who save egg-shells </s>
 <s> mx'_{0} + m'y_{0} Â¶ x'y_{0} [Fig </s>
 <s> I </s>
 <s> Conclusion right </s>
@@ -4164,7 +4163,7 @@
 <s> Some epicures are ungenerous; All my uncles are generous </s>
 <s> My uncles are not epicures </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â generous; xÂ =Â epicures; yÂ =Â my uncles </s>
+<s> "persons"; mï¿½ =ï¿½ generous; xï¿½ =ï¿½ epicures; yï¿½ =ï¿½ my uncles </s>
 <s> xm'_{1} + y_{1}m'_{0} Â¶ xy'_{1} [Fig </s>
 <s> II </s>
 <s> Conclusion wrong: right one is "Some epicures are not uncles of mine" </s>
@@ -4172,7 +4171,7 @@
 <s> Gold is heavy; Nothing but gold will silence him </s>
 <s> Nothing light will silence him </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â gold; xÂ =Â heavy; yÂ =Â able to silence him </s>
+<s> "things"; mï¿½ =ï¿½ gold; xï¿½ =ï¿½ heavy; yï¿½ =ï¿½ able to silence him </s>
 <s> m_{1}x'_{0} + m'y_{0} Â¶ x'y_{0} [Fig </s>
 <s> I </s>
 <s> Conclusion right </s>
@@ -4180,13 +4179,13 @@
 <s> Some healthy people are fat; No unhealthy people are strong </s>
 <s> Some fat people are not strong </s>
 <s> Univ </s>
-<s> "people"; mÂ =Â healthy; xÂ =Â fat; yÂ =Â strong </s>
+<s> "people"; mï¿½ =ï¿½ healthy; xï¿½ =ï¿½ fat; yï¿½ =ï¿½ strong </s>
 <s> mx_{1} + m'y_{0} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 7 </s>
 <s> I saw it in a newspaper; All newspapers tell lies </s>
 <s> It was a lie </s>
 <s> Univ </s>
-<s> "publications"; mÂ =Â newspapers; xÂ =Â publications in which I saw it; yÂ =Â telling lies </s>
+<s> "publications"; mï¿½ =ï¿½ newspapers; xï¿½ =ï¿½ publications in which I saw it; yï¿½ =ï¿½ telling lies </s>
 <s> x_{1}m'_{0} + m_{1}y'_{0} Â¶ x_{1}y'_{0} [Fig </s>
 <s> I (a) </s>
 <s> Conclusion wrong: right one is "The publication, in which I saw it, tells lies" </s>
@@ -4194,14 +4193,14 @@
 <s> Some cravats are not artistic; I admire anything artistic </s>
 <s> There are some cravats that I do not admire </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â artistic; xÂ =Â cravats; yÂ =Â things that I admire </s>
+<s> "things"; mï¿½ =ï¿½ artistic; xï¿½ =ï¿½ cravats; yï¿½ =ï¿½ things that I admire </s>
 <s> xm_{1} + m_{1}y_{0} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 9 </s>
 <s> His songs never last an hour </s>
 <s> A song, that lasts an hour, is tedious </s>
 <s> His songs are never tedious </s>
 <s> Univ </s>
-<s> "songs"; mÂ =Â lasting an hour; xÂ =Â his; yÂ =Â tedious </s>
+<s> "songs"; mï¿½ =ï¿½ lasting an hour; xï¿½ =ï¿½ his; yï¿½ =ï¿½ tedious </s>
 <s> x_{1}m_{0} + m_{1}y'_{0} Â¶ x'y_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion wrong: right one is "Some tedious songs are not his" </s>
@@ -4209,7 +4208,7 @@
 <s> Some candles give very little light; Candles are meant to give light </s>
 <s> Some things, that are meant to give light, give very little </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â candles; xÂ =Â giving &c.; yÂ =Â meant &c </s>
+<s> "things"; mï¿½ =ï¿½ candles; xï¿½ =ï¿½ giving &c.; yï¿½ =ï¿½ meant &c </s>
 <s> mx_{1} + m_{1}y'_{0} Â¶ xy_{1} [Fig </s>
 <s> II </s>
 <s> Conclusion right </s>
@@ -4218,13 +4217,13 @@
 <s> Some of these boys work hard </s>
 <s> Some of these boys are anxious to learn </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â hard-working; xÂ =Â anxious to learn; yÂ =Â these boys </s>
+<s> "persons"; mï¿½ =ï¿½ hard-working; xï¿½ =ï¿½ anxious to learn; yï¿½ =ï¿½ these boys </s>
 <s> x_{1}m'_{0} + ym_{1} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 12 </s>
 <s> All lions are fierce; Some lions do not drink coffee </s>
 <s> Some creatures that drink coffee are not fierce </s>
 <s> Univ </s>
-<s> "creatures"; mÂ =Â lions; xÂ =Â fierce; yÂ =Â creatures that drink coffee </s>
+<s> "creatures"; mï¿½ =ï¿½ lions; xï¿½ =ï¿½ fierce; yï¿½ =ï¿½ creatures that drink coffee </s>
 <s> m_{1}x'_{0} + my'_{1} Â¶ xy'_{1} [Fig </s>
 <s> II </s>
 <s> Conclusion wrong: right one is "Some fierce creatures do not drink coffee" </s>
@@ -4232,13 +4231,13 @@
 <s> No misers are generous; Some old men are ungenerous </s>
 <s> Some old men are misers </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â generous; xÂ =Â misers; yÂ =Â old men </s>
+<s> "persons"; mï¿½ =ï¿½ generous; xï¿½ =ï¿½ misers; yï¿½ =ï¿½ old men </s>
 <s> xm_{0} + ym'_{1} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 14 </s>
 <s> No fossil can be crossed in love; An oyster may be crossed in love </s>
 <s> Oysters are not fossils </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â things that can be crossed in love; xÂ =Â fossils; yÂ =Â oysters </s>
+<s> "things"; mï¿½ =ï¿½ things that can be crossed in love; xï¿½ =ï¿½ fossils; yï¿½ =ï¿½ oysters </s>
 <s> xm_{0} + y_{1}m'_{0} Â¶ y_{1}x_{0} [Fig </s>
 <s> I (a) </s>
 <s> Conclusion right </s>
@@ -4246,7 +4245,7 @@
 <s> All uneducated people are shallow; Students are all educated </s>
 <s> No students are shallow </s>
 <s> Univ </s>
-<s> "people"; mÂ =Â educated; xÂ =Â shallow; yÂ =Â students </s>
+<s> "people"; mï¿½ =ï¿½ educated; xï¿½ =ï¿½ shallow; yï¿½ =ï¿½ students </s>
 <s> m'_{1}x'_{0} + y_{1}m'_{0} Â¶ xy'_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion wrong: right one is "Some shallow people are not students" </s>
@@ -4254,13 +4253,13 @@
 <s> All young lambs jump; No young animals are healthy, unless they jump </s>
 <s> All young lambs are healthy </s>
 <s> Univ </s>
-<s> "young animals"; mÂ =Â young animals that jump; xÂ =Â lambs; yÂ =Â healthy </s>
+<s> "young animals"; mï¿½ =ï¿½ young animals that jump; xï¿½ =ï¿½ lambs; yï¿½ =ï¿½ healthy </s>
 <s> x_{1}m'_{0} + m'y_{0} No Conclusion </s>
 <s> [Fallacy of Like Eliminands not asserted to exist.] 17 </s>
 <s> Ill-managed business is unprofitable; Railways are never ill-managed </s>
 <s> All railways are profitable </s>
 <s> Univ </s>
-<s> "business"; mÂ =Â ill-managed; xÂ =Â profitable; yÂ =Â railways </s>
+<s> "business"; mï¿½ =ï¿½ ill-managed; xï¿½ =ï¿½ profitable; yï¿½ =ï¿½ railways </s>
 <s> m_{1}x_{0} + y_{1}m_{0} Â¶ x'y'_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion wrong: right one is "Some business, other than railways, is profitable" </s>
@@ -4268,7 +4267,7 @@
 <s> No Professors are ignorant; All ignorant people are vain </s>
 <s> No Professors are vain </s>
 <s> Univ </s>
-<s> "people"; mÂ =Â ignorant; xÂ =Â Professors; yÂ =Â vain </s>
+<s> "people"; mï¿½ =ï¿½ ignorant; xï¿½ =ï¿½ Professors; yï¿½ =ï¿½ vain </s>
 <s> xm_{0} + m_{1}y'_{0} Â¶ x'y_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion wrong: right one is "Some vain persons are not Professors" </s>
@@ -4277,7 +4276,7 @@
 <s> No banker is imprudent </s>
 <s> No banker fails to shun hyÃ¦nas </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â prudent; xÂ =Â shunning hyÃ¦nas; yÂ =Â bankers </s>
+<s> "men"; mï¿½ =ï¿½ prudent; xï¿½ =ï¿½ shunning hyÃ¦nas; yï¿½ =ï¿½ bankers </s>
 <s> m_{1}x'_{0} + ym'_{0} Â¶ x'y_{0} [Fig </s>
 <s> I </s>
 <s> Conclusion right </s>
@@ -4285,7 +4284,7 @@
 <s> All wasps are unfriendly; No puppies are unfriendly </s>
 <s> No puppies are wasps </s>
 <s> Univ </s>
-<s> "creatures"; mÂ =Â friendly; xÂ =Â wasps; yÂ =Â puppies </s>
+<s> "creatures"; mï¿½ =ï¿½ friendly; xï¿½ =ï¿½ wasps; yï¿½ =ï¿½ puppies </s>
 <s> x_{1}m_{0} + ym'_{0} Â¶ x_{1}y_{0} [Fig </s>
 <s> I (a) </s>
 <s> Conclusion incomplete: complete one is "Wasps are not puppies" </s>
@@ -4293,19 +4292,19 @@
 <s> No Jews are honest; Some Gentiles are rich </s>
 <s> Some rich people are dishonest </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â Jews; xÂ =Â honest; yÂ =Â rich </s>
+<s> "persons"; mï¿½ =ï¿½ Jews; xï¿½ =ï¿½ honest; yï¿½ =ï¿½ rich </s>
 <s> mx_{0} + m'y_{1} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] pg153 22 </s>
 <s> No idlers win fame; Some painters are not idle </s>
 <s> Some painters win fame </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â idlers; xÂ =Â persons who win fame; yÂ =Â painters </s>
+<s> "persons"; mï¿½ =ï¿½ idlers; xï¿½ =ï¿½ persons who win fame; yï¿½ =ï¿½ painters </s>
 <s> mx_{0} + ym'_{1} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 23 </s>
 <s> No monkeys are soldiers; All monkeys are mischievous </s>
 <s> Some mischievous creatures are not soldiers </s>
 <s> Univ </s>
-<s> "creatures"; mÂ =Â monkeys; xÂ =Â soldiers; yÂ =Â mischievous </s>
+<s> "creatures"; mï¿½ =ï¿½ monkeys; xï¿½ =ï¿½ soldiers; yï¿½ =ï¿½ mischievous </s>
 <s> mx_{0} + m_{1}y'_{0} Â¶ x'y_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion right </s>
@@ -4313,7 +4312,7 @@
 <s> All these bonbons are chocolate-creams; All these bonbons are delicious </s>
 <s> Chocolate-creams are delicious </s>
 <s> Univ </s>
-<s> "food"; mÂ =Â these bonbons; xÂ =Â chocolate-creams; yÂ =Â delicious </s>
+<s> "food"; mï¿½ =ï¿½ these bonbons; xï¿½ =ï¿½ chocolate-creams; yï¿½ =ï¿½ delicious </s>
 <s> m_{1}x'_{0} + m_{1}y'_{0} Â¶ xy_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion wrong, being in excess of the right one, which is "Some chocolate-creams are delicious" </s>
@@ -4321,19 +4320,19 @@
 <s> No muffins are wholesome; All buns are unwholesome </s>
 <s> Buns are not muffins </s>
 <s> Univ </s>
-<s> "food"; mÂ =Â wholesome; xÂ =Â muffins; yÂ =Â buns </s>
+<s> "food"; mï¿½ =ï¿½ wholesome; xï¿½ =ï¿½ muffins; yï¿½ =ï¿½ buns </s>
 <s> xm_{0} + y_{1}m_{0} No Conclusion </s>
 <s> [Fallacy of Like Eliminands not asserted to exist.] 26 </s>
 <s> Some unauthorised reports are false; All authorised reports are trustworthy </s>
 <s> Some false reports are not trustworthy </s>
 <s> Univ </s>
-<s> "reports"; mÂ =Â authorised; xÂ =Â true; yÂ =Â trustworthy </s>
+<s> "reports"; mï¿½ =ï¿½ authorised; xï¿½ =ï¿½ true; yï¿½ =ï¿½ trustworthy </s>
 <s> m'x'_{1} + m_{1}y'_{0} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 27 </s>
 <s> Some pillows are soft; No pokers are soft </s>
 <s> Some pokers are not pillows </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â soft; xÂ =Â pillows; yÂ =Â pokers </s>
+<s> "things"; mï¿½ =ï¿½ soft; xï¿½ =ï¿½ pillows; yï¿½ =ï¿½ pokers </s>
 <s> xm_{1} + ym_{0} Â¶ xy'_{1} [Fig </s>
 <s> II </s>
 <s> Conclusion wrong: right one is "Some pillows are not pokers" </s>
@@ -4341,7 +4340,7 @@
 <s> Improbable stories are not easily believed; None of his stories are probable </s>
 <s> None of his stories are easily believed </s>
 <s> Univ </s>
-<s> "stories"; mÂ =Â probable; xÂ =Â easily believed; yÂ =Â his </s>
+<s> "stories"; mï¿½ =ï¿½ probable; xï¿½ =ï¿½ easily believed; yï¿½ =ï¿½ his </s>
 <s> m'_{1}x_{0} + ym_{0} Â¶ xy_{0} [Fig </s>
 <s> I </s>
 <s> Conclusion right </s>
@@ -4349,19 +4348,19 @@
 <s> No thieves are honest; Some dishonest people are found out </s>
 <s> Some thieves are found out </s>
 <s> Univ </s>
-<s> "people"; mÂ =Â honest; xÂ =Â thieves; yÂ =Â found out </s>
+<s> "people"; mï¿½ =ï¿½ honest; xï¿½ =ï¿½ thieves; yï¿½ =ï¿½ found out </s>
 <s> xm_{0} + m'y_{1} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 30 </s>
 <s> No muffins are wholesome; All puffy food is unwholesome </s>
 <s> All muffins are puffy </s>
 <s> Univ </s>
-<s> is "food"; mÂ =Â wholesome; xÂ =Â muffins; yÂ =Â puffy </s>
+<s> is "food"; mï¿½ =ï¿½ wholesome; xï¿½ =ï¿½ muffins; yï¿½ =ï¿½ puffy </s>
 <s> xm_{0} + y_{1}m_{0} No Conclusion </s>
 <s> [Fallacy of Like Eliminands not asserted to exist.] 31 </s>
 <s> No birds, except peacocks, are proud of their tails; Some birds, that are proud of their tails, cannot sing </s>
 <s> Some peacocks cannot sing </s>
 <s> Univ </s>
-<s> "birds"; mÂ =Â proud of their tails; xÂ =Â peacocks; yÂ =Â birds that cannot sing </s>
+<s> "birds"; mï¿½ =ï¿½ proud of their tails; xï¿½ =ï¿½ peacocks; yï¿½ =ï¿½ birds that cannot sing </s>
 <s> x'm_{0} + my'_{1} Â¶ xy'_{1} [Fig </s>
 <s> II </s>
 <s> Conclusion right </s>
@@ -4369,19 +4368,19 @@
 <s> Warmth relieves pain; Nothing, that does not relieve pain, is useful in toothache </s>
 <s> Warmth is useful in toothache </s>
 <s> Univ </s>
-<s> "applications"; mÂ =Â relieving pain; xÂ =Â warmth; yÂ =Â useful in toothache </s>
+<s> "applications"; mï¿½ =ï¿½ relieving pain; xï¿½ =ï¿½ warmth; yï¿½ =ï¿½ useful in toothache </s>
 <s> x_{1}m'_{0} + m'y_{0} No Conclusion </s>
 <s> [Fallacy of Like Eliminands not asserted to exist.] 33 </s>
 <s> No bankrupts are rich; Some merchants are not bankrupts </s>
 <s> Some merchants are rich </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â bankrupts; xÂ =Â rich; yÂ =Â merchants </s>
+<s> "persons"; mï¿½ =ï¿½ bankrupts; xï¿½ =ï¿½ rich; yï¿½ =ï¿½ merchants </s>
 <s> mx_{0} + ym'_{1} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 34 </s>
 <s> Bores are dreaded; No bore is ever begged to prolong his visit </s>
 <s> No one, who is dreaded, is ever begged to prolong his visit </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â bores; xÂ =Â dreaded; yÂ =Â begged to prolong their visits </s>
+<s> "persons"; mï¿½ =ï¿½ bores; xï¿½ =ï¿½ dreaded; yï¿½ =ï¿½ begged to prolong their visits </s>
 <s> m_{1}x'_{0} + my_{0} Â¶ xy'_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion wrong: the right one is "Some dreaded persons are not begged to prolong their visits" </s>
@@ -4389,7 +4388,7 @@
 <s> All wise men walk on their feet; All unwise men walk on their hands </s>
 <s> No man walks on both </s>
 <s> Univ </s>
-<s> "men"; mÂ =Â wise; xÂ =Â walking on their feet; yÂ =Â walking on their hands </s>
+<s> "men"; mï¿½ =ï¿½ wise; xï¿½ =ï¿½ walking on their feet; yï¿½ =ï¿½ walking on their hands </s>
 <s> m_{1}x'_{0} + m'_{1}y'_{0} Â¶ x'y'_{0} [Fig </s>
 <s> I </s>
 <s> Conclusion wrong: right one is "No man walks on neither" </s>
@@ -4397,7 +4396,7 @@
 <s> No wheelbarrows are comfortable; No uncomfortable vehicles are popular </s>
 <s> No wheelbarrows are popular </s>
 <s> Univ </s>
-<s> "vehicles"; mÂ =Â comfortable; xÂ =Â wheelbarrows; yÂ =Â popular </s>
+<s> "vehicles"; mï¿½ =ï¿½ comfortable; xï¿½ =ï¿½ wheelbarrows; yï¿½ =ï¿½ popular </s>
 <s> xm_{0} + m'x_{0} Â¶ xy_{0} [Fig </s>
 <s> I </s>
 <s> Conclusion right </s>
@@ -4405,13 +4404,13 @@
 <s> No frogs are poetical; Some ducks are unpoetical </s>
 <s> Some ducks are not frogs </s>
 <s> Univ </s>
-<s> "creatures"; mÂ =Â poetical; xÂ =Â frogs; yÂ =Â ducks </s>
+<s> "creatures"; mï¿½ =ï¿½ poetical; xï¿½ =ï¿½ frogs; yï¿½ =ï¿½ ducks </s>
 <s> xm_{0} + ym'_{1} No Conclusion </s>
 <s> [Fallacy of Unlike Eliminands with an Entity-Premiss.] 38 </s>
 <s> No emperors are dentists; All dentists are dreaded by children </s>
 <s> No emperors are dreaded by children </s>
 <s> Univ </s>
-<s> "persons"; mÂ =Â dentists; xÂ =Â emperors; yÂ =Â dreaded by children </s>
+<s> "persons"; mï¿½ =ï¿½ dentists; xï¿½ =ï¿½ emperors; yï¿½ =ï¿½ dreaded by children </s>
 <s> xm_{0} + m_{1}y'_{0} Â¶ x'y_{1} [Fig </s>
 <s> III </s>
 <s> Conclusion wrong: right one is "Some persons, dreaded by children, are not emperors" </s>
@@ -4419,7 +4418,7 @@
 <s> Sugar is sweet; Salt is not sweet </s>
 <s> Salt is not sugar </s>
 <s> Univ </s>
-<s> "things"; mÂ =Â sweet; xÂ =Â sugar; yÂ =Â salt </s>
+<s> "things"; mï¿½ =ï¿½ sweet; xï¿½ =ï¿½ sugar; yï¿½ =ï¿½ salt </s>
 <s> x_{1}m'_{0} + y_{1}m_{0} Â¶ (x_{1}y_{0} + y_{1}x_{0}) [Fig </s>
 <s> I (b) </s>
 <s> Conclusion incomplete: omitted portion is "Sugar is not salt" </s>
@@ -4427,7 +4426,7 @@
 <s> Every eagle can fly; Some pigs cannot fly </s>
 <s> Some pigs are not eagles </s>
 <s> Univ </s>
-<s> "creatures"; mÂ =Â creatures that can fly; xÂ =Â eagles; yÂ =Â pigs </s>
+<s> "creatures"; mï¿½ =ï¿½ creatures that can fly; xï¿½ =ï¿½ eagles; yï¿½ =ï¿½ pigs </s>
 <s> x_{1}m'_{0} + ym'_{1} Â¶ x'y_{1} [Fig </s>
 <s> II </s>
 <s> Conclusion right </s>
@@ -4959,7 +4958,7 @@
 <s> Some not-gamblers are not philosophers" </s>
 <s> The validity of _Ferio_ follows directly from the Axiom '_De Omni et Nullo_' </s>
 <s> (2) _Symbolic Representation._ Before proceeding to discuss other Methods of Solution, it is necessary to translate our Syllogism into an _abstract_ form </s>
-<s> Let us take "persons" as our 'Universe of Discourse'; and let xÂ =Â "philosophers", mÂ =Â "conceited", and yÂ =Â "gamblers" </s>
+<s> Let us take "persons" as our 'Universe of Discourse'; and let xï¿½ =ï¿½ "philosophers", mï¿½ =ï¿½ "conceited", and yï¿½ =ï¿½ "gamblers" </s>
 <s> Then the Syllogism may be written thus:-- "No x are m; Some m are y' </s>
 <s> '. </s>
 <s> Some y' are x'" </s>
@@ -5044,7 +5043,7 @@
 <s> (13) A man, who has lost money and does not eat pork-chops for supper, had better take to cab-driving, unless he gets up at 5 a.m </s>
 <s> (14) A gambler, who goes to bed before 4 a.m., need not take to cab-driving, unless he has a ravenous appetite; (15) A man with a ravenous appetite, who is depressed though in no danger of losing, is a gambler </s>
 <s> Univ </s>
-<s> "men"; aÂ =Â earnest; bÂ =Â eating pork-chops for supper; cÂ =Â gamblers; dÂ =Â getting up at 5; eÂ =Â having lost money; hÂ =Â having a ravenous appetite; kÂ =Â likely to lose money; lÂ =Â lively; mÂ =Â logicians; nÂ =Â men who had better take to cab-driving; rÂ =Â sitting up till 4 </s>
+<s> "men"; aï¿½ =ï¿½ earnest; bï¿½ =ï¿½ eating pork-chops for supper; cï¿½ =ï¿½ gamblers; dï¿½ =ï¿½ getting up at 5; eï¿½ =ï¿½ having lost money; hï¿½ =ï¿½ having a ravenous appetite; kï¿½ =ï¿½ likely to lose money; lï¿½ =ï¿½ lively; mï¿½ =ï¿½ logicians; nï¿½ =ï¿½ men who had better take to cab-driving; rï¿½ =ï¿½ sitting up till 4 </s>
 <s> [N.B </s>
 <s> In this Problem, clauses, beginning with "though", are intended to be treated as _essential_ parts of the Propositions in which they occur, just as if they had begun with "and".] 3 </s>
 <s> (1) When the day is fine, I tell Froggy "You're quite the dandy, old chap"!; (2) Whenever I let Froggy forget that Â£10 he owes me, and he begins to strut about like a peacock, his mother declares "He shall _not_ go out a-wooing"!; (3) Now that Froggy's hair is out of curl, he has put away his gorgeous waistcoat; (4) Whenever I go out on the roof to enjoy a quiet cigar, I'm sure to discover that my purse is empty; (5) When my tailor calls with his little bill, and I remind Froggy of that Â£10 he owes me, he does _not_ grin like a hyÃ¦na; pg189 (6) When it is very hot, the thermometer is high; (7) When the day is fine, and I'm not in the humour for a cigar, and Froggy is grinning like a hyÃ¦na, I never venture to hint that he's quite the dandy; (8) When my tailor calls with his little bill and finds me with an empty purse, I remind Froggy of that Â£10 he owes me; (9) My railway-shares are going up like anything </s>
@@ -5052,7 +5051,7 @@
 <s> pg190 4 </s>
 <s> (1) Any one, fit to be an M.P., who is not always speaking, is a public benefactor; (2) Clear-headed people, who express themselves well, have had a good education; (3) A woman, who deserves praise, is one who can keep a secret; (4) People, who benefit the public, but do not use their influence for good purpose, are not fit to go into Parliament; (5) People, who are worth their weight in gold and who deserve praise, are always unassuming; (6) Public benefactors, who use their influence for good objects, deserve praise; (7) People, who are unpopular and not worth their weight in gold, never can keep a secret; (8) People, who can talk for ever and are fit to be Members of Parliament, deserve praise; (9) Any one, who can keep a secret and who is unassuming, is a never-to-be-forgotten public benefactor; (10) A woman, who benefits the public, is always popular; (11) People, who are worth their weight in gold, who never leave off talking, and whom it is impossible to forget, are just the people whose photographs are in all the shop-windows; (12) An ill-educated woman, who is not clear-headed, is not fit to go into Parliament; (13) Any one, who can keep a secret and is not for ever talking, is sure to be unpopular; (14) A clear-headed person, who has influence and uses it for good objects, is a public benefactor; (15) A public benefactor, who is unassuming, is not the sort of person whose photograph is in every shop-window; (16) People, who can keep a secret and who use their influence for good purposes, are worth their weight in gold; (17) A person, who has no power of expression and who cannot influence others, is certainly not a _woman_; pg191 (18) People, who are popular and worthy of praise, either are public benefactors or else are unassuming </s>
 <s> Univ </s>
-<s> "persons"; aÂ =Â able to keep a secret; bÂ =Â clear-headed; cÂ =Â constantly talking; dÂ =Â deserving praise; eÂ =Â exhibited in shop-windows; hÂ =Â expressing oneself well; kÂ =Â fit to be an M.P.; lÂ =Â influential; mÂ =Â never-to-be-forgotten; nÂ =Â popular; rÂ =Â public benefactors; sÂ =Â unassuming; tÂ =Â using one's influence for good objects; vÂ =Â well-educated; wÂ =Â women; zÂ =Â worth one's weight in gold </s>
+<s> "persons"; aï¿½ =ï¿½ able to keep a secret; bï¿½ =ï¿½ clear-headed; cï¿½ =ï¿½ constantly talking; dï¿½ =ï¿½ deserving praise; eï¿½ =ï¿½ exhibited in shop-windows; hï¿½ =ï¿½ expressing oneself well; kï¿½ =ï¿½ fit to be an M.P.; lï¿½ =ï¿½ influential; mï¿½ =ï¿½ never-to-be-forgotten; nï¿½ =ï¿½ popular; rï¿½ =ï¿½ public benefactors; sï¿½ =ï¿½ unassuming; tï¿½ =ï¿½ using one's influence for good objects; vï¿½ =ï¿½ well-educated; wï¿½ =ï¿½ women; zï¿½ =ï¿½ worth one's weight in gold </s>
 <s> 5 </s>
 <s> Six friends, and their six wives, are staying in the same hotel; and they all walk out daily, in parties of various size and composition </s>
 <s> To ensure variety in these daily walks, they have agree to observe the following Rules:-- (1) If Acres is with (i.e </s>

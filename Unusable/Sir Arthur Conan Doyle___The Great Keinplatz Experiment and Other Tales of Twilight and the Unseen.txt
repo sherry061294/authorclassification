@@ -2183,7 +2183,6 @@
 <s> Once in the Louvre he was on familiar ground, and he speedily made his way to the collection of papyri which it was his intention to consult </s>
 <s> The warmest admirers of John Vansittart Smith could hardly claim for him that he was a handsome man </s>
 <s> His high-beaked nose and prominent chin had something of the same acute and incisive character which distinguished his intellect </s>
-<s> He held his head in a birdlike fashion, and birdlike, too, was the pecking motion with which, in conversation, he threw out his objections and retorts </s>
 <s> As he stood, with the high collar of his greatcoat raised to his ears, he might have seen from the reflection in the glass-case before him that his appearance was a singular one </s>
 <s> Yet it came upon him as a sudden jar when an English voice behind him exclaimed in very audible tones, "What a queer-looking mortal" </s>
 <s> The student had a large amount of petty vanity in his composition which manifested itself by an ostentatious and overdone disregard of all personal considerations </s>
@@ -2211,7 +2210,7 @@
 <s> From brow to chin, however, it was cross-hatched by a million delicate wrinkles, which shot and interlaced as though Nature in some Maori mood had tried how wild and intricate a pattern she could devise </s>
 <s> "Où est la collection de Memphis" </s>
 <s> asked the student with the awkward air of a man who is devising a question merely for the purpose of opening a conversation </s>
-<s> "C'est l� ," replied the man brusquely, nodding his head at the other side of the room </s>
+<s> "C'est l� ," replied the man brusquely, nodding his head at the other side of the room </s>
 <s> "Vous êtes un Egyptien, n'est-ce pas" </s>
 <s> asked the Englishman </s>
 <s> The attendant looked up and turned his strange dark eyes upon his questioner </s>

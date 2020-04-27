@@ -1142,7 +1142,6 @@
 <s> 'God helps them that help themselves' </s>
 <s> I'll just mark that saw, and leave the pamphlet open to refer to it again--Ah" </s>
 <s> At this point, the Doctor knocked, summoning Israel to his own apartment </s>
-<s> Here, after a cup of weak tea, and a little toast, the two had a long, familiar talk together; during which, Israel was delighted with the unpretending talkativeness, serene insight, and benign amiability of the sage </s>
 <s> But, for all this, he could hardly forgive him for the Cologne and Otard depredations </s>
 <s> Discovering that, in early life, Israel had been employed on a farm, the man of wisdom at length turned the conversation in that direction; among other things, mentioning to his guest a plan of his (the Doctor's) for yoking oxen, with a yoke to go by a spring instead of a bolt; thus greatly facilitating the operation of hitching on the team to the cart </s>
 <s> Israel was very much struck with the improvement; and thought that, if he were home, upon his mountains, he would immediately introduce it among the farmers </s>
@@ -1168,7 +1167,7 @@
 <s> He looked like one who of purpose sought out harm's way </s>
 <s> He looked like one who never had been, and never would be, a subordinate </s>
 <s> Israel thought to himself that seldom before had he seen such a being </s>
-<s> Though dressed Ã -la-mode, he did not seem to be altogether civilized </s>
+<s> Though dressed ï¿½ -la-mode, he did not seem to be altogether civilized </s>
 <s> So absorbed was our adventurer by the person of the stranger, that a few moments passed ere he began to be aware of the circumstance, that Dr </s>
 <s> Franklin and this new visitor having saluted as old acquaintances, were now sitting in earnest conversation together </s>
 <s> "Do as you please; but I will not bide a suitor much longer," said the stranger in bitterness </s>

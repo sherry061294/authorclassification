@@ -2510,7 +2510,6 @@
 <s> "If we were alone," she whispered, "I should want you to kiss me" </s>
 <s> The stem of the wine-glass in John's fingers snapped suddenly, and the wine trickled down to the floor </s>
 <s> A passing waiter hurried up with a napkin, and a fresh glass was brought </s>
-<s> The affair was scarcely noticed, but John remained disturbed and a little pale </s>
 <s> "Have you cut your hand" </s>
 <s> Sophy asked anxiously </s>
 <s> "Not at all," he assured her </s>
@@ -2590,7 +2589,7 @@
 <s> "I have, fortunately, an idle morning," the prince said, "and it is entirely at your disposal </s>
 <s> At half past one I believe we are both lunching with Miss Maurel" </s>
 <s> John was conscious of a momentary sense of annoyance </s>
-<s> His _tête-� -tête_ with Louise seemed farther off than ever </s>
+<s> His _tête-� -tête_ with Louise seemed farther off than ever </s>
 <s> At the prince's suggestion, however, he fetched his hat and gloves and entered the former's automobile, which was waiting below </s>
 <s> "Miss Maurel" </s>
 <s> the prince remarked, as they glided off westward, "is, I believe, inviting a few friends to meet you </s>
@@ -3409,7 +3408,7 @@
 <s> The prince smiled </s>
 <s> "I will see that it is sent to her at once," he promised </s>
 <s> "You are in my sanctum, are you not </s>
-<s> You can pursue your _tête-� -tête_ there without interruption </s>
+<s> You can pursue your _tête-� -tête_ there without interruption </s>
 <s> You are a very much envied man" </s>
 <s> "Mme </s>
 <s> Calavera is there," John replied </s>
@@ -4283,7 +4282,7 @@
 <s> She stretched out an arm, took a volume from the swinging table by her side, and threw it across to him </s>
 <s> "You can glance through that while you dress," she said </s>
 <s> A gong rang through the house a few moments later, and the butler brought in two cocktails on a little silver tray </s>
-<s> "We are having quite a solitude _� deux_, aren't we" </s>
+<s> "We are having quite a solitude _� deux_, aren't we" </s>
 <s> Lady Hilda remarked, as she raised her glass </s>
 <s> "I'll go and ring up Flo on my way up-stairs" </s>
 <s> They parted a few minutes later, and John went up to his room </s>

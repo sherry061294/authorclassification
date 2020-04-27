@@ -1728,7 +1728,6 @@
 <s> A handsome saloon was drawn up to the carpeted platform, and a cordon of soldiers kept the station clear </s>
 <s> In less than five minutes they were off </s>
 <s> Brand unbuckled his sword, and threw his helmet up in the rack </s>
-<s> Then he made himself comfortable in an easy-chair, ostensibly to sleep, in reality to think out the situation </s>
 <s> "How long will it take us to reach the capital" </s>
 <s> he asked </s>
 <s> "Two hours," Domiloff answered </s>
@@ -1757,7 +1756,7 @@
 <s> I saw him in Paris after the Algerian campaign .. </s>
 <s> thinner, that is all... </s>
 <s> Reist and the English journalist were simply left .. </s>
-<s> _planté l� _ </s>
+<s> _planté l� _ </s>
 <s> Hernoff planned everything" </s>
 <s> "Mistakes... </s>
 <s> He does not make mistakes </s>
@@ -1950,7 +1949,7 @@
 <s> I happen to slightly resemble Prince Ughtred, and we got scent of a plot to stop our entrance into Theos </s>
 <s> Well, Prince Ughtred and I exchanged identities </s>
 <s> The consequences were these </s>
-<s> The Prince and your brother left the train secretly before we left the frontier, I was drugged, and awoke to find myself _tête-� -tête_ with a remarkably gentlemanly personage called Domiloff" </s>
+<s> The Prince and your brother left the train secretly before we left the frontier, I was drugged, and awoke to find myself _tête-� -tête_ with a remarkably gentlemanly personage called Domiloff" </s>
 <s> Her eyes flashed fire </s>
 <s> She came a little further into the room </s>
 <s> "Ah </s>
@@ -7388,7 +7387,7 @@
 <s> There was no hesitation, no break in the thunderous applause which greeted his answer, and which Nicholas of Reist himself led </s>
 <s> The marriage of Ughtred of Tyrnaus and Sara Van Decht under such conditions touched the imagination of Europe </s>
 <s> Every capital was anxious to _fête_ them, the Society papers lived upon their doings for years </s>
-<s> But even they did not know that during that famous visit to London, where they were received with a consideration rarely accorded even to royalty, they stole away one evening and dined together _tête-� -tête_ at a famous London restaurant </s>
+<s> But even they did not know that during that famous visit to London, where they were received with a consideration rarely accorded even to royalty, they stole away one evening and dined together _tête-� -tête_ at a famous London restaurant </s>
 <s> They were unrecognized, and they enjoyed themselves like children </s>
 <s> Afterwards they found out a certain seat in a certain corner of the palm lounge, and spent a very delightful hour there </s>
 <s> When at last they rose to go he took her hand for a moment softly in his </s>

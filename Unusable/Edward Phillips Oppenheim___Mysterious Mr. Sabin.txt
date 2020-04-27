@@ -1,4 +1,3 @@
-<s> THE WORKS OF E </s>
 <s> PHILLIPS OPPENHEIM MYSTERIOUS MR </s>
 <s> SABIN McKINLAY, STONE & MACKENZIE NEW YORK _Copyright, 1905_, BY LITTLE, BROWN, AND COMPANY </s>
 <s> _All rights reserved_ [Illustration: "The girl's face shone like a piece of delicate statuary" (_page 37_) </s>
@@ -80,7 +79,7 @@
 <s> cried Densham, lifting his champagne glass from under the soft halo of the rose-shaded electric lights </s>
 <s> "Let us drink to them, Wolfenden--Mr Felix" </s>
 <s> "To all such meetings" </s>
-<s> echoed his _vis-� -vis_, also fingering the delicate stem of his glass </s>
+<s> echoed his _vis-� -vis_, also fingering the delicate stem of his glass </s>
 <s> "An excellent toast" </s>
 <s> "To all such meetings as these" </s>
 <s> murmured the third man, who made up the little party </s>
@@ -7682,7 +7681,7 @@
 <s> Lower down the deck the captain's broad shoulders were disappearing, as he passed on the way to the engineers' room for his nightly visit of inspection </s>
 <s> "You have not made a single effort to rescue me," she said reproachfully; "you are most unkind" </s>
 <s> Mr Sabin lifted his cap, and removed the cigar from his teeth </s>
-<s> "My dear lady," he said, "I have been suffering the pangs of the neglected, but how dared I break in upon so confidential a _tête-� -tête_" </s>
+<s> "My dear lady," he said, "I have been suffering the pangs of the neglected, but how dared I break in upon so confidential a _tête-� -tête_" </s>
 <s> "You have little of the courage of your nation, then," she answered laughing, "for I gave you many opportunities </s>
 <s> But you have been engrossed with your thoughts, and they succeeded at least where I failed--you were distinctly smiling when I came upon you" </s>
 <s> "It was a premonition," he began, but she raised a little white hand, flashing with rings, to his lips, and he was silent </s>

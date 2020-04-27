@@ -1463,7 +1463,6 @@
 <s> Fletcher has made a sketch of the house, and will copy it in pen-and-ink for transmission to you in my next letter </s>
 <s> I shall look out for a place in Genoa, between this and the winter time </s>
 <s> In the meantime, the people who come out here breathe delightedly, as if they had got into another climate </s>
-<s> Landing in the city, you would hardly suppose it possible that there could be such an air within two miles </s>
 <s> Write to me as often as you can, like a dear good fellow, and rely upon the punctuality of my correspondence </s>
 <s> Losing you and Forster is like losing my arms and legs, and dull and lame I am without you </s>
 <s> But at Broadstairs next year, please God, when it is all over, I shall be very glad to have laid up such a store of recollections and improvement </s>
@@ -1476,7 +1475,7 @@
 <s> As I was musing upon it, my ears were attracted by shouts of "Helo </s>
 <s> hola </s>
 <s> Hi, hi, hi </s>
-<s> Le voil� </s>
+<s> Le voil� </s>
 <s> Regardez" </s>
 <s> and the like </s>
 <s> And looking down among the oxen--we were in the centre of a numerous drove--I saw him, Timber, lying in the road, curled up--you know his way--like a lobster, only not so stiff, yelping dismally in the pain of his "lip" from the roof of the carriage; and between the aching of his bones, his horror of the oxen, and his dread of me (who he evidently took to be the immediate agent in and cause of the damage), singing out to an extent which I believe to be perfectly unprecedented; while every Frenchman and French boy within sight roared for company </s>
@@ -4582,7 +4581,7 @@
 <s> I really desire no better </s>
 <s> I may mention for your guidance (for I count upon your coming to overhaul the general aspect of things), that you have nothing on earth to do with your luggage when it is once in the boat, _until after you have walked ashore_ </s>
 <s> That you will be filtered with the rest of the passengers through a hideous, whitewashed, quarantine-looking custom-house, where a stern man of a military aspect will demand your passport </s>
-<s> That you will have nothing of the sort, but will produce your card with this addition: "Restant � Boulogne, chez M </s>
+<s> That you will have nothing of the sort, but will produce your card with this addition: "Restant � Boulogne, chez M </s>
 <s> Charles Dickens, Château des Moulineaux" </s>
 <s> That you will then be passed out at a little door, like one of the ill-starred prisoners on the bloody September night, into a yelling and shrieking crowd, cleaving the air with the names of the different hotels, exactly seven thousand six hundred and fifty-four in number </s>
 <s> And that your heart will be on the point of sinking with dread, then you will find yourself in the arms of the Sparkler of Albion </s>
@@ -4591,7 +4590,7 @@
 <s> P.S.--I thought you might like to see the flourish again </s>
 <s> [Sidenote: Mr W </s>
 <s> H </s>
-<s> Wills.] BOULOGNE, _Wednesday, July 27th, 1853._ MY DEAR WILLS, I have thought of another article to be called "Frauds upon the Fairies," _� propos_ of George Cruikshank's editing </s>
+<s> Wills.] BOULOGNE, _Wednesday, July 27th, 1853._ MY DEAR WILLS, I have thought of another article to be called "Frauds upon the Fairies," _� propos_ of George Cruikshank's editing </s>
 <s> Half playfully and half seriously, I mean to protest most strongly against alteration, for any purpose, of the beautiful little stories which are so tenderly and humanly useful to us in these times, when the world is too much with us, early and late; and then to re-write "Cinderella" according to Total Abstinence, Peace Society, and Bloomer principles, and expressly for their propagation </s>
 <s> I shall want his book of "Hop o' my Thumb" (Forster noticed it in the last _Examiner_), and the most simple and popular version of "Cinderella" you can get me </s>
 <s> I shall not be able to do it until after finishing "Bleak House," but I shall do it the more easily for having the books by me </s>
@@ -5782,7 +5781,7 @@
 <s> Unless I have the ill fortune to stumble against him in the street I shall not make my arrival known to him </s>
 <s> I purpose leaving here on Sunday, the 11th, but I shall stay that night at Boulogne to see two of my little boys who are at school there </s>
 <s> We shall come to Paris on Monday, the 12th, arriving there in the evening </s>
-<s> Now, _mon cher_, do you think you can, without inconvenience, engage me for a week an apartment--cheerful, light, and wholesome--containing a comfortable _salon et deux chambres � coucher_ </s>
+<s> Now, _mon cher_, do you think you can, without inconvenience, engage me for a week an apartment--cheerful, light, and wholesome--containing a comfortable _salon et deux chambres � coucher_ </s>
 <s> I do not care whether it is an hotel or not, but the reason why I do not write for an apartment to the Hôtel Brighton is, that there they expect one to dine at home (I mean in the apartment) generally; whereas, as we are coming to Paris expressly to be always looking about us, we want to dine wherever we like every day </s>
 <s> Consequently, what we want to find is a good apartment, where we can have our breakfast but where we shall never dine </s>
 <s> Can you engage such accommodation for me </s>
@@ -6217,7 +6216,7 @@
 <s> c'est grande chose </s>
 <s> Et ses caractères_" (this was to Georgina, while he unpacked) "_sont si spirituellement tournées </s>
 <s> Cette Madame Tojare_" (Todgers), "_ah </s>
-<s> qu'elle est drôle et précisément comme une dame que je connais � Calais._" You cannot have any doubt about this place, if you will only recollect it is the great main road from the Place de la Concorde to the Barrière de l'Étoile </s>
+<s> qu'elle est drôle et précisément comme une dame que je connais � Calais._" You cannot have any doubt about this place, if you will only recollect it is the great main road from the Place de la Concorde to the Barrière de l'Étoile </s>
 <s> Ever faithfully </s>
 <s> [Sidenote: Monsieur Regnier.] _Wednesday, November 21st, 1855._ MY DEAR REGNIER, In thanking you for the box you kindly sent me the day before yesterday, let me thank you a thousand times for the delight we derived from the representation of your beautiful and admirable piece </s>
 <s> I have hardly ever been so affected and interested in any theatre </s>
@@ -6302,7 +6301,7 @@
 <s> [Sidenote: Mr Mark Lemon.] 49, CHAMPS ELYSÉES, PARIS, _Monday, Jan </s>
 <s> 7th, 1856._ MY DEAR MARK, I want to know how "Jack and the Beanstalk" goes </s>
 <s> I have a notion from a notice--a favourable notice, however--which I saw in _Galignani_, that Webster has let down the comic business </s>
-<s> In a piece at the Ambigu, called the "Rentrée � Paris," a mere scene in honour of the return of the troops from the Crimea the other day, there is a novelty which I think it worth letting you know of, as it is easily available, either for a serious or a comic interest--the introduction of a supposed electric telegraph </s>
+<s> In a piece at the Ambigu, called the "Rentrée � Paris," a mere scene in honour of the return of the troops from the Crimea the other day, there is a novelty which I think it worth letting you know of, as it is easily available, either for a serious or a comic interest--the introduction of a supposed electric telegraph </s>
 <s> The scene is the railway terminus at Paris, with the electric telegraph office on the prompt side, and the clerks _with their backs to the audience_--much more real than if they were, as they infallibly would be, staring about the house--working the needles; and the little bell perpetually ringing </s>
 <s> There are assembled to greet the soldiers, all the easily and naturally imagined elements of interest--old veteran fathers, young children, agonised mothers, sisters and brothers, girl lovers--each impatient to know of his or her own object of solicitude </s>
 <s> Enter to these a certain marquis, full of sympathy for all, who says: "My friends, I am one of you </s>
@@ -6395,7 +6394,7 @@
 <s> If I had been shown her in a state of repose, and asked what I thought her to be, I should have said: "The Queen's monthly nurse" </s>
 <s> _Au reste_, she has nothing of the _bas bleu_ about her, and is very quiet and agreeable </s>
 <s> The way in which mysterious Frenchmen call and want to embrace me, suggests to any one who knows me intimately, such infamous lurking, slinking, getting behind doors, evading, lying--so much mean resort to craven flights, dastard subterfuges, and miserable poltroonery--on my part, that I merely suggest the arrival of cards like this: [Illustration: HW: Horgues homme de lettres or Drouse membre de l'Institut or Cregibus Patalanternois Ecole des Beaux arts --every five minutes </s>
-<s> Books also arrive with, on the flyleaf, Jaubaud Hommage � l'illustre romancier d'Angleterre Charles De Kean.] --and I then write letters of terrific _empressement_, with assurances of all sorts of profound considerations, and never by any chance become visible to the naked eye </s>
+<s> Books also arrive with, on the flyleaf, Jaubaud Hommage � l'illustre romancier d'Angleterre Charles De Kean.] --and I then write letters of terrific _empressement_, with assurances of all sorts of profound considerations, and never by any chance become visible to the naked eye </s>
 <s> At the Porte St </s>
 <s> Martin they are doing the "Orestes," put into French verse by Alexandre Dumas </s>
 <s> Really one of the absurdest things I ever saw </s>

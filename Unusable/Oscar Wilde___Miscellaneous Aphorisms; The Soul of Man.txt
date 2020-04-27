@@ -99,7 +99,6 @@
 <s> It makes life too full of terrors </s>
 <s> Comfort is the only thing our civilisation can give us </s>
 <s> Politics are my only pleasure </s>
-<s> You see nowadays it is not fashionable to flirt till one is forty or to be romantic till one is forty-five, so we poor women who are under thirty, or say we are, have nothing open to us but politics or philanthropy </s>
 <s> And philanthropy seems to me to have become simply the refuge of people who wish to annoy their fellow-creatures </s>
 <s> I prefer politics </s>
 <s> I think they are more .. </s>
@@ -159,7 +158,7 @@
 <s> It is always worth while asking a question, though it is not always answering one </s>
 <s> It takes a thoroughly good woman to do a thoroughly stupid thing </s>
 <s> With a proper background women can do anything </s>
-<s> Chiromancy is a most dangerous science, and one that ought not to be encouraged, except in a 'tête-� -tête' </s>
+<s> Chiromancy is a most dangerous science, and one that ought not to be encouraged, except in a 'tête-� -tête' </s>
 <s> One should never take sides in anything </s>
 <s> Taking sides is the beginning of sincerity, and earnestness follows shortly afterwards, and the human being becomes a bore </s>
 <s> The work of art is beautiful by being what art never has been; and to measure it by the standard of the past is to measure it by a standard on the reflection of which its real perfection depends </s>

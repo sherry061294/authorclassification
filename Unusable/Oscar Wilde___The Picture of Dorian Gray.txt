@@ -284,7 +284,6 @@
 <s> We in our madness have separated the two, and have invented a realism that is vulgar, an ideality that is void </s>
 <s> Harry </s>
 <s> if you only knew what Dorian Gray is to me </s>
-<s> You remember that landscape of mine, for which Agnew offered me such a huge price, but which I would not part with </s>
 <s> It is one of the best things I have ever done </s>
 <s> And why is it so </s>
 <s> Because, while I was painting it, Dorian Gray sat beside me </s>
@@ -333,7 +332,7 @@
 <s> In the wild struggle for existence, we want to have something that endures, and so we fill our minds with rubbish and facts, in the silly hope of keeping our place </s>
 <s> The thoroughly well-informed man--that is the modern ideal </s>
 <s> And the mind of the thoroughly well-informed man is a dreadful thing </s>
-<s> It is like a bric-Ã -brac shop, all monsters and dust, with everything priced above its proper value </s>
+<s> It is like a bric-ï¿½ -brac shop, all monsters and dust, with everything priced above its proper value </s>
 <s> I think you will tire first, all the same </s>
 <s> Some day you will look at your friend, and he will seem to you to be a little out of drawing, or you won't like his tone of colour, or something </s>
 <s> You will bitterly reproach him in your own heart, and seriously think that he has behaved very badly to you </s>

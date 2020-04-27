@@ -938,7 +938,6 @@
 <s> She met his gaze frankly enough at first, smiling gratefully at his ready acceptance </s>
 <s> And then a curious change came </s>
 <s> She felt her heart begin to beat faster, the strange intrusion of a new element into her life and thoughts and being </s>
-<s> It was shining out of her eyes, something which made her a little afraid yet ridiculously light-hearted </s>
 <s> Suddenly she felt the colour burning in her cheeks </s>
 <s> She withdrew her hands, lost her presence of mind, and found it again at the sound of the servant's approaching footsteps </s>
 <s> "About eight o'clock, then," she said </s>
@@ -970,8 +969,8 @@
 <s> It was only when she smiled, a smile which, curiously enough, seemed to bring back something of that aging sadness into her face, that he found himself able to readjust his tangled impressions </s>
 <s> Then he realised that she was no longer a girl, that she was indeed a woman, beautiful, graceful, serious, with all the charm of her greater physical and spiritual maturity </s>
 <s> "Please don't think," she begged, as she sank into the settee by which he was standing, "that I have inveigled you here under false pretences </s>
-<s> Henry took the trouble to ring me up from the City this morning to say that he should be dining at home--such an unusual event that I took it for granted it meant a tête-� -tête.--I don't quite know why I treat you with such an extraordinary amount of confidence," she went on, "but I feel that I must and it helps me so much </s>
-<s> A tête-� -tête dinner with my husband would have been insupportable </s>
+<s> Henry took the trouble to ring me up from the City this morning to say that he should be dining at home--such an unusual event that I took it for granted it meant a tête-� -tête.--I don't quite know why I treat you with such an extraordinary amount of confidence," she went on, "but I feel that I must and it helps me so much </s>
+<s> A tête-� -tête dinner with my husband would have been insupportable </s>
 <s> I should have had to telephone to Sarah Baldwin if you had not been available </s>
 <s> Sarah would probably have been engaged, and then I should have had to have gone to bed with a headache" </s>
 <s> "You don't imagine," he asked, smiling, "that I am disappointed at your husband's absence" </s>

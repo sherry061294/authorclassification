@@ -4488,7 +4488,6 @@
 <s> "I suppose we had better finish the affair while we are about it </s>
 <s> One of you had better come with me" </s>
 <s> Captain Bannister promptly volunteered </s>
-<s> He and I and Mr Bundercombe descended the stairs and entered the car </s>
 <s> We pulled up in a few minutes at the door of Mr Bundercombe's bank </s>
 <s> "Will you come in with me" </s>
 <s> Mr Bundercombe invited, turning to Captain Bannister </s>
@@ -4552,7 +4551,7 @@
 <s> "You are a very clever man, Mr Bundercombe" </s>
 <s> he said </s>
 <s> CHAPTER XIV--MR </s>
-<s> BUNDERCOMBE'S LOVE AFFAIR Mr Bundercombe who, notwithstanding his wife's temporary absence in the country, had not been in the best of spirits for several days, during the course of our tête-� -tête dinner at Luigi's became suddenly and unexpectedly animated </s>
+<s> BUNDERCOMBE'S LOVE AFFAIR Mr Bundercombe who, notwithstanding his wife's temporary absence in the country, had not been in the best of spirits for several days, during the course of our tête-� -tête dinner at Luigi's became suddenly and unexpectedly animated </s>
 <s> The change in him was so noticeable that I leaned forward in my place to see what could have produced it </s>
 <s> Two people had entered the restaurant and were in conversation now with Luigi about a table </s>
 <s> Mr Bundercombe, who in the affairs of every-day life had no idea of concealing his feelings, was regarding them with every appearance of lively interest </s>

@@ -187,7 +187,6 @@
 <s> But as soon as money was up on him he was a different dog; his under-jaw'd begin to stick out like the fo'castle of a steamboat, and his teeth would uncover and shine like the furnaces </s>
 <s> And a dog might tackle him and bully-rag him, and bite him, and throw him over his shoulder two or three times, and Andrew Jackson--which was the name of the pup--Andrew Jackson would never let on but what he was satisfied, and hadn't expected nothing else--and the bets being doubled and doubled on the other side all the time, till the money was all up; and then all of a sudden he would grab that other dog jest by the j'int of his hind leg and freeze to it--not chaw, you understand, but only just grip and hang on till they throwed up the sponge, if it was a year </s>
 <s> Smiley always come out winner on that pup, till he harnessed a dog once that didn't have no hind legs, because they'd been sawed off in a circular saw, and when the thing had gone along far enough, and the money was all up, and he come to make a snatch for his pet holt, he see in a minute how he'd been imposed on, and how the other dog had him in the door, so to speak, and he 'peared surprised, and then he looked sorter discouraged-like and didn't try no more to win the fight, and so he got shucked out bad </s>
-<s> He give Smiley a look, as much as to say his heart was broke, and it was his fault, for putting up a dog that hadn't no hind legs for him to take holt of, which was his main dependence in a fight, and then he limped off a piece and laid down and died </s>
 <s> It was a good pup, was that Andrew Jackson, and would have made a name for hisself if he'd lived, for the stuff was in him and he had genius--I know it, because he hadn't no opportunities to speak of, and it don't stand to reason that a dog could make such a fight as he could under them circumstances if he hadn't no talent </s>
 <s> It always makes me feel sorry when I think of that last fight of his'n, and the way it turned out </s>
 <s> "Well, thish-yer Smiley had rat-tarriers, and chicken cocks, and tomcats and all them kind of things, till you couldn't rest, and you couldn't fetch nothing for him to bet on but he'd match you </s>
@@ -232,48 +231,48 @@
 <s> Now let the learned look upon this picture and say if iconoclasm can further go: [From the Revue des Deux Mondes, of July 15th, 1872.] ...................... </s>
 <s> LA GRENOUILLE SAUTEUSE DU COMTE DE CALAVERAS "--Il y avait, une fois ici un individu connu sous le nom de Jim Smiley: c'était dans l'hiver de 49, peut-être bien au printemps de 50, je ne me reappelle pas exactement </s>
 <s> Ce qui me fait croire que c'était l'un ou l'autre, c'est que je me souviens que le grand bief n'était pas achevé lorsqu'il arriva au camp pour la premiére fois, mais de toutes facons il était l'homme le plus friand de paris qui se pût voir, pariant sur tout ce qui se présentait, quand il pouvait trouver un adversaire, et, quand n'en trouvait pas il passait du côté opposé </s>
-<s> Tout ce qui convenait � l'autre lui convenait; pourvu qu'il eût un pari, Smiley était satisfait </s>
+<s> Tout ce qui convenait � l'autre lui convenait; pourvu qu'il eût un pari, Smiley était satisfait </s>
 <s> Et il avait une chance </s>
 <s> une chance inouie: presque toujours il gagnait </s>
-<s> It faut dire qu'il était toujours prêt � sexposer, qu'on ne pouvait mentionner la moindre chose sans que ce gaillard offrît de parier l� -dessus n'importe quoi et de prendre le côte que l'on voudrait, comme je vous le disais tout � l'heure </s>
-<s> S'il y avait des courses, vous le trouviez riche ou ruiné � la fin; s'il y avait un combat de chiens, il apportait son enjeu; il l'apportait pour un combat de chats, pour un combat de coqs;--parbleu </s>
+<s> It faut dire qu'il était toujours prêt � sexposer, qu'on ne pouvait mentionner la moindre chose sans que ce gaillard offrît de parier l� -dessus n'importe quoi et de prendre le côte que l'on voudrait, comme je vous le disais tout � l'heure </s>
+<s> S'il y avait des courses, vous le trouviez riche ou ruiné � la fin; s'il y avait un combat de chiens, il apportait son enjeu; il l'apportait pour un combat de chats, pour un combat de coqs;--parbleu </s>
 <s> si vous aviez vu deux oiseaux sur une haie il vous aurait offert de parier lequel s'envolerait le premier, et s'il y aviat 'meeting' au camp, il venait parier régulièrement pour le curé Walker, qu'il jugeait être le meilleur prédicateur des environs, et qui l'était en effet, et un brave homme </s>
 <s> Il aurait rencontré une punaise de bois en chemin, qu'il aurait parié sur le temps qu'il lui faudrait pour aller où elle voudrait aller, et si vous l'aviez pris au mot, it aurait suivi la punaise jusqu'au Mexique, sans se soucier d'aller si loin, ni du temps qu'il y perdrait </s>
 <s> Une fois la femme du curé Walker fut très malade pendant longtemps, il semblait qu'on ne la sauverait pas; mais un matin le curé arrive, et Smiley lui demande comment ella va et il dit qu'elle est bien mieux, grâce a l'infinie miséricorde tellement mieux qu'avec la bénédiction de la Providence elle s'en tirerait, et voilá que, sans y penser, Smiley répond:--Eh bien </s>
 <s> je gage deux et demi qu'elle mourra tout de même </s>
 <s> "Ce Smiley avait une jument que les gars appelaient le bidet du quart d'heure, mais seulement pour plaisanter, vous comprenez, parce que, bien entendu, elle était plus vite que ca </s>
 <s> Et il avait coutume de gagner de l'argent avec cette bête, quoi-qu'elle fût poussive, cornarde, toujours prise d'asthme, de coliques ou de consomption, ou de quelque chose d'approchant </s>
-<s> On lui donnait 2 ou 300 'yards' au départ, puis on la dépassait sans peine; mais jamais � la fin elle ne manquait de s'échauffer, de s'exaspérer et elle arrivait, s'écartant, se défendant, ses jambes grêles en l'air devant les obstacles, quelquefois les évitant et faisant avec cela plus de poussière qu'aucun cheval, plus de bruit surtout avec ses éternumens et reniflemens.---crac </s>
+<s> On lui donnait 2 ou 300 'yards' au départ, puis on la dépassait sans peine; mais jamais � la fin elle ne manquait de s'échauffer, de s'exaspérer et elle arrivait, s'écartant, se défendant, ses jambes grêles en l'air devant les obstacles, quelquefois les évitant et faisant avec cela plus de poussière qu'aucun cheval, plus de bruit surtout avec ses éternumens et reniflemens.---crac </s>
 <s> elle arrivait donc toujours première d'une tête, aussi juste qu'on peut le mesurer </s>
-<s> Et il avait un petit bouledogue qui, � le voir, ne valait pas un sou; on aurait cru que parier contre lui c'était voler, tant il était ordinaire; mais aussitôt les enjeux faits, il devenait un autre chien </s>
-<s> Sa mâchoire inférieure commencait � ressortir comme un gaillard d'avant, ses dents se découvcraient brillantes commes des fournaises, et un chien pouvait le taquiner, l'exciter, le mordre, le jeter deux ou trois fois par-dessus son épaule, André Jackson, c'était le nom du chien, André Jackson prenait cela tranquillement, comme s'il ne se fût jamais attendu � autre chose, et quand les paris étaient doublés et redoublés contre lui, il vous saisissait l'autre chien juste � l'articulation de la jambe de derrière, et il ne la lâchait plus, non pas qu'il la mâchât, vous concevez, mais il s'y serait tenu pendu jusqu'� ce qu'on jetât l'éponge en l'air, fallût-il attendre un an </s>
-<s> Smiley gagnait toujours avec cette bête-l� ; malheureusement ils ont fini par dresser un chien qui n'avait pas de pattes de derrière, parce qu'on les avait sciées, et quand les choses furent au point qu'il voulait, et qu'il en vint � se jeter sur son morceau favori, le pauvre chien comprit en un instant qu'on s'était moqué de lui, et que l'autre le tenait </s>
-<s> Vous n'avez jamais vu personne avoir l'air plus penaud et plus découragé; il ne fit aucun effort pour gagner le combat et fut rudement secoué, de sorte que, regardant Smiley comme pour lui dire:--Mon coeur est brisé, c'est ta faute; pourquoi m'avoir livré � un chien qui n'a pas de pattes de derrière, puisque c'est par l� que je les bats?--il s'en alla en clopinant, et se coucha pour mourir </s>
+<s> Et il avait un petit bouledogue qui, � le voir, ne valait pas un sou; on aurait cru que parier contre lui c'était voler, tant il était ordinaire; mais aussitôt les enjeux faits, il devenait un autre chien </s>
+<s> Sa mâchoire inférieure commencait � ressortir comme un gaillard d'avant, ses dents se découvcraient brillantes commes des fournaises, et un chien pouvait le taquiner, l'exciter, le mordre, le jeter deux ou trois fois par-dessus son épaule, André Jackson, c'était le nom du chien, André Jackson prenait cela tranquillement, comme s'il ne se fût jamais attendu � autre chose, et quand les paris étaient doublés et redoublés contre lui, il vous saisissait l'autre chien juste � l'articulation de la jambe de derrière, et il ne la lâchait plus, non pas qu'il la mâchât, vous concevez, mais il s'y serait tenu pendu jusqu'� ce qu'on jetât l'éponge en l'air, fallût-il attendre un an </s>
+<s> Smiley gagnait toujours avec cette bête-l� ; malheureusement ils ont fini par dresser un chien qui n'avait pas de pattes de derrière, parce qu'on les avait sciées, et quand les choses furent au point qu'il voulait, et qu'il en vint � se jeter sur son morceau favori, le pauvre chien comprit en un instant qu'on s'était moqué de lui, et que l'autre le tenait </s>
+<s> Vous n'avez jamais vu personne avoir l'air plus penaud et plus découragé; il ne fit aucun effort pour gagner le combat et fut rudement secoué, de sorte que, regardant Smiley comme pour lui dire:--Mon coeur est brisé, c'est ta faute; pourquoi m'avoir livré � un chien qui n'a pas de pattes de derrière, puisque c'est par l� que je les bats?--il s'en alla en clopinant, et se coucha pour mourir </s>
 <s> Ah </s>
 <s> c'était un bon chien, cet André Jackson, et il se serait fait un nom, s'il avait vécu, car il y avait de l'etoffe en lui, il avait du génie, je la sais, bien que de grandes occasions lui aient manqué; mais il est impossible de supposer qu'un chien capable de se battre comme lui, certaines circonstances étant données, ait manqué de talent </s>
-<s> Je me sens triste toutes les fois que je pense � son dernier combat et au dénoûment qu'il a eu </s>
+<s> Je me sens triste toutes les fois que je pense � son dernier combat et au dénoûment qu'il a eu </s>
 <s> Eh bien </s>
-<s> ce Smiley nourrissait des terriers � rats, et des coqs combat, et des chats, et toute sorte de choses, au point qu'il était toujours en mesure de vous tenir tête, et qu'avec sa rage de paris on n'avait plus de repos </s>
-<s> Il attrapa un jour une grenouille et l'emporta chez lui, disant qu'il prétendait faire son éducation; vous me croirez si vous voulez, mais pendant trois mois il n'a rien fait que lui apprendre � sauter dans une cour retirée de sa maison </s>
+<s> ce Smiley nourrissait des terriers � rats, et des coqs combat, et des chats, et toute sorte de choses, au point qu'il était toujours en mesure de vous tenir tête, et qu'avec sa rage de paris on n'avait plus de repos </s>
+<s> Il attrapa un jour une grenouille et l'emporta chez lui, disant qu'il prétendait faire son éducation; vous me croirez si vous voulez, mais pendant trois mois il n'a rien fait que lui apprendre � sauter dans une cour retirée de sa maison </s>
 <s> Et je vous réponds qu'il avait reussi </s>
 <s> Il lui donnait un petit coup par derrière, et l'instant d'après vous voyiez la grenouille tourner en l'air comme un beignet au-dessus de la poêle, faire une culbute, quelquefois deux, lorsqu'elle était bien partie, et retomber sur ses pattes comme un chat </s>
 <s> Il l'avait dressée dans l'art de gober des mouches, er l'y exercait continuellement, si bien qu'une mouche, du plus loin qu'elle apparaissait, était une mouche perdue </s>
-<s> Smiley avait coutume de dire que tout ce qui manquait � une grenouille, c'était l'éducation, qu'avec l'éducation elle pouvait faire presque tout, et je le crois </s>
-<s> Tenez, je l'ai vu poser Daniel Webster l� sur se plancher,--Daniel Webster était le nom de la grenouille,--et lui chanter: Des mouches </s>
-<s> Daniel, des mouches!--En un clin d'oeil, Daniel avait bondi et saisi une mouche ici sur le comptoir, puis sauté de nouveau par terre, où il restait vraiment � se gratter la tête avec sa patte de derrière, comme s'il n'avait pas eu la moindre idée de sa superiorité </s>
+<s> Smiley avait coutume de dire que tout ce qui manquait � une grenouille, c'était l'éducation, qu'avec l'éducation elle pouvait faire presque tout, et je le crois </s>
+<s> Tenez, je l'ai vu poser Daniel Webster l� sur se plancher,--Daniel Webster était le nom de la grenouille,--et lui chanter: Des mouches </s>
+<s> Daniel, des mouches!--En un clin d'oeil, Daniel avait bondi et saisi une mouche ici sur le comptoir, puis sauté de nouveau par terre, où il restait vraiment � se gratter la tête avec sa patte de derrière, comme s'il n'avait pas eu la moindre idée de sa superiorité </s>
 <s> Jamais vous n'avez grenouille vu de aussi modeste, aussi naturelle, douee comme elle l'était </s>
 <s> Et quand il s'agissait de sauter purement et simplement sur terrain plat, elle faisait plus de chemin en un saut qu'aucune bete de son espèce que vous puissiez connaître </s>
-<s> Sauter � plat, c'était son fort </s>
+<s> Sauter � plat, c'était son fort </s>
 <s> Quand il s'agissait de cela, Smiley entassait les enjeux sur elle tant qu'il lui, restait un rouge liard </s>
-<s> Il faut le reconnaitre, Smiley était monstrueusement fier de sa grenouille, et il en avait le droit, car des gens qui avaient voyagé, qui avaient tout vu, disaient qu'on lui ferait injure de la comparer � une autre; de facon que Smiley gardait Daniel dans une petite boîte a claire-voie qu'il emportait parfois � la Ville pour quelque pari </s>
-<s> "Un jour, un individu étranger au camp l'arrête aver sa boîte et lui dit:--Qu'est-ce que vous avez donc serré l� dedans </s>
+<s> Il faut le reconnaitre, Smiley était monstrueusement fier de sa grenouille, et il en avait le droit, car des gens qui avaient voyagé, qui avaient tout vu, disaient qu'on lui ferait injure de la comparer � une autre; de facon que Smiley gardait Daniel dans une petite boîte a claire-voie qu'il emportait parfois � la Ville pour quelque pari </s>
+<s> "Un jour, un individu étranger au camp l'arrête aver sa boîte et lui dit:--Qu'est-ce que vous avez donc serré l� dedans </s>
 <s> "Smiley dit d'un air indifférent:--Cela pourrait être un perroquet ou un serin, mais ce n'est rien de pareil, ce n'est qu'une grenouille </s>
 <s> "L'individu la prend, la regarde avec soin, la tourne d'un côté et de l'autre puis il dit.--Tiens </s>
 <s> en effet </s>
 <s> A quoi estelle bonne </s>
 <s> "--Mon Dieu </s>
-<s> répond Smiley, toujours d'un air dégagé, elle est bonne pour une chose � mon avis, elle peut battre en sautant toute grenouille du comté de Calaveras </s>
-<s> "L'individu reprend la boîte, l'examine de nouveau longuement, et la rend � Smiley en disant d'un air délibéré:--Eh bien </s>
+<s> répond Smiley, toujours d'un air dégagé, elle est bonne pour une chose � mon avis, elle peut battre en sautant toute grenouille du comté de Calaveras </s>
+<s> "L'individu reprend la boîte, l'examine de nouveau longuement, et la rend � Smiley en disant d'un air délibéré:--Eh bien </s>
 <s> je ne vois pas que cette grenouille ait rien de mieux qu'aucune grenouille </s>
 <s> "--Possible que vous ne le voyiez pas, dit Smiley, possible que vous vous entendiez en grenouilles, possible que vous ne vous y entendez point, possible que vous avez de l'expérience, et possible que vous ne soyez qu'un amateur </s>
 <s> De toute manière, je parie quarante dollars qu'elle battra en sautant n'importe quelle grenouille du comté de Calaveras </s>
@@ -281,16 +280,16 @@
 <s> "--Fort bien </s>
 <s> répond Smiley </s>
 <s> Rien de plus facile </s>
-<s> Si vous voulez tenir ma boîte une minute, j'irai vous chercher une grenouille.--Voil� donc l'individu qui garde la boîte, qui met ses quarante dollars sur ceux de Smiley et qui attend </s>
-<s> Il attend assez longtemps, réflechissant tout seul, et figurez-vous qu'il prend Daniel, lui ouvre la bouche de force at avec une cuiller � thé l'emplit de menu plomb de chasse, mais l'emplit jusqu'au menton, puis il le pose par terre </s>
-<s> Smiley pendant ce temps était � barboter dans une mare </s>
-<s> Finalement il attrape une grenouille, l'apporte � cet individu et dit:--Maintenant, si vous êtes prêt, mettez-la tout contra Daniel, avec leurs pattes de devant sur la même ligne, et je donnerai le signal; puis il ajoute:--Un, deux, trois, sautez </s>
-<s> "Lui et l'individu touchent leurs grenouilles par derrière, et la grenouille neuve se met � sautiller, mais Daniel se soulève lourdement, hausse les épaules ainsi, comme un Francais; � quoi bon </s>
-<s> il ne pouvait bouger, il était planté solide comma une enclume, il n'avancait pas plus que si on l'eût mis � l'ancre </s>
+<s> Si vous voulez tenir ma boîte une minute, j'irai vous chercher une grenouille.--Voil� donc l'individu qui garde la boîte, qui met ses quarante dollars sur ceux de Smiley et qui attend </s>
+<s> Il attend assez longtemps, réflechissant tout seul, et figurez-vous qu'il prend Daniel, lui ouvre la bouche de force at avec une cuiller � thé l'emplit de menu plomb de chasse, mais l'emplit jusqu'au menton, puis il le pose par terre </s>
+<s> Smiley pendant ce temps était � barboter dans une mare </s>
+<s> Finalement il attrape une grenouille, l'apporte � cet individu et dit:--Maintenant, si vous êtes prêt, mettez-la tout contra Daniel, avec leurs pattes de devant sur la même ligne, et je donnerai le signal; puis il ajoute:--Un, deux, trois, sautez </s>
+<s> "Lui et l'individu touchent leurs grenouilles par derrière, et la grenouille neuve se met � sautiller, mais Daniel se soulève lourdement, hausse les épaules ainsi, comme un Francais; � quoi bon </s>
+<s> il ne pouvait bouger, il était planté solide comma une enclume, il n'avancait pas plus que si on l'eût mis � l'ancre </s>
 <s> Smiley fut surpris et dégoûté, mais il ne se doutait pas du tour, bien entendu </s>
 <s> L'individu empoche l'argent, s'en va, et en s'en allant est-ce qu'il ne donna pas un coup de pouce par-dessus l'épaule, comma ca, au pauvre Daniel, en disant de son air délibéré:--Eh bien </s>
 <s> je ne vois pas qua cette grenouille ait rien de muiex qu'une autre </s>
-<s> "Smiley se gratta longtemps la tête, les yeux fixés sur Daniel; jusqu'� ce qu'enfin il dit:--Je me demande comment diable il se fait que cette bête ait refusé </s>
+<s> "Smiley se gratta longtemps la tête, les yeux fixés sur Daniel; jusqu'� ce qu'enfin il dit:--Je me demande comment diable il se fait que cette bête ait refusé </s>
 <s> </s>
 <s> </s>
 <s> Est-ce qu'elle aurait quelque chose </s>
@@ -307,7 +306,7 @@
 <s> All that which convenienced to the other to him convenienced also; seeing that he had a bet Smiley was satisfied </s>
 <s> And he had a chance </s>
 <s> a chance even worthless; nearly always he gained </s>
-<s> It must to say that he was always near to himself expose, but one no could mention the least thing without that this gaillard offered to bet the bottom, no matter what, and to take the side that one him would, as I you it said all at the hour (tout � l'heure) </s>
+<s> It must to say that he was always near to himself expose, but one no could mention the least thing without that this gaillard offered to bet the bottom, no matter what, and to take the side that one him would, as I you it said all at the hour (tout � l'heure) </s>
 <s> If it there was of races, you him find rich or ruined at the end; if it, there is a combat of dogs, he bring his bet; he himself laid always for a combat of cats, for a combat of cocks --by-blue </s>
 <s> If you have see two birds upon a fence, he you should have offered of to bet which of those birds shall fly the first; and if there is meeting at the camp (meeting au camp) he comes to bet regularly for the curé Walker, which he judged to be the best predicator of the neighborhood (prédicateur des environs) and which he was in effect, and a brave man </s>
 <s> He would encounter a bug of wood in the road, whom he will bet upon the time which he shall take to go where she would go--and if you him have take at the word, he will follow the bug as far as Mexique, without himself caring to go so far; neither of the time which he there lost </s>
@@ -319,12 +318,12 @@
 <s> she arrives then always first by one head, as just as one can it measure </s>
 <s> And he had a small bulldog (bouledogue!) who, to him see, no value, not a cent; one would believe that to bet against him it was to steal, so much he was ordinary; but as soon as the game made, she becomes another dog </s>
 <s> Her jaw inferior commence to project like a deck of before, his teeth themselves discover brilliant like some furnaces, and a dog could him tackle (le taquiner), him excite, him murder (le mordre), him throw two or three times over his shoulder, André Jackson--this was the name of the dog--André Jackson takes that tranquilly, as if he not himself was never expecting other thing, and when the bets were doubled and redoubled against him, he you seize the other dog just at the articulation of the leg of behind, and he not it leave more, not that he it masticate, you conceive, but he himself there shall be holding during until that one throws the sponge in the air, must he wait a year </s>
-<s> Smiley gained always with this beast-l� ; unhappily they have finished by elevating a dog who no had not of feet of behind, because one them had sawed; and when things were at the point that he would, and that he came to himself throw upon his morsel favorite, the poor dog comprehended in an instant that he himself was deceived in him, and that the other dog him had </s>
+<s> Smiley gained always with this beast-l� ; unhappily they have finished by elevating a dog who no had not of feet of behind, because one them had sawed; and when things were at the point that he would, and that he came to himself throw upon his morsel favorite, the poor dog comprehended in an instant that he himself was deceived in him, and that the other dog him had </s>
 <s> You no have never seen person having the air more penaud and more discouraged; he not made no effort to gain the combat, and was rudely shucked </s>
 <s> Eh bien </s>
-<s> this Smiley nourished some terriers � rats, and some cocks of combat, and some cats, and all sorts of things; and with his rage of betting one no had more of repose </s>
+<s> this Smiley nourished some terriers � rats, and some cocks of combat, and some cats, and all sorts of things; and with his rage of betting one no had more of repose </s>
 <s> He trapped one day a frog and him imported with him (et l'emporta chez lui) saying that he pretended to make his education </s>
-<s> You me believe if you will, but during three months he not has nothing done but to him apprehend to jump (apprendre � sauter) in a court retired of her mansion (de sa maison) </s>
+<s> You me believe if you will, but during three months he not has nothing done but to him apprehend to jump (apprendre � sauter) in a court retired of her mansion (de sa maison) </s>
 <s> And I you respond that he have succeeded </s>
 <s> He him gives a small blow by behind, and the instant after you shall see the frog turn in the air like a grease-biscuit, make one summersault, sometimes two, when she was well started, and refall upon his feet like a cat </s>
 <s> He him had accomplished in the art of to gobble the flies (gober des mouches), and him there exercised continually --so well that a fly at the most far that she appeared was a fly lost </s>
@@ -341,7 +340,7 @@
 <s> The individual it took, it regarded with care, it turned from one side and from the other, then he said: "Tiens </s>
 <s> in effect!--At what is she good" </s>
 <s> "My God" </s>
-<s> respond Smiley, always with an air disengaged, "she is good for one thing, to my notice (� mon avis), she can batter in jumping (elle peut battre en sautant) all frogs of the county of Calaveras" </s>
+<s> respond Smiley, always with an air disengaged, "she is good for one thing, to my notice (� mon avis), she can batter in jumping (elle peut battre en sautant) all frogs of the county of Calaveras" </s>
 <s> The individual retook the box, it examined of new longly, and it rendered to Smiley in saying with an air deliberate: "Eh bien </s>
 <s> I no saw not that that frog had nothing of better than each frog" </s>
 <s> (Je ne vois pas que cette grenouille ait rien de mieux qu'aucune grenouille.) [If that isn't grammar gone to seed, then I count myself no judge.--M </s>

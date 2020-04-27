@@ -2027,7 +2027,6 @@
 <s> [Illustration: Took a large, shining date out of the Moolah's beard p210] The Frenchman stepped forward, and raising his hand he took a large, shining date out of the Moolah's beard </s>
 <s> This he swallowed and immediately produced once more from his left elbow </s>
 <s> He had often given his little conjuring entertainment on board the boat, and his fellow-passengers had had some good-natured laughter at his expense, for he was not quite skilful enough to deceive the critical European intelligence </s>
-<s> But now it looked as if this piece of obvious palming might be the point upon which all their fates would hang </s>
 <s> A deep hum of surprise rose from the ring of Arabs, and deepened as the Frenchman drew another date from the nostril of a camel and tossed it into the air, from which, apparently, it never descended </s>
 <s> That gaping sleeve was obvious enough to his companions, but the dim light was all in favour of the performer </s>
 <s> So delighted and interested was the audience that they paid little heed to a mounted camel-man who trotted swiftly between the palm trunks </s>
@@ -2093,7 +2092,7 @@
 <s> You are only putting their backs up" </s>
 <s> The Frenchman shrugged his shoulders as he looked at them </s>
 <s> "_Mon Dieu!_" he cried, "were there ever such impracticable people </s>
-<s> _VoilÃ !_" he added, with a shriek, as the two American ladies fell upon their knees beside Mrs Belmont </s>
+<s> _Voilï¿½ !_" he added, with a shriek, as the two American ladies fell upon their knees beside Mrs Belmont </s>
 <s> "It is like the camels--one down, all down </s>
 <s> Was ever anything so absurd" </s>
 <s> But Mr Stephens had knelt down beside Sadie and buried his haggard face in his long, thin hands </s>

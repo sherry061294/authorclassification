@@ -728,7 +728,6 @@
 <s> He even told himself that he would not have approved of it </s>
 <s> And yet the weight upon his heart was not lightened </s>
 <s> The little picture was still there, reproduced with almost photographic exactness </s>
-<s> Was it his fancy, or had the trembling man's eyes really turned towards him--had his white lips really framed that passionate, unspoken appeal which seemed to ring in his ears </s>
 <s> Deane rose to his feet with a little stifled cry </s>
 <s> He seemed to understand now how men who were left alone with their thoughts might find madness </s>
 <s> CHAPTER VII LOVE OR INTEREST </s>
@@ -779,7 +778,7 @@
 <s> To a certain extent it was understood that he was marrying for position, and she for wealth </s>
 <s> And yet in all their conversations they had discreetly concealed the fact </s>
 <s> They had told each other that they cared, if not with passion, at least in the most approved manner </s>
-<s> There had been no suggestion in their many tête-� -têtes that they were about to embark upon a _mariage de convenance_ </s>
+<s> There had been no suggestion in their many tête-� -têtes that they were about to embark upon a _mariage de convenance_ </s>
 <s> "Tell me," Deane persisted, "if things should go wrong with me, or if you had met me simply as a struggler, with my feet upon the early rungs of the ladder,--tell me, could you have cared then, do you think" </s>
 <s> She looked at him curiously </s>
 <s> There was something in his face which compelled the truth </s>

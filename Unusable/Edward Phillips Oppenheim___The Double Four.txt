@@ -184,7 +184,6 @@
 <s> At the end of that time, you will understand a little more of our purpose and our objects--perhaps even of our power" </s>
 <s> "I see difficulties," Peter Ruff remarked </s>
 <s> "My name, you see, is uncommon" </s>
-<s> Sogrange drew a document from the breast pocket of his coat </s>
 <s> "When you leave this house to-night," he proclaimed, "we bid good-bye for ever to Mr Peter Ruff </s>
 <s> You will find in this envelope the title-deeds of a small property which is our gift to you </s>
 <s> Henceforth you will be known by the name and the title of your estates" </s>
@@ -251,7 +250,7 @@
 <s> "Baron, I meant to speak to you about that man before we parted </s>
 <s> There is no great work done without difficulties </s>
 <s> The greatest difficulty you will have to face in your new life is that man </s>
-<s> It is very possible that you may find within the course of a few months that your whole career, your very life, has developed into a duel _Ã outrance_ with him" </s>
+<s> It is very possible that you may find within the course of a few months that your whole career, your very life, has developed into a duel _ï¿½ outrance_ with him" </s>
 <s> They had turned again, and were once more in sight of the little group </s>
 <s> Bernadine had thrown a loose overcoat over his tweed travelling clothes, and with a cigarette between his fingers was engaged in deferential conversation with the woman by his side </s>
 <s> His servant stood discreetly in the background, talking to the other domestic--a sombrely clad young person carrying a flat jewel-case, obviously the maid of the young Frenchwoman </s>
@@ -4170,7 +4169,7 @@
 <s> "Then by midnight," Guillot continued, shaking his fist in the other's face, "I shall have done that thing which brought me to England, and I shall have disappeared </s>
 <s> I shall have done it in spite of your watchers, in spite of your spies, in spite, even, of you, Monsieur le Baron de Grost </s>
 <s> There is my challenge </s>
-<s> _VoilÃ ._ Take it up if you will </s>
+<s> _Voilï¿½ ._ Take it up if you will </s>
 <s> At midnight you shall hear me laugh </s>
 <s> I have the honour to wish you good night" </s>
 <s> Peter opened the door with his own hands </s>
@@ -4183,7 +4182,7 @@
 <s> "By midnight to-night" </s>
 <s> * * * * * The challenge of Monsieur Guillot was issued precisely at four minutes before seven </s>
 <s> On his departure, Peter spent the next half-hour studying certain notes and sending various telephone messages </s>
-<s> Afterwards he changed his clothes at the usual time and sat down to a _tÃªte-Ã -tÃªte_ dinner with his wife </s>
+<s> Afterwards he changed his clothes at the usual time and sat down to a _tÃªte-ï¿½ -tÃªte_ dinner with his wife </s>
 <s> Three times during the course of the meal he was summoned to the telephone, and from each visit he returned more perplexed </s>
 <s> Finally, when the servants had left the room, he took his chair round to his wife's side </s>
 <s> "Violet," he said, "you were asking me just now about the telephone </s>
@@ -4529,7 +4528,7 @@
 <s> Yet, as it has chanced, never once has Bernadine been struck a real and crushing blow </s>
 <s> The time has come when this and more must happen </s>
 <s> It is no longer a matter of polite exchanges </s>
-<s> It is a _duel Ã outrance_" </s>
+<s> It is a _duel ï¿½ outrance_" </s>
 <s> "You mean----" Peter began </s>
 <s> "I mean that Bernadine must die," Sogrange declared </s>
 <s> There was a brief silence </s>

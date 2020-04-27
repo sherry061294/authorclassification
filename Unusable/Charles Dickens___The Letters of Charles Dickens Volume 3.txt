@@ -1895,7 +1895,6 @@
 <s> Madame CÃ©leste is injured thereby (you see how unreasonable people are!) and says in the green-room, "M </s>
 <s> Dickens est artiste </s>
 <s> Mais il n'a jamais vu 'Janet Pride'!" It is like a breath of fresh spring air to know that that unfortunate baby of yours is out of her one close room, and has about half-a-pint of very doubtful air per day </s>
-<s> I could only have become her Godfather on the condition that she had five hundred gallons of open air at any rate every day of her life; and you would soon see a rose or two in the face of my other little friend, Ella, if you opened all your doors and windows throughout the whole of all fine weather, from morning to night </s>
 <s> I am going off; I don't know where or how far, to ponder about I don't know what </s>
 <s> Sometimes I am half in the mood to set off for France, sometimes I think I will go and walk about on the seashore for three or four months, sometimes I look towards the Pyrenees, sometimes Switzerland </s>
 <s> I made a compact with a great Spanish authority last week, and vowed I would go to Spain </s>
@@ -1929,7 +1928,7 @@
 <s> So I waited until the rehearsal was over and we had profoundly astonished the family, and then asked Colonel Waugh what he thought of sending some cards for Tuesday to the papers </s>
 <s> He highly approved, and I yesterday morning directed Mitchell to send to all the morning papers, and to some of the weekly ones--a dozen in the whole </s>
 <s> I dined at Lord John's yesterday (where Meyerbeer was, and said to me after dinner: "Ah, mon ami illustre </s>
-<s> que c'est noble de vous entendre parler d'haute voix morale, Ã la table d'un ministre" </s>
+<s> que c'est noble de vous entendre parler d'haute voix morale, ï¿½ la table d'un ministre" </s>
 <s> for I gave them a little bit of truth about Sunday that was like bringing a Sebastopol battery among the polite company), I say, after this long parenthesis, I dined at Lord John's, and found great interest and talk about the play, and about what everybody who had been here had said of it </s>
 <s> And I was confirmed in my decision that the thing for you was the invitation to the papers </s>
 <s> Hence I write to tell you what I have done </s>
@@ -2542,7 +2541,7 @@
 <s> Yesterday Captain ----, Captain ----, and Captain ----, dined at Gad's </s>
 <s> They are, all three, naval officers of the highest reputation </s>
 <s> ---- is supposed to be the best sailor in our Service </s>
-<s> I said I had been remarking at home, _Ã propos_ of the _London_, that I knew of no shipwreck of a large strong ship (not carrying weight of guns) in the open sea, and that I could find none such in the shipwreck books </s>
+<s> I said I had been remarking at home, _ï¿½ propos_ of the _London_, that I knew of no shipwreck of a large strong ship (not carrying weight of guns) in the open sea, and that I could find none such in the shipwreck books </s>
 <s> They all agreed that the unfortunate Captain Martin _must_ have been unacquainted with the truth as to what can and what can not be done with a Steamship having rigging and canvas; and that no sailor would dream of turning a ship's stern to such a gale--_unless his vessel could run faster than the sea_ </s>
 <s> ---- said (and the other two confirmed) that the _London_ was the better for everything that she lost aloft in such a gale, and that with her head kept to the wind by means of a storm topsail--which is hoisted from the deck and requires no man to be sent aloft, and can be set under the worst circumstances--the disaster could not have occurred </s>
 <s> If he had no such sail, he could have improvised it, even of hammocks and the like </s>

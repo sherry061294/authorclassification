@@ -758,7 +758,6 @@
 <s> Meantime, I seem to have been drifting into criticism myself </s>
 <s> But that is nothing </s>
 <s> At the worst, criticism is nothing more than a crime, and I am not unused to that </s>
-<s> What I have been travelling toward all this time is this: the first critic that ever had occasion to describe my personal appearance littered his description with foolish and inexcusable errors whose aggregate furnished the result that I was distinctly and distressingly unhandsome </s>
 <s> That description floated around the country in the papers, and was in constant use and wear for a quarter of a century </s>
 <s> It seems strange to me that apparently no critic in the country could be found who could look at me and have the courage to take up his pen and destroy that lie </s>
 <s> That lie began its course on the Pacific coast, in 1864, and it likened me in personal appearance to Petroleum V </s>
@@ -795,14 +794,14 @@
 <s> Along one side of the library, in the Hartford home, the bookshelves joined the mantelpiece--in fact there were shelves on both sides of the mantelpiece </s>
 <s> On these shelves, and on the mantelpiece, stood various ornaments </s>
 <s> At one end of the procession was a framed oil-painting of a cat's head, at the other end was a head of a beautiful young girl, life-size--called Emmeline, because she looked just about like that--an impressionist water-color </s>
-<s> Between the one picture and the other there were twelve or fifteen of the bric-Ã -brac things already mentioned; also an oil-painting by Elihu Vedder, "The Young Medusa" </s>
-<s> Every now and then the children required me to construct a romance--always impromptu--not a moment's preparation permitted--and into that romance I had to get all that bric-Ã -brac and the three pictures </s>
+<s> Between the one picture and the other there were twelve or fifteen of the bric-ï¿½ -brac things already mentioned; also an oil-painting by Elihu Vedder, "The Young Medusa" </s>
+<s> Every now and then the children required me to construct a romance--always impromptu--not a moment's preparation permitted--and into that romance I had to get all that bric-ï¿½ -brac and the three pictures </s>
 <s> I had to start always with the cat and finish with Emmeline </s>
 <s> I was never allowed the refreshment of a change, end-for-end </s>
-<s> It was not permissible to introduce a bric-Ã -brac ornament into the story out of its place in the procession </s>
-<s> These bric-Ã -bracs were never allowed a peaceful day, a reposeful day, a restful Sabbath </s>
+<s> It was not permissible to introduce a bric-ï¿½ -brac ornament into the story out of its place in the procession </s>
+<s> These bric-ï¿½ -bracs were never allowed a peaceful day, a reposeful day, a restful Sabbath </s>
 <s> In their lives there was no Sabbath, in their lives there was no peace; they knew no existence but a monotonous career of violence and bloodshed </s>
-<s> In the course of time, the bric-Ã -brac and the pictures showed wear </s>
+<s> In the course of time, the bric-ï¿½ -brac and the pictures showed wear </s>
 <s> It was because they had had so many and such tumultuous adventures in their romantic careers </s>
 <s> As romancer to the children I had a hard time, even from the beginning </s>
 <s> If they brought me a picture, in a magazine, and required me to build a story to it, they would cover the rest of the page with their pudgy hands to keep me from stealing an idea from it </s>
@@ -903,7 +902,7 @@
 <s> "Are you going down to see what it is he wants now" </s>
 <s> "No," I said, "I am no more interested than I was before </s>
 <s> They are experienced people,--burglars; _they_ know what they want; I should be no help to him </s>
-<s> I _think_ he is after ceramics and bric-Ã -brac and such things </s>
+<s> I _think_ he is after ceramics and bric-ï¿½ -brac and such things </s>
 <s> If he knows the house he knows that that is all that he can find on the dining-room floor" </s>
 <s> She said, with a strong interest perceptible in her tone, "Suppose he comes up here" </s>
 <s> I said, "It is all right </s>
@@ -915,7 +914,7 @@
 <s> That was the end of it </s>
 <s> He didn't ring any more alarms </s>
 <s> Presently I said, "He is disappointed, I think </s>
-<s> He has gone off with the vegetables and the bric-Ã -brac, and I think he is dissatisfied" </s>
+<s> He has gone off with the vegetables and the bric-ï¿½ -brac, and I think he is dissatisfied" </s>
 <s> We went to sleep, and at a quarter before eight in the morning I was out, and hurrying, for I was to take the 8.29 train for New York </s>
 <s> I found the gas burning brightly--full head--all over the first floor </s>
 <s> My new overcoat was gone; my old umbrella was gone; my new patent-leather shoes, which I had never worn, were gone </s>

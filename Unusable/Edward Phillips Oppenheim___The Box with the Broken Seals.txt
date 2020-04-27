@@ -1381,7 +1381,6 @@
 <s> As though unconsciously, the finer qualities of his voice had gone as he engaged the latter in some trivial conversation </s>
 <s> CHAPTER VIII That night at dinner time a stranger appeared at the captain's table </s>
 <s> A dark, thick-browed man, in morning clothes of professional cut, was shown by one of the saloon stewards to a seat which had hitherto been vacant </s>
-<s> Crawshay, whose place was nearly opposite, leaned across at once with an air of interest </s>
 <s> "Good evening, Doctor," he said </s>
 <s> "Good evening, sir," was the somewhat gruff reply </s>
 <s> "Glad to see that you are able to come in and join us," Crawshay continued, unabashed </s>
@@ -1404,7 +1403,7 @@
 <s> "They all took the same line, and agreed that it was an absolutely unprecedented occurrence for a man to embark upon an ocean voyage only a few days after an operation for appendicitis, with double pneumonia behind, and angina pectoris intervening </s>
 <s> Almost as unusual," Crawshay concluded with a little bow, "as the fact of his being escorted by the most distinguished amateur nurse in the world, and a physician of such distinction as Doctor--Doctor--Dear me, how extraordinary </s>
 <s> For the moment I must confess that your name has escaped me" </s>
-<s> The heavy-browed man leaned forward a little deliberately towards his _vis-Ã -vis_ </s>
+<s> The heavy-browed man leaned forward a little deliberately towards his _vis-ï¿½ -vis_ </s>
 <s> His was not an attractive personality </s>
 <s> His features were large and of bulldog type </s>
 <s> His forehead was low, and his eyes, which gave one the impression of being clear and penetrating, were concealed by heavy spectacles </s>

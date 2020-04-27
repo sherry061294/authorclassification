@@ -1926,7 +1926,6 @@
 <s> In the background was a huge wireless installation, and around, at regular intervals, enormous pillars, on the top of which flares of different-coloured fire were burning </s>
 <s> The automobile came to a standstill before a large electrically illuminated time chart </s>
 <s> Nigel alighted for a moment and spoke to one of the inspectors </s>
-<s> "Which station for the _Black Dragon_, private ship from China" </s>
 <s> he enquired </s>
 <s> The man glanced at the chart </s>
 <s> "Number seven, on the other side," he replied </s>
@@ -2006,7 +2005,7 @@
 <s> "Are you flattering yourself that he will recognise you" </s>
 <s> Nigel asked </s>
 <s> "I know that he will," she answered simply </s>
-<s> * * * * * In a corner of the white-and-gold restaurant at the Ritz on the following evening, Prince Shan and Immelan dined tête-� -tête, Immelan in the best of spirits, talking of the pleasant trifles of the world, drinking champagne and pointing out notabilities; Prince Shan, his features and expression unchanging, and his face as white as the perfectly fitting shirt he wore </s>
+<s> * * * * * In a corner of the white-and-gold restaurant at the Ritz on the following evening, Prince Shan and Immelan dined tête-� -tête, Immelan in the best of spirits, talking of the pleasant trifles of the world, drinking champagne and pointing out notabilities; Prince Shan, his features and expression unchanging, and his face as white as the perfectly fitting shirt he wore </s>
 <s> His clothes were fashionable and distinctive, his black pearls unobtrusive but wonderful, his smoothly brushed dark hair, his immaculate finger nails, his skilfully tied tie all indicative of his close touch with western civilization </s>
 <s> There was nothing, in fact, except his sphinx-like expression, the slightly unusual shape of his brilliant eyes, and his queer air of personal detachment, to denote the Oriental </s>
 <s> He drank water, he ate sparingly, he preserved an almost unbroken silence, yet he had the air of one giving courteous attention to everything which his companion said and finding interest in it </s>

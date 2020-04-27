@@ -565,7 +565,6 @@
 <s> Howls, my dear Mrs Harris </s>
 <s> Ha, ha, ha </s>
 <s> Organs, ma'am, organs </s>
-<s> Organs in the streets, Mrs Harris; no howls" </s>
 <s> Yours faithfully </s>
 <s> [Sidenote: Mr W </s>
 <s> M </s>
@@ -616,7 +615,7 @@
 <s> It is now acting at the Lyceum Theatre here, with very great success </s>
 <s> The author is Mr Westland Marston, a dramatic writer of reputation, who wrote a very well-known tragedy called "The Patrician's Daughter," in which Macready and Miss Faucit acted (under Macready's management at Drury Lane) some years ago </s>
 <s> This little piece is so very powerful on the stage, its interest is so simple and natural, and the part of Reuben is such a very fine one, that I cannot help thinking you might make one grand _coup_ with it, if with your skilful hand you arranged it for the Français </s>
-<s> I have communicated this idea of mine to the author, "_et l� -dessus je vous écris_" </s>
+<s> I have communicated this idea of mine to the author, "_et l� -dessus je vous écris_" </s>
 <s> I am anxious to know your opinion, and shall expect with much interest to receive a little letter from you at your convenience </s>
 <s> Mrs Dickens, Miss Hogarth, and all the house send a thousand kind loves and regards to Madame Regnier and the dear little boys </s>
 <s> You will bring them to London when you come, with all the force of the Français--will you not </s>
@@ -1322,7 +1321,7 @@
 <s> The separation, even in the present condition of travel (and no man can say how much the discovery of a day may advance it), is nothing </s>
 <s> And so God bless her and all of you, and may the rosy summer bring her all the fulness of joy that we all wish her </s>
 <s> To pass from the altar to Townshend (which is a long way), let me report him severely treated by Bully, who rules him with a paw of iron; and complaining, moreover, of indigestion </s>
-<s> He drives here every Sunday, but at all other times is mostly shut up in his beautiful house, where I occasionally go and dine with him _tête-� -tête_, and where we always talk of you and drink to you </s>
+<s> He drives here every Sunday, but at all other times is mostly shut up in his beautiful house, where I occasionally go and dine with him _tête-� -tête_, and where we always talk of you and drink to you </s>
 <s> That is a rule with us from which we never depart </s>
 <s> He is "seeing a volume of poems through the press;" rather an expensive amusement </s>
 <s> He has not been out at night (except to this house) save last Friday, when he went to hear me read "The Poor Traveller," "Mrs Gamp," and "The Trial" from "Pickwick" </s>
@@ -2919,7 +2918,7 @@
 <s> I am going round to see her presently, and I dine with her on Sunday </s>
 <s> The only remaining news is, that I am beset by mysterious adorers, and smuggle myself in and out of the house in the meanest and basest manner </s>
 <s> With kind regard to Mr and Mrs Humphery, Ever, my dearest Mamey, your affectionate Father </s>
-<s> P.S.--_Hommage � Madame B.!_ [Sidenote: Monsieur Regnier.] PARIS, _Sunday, Feb </s>
+<s> P.S.--_Hommage � Madame B.!_ [Sidenote: Monsieur Regnier.] PARIS, _Sunday, Feb </s>
 <s> 1st, 1863._ MY DEAR REGNIER, I was charmed by the receipt of your cordial and sympathetic letter, and I shall always preserve it carefully as a most noble tribute from a great and real artist </s>
 <s> I wished you had been at the Embassy on Friday evening </s>
 <s> The audience was a fine one, and the "Carol" is particularly well adapted to the purpose </s>

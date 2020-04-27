@@ -2228,7 +2228,6 @@
 <s> "Threaten you--what about" </s>
 <s> Fischer demanded </s>
 <s> "He seemed to have an absurd idea," Pamela explained sweetly, "that I might have somewhere concealed upon my person the formula which was stolen from Captain Graham last Monday week at Henry's Restaurant </s>
-<s> It makes quite a small world of it, doesn't it" </s>
 <s> "I will deal with Nikasti for this," Fischer promised, "if it is true </s>
 <s> Meanwhile" </s>
 <s> "No sooner have I got over that little shock," Pamela went on, "than you turn up with this melodramatic story, and an offer from Mr Fischer, which I can read in his face </s>
@@ -2248,7 +2247,7 @@
 <s> "And why not" </s>
 <s> "Just see how you have bungled </s>
 <s> You bait the trap, the poor man walks into it, and you allow another to forestall you </s>
-<s> Not only that, but you actually allow Japan to come into the game, and but for Mr Lutchester's appearance we might both of us have been left planté l� </s>
+<s> Not only that, but you actually allow Japan to come into the game, and but for Mr Lutchester's appearance we might both of us have been left planté l� </s>
 <s> No, Mr Fischer </s>
 <s> You don't deserve the formula, and you shall not have it </s>
 <s> I'll pay my brother's debt to you in dollars--no other way" </s>

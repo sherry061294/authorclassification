@@ -1,11 +1,16 @@
 import os
 
-try:
-    cr = bs.decode('utf8')
-except UnicodeDecodeError:
-    cr = bs.decode('latin1')
-for filename in os.listdir(os.getcwd() + '/final/data/processed_data/'):
-    filename_full_path = os.getcwd() + '/final/data/processed_data/'+ filename
+
+count = 0
+for filename in os.listdir(os.getcwd() + '/Unusable/'):
+    filename_full_path = os.getcwd() + '/Unusable/'+ filename
+    f = open(filename_full_path, 'r')
+    # x = f.read()
+    count +=1
     print(filename)
-    with open(filename_full_path, 'r') as f:
-        filedata = f.read()
+    for txt_line in f:
+        print(count)
+        print(filename)
+        print(txt_line)   
+
+    

@@ -274,7 +274,6 @@
 <s> Both walls and ceilings were covered with a paper of the richest and glossiest black, on which was traced a lurid and arabesque pattern of dead gold </s>
 <s> A black velvet curtain covered the single diamond-paned window; while a thick, yielding carpet of the same material prevented the sound of my own footfalls, as I paced backward and forward, from breaking the current of my thought </s>
 <s> Along the cornices ran gold rods, from which depended six pictures, all of the sombre and imaginative caste, which chimed best with my fancy </s>
-<s> And yet it was destined that ere ever I reached this quiet harbour I should learn that I was still one of humankind, and that it is an ill thing to strive to break the bond which binds us to our fellows </s>
 <s> It was but two nights before the date I had fixed upon for my change of dwelling, when I was conscious of a bustle in the house beneath, with the bearing of heavy burdens up the creaking stair, and the harsh voice of my landlady, loud in welcome and protestations of joy </s>
 <s> From time to time, amid the whirl of words, I could hear a gentle and softly modulated voice, which struck pleasantly upon my ear after the long weeks during which I had listened only to the rude dialect of the dalesmen </s>
 <s> For an hour I could hear the dialogue beneath--the high voice and the low, with clatter of cup and clink of spoon, until at last a light, quick step passed my study door, and I knew that my new fellow-lodger had sought her room </s>
@@ -326,12 +325,12 @@
 <s> "Look at my boots, Mrs Adams" </s>
 <s> she cried, thrusting them out from under her skirt </s>
 <s> "These fells of yours are dreadful places--_effroyable_--one inch, two inch; never have I seen such mud </s>
-<s> My dress, too--_voilÃ _" </s>
+<s> My dress, too--_voilï¿½ _" </s>
 <s> "Eh, miss, but you are in a pickle," cried the landlady, as she gazed down at the bedraggled gown </s>
 <s> "But you must be main weary and heavy for sleep" </s>
 <s> "No, no," she answered laughingly, "I care not for sleep </s>
 <s> What is sleep </s>
-<s> it is a little death--_voilÃ tout_ </s>
+<s> it is a little death--_voilï¿½ tout_ </s>
 <s> But for me to walk, to run, to breathe the air--that is to live </s>
 <s> I was not tired, and so all night I have explored these fells of Yorkshire" </s>
 <s> "Lord 'a mercy, miss, and where did you go" </s>

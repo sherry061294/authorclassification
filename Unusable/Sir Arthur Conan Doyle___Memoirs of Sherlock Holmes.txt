@@ -5351,7 +5351,6 @@
 <s> In the morning I obeyed Holmes's injunctions to the letter </s>
 <s> A hansom was procured with such precaution as would prevent its being one which was placed ready for us, and I drove immediately after breakfast to the Lowther Arcade, through which I hurried at the top of my speed </s>
 <s> A brougham was waiting with a very massive driver wrapped in a dark cloak, who, the instant that I had stepped in, whipped up the horse and rattled off to Victoria Station </s>
-<s> On my alighting there he turned the carriage, and dashed away again without so much as a look in my direction </s>
 <s> So far all had gone admirably </s>
 <s> My luggage was waiting for me, and I had no difficulty in finding the carriage which Holmes had indicated, the less so as it was the only one in the train which was marked "Engaged" </s>
 <s> My only source of anxiety now was the non-appearance of Holmes </s>
@@ -5455,7 +5454,7 @@
 <s> He said as much in our short interview, and I fancy that he meant it </s>
 <s> I should certainly recommend you to return to your practice" </s>
 <s> It was hardly an appeal to be successful with one who was an old campaigner as well as an old friend </s>
-<s> We sat in the Strasburg salle-Ã -manger arguing the question for half an hour, but the same night we had resumed our journey and were well on our way to Geneva </s>
+<s> We sat in the Strasburg salle-ï¿½ -manger arguing the question for half an hour, but the same night we had resumed our journey and were well on our way to Geneva </s>
 <s> For a charming week we wandered up the Valley of the Rhone, and then, branching off at Leuk, we made our way over the Gemmi Pass, still deep in snow, and so, by way of Interlaken, to Meiringen </s>
 <s> It was a lovely trip, the dainty green of the spring below, the virgin white of the winter above; but it was clear to me that never for one instant did Holmes forget the shadow which lay across him </s>
 <s> In the homely Alpine villages or in the lonely mountain passes, I could tell by his quick glancing eyes and his sharp scrutiny of every face that passed us, that he was well convinced that, walk where we would, we could not walk ourselves clear of the danger which was dogging our footsteps </s>

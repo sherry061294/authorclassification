@@ -1629,7 +1629,6 @@
 <s> He bit his lip </s>
 <s> His wife had just issued from the cloak-room and was drawing on her gloves </s>
 <s> She saw him and hesitated </s>
-<s> She, too, turned a little paler </s>
 <s> Slowly Hunterleys approached her </s>
 <s> "An unexpected pleasure," he murmured </s>
 <s> "I am here with Mr Draconmeyer," she told him, almost bluntly </s>
@@ -1675,7 +1674,7 @@
 <s> Jove </s>
 <s> I'm glad we are here, after all" </s>
 <s> Hunterleys smiled a little wearily </s>
-<s> They passed on into the _salle Ã manger_ </s>
+<s> They passed on into the _salle ï¿½ manger_ </s>
 <s> The seats at the long dining-tables were not reserved, and they found a little table for two in a corner, which they annexed </s>
 <s> Hunterleys was in a grim humour, but his companion was in the wildest spirits </s>
 <s> Considering that he was placed where he could see Mr Grex and his daughter nearly the whole of the time, he really did contrive to keep his eyes away from them to a wonderful extent, but he talked of her unceasingly </s>

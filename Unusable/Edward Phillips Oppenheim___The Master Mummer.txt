@@ -5524,7 +5524,6 @@
 <s> I know that you are wiser and cleverer than I am, but I can learn </s>
 <s> I have been learning all the time </s>
 <s> Are we always to remain at this great distance" </s>
-<s> "Dear Isobel," I answered, "you forget that I am more than twice your age </s>
 <s> You are eighteen, and I am thirty-four </s>
 <s> I cannot make myself young like you </s>
 <s> I cannot call back the years, however much I might wish to do so </s>
@@ -5564,7 +5563,7 @@
 <s> "In fact, I'll drink your health" </s>
 <s> I called a waiter and ordered liqueurs </s>
 <s> Arthur took his with an ill grace, and he still avoided any direct speech with me </s>
-<s> Isobel was evidently uneasy, and looked at me once or twice as though anxious that I should break up their _tête-� -tête_ </s>
+<s> Isobel was evidently uneasy, and looked at me once or twice as though anxious that I should break up their _tête-� -tête_ </s>
 <s> But when I had paid the bill and we rose to go, Allan passed his arm through mine, and I was forced to let the two go on </s>
 <s> "Let the boy have his chance," Allan said, pausing a little as we turned into the Boulevard </s>
 <s> "He's in such a state that he won't listen to reason only from her" </s>

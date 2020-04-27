@@ -656,7 +656,6 @@
 <s> Go tell thy painters to turn stockbrokers, Thy poet friends to stoop o'er merchants' desks And pen prose records of the gains of greed </s>
 <s> Tell bishops that religion is outworn, And that the Pampa to the horsebreaker Opes new careers </s>
 <s> Bid the professor quit His fraudulent pedantries, and do i' the world The thing he would teach others </s>
-<s> Then return To me and say: Cashel: they have obeyed; And on that pyre of sacrifice I, too, Will throw my championship </s>
 <s> LYDIA </s>
 <s> But 'tis so cruel </s>
 <s> CASHEL </s>
@@ -695,7 +694,7 @@
 <s> Be lonely then </s>
 <s> Shall it be said of thee That for his brawn thou misalliance mad'st Wi' the Prince of Ruffians </s>
 <s> Never </s>
-<s> Go thy ways; Or, if thou hast nostalgia of the mud, Wed some bedoggéd wretch that on the slot Of gilded snobbery, _ventre � terre_, Will hunt through life with eager nose on earth And hang thee thick with diamonds </s>
+<s> Go thy ways; Or, if thou hast nostalgia of the mud, Wed some bedoggéd wretch that on the slot Of gilded snobbery, _ventre � terre_, Will hunt through life with eager nose on earth And hang thee thick with diamonds </s>
 <s> I am rich; But all my gold was fought for with my hands </s>
 <s> LYDIA </s>
 <s> What dost thou mean by rich </s>

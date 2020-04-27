@@ -5869,7 +5869,6 @@
 <s> Lady Redford, however, drew her chair up close to theirs, and the conversation was always general </s>
 <s> Berenice in a few minutes rose to her feet </s>
 <s> "Listen to the sea," she exclaimed </s>
-<s> "Don't some of you want to come down to the rocks and watch it" </s>
 <s> Blanche rose up at once </s>
 <s> "Do come, Lawrence, if you are not too tired" </s>
 <s> she said </s>
@@ -5926,7 +5925,7 @@
 <s> "I knew that you cared for her, of course," she answered, with a little sob, "but I did not know that you meant to nurse it--that feeling </s>
 <s> I thought that when we were married you would try to care for me--a little </s>
 <s> I--Here are the others" </s>
-<s> Lord Redford, who had failed to amuse Berenice, and who had a secret preference for the woman who generally amused him, broke up their _tête-� -tête_ </s>
+<s> Lord Redford, who had failed to amuse Berenice, and who had a secret preference for the woman who generally amused him, broke up their _tête-� -tête_ </s>
 <s> He led Blanche away, and Mannering followed with Berenice </s>
 <s> "What does this change in your wife mean" </s>
 <s> she asked, abruptly </s>

@@ -1,4 +1,3 @@
-<s> THE DOUBLE TRAITOR BY E </s>
 <s> PHILLIPS OPPENHEIM 1915 CHAPTER I The woman leaned across the table towards her companion </s>
 <s> "My friend," she said, "when we first met--I am ashamed, considering that I dine alone with you to-night, to reflect how short a time ago--you spoke of your removal here from Paris very much as though it were a veritable exile </s>
 <s> I told you then that there might be surprises in store for you </s>
@@ -20,7 +19,7 @@
 <s> Wherever they have been, for the last few years, they seem to have left the trail of the _nouveaux riches_ </s>
 <s> It is not only their clothes but their manners and bearing which affront" </s>
 <s> The woman leaned her head for a moment against the tips of her slim and beautifully cared for fingers </s>
-<s> She looked steadfastly across the table at her vis-Ã -vis </s>
+<s> She looked steadfastly across the table at her vis-ï¿½ -vis </s>
 <s> "Now that you are here," she said softly, "you must forget those things </s>
 <s> You are a diplomatist, and it is for you, is it not, outwardly, at any rate, to see only the good of the country in which your work lies" </s>
 <s> Norgate flushed very slightly </s>

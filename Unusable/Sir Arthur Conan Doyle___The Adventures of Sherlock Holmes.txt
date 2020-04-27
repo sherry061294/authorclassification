@@ -1654,11 +1654,10 @@
 <s> "Having once spotted my man, it was easy to get corroboration </s>
 <s> I knew the firm for which this man worked </s>
 <s> Having taken the printed description </s>
-<s> I eliminated everything from it which could be the result of a disguise--the whiskers, the glasses, the voice, and I sent it to the firm, with a request that they would inform me whether it answered to the description of any of their travellers </s>
 <s> I had already noticed the peculiarities of the typewriter, and I wrote to the man himself at his business address asking him if he would come here </s>
 <s> As I expected, his reply was typewritten and revealed the same trivial but characteristic defects </s>
 <s> The same post brought me a letter from Westhouse & Marbank, of Fenchurch Street, to say that the description tallied in every respect with that of their employÃ©, James Windibank </s>
-<s> VoilÃ tout" </s>
+<s> Voilï¿½ tout" </s>
 <s> "And Miss Sutherland" </s>
 <s> "If I tell her she will not believe me </s>
 <s> You may remember the old Persian saying, 'There is danger for him who taketh the tiger cub, and danger also for whoso snatches a delusion from a woman' </s>

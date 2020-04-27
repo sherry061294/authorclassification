@@ -1042,7 +1042,6 @@
 <s> It is you who have embittered his nature, poured into his ear the poison of treacherous counsel, made him hated by the whole people, made him what he is--a tyrant </s>
 <s> (_The courtiers look significantly at each other._) PRINCE PAUL (_calmly_) </s>
 <s> I see your Highness does want change of air </s>
-<s> But I have been an eldest son myself </s>
 <s> (_Lights a cigarette._) I know what it is when a father won't die to please one </s>
 <s> (_The CZAREVITCH goes to the top of the stage, and leans against the window, looking out._) PRINCE PETRO </s>
 <s> (_to BARON RAFF_) </s>
@@ -1062,7 +1061,7 @@
 <s> Very delicate, isn't it </s>
 <s> I get it direct from Paris </s>
 <s> But under this vulgar Republic everything has degenerated over there </s>
-<s> "Cotelettes � l'impériale" vanished, of course, with the Bourbon, and omelettes went out with the Orleanists </s>
+<s> "Cotelettes � l'impériale" vanished, of course, with the Bourbon, and omelettes went out with the Orleanists </s>
 <s> La belle France is entirely ruined, Prince, through bad morals and worse cookery </s>
 <s> (_Enter the MARQUIS DE POIVRARD._) Ah </s>
 <s> Marquis </s>
