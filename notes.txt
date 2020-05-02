@@ -1,0 +1,21 @@
+
+pulled all data down from gutenberg project
+
+choosing 15 arthurs to train models on
+
+ - charles dickens
+ - edward phillips oppenheim
+ - george bernard shaw
+ - herman melville
+ - jane austen
+ - lewis carroll
+ - lord tennyson
+ - mark twain
+ - mary shelley
+ - oscar wilde
+ - sir arthur conan doyle
+
+process the books 
+
+convert book txt file to a txt file with sentence on each line. split book text by typical sentence enders.
+"." "?" "!"
