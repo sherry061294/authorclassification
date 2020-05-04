@@ -1,5 +1,4 @@
 from collections import Counter
-
 import os
 import re
 
@@ -9,20 +8,11 @@ def process_text(line):
 	line = line.replace("Mr.", "Mr")
 	line = line.replace("etc.", "etc")
 	line = line.replace("P.S.", "PS")
-	line = line.replace(".\"", "\".") # switch quote and punctuation to preserve quotes when splitting on punctuation
-	line = line.replace("?\"", "\"?")
-	line = line.replace("!\"", "\"!")
-	line = line.replace(".\'", "\'.")
-	line = line.replace("?\'", "\'?")
-	line = line.replace("!\'", "\'!")
-	line = line.replace("--", " ")
 
 	return line
 
-def get_sentences():
-	'''
-	get sentences from full texts
-	'''
+
+if __name__ == "__main__":
 	raw_data_path = "%s/../data/raw_data" % os.getcwd()
 
 	author_text = {}
@@ -36,7 +26,8 @@ def get_sentences():
 			author_text[author] = []
 
 		# Process the text of one of the books
-		full_text = open("%s/%s" % (raw_data_path, file_name), "r").read()
+		full_text = open(os.path.join(raw_data_path, file_name), "r").read()
+
 		full_text = process_text(full_text)
 
 		# For each sentence, find each word, add start/end sentence tags, and add to full list of author text
@@ -51,10 +42,6 @@ def get_sentences():
 
 	# Write out evey sentence for each author to their own file
 	for author in author_text:
-
 		with open("%s/../data/processed_data/%s.txt" % (os.getcwd(), author), "w") as ofile:
 			for sentence in author_text[author]:
 				ofile.write(sentence + "\n")
-
-if __name__ == "__main__":
-	get_sentences()

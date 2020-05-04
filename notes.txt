@@ -1,7 +1,7 @@
 
 pulled all data down from gutenberg project
 
-choosing 15 arthurs to train models on
+choosing 11 arthurs to train models on
 
  - charles dickens
  - edward phillips oppenheim
@@ -15,7 +15,7 @@ choosing 15 arthurs to train models on
  - oscar wilde
  - sir arthur conan doyle
 
-process the books 
+process the books
 
 convert book txt file to a txt file with sentence on each line. split book text by typical sentence enders.
 "." "?" "!"
