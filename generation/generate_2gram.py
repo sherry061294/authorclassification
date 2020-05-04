@@ -68,7 +68,8 @@ if __name__ == "__main__":
 
                 for word in sentence[1:]:
                     # initialize empty dictionaries for new words
-                    if p1_word not in word_probs:                       word_probs[p1_word] = dict()
+                    if p1_word not in word_probs:
+                        word_probs[p1_word] = dict()
 
                     # if we have not seen this word combination, initialize count to 1
                     if word not in word_probs[p1_word]:
