@@ -106,32 +106,9 @@ sns.set(style="whitegrid", color_codes=True)
 from imblearn.over_sampling import SMOTE
 os = SMOTE(random_state=0)
 X_train, X_test, y_train, y_test = train_test_split(dfObj, dfObj2, test_size=0.1, random_state=0)
-# print(dfObj)
-# print(dfObj2)
-# print(X_train)
-# print(y_train)
-# print(X_test)
-# print(y_test)
-# columns = X_train.columns
-# os_data_X,os_data_y=os.fit_sample(X_train, y_train)
-# os_data_X = pd.DataFrame(data=os_data_X,columns=columns )
-# os_data_y= pd.DataFrame(data=os_data_y,columns=['author_name'])
 
-# print("length of oversampled data is ",len(os_data_X))
-# print("Number of no subscription in oversampled data",len(os_data_y[os_data_y['author_name']==0]))
-# print("Number of subscription",len(os_data_y[os_data_y['author_name']==1]))
-# print("Proportion of no subscription data in oversampled data is ",len(os_data_y[os_data_y['author_name']==0])/len(os_data_X))
-# print("Proportion of subscription data in oversampled data is ",len(os_data_y[os_data_y['author_name']==1])/len(os_data_X))
-
-# logreg = LogisticRegression()
-# logreg.fit(X_train, y_train)
-
-# y_pred = logreg.predict(X_test)
-# print('Accuracy of logistic regression classifier on test set: {:.2f}'.format(logreg.score(X_test, y_test)))
-
-# Importing necessary libraries
 from sklearn.naive_bayes import MultinomialNB
-# instantiating the model with Multinomial Naive Bayes..
+
 model = MultinomialNB()
 # training the model...
 model = model.fit(X_train, y_train)
