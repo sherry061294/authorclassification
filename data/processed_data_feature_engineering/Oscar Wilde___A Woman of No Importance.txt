@@ -1,0 +1,3331 @@
+<s> A Woman of No Importance THE PERSONS OF THE PLAY Lord Illingworth Sir John Pontefract Lord Alfred Rufford Mr Kelvil, M.P </s>
+<s> The Ven </s>
+<s> Archdeacon Daubeny, D.D </s>
+<s> Gerald Arbuthnot Farquhar, Butler Francis, Footman Lady Hunstanton Lady Caroline Pontefract Lady Stutfield Mrs Allonby Miss Hester Worsley Alice, Maid Mrs Arbuthnot THE SCENES OF THE PLAY ACT I </s>
+<s> The Terrace at Hunstanton Chase </s>
+<s> ACT II </s>
+<s> The Drawing-room at Hunstanton Chase </s>
+<s> ACT III </s>
+<s> The Hall at Hunstanton Chase </s>
+<s> ACT IV </s>
+<s> Sitting-room in Mrs Arbuthnot's House at Wrockley </s>
+<s> TIME: The Present </s>
+<s> PLACE: The Shires </s>
+<s> The action of the play takes place within twenty-four hours </s>
+<s> LONDON: HAYMARKET THEATRE Lessee and Manager: Mr H Beerbohm Tree April 19th, 1893 Lord Illingworth, Mr Tree Sir John Pontefract, Mr E </s>
+<s> Holman Clark Lord Alfred Rufford, Mr Ernest Lawford Mr Kelvil, M.P., Mr Charles Allan </s>
+<s> The Ven </s>
+<s> Archdeacon Daubeny, D.D., Mr Kemble Gerald Arbuthnot, Mr Terry Farquhar, Butler, Mr Hay Francis, Footman, Mr Montague Lady Hunstanton, Miss Rose Leclercq Lady Caroline Pontefract, Miss Le Thiere Lady Stutfield, Miss Blanche Horlock Mrs Allonby, Mrs Tree Miss Hester Worsley, Miss Julia Neilson Alice, Maid, Miss Kelly Mrs Arbuthnot, Mrs Bernard-Beere FIRST ACT SCENE Lawn in front of the terrace at Hunstanton </s>
+<s> [SIR JOHN and LADY CAROLINE PONTEFRACT, MISS WORSLEY, on chairs under large yew tree.] LADY CAROLINE </s>
+<s> I believe this is the first English country house you have stayed at, Miss Worsley </s>
+<s> HESTER </s>
+<s> Yes, Lady Caroline </s>
+<s> LADY CAROLINE </s>
+<s> You have no country houses, I am told, in America </s>
+<s> HESTER </s>
+<s> We have not many </s>
+<s> LADY CAROLINE </s>
+<s> Have you any country </s>
+<s> What we should call country </s>
+<s> HESTER </s>
+<s> [Smiling.] We have the largest country in the world, Lady Caroline </s>
+<s> They used to tell us at school that some of our states are as big as France and England put together </s>
+<s> LADY CAROLINE </s>
+<s> Ah </s>
+<s> you must find it very draughty, I should fancy </s>
+<s> [To SIR JOHN.] John, you should have your muffler </s>
+<s> What is the use of my always knitting mufflers for you if you won't wear them </s>
+<s> SIR JOHN </s>
+<s> I am quite warm, Caroline, I assure you </s>
+<s> LADY CAROLINE </s>
+<s> I think not, John </s>
+<s> Well, you couldn't come to a more charming place than this, Miss Worsley, though the house is excessively damp, quite unpardonably damp, and dear Lady Hunstanton is sometimes a little lax about the people she asks down here </s>
+<s> [To SIR JOHN.] Jane mixes too much </s>
+<s> Lord Illingworth, of course, is a man of high distinction </s>
+<s> It is a privilege to meet him </s>
+<s> And that member of Parliament, Mr Kettle - SIR JOHN </s>
+<s> Kelvil, my love, Kelvil </s>
+<s> LADY CAROLINE </s>
+<s> He must be quite respectable </s>
+<s> One has never heard his name before in the whole course of one's life, which speaks volumes for a man, nowadays </s>
+<s> But Mrs Allonby is hardly a very suitable person </s>
+<s> HESTER </s>
+<s> I dislike Mrs Allonby </s>
+<s> I dislike her more than I can say </s>
+<s> LADY CAROLINE </s>
+<s> I am not sure, Miss Worsley, that foreigners like yourself should cultivate likes or dislikes about the people they are invited to meet </s>
+<s> Mrs Allonby is very well born </s>
+<s> She is a niece of Lord Brancaster's </s>
+<s> It is said, of course, that she ran away twice before she was married </s>
+<s> But you know how unfair people often are </s>
+<s> I myself don't believe she ran away more than once </s>
+<s> HESTER </s>
+<s> Mr Arbuthnot is very charming </s>
+<s> LADY CAROLINE </s>
+<s> Ah, yes </s>
+<s> the young man who has a post in a bank </s>
+<s> Lady Hunstanton is most kind in asking him here, and Lord Illingworth seems to have taken quite a fancy to him </s>
+<s> I am not sure, however, that Jane is right in taking him out of his position </s>
+<s> In my young days, Miss Worsley, one never met any one in society who worked for their living </s>
+<s> It was not considered the thing </s>
+<s> HESTER </s>
+<s> In America those are the people we respect most </s>
+<s> LADY CAROLINE </s>
+<s> I have no doubt of it </s>
+<s> HESTER </s>
+<s> Mr Arbuthnot has a beautiful nature </s>
+<s> He is so simple, so sincere </s>
+<s> He has one of the most beautiful natures I have ever come across </s>
+<s> It is a privilege to meet HIM </s>
+<s> LADY CAROLINE </s>
+<s> It is not customary in England, Miss Worsley, for a young lady to speak with such enthusiasm of any person of the opposite sex </s>
+<s> English women conceal their feelings till after they are married </s>
+<s> They show them then </s>
+<s> HESTER </s>
+<s> Do you, in England, allow no friendship to exist between a young man and a young girl </s>
+<s> [Enter LADY HUNSTANTON, followed by Footman with shawls and a cushion.] LADY CAROLINE </s>
+<s> We think it very inadvisable </s>
+<s> Jane, I was just saying what a pleasant party you have asked us to meet </s>
+<s> You have a wonderful power of selection </s>
+<s> It is quite a gift </s>
+<s> LADY HUNSTANTON </s>
+<s> Dear Caroline, how kind of you </s>
+<s> I think we all do fit in very nicely together </s>
+<s> And I hope our charming American visitor will carry back pleasant recollections of our English country life </s>
+<s> [To Footman.] The cushion, there, Francis </s>
+<s> And my shawl </s>
+<s> The Shetland </s>
+<s> Get the Shetland </s>
+<s> [Exit Footman for shawl.] [Enter GERALD ARBUTHNOT.] GERALD </s>
+<s> Lady Hunstanton, I have such good news to tell you </s>
+<s> Lord Illingworth has just offered to make me his secretary </s>
+<s> LADY HUNSTANTON </s>
+<s> His secretary </s>
+<s> That is good news indeed, Gerald </s>
+<s> It means a very brilliant future in store for you </s>
+<s> Your dear mother will be delighted </s>
+<s> I really must try and induce her to come up here to-night </s>
+<s> Do you think she would, Gerald </s>
+<s> I know how difficult it is to get her to go anywhere </s>
+<s> GERALD </s>
+<s> Oh </s>
+<s> I am sure she would, Lady Hunstanton, if she knew Lord Illingworth had made me such an offer </s>
+<s> [Enter Footman with shawl.] LADY HUNSTANTON </s>
+<s> I will write and tell her about it, and ask her to come up and meet him </s>
+<s> [To Footman.] Just wait, Francis </s>
+<s> [Writes letter.] LADY CAROLINE </s>
+<s> That is a very wonderful opening for so young a man as you are, Mr Arbuthnot </s>
+<s> GERALD </s>
+<s> It is indeed, Lady Caroline </s>
+<s> I trust I shall be able to show myself worthy of it </s>
+<s> LADY CAROLINE </s>
+<s> I trust so </s>
+<s> GERALD </s>
+<s> [To HESTER.] YOU have not congratulated me yet, Miss Worsley </s>
+<s> HESTER </s>
+<s> Are you very pleased about it </s>
+<s> GERALD </s>
+<s> Of course I am </s>
+<s> It means everything to me - things that were out of the reach of hope before may be within hope's reach now </s>
+<s> HESTER </s>
+<s> Nothing should be out of the reach of hope </s>
+<s> Life is a hope </s>
+<s> LADY HUNSTANTON </s>
+<s> I fancy, Caroline, that Diplomacy is what Lord Illingworth is aiming at </s>
+<s> I heard that he was offered Vienna </s>
+<s> But that may not be true </s>
+<s> LADY CAROLINE </s>
+<s> I don't think that England should be represented abroad by an unmarried man, Jane </s>
+<s> It might lead to complications </s>
+<s> LADY HUNSTANTON </s>
+<s> You are too nervous, Caroline </s>
+<s> Believe me, you are too nervous </s>
+<s> Besides, Lord Illingworth may marry any day </s>
+<s> I was in hopes he would have married lady Kelso </s>
+<s> But I believe he said her family was too large </s>
+<s> Or was it her feet </s>
+<s> I forget which </s>
+<s> I regret it very much </s>
+<s> She was made to be an ambassador's wife </s>
+<s> LADY CAROLINE </s>
+<s> She certainly has a wonderful faculty of remembering people's names, and forgetting their faces </s>
+<s> LADY HUNSTANTON </s>
+<s> Well, that is very natural, Caroline, is it not </s>
+<s> [To Footman.] Tell Henry to wait for an answer </s>
+<s> I have written a line to your dear mother, Gerald, to tell her your good news, and to say she really must come to dinner </s>
+<s> [Exit Footman.] GERALD </s>
+<s> That is awfully kind of you, Lady Hunstanton </s>
+<s> [To HESTER.] Will you come for a stroll, Miss Worsley </s>
+<s> HESTER </s>
+<s> With pleasure [Exit with GERALD.] LADY HUNSTANTON </s>
+<s> I am very much gratified at Gerald Arbuthnot's good fortune </s>
+<s> He is quite a PROTEGE of mine </s>
+<s> And I am particularly pleased that Lord Illingworth should have made the offer of his own accord without my suggesting anything </s>
+<s> Nobody likes to be asked favours </s>
+<s> I remember poor Charlotte Pagden making herself quite unpopular one season, because she had a French governess she wanted to recommend to every one </s>
+<s> LADY CAROLINE </s>
+<s> I saw the governess, Jane </s>
+<s> Lady Pagden sent her to me </s>
+<s> It was before Eleanor came out </s>
+<s> She was far too good-looking to be in any respectable household </s>
+<s> I don't wonder Lady Pagden was so anxious to get rid of her </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, that explains it </s>
+<s> LADY CAROLINE </s>
+<s> John, the grass is too damp for you </s>
+<s> You had better go and put on your overshoes at once </s>
+<s> SIR JOHN </s>
+<s> I am quite comfortable, Caroline, I assure you </s>
+<s> LADY CAROLINE </s>
+<s> You must allow me to be the best judge of that, John </s>
+<s> Pray do as I tell you </s>
+<s> [SIR JOHN gets up and goes off.] LADY HUNSTANTON </s>
+<s> You spoil him, Caroline, you do indeed </s>
+<s> [Enter MRS </s>
+<s> ALLONBY and LADY STUTFIELD.] [To MRS </s>
+<s> ALLONBY.] Well, dear, I hope you like the park </s>
+<s> It is said to be well timbered </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> The trees are wonderful, Lady Hunstanton </s>
+<s> LADY STUTFIELD </s>
+<s> Quite, quite wonderful </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> But somehow, I feel sure that if I lived in the country for six months, I should become so unsophisticated that no one would take the slightest notice of me </s>
+<s> LADY HUNSTANTON </s>
+<s> I assure you, dear, that the country has not that effect at all </s>
+<s> Why, it was from Melthorpe, which is only two miles from here, that Lady Belton eloped with Lord Fethersdale </s>
+<s> I remember the occurrence perfectly </s>
+<s> Poor Lord Belton died three days afterwards of joy, or gout </s>
+<s> I forget which </s>
+<s> We had a large party staying here at the time, so we were all very much interested in the whole affair </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I think to elope is cowardly </s>
+<s> It's running away from danger </s>
+<s> And danger has become so rare in modern life </s>
+<s> LADY CAROLINE </s>
+<s> As far as I can make out, the young women of the present day seem to make it the sole object of their lives to be always playing with fire </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> The one advantage of playing with fire, Lady Caroline, is that one never gets even singed </s>
+<s> It is the people who don't know how to play with it who get burned up </s>
+<s> LADY STUTFIELD </s>
+<s> Yes; I see that </s>
+<s> It is very, very helpful </s>
+<s> LADY HUNSTANTON </s>
+<s> I don't know how the world would get on with such a theory as that, dear Mrs Allonby </s>
+<s> LADY STUTFIELD </s>
+<s> Ah </s>
+<s> The world was made for men and not for women </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh, don't say that, Lady Stutfield </s>
+<s> We have a much better time than they have </s>
+<s> There are far more things forbidden to us than are forbidden to them </s>
+<s> LADY STUTFIELD </s>
+<s> Yes; that is quite, quite true </s>
+<s> I had not thought of that </s>
+<s> [Enter SIR JOHN and MR </s>
+<s> KELVIL.] LADY HUNSTANTON </s>
+<s> Well, Mr Kelvil, have you got through your work </s>
+<s> KELVIL </s>
+<s> I have finished my writing for the day, Lady Hunstanton </s>
+<s> It has been an arduous task </s>
+<s> The demands on the time of a public man are very heavy nowadays, very heavy indeed </s>
+<s> And I don't think they meet with adequate recognition </s>
+<s> LADY CAROLINE </s>
+<s> John, have you got your overshoes on </s>
+<s> SIR JOHN </s>
+<s> Yes, my love </s>
+<s> LADY CAROLINE </s>
+<s> I think you had better come over here, John </s>
+<s> It is more sheltered </s>
+<s> SIR JOHN </s>
+<s> I am quite comfortable, Caroline </s>
+<s> LADY CAROLINE </s>
+<s> I think not, John </s>
+<s> You had better sit beside me </s>
+<s> [SIR JOHN rises and goes across.] LADY STUTFIELD </s>
+<s> And what have you been writing about this morning, Mr Kelvil </s>
+<s> KELVIL </s>
+<s> On the usual subject, Lady Stutfield </s>
+<s> On Purity </s>
+<s> LADY STUTFIELD </s>
+<s> That must be such a very, very interesting thing to write about </s>
+<s> KELVIL </s>
+<s> It is the one subject of really national importance, nowadays, Lady Stutfield </s>
+<s> I purpose addressing my constituents on the question before Parliament meets </s>
+<s> I find that the poorer classes of this country display a marked desire for a higher ethical standard </s>
+<s> LADY STUTFIELD </s>
+<s> How quite, quite nice of them </s>
+<s> LADY CAROLINE </s>
+<s> Are you in favour of women taking part in politics, Mr Kettle </s>
+<s> SIR JOHN </s>
+<s> Kelvil, my love, Kelvil </s>
+<s> KELVIL </s>
+<s> The growing influence of women is the one reassuring thing in our political life, Lady Caroline </s>
+<s> Women are always on the side of morality, public and private </s>
+<s> LADY STUTFIELD </s>
+<s> It is so very, very gratifying to hear you say that </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, yes </s>
+<s> - the moral qualities in women - that is the important thing </s>
+<s> I am afraid, Caroline, that dear Lord Illingworth doesn't value the moral qualities in women as much as he should </s>
+<s> [Enter LORD ILLINGWORTH.] LADY STUTFIELD </s>
+<s> The world says that Lord Illingworth is very, very wicked </s>
+<s> LORD ILLINGWORTH </s>
+<s> But what world says that, Lady Stutfield </s>
+<s> It must be the next world </s>
+<s> This world and I are on excellent terms </s>
+<s> [Sits down beside MRS </s>
+<s> ALLONBY.] LADY STUTFIELD </s>
+<s> Every one I know says you are very, very wicked </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is perfectly monstrous the way people go about, nowadays, saying things against one behind one's back that are absolutely and entirely true </s>
+<s> LADY HUNSTANTON </s>
+<s> Dear Lord Illingworth is quite hopeless, Lady Stutfield </s>
+<s> I have given up trying to reform him </s>
+<s> It would take a Public Company with a Board of Directors and a paid Secretary to do that </s>
+<s> But you have the secretary already, Lord Illingworth, haven't you </s>
+<s> Gerald Arbuthnot has told us of his good fortune; it is really most kind of you </s>
+<s> LORD ILLINGWORTH </s>
+<s> Oh, don't say that, Lady Hunstanton </s>
+<s> Kind is a dreadful word </s>
+<s> I took a great fancy to young Arbuthnot the moment I met him, and he'll be of considerable use to me in something I am foolish enough to think of doing </s>
+<s> LADY HUNSTANTON </s>
+<s> He is an admirable young man </s>
+<s> And his mother is one of my dearest friends </s>
+<s> He has just gone for a walk with our pretty American </s>
+<s> She is very pretty, is she not </s>
+<s> LADY CAROLINE </s>
+<s> Far too pretty </s>
+<s> These American girls carry off all the good matches </s>
+<s> Why can't they stay in their own country </s>
+<s> They are always telling us it is the Paradise of women </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is, Lady Caroline </s>
+<s> That is why, like Eve, they are so extremely anxious to get out of it </s>
+<s> LADY CAROLINE </s>
+<s> Who are Miss Worsley's parents </s>
+<s> LORD ILLINGWORTH </s>
+<s> American women are wonderfully clever in concealing their parents </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear Lord Illingworth, what do you mean </s>
+<s> Miss Worsley, Caroline, is an orphan </s>
+<s> Her father was a very wealthy millionaire or philanthropist, or both, I believe, who entertained my son quite hospitably, when he visited Boston </s>
+<s> I don't know how he made his money, originally </s>
+<s> KELVIL </s>
+<s> I fancy in American dry goods </s>
+<s> LADY HUNSTANTON </s>
+<s> What are American dry goods </s>
+<s> LORD ILLINGWORTH </s>
+<s> American novels </s>
+<s> LADY HUNSTANTON </s>
+<s> How very singular </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> Well, from whatever source her large fortune came, I have a great esteem for Miss Worsley </s>
+<s> She dresses exceedingly well </s>
+<s> All Americans do dress well </s>
+<s> They get their clothes in Paris </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> They say, Lady Hunstanton, that when good Americans die they go to Paris </s>
+<s> LADY HUNSTANTON </s>
+<s> Indeed </s>
+<s> And when bad Americans die, where do they go to </s>
+<s> LORD ILLINGWORTH </s>
+<s> Oh, they go to America </s>
+<s> KELVIL </s>
+<s> I am afraid you don't appreciate America, Lord Illingworth </s>
+<s> It is a very remarkable country, especially considering its youth </s>
+<s> LORD ILLINGWORTH </s>
+<s> The youth of America is their oldest tradition </s>
+<s> It has been going on now for three hundred years </s>
+<s> To hear them talk one would imagine they were in their first childhood </s>
+<s> As far as civilisation goes they are in their second </s>
+<s> KELVIL </s>
+<s> There is undoubtedly a great deal of corruption in American politics </s>
+<s> I suppose you allude to that </s>
+<s> LORD ILLINGWORTH </s>
+<s> I wonder </s>
+<s> LADY HUNSTANTON </s>
+<s> Politics are in a sad way everywhere, I am told </s>
+<s> They certainly are in England </s>
+<s> Dear Mr Cardew is ruining the country </s>
+<s> I wonder Mrs Cardew allows him </s>
+<s> I am sure, Lord Illingworth, you don't think that uneducated people should be allowed to have votes </s>
+<s> LORD ILLINGWORTH </s>
+<s> I think they are the only people who should </s>
+<s> KELVIL </s>
+<s> Do you take no side then in modern politics, Lord Illingworth </s>
+<s> LORD ILLINGWORTH </s>
+<s> One should never take sides in anything, Mr Kelvil </s>
+<s> Taking sides is the beginning of sincerity, and earnestness follows shortly afterwards, and the human being becomes a bore </s>
+<s> However, the House of Commons really does very little harm </s>
+<s> You can't make people good by Act of Parliament, - that is something </s>
+<s> KELVIL </s>
+<s> You cannot deny that the House of Commons has always shown great sympathy with the sufferings of the poor </s>
+<s> LORD ILLINGWORTH </s>
+<s> That is its special vice </s>
+<s> That is the special vice of the age </s>
+<s> One should sympathise with the joy, the beauty, the colour of life </s>
+<s> The less said about life's sores the better, Mr Kelvil </s>
+<s> KELVIL </s>
+<s> Still our East End is a very important problem </s>
+<s> LORD ILLINGWORTH </s>
+<s> Quite so </s>
+<s> It is the problem of slavery </s>
+<s> And we are trying to solve it by amusing the slaves </s>
+<s> LADY HUNSTANTON </s>
+<s> Certainly, a great deal may be done by means of cheap entertainments, as you say, Lord Illingworth </s>
+<s> Dear Dr </s>
+<s> Daubeny, our rector here, provides, with the assistance of his curates, really admirable recreations for the poor during the winter </s>
+<s> And much good may be done by means of a magic lantern, or a missionary, or some popular amusement of that kind </s>
+<s> LADY CAROLINE </s>
+<s> I am not at all in favour of amusements for the poor, Jane </s>
+<s> Blankets and coals are sufficient </s>
+<s> There is too much love of pleasure amongst the upper classes as it is </s>
+<s> Health is what we want in modern life </s>
+<s> The tone is not healthy, not healthy at all </s>
+<s> KELVIL </s>
+<s> You are quite right, Lady Caroline </s>
+<s> LADY CAROLINE </s>
+<s> I believe I am usually right </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Horrid word 'health' </s>
+<s> LORD ILLINGWORTH </s>
+<s> Silliest word in our language, and one knows so well the popular idea of health </s>
+<s> The English country gentleman galloping after a fox - the unspeakable in full pursuit of the uneatable </s>
+<s> KELVIL </s>
+<s> May I ask, Lord Illingworth, if you regard the House of Lords as a better institution than the House of Commons </s>
+<s> LORD ILLINGWORTH </s>
+<s> A much better institution, of course </s>
+<s> We in the House of Lords are never in touch with public opinion </s>
+<s> That makes us a civilised body </s>
+<s> KELVIL </s>
+<s> Are you serious in putting forward such a view </s>
+<s> LORD ILLINGWORTH </s>
+<s> Quite serious, Mr Kelvil </s>
+<s> [To MRS </s>
+<s> ALLONBY.] Vulgar habit that is people have nowadays of asking one, after one has given them an idea, whether one is serious or not </s>
+<s> Nothing is serious except passion </s>
+<s> The intellect is not a serious thing, and never has been </s>
+<s> It is an instrument on which one plays, that is all </s>
+<s> The only serious form of intellect I know is the British intellect </s>
+<s> And on the British intellect the illiterates play the drum </s>
+<s> LADY HUNSTANTON </s>
+<s> What are you saying, Lord Illingworth, about the drum </s>
+<s> LORD ILLINGWORTH </s>
+<s> I was merely talking to Mrs Allonby about the leading articles in the London newspapers </s>
+<s> LADY HUNSTANTON </s>
+<s> But do you believe all that is written in the newspapers </s>
+<s> LORD ILLINGWORTH </s>
+<s> I do </s>
+<s> Nowadays it is only the unreadable that occurs </s>
+<s> [Rises with MRS </s>
+<s> ALLONBY.] LADY HUNSTANTON </s>
+<s> Are you going, Mrs Allonby </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Just as far as the conservatory </s>
+<s> Lord Illingworth told me this morning that there was an orchid there m beautiful as the seven deadly sins </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear, I hope there is nothing of the kind </s>
+<s> I will certainly speak to the gardener </s>
+<s> [Exit MRS </s>
+<s> ALLONBY and LORD ILLINGWORTH.] LADY CAROLINE </s>
+<s> Remarkable type, Mrs Allonby </s>
+<s> LADY HUNSTANTON </s>
+<s> She lets her clever tongue run away with her sometimes </s>
+<s> LADY CAROLINE </s>
+<s> Is that the only thing, Jane, Mrs Allonby allows to run away with her </s>
+<s> LADY HUNSTANTON </s>
+<s> I hope so, Caroline, I am sure </s>
+<s> [Enter LORD ALFRED.] Dear Lord Alfred, do join us </s>
+<s> [LORD ALFRED sits down beside LADY STUTFIELD.] LADY CAROLINE </s>
+<s> You believe good of every one, Jane </s>
+<s> It is a great fault </s>
+<s> LADY STUTFIELD </s>
+<s> Do you really, really think, Lady Caroline, that one should believe evil of every one </s>
+<s> LADY CAROLINE </s>
+<s> I think it is much safer to do so, Lady Stutfield </s>
+<s> Until, of course, people are found out to be good </s>
+<s> But that requires a great deal of investigation nowadays </s>
+<s> LADY STUTFIELD </s>
+<s> But there is so much unkind scandal in modern life </s>
+<s> LADY CAROLINE </s>
+<s> Lord Illingworth remarked to me last night at dinner that the basis of every scandal is an absolutely immoral certainty </s>
+<s> KELVIL </s>
+<s> Lord Illingworth is, of course, a very brilliant man, but he seems to me to be lacking in that fine faith in the nobility and purity of life which is so important in this century </s>
+<s> LADY STUTFIELD </s>
+<s> Yes, quite, quite important, is it not </s>
+<s> KELVIL </s>
+<s> He gives me the impression of a man who does not appreciate the beauty of our English home-life </s>
+<s> I would say that he was tainted with foreign ideas on the subject </s>
+<s> LADY STUTFIELD </s>
+<s> There is nothing, nothing like the beauty of home- life, is there </s>
+<s> KELVIL </s>
+<s> It is the mainstay of our moral system in England, Lady Stutfield </s>
+<s> Without it we would become like our neighbours </s>
+<s> LADY STUTFIELD </s>
+<s> That would be so, so sad, would it not </s>
+<s> KELVIL </s>
+<s> I am afraid, too, that Lord Illingworth regards woman simply as a toy </s>
+<s> Now, I have never regarded woman as a toy </s>
+<s> Woman is the intellectual helpmeet of man in public as in private life </s>
+<s> Without her we should forget the true ideals </s>
+<s> [Sits down beside LADY STUTFIELD.] LADY STUTFIELD </s>
+<s> I am so very, very glad to hear you say that </s>
+<s> LADY CAROLINE </s>
+<s> You a married man, Mr Kettle </s>
+<s> SIR JOHN </s>
+<s> Kelvil, dear, Kelvil </s>
+<s> KELVIL </s>
+<s> I am married, Lady Caroline </s>
+<s> LADY CAROLINE </s>
+<s> Family </s>
+<s> KELVIL </s>
+<s> Yes </s>
+<s> LADY CAROLINE </s>
+<s> How many </s>
+<s> KELVIL </s>
+<s> Eight </s>
+<s> [LADY STUTFIELD turns her attention to LORD ALFRED.] LADY CAROLINE </s>
+<s> Mrs Kettle and the children are, I suppose, at the seaside </s>
+<s> [SIR JOHN shrugs his shoulders.] KELVIL </s>
+<s> My wife is at the seaside with the children, Lady Caroline </s>
+<s> LADY CAROLINE </s>
+<s> You will join them later on, no doubt </s>
+<s> KELVIL </s>
+<s> If my public engagements permit me </s>
+<s> LADY CAROLINE </s>
+<s> Your public life must be a great source of gratification to Mrs Kettle </s>
+<s> SIR JOHN </s>
+<s> Kelvil, my love, Kelvil </s>
+<s> LADY STUTFIELD </s>
+<s> [To LORD ALFRED.] How very, very charming those gold-tipped cigarettes of yours are, Lord Alfred </s>
+<s> LORD ALFRED </s>
+<s> They are awfully expensive </s>
+<s> I can only afford them when I'm in debt </s>
+<s> LADY STUTFIELD </s>
+<s> It must be terribly, terribly distressing to be in debt </s>
+<s> LORD ALFRED </s>
+<s> One must have some occupation nowadays </s>
+<s> If I hadn't my debts I shouldn't have anything to think about </s>
+<s> All the chaps I know are in debt </s>
+<s> LADY STUTFIELD </s>
+<s> But don't the people to whom you owe the money give you a great, great deal of annoyance </s>
+<s> [Enter Footman.] LORD ALFRED </s>
+<s> Oh, no, they write; I don't </s>
+<s> LADY STUTFIELD </s>
+<s> How very, very strange </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, here is a letter, Caroline, from dear Mrs Arbuthnot </s>
+<s> She won't dine </s>
+<s> I am so sorry </s>
+<s> But she will come in the evening </s>
+<s> I am very pleased indeed </s>
+<s> She is one of the sweetest of women </s>
+<s> Writes a beautiful hand, too, so large, so firm </s>
+<s> [Hands letter to LADY CAROLINE.] LADY CAROLINE </s>
+<s> [Looking at it.] A little lacking in femininity, Jane </s>
+<s> Femininity is the quality I admire most in women </s>
+<s> LADY HUNSTANTON </s>
+<s> [Taking back letter and leaving it on table.] Oh </s>
+<s> she is very feminine, Caroline, and so good too </s>
+<s> You should hear what the Archdeacon says of her </s>
+<s> He regards her as his right hand in the parish </s>
+<s> [Footman speaks to her.] In the Yellow Drawing-room </s>
+<s> Shall we all go in </s>
+<s> Lady Stutfield, shall we go in to tea </s>
+<s> LADY STUTFIELD </s>
+<s> With pleasure, Lady Hunstanton </s>
+<s> [They rise and proceed to go off </s>
+<s> SIR JOHN offers to carry LADY STUTFIELD'S cloak.] LADY CAROLINE </s>
+<s> John </s>
+<s> If you would allow your nephew to look after Lady Stutfield's cloak, you might help me with my workbasket </s>
+<s> [Enter LORD ILLINGWORTH and MRS </s>
+<s> ALLONBY.] SIR JOHN </s>
+<s> Certainly, my love </s>
+<s> [Exeunt.] MRS </s>
+<s> ALLONBY </s>
+<s> Curious thing, plain women are always jealous of their husbands, beautiful women never are </s>
+<s> LORD ILLINGWORTH </s>
+<s> Beautiful women never have time </s>
+<s> They are always so occupied in being jealous of other people's husbands </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I should have thought Lady Caroline would have grown tired of conjugal anxiety by this time </s>
+<s> Sir John is her fourth </s>
+<s> LORD ILLINGWORTH </s>
+<s> So much marriage is certainly not becoming </s>
+<s> Twenty years of romance make a woman look like a ruin; but twenty years of marriage make her something like a public building </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Twenty years of romance </s>
+<s> Is there such a thing </s>
+<s> LORD ILLINGWORTH </s>
+<s> Not in our day </s>
+<s> Women have become too brilliant </s>
+<s> Nothing spoils a romance so much as a sense of humour in the woman </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Or the want of it in the man </s>
+<s> LORD ILLINGWORTH </s>
+<s> You are quite right </s>
+<s> In a Temple every one should be serious, except the thing that is worshipped </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> And that should be man </s>
+<s> LORD ILLINGWORTH </s>
+<s> Women kneel so gracefully; men don't </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> You are thinking of Lady Stutfield </s>
+<s> LORD ILLINGWORTH </s>
+<s> I assure you I have not thought of Lady Stutfield for the last quarter of an hour </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Is she such a mystery </s>
+<s> LORD ILLINGWORTH </s>
+<s> She is more than a mystery - she is a mood </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Moods don't last </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is their chief charm </s>
+<s> [Enter HESTER and GERALD.] GERALD </s>
+<s> Lord Illingworth, every one has been congratulating me, Lady Hunstanton and Lady Caroline, and </s>
+<s> </s>
+<s> </s>
+<s> every one </s>
+<s> I hope I shall make a good secretary </s>
+<s> LORD ILLINGWORTH </s>
+<s> You will be the pattern secretary, Gerald </s>
+<s> [Talks to him.] MRS </s>
+<s> ALLONBY </s>
+<s> You enjoy country life, Miss Worsley </s>
+<s> HESTER </s>
+<s> Very much indeed </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Don't find yourself longing for a London dinner- party </s>
+<s> HESTER </s>
+<s> I dislike London dinner-parties </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I adore them </s>
+<s> The clever people never listen, and the stupid people never talk </s>
+<s> HESTER </s>
+<s> I think the stupid people talk a great deal </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah, I never listen </s>
+<s> LORD ILLINGWORTH </s>
+<s> My dear boy, if I didn't like you I wouldn't have made you the offer </s>
+<s> It is because I like you so much that I want to have you with me </s>
+<s> [Exit HESTER with GERALD.] Charming fellow, Gerald Arbuthnot </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> He is very nice; very nice indeed </s>
+<s> But I can't stand the American young lady </s>
+<s> LORD ILLINGWORTH </s>
+<s> Why </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> She told me yesterday, and in quite a loud voice too, that she was only eighteen </s>
+<s> It was most annoying </s>
+<s> LORD ILLINGWORTH </s>
+<s> One should never trust a woman who tells one her real age </s>
+<s> A woman who would tell one that, would tell one anything </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> She is a Puritan besides - LORD ILLINGWORTH </s>
+<s> Ah, that is inexcusable </s>
+<s> I don't mind plain women being Puritans </s>
+<s> It is the only excuse they have for being plain </s>
+<s> But she is decidedly pretty </s>
+<s> I admire her immensely </s>
+<s> [Looks steadfastly at MRS </s>
+<s> ALLONBY.] MRS </s>
+<s> ALLONBY </s>
+<s> What a thoroughly bad man you must be </s>
+<s> LORD ILLINGWORTH </s>
+<s> What do you call a bad man </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> The sort of man who admires innocence </s>
+<s> LORD ILLINGWORTH </s>
+<s> And a bad woman </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh </s>
+<s> the sort of woman a man never gets tired of </s>
+<s> LORD ILLINGWORTH </s>
+<s> You are severe - on yourself </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Define us as a sex </s>
+<s> LORD ILLINGWORTH </s>
+<s> Sphinxes without secrets </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Does that include the Puritan women </s>
+<s> LORD ILLINGWORTH </s>
+<s> Do you know, I don't believe in the existence of Puritan women </s>
+<s> I don't think there is a woman in the world who would not be a little flattered if one made love to her </s>
+<s> It is that which makes women so irresistibly adorable </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> You think there is no woman in the world who would object to being kissed </s>
+<s> LORD ILLINGWORTH </s>
+<s> Very few </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Miss Worsley would not let you kiss her </s>
+<s> LORD ILLINGWORTH </s>
+<s> Are you sure </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Quite </s>
+<s> LORD ILLINGWORTH </s>
+<s> What do you think she'd do if I kissed her </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Either marry you, or strike you across the face with her glove </s>
+<s> What would you do if she struck you across the face with her glove </s>
+<s> LORD ILLINGWORTH </s>
+<s> Fall in love with her, probably </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Then it is lucky you are not going to kiss her </s>
+<s> LORD ILLINGWORTH </s>
+<s> Is that a challenge </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> It is an arrow shot into the air </s>
+<s> LORD ILLINGWORTH </s>
+<s> Don't you know that I always succeed in whatever I try </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I am sorry to hear it </s>
+<s> We women adore failures </s>
+<s> They lean on us </s>
+<s> LORD ILLINGWORTH </s>
+<s> You worship successes </s>
+<s> You cling to them </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> We are the laurels to hide their baldness </s>
+<s> LORD ILLINGWORTH </s>
+<s> And they need you always, except at the moment of triumph </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> They are uninteresting then </s>
+<s> LORD ILLINGWORTH </s>
+<s> How tantalising you are </s>
+<s> [A pause.] MRS </s>
+<s> ALLONBY </s>
+<s> Lord Illingworth, there is one thing I shall always like you for </s>
+<s> LORD ILLINGWORTH </s>
+<s> Only one thing </s>
+<s> And I have so many bad qualities </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah, don't be too conceited about them </s>
+<s> You may lose them as you grow old </s>
+<s> LORD ILLINGWORTH </s>
+<s> I never intend to grow old </s>
+<s> The soul is born old but grows young </s>
+<s> That is the comedy of life </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> And the body is born young and grows old </s>
+<s> That is life's tragedy </s>
+<s> LORD ILLINGWORTH </s>
+<s> Its comedy also, sometimes </s>
+<s> But what is the mysterious reason why you will always like me </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> It is that you have never made love to me </s>
+<s> LORD ILLINGWORTH </s>
+<s> I have never done anything else </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Really </s>
+<s> I have not noticed it </s>
+<s> LORD ILLINGWORTH </s>
+<s> How fortunate </s>
+<s> It might have been a tragedy for both of us </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> We should each have survived </s>
+<s> LORD ILLINGWORTH </s>
+<s> One can survive everything nowadays, except death, and live down anything except a good reputation </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Have you tried a good reputation </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is one of the many annoyances to which I have never been subjected </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> It may come </s>
+<s> LORD ILLINGWORTH </s>
+<s> Why do you threaten me </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I will tell you when you have kissed the Puritan </s>
+<s> [Enter Footman.] FRANCIS </s>
+<s> Tea is served in the Yellow Drawing-room, my lord </s>
+<s> LORD ILLINGWORTH </s>
+<s> Tell her ladyship we are coming in </s>
+<s> FRANCIS </s>
+<s> Yes, my lord </s>
+<s> [Exit.] LORD ILLINGWORTH </s>
+<s> Shall we go in to tea </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Do you like such simple pleasures </s>
+<s> LORD ILLINGWORTH </s>
+<s> I adore simple pleasures </s>
+<s> They are the last refuge of the complex </s>
+<s> But, if you wish, let us stay here </s>
+<s> Yes, let us stay here </s>
+<s> The Book of Life begins with a man and a woman in a garden </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> It ends with Revelations </s>
+<s> LORD ILLINGWORTH </s>
+<s> You fence divinely </s>
+<s> But the button has come of your foil </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I have still the mask </s>
+<s> LORD ILLINGWORTH </s>
+<s> It makes your eyes lovelier </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Thank you </s>
+<s> Come </s>
+<s> LORD ILLINGWORTH </s>
+<s> [Sees MRS </s>
+<s> ARBUTHNOT'S letter on table, and takes it up and looks at envelope.] What a curious handwriting </s>
+<s> It reminds me of the handwriting of a woman I used to know years ago </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Who </s>
+<s> LORD ILLINGWORTH </s>
+<s> Oh </s>
+<s> no one </s>
+<s> No one in particular </s>
+<s> A woman of no importance </s>
+<s> [Throws letter down, and passes up the steps of the terrace with MRS </s>
+<s> ALLONBY </s>
+<s> They smile at each other.] ACT DROP </s>
+<s> SECOND ACT SCENE Drawing-room at Hunstanton, after dinner, lamps lit </s>
+<s> Door L.C </s>
+<s> Door R.C </s>
+<s> [Ladies seated on sofas.] MRS </s>
+<s> ALLONBY </s>
+<s> What a comfort it is to have got rid of the men for a little </s>
+<s> LADY STUTFIELD </s>
+<s> Yes; men persecute us dreadfully, don't they </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Persecute us </s>
+<s> I wish they did </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> The annoying thing is that the wretches can be perfectly happy without us </s>
+<s> That is why I think it is every woman's duty never to leave them alone for a single moment, except during this short breathing space after dinner; without which I believe we poor women would be absolutely worn to shadows </s>
+<s> [Enter Servants with coffee.] LADY HUNSTANTON </s>
+<s> Worn to shadows, dear </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Yes, Lady Hunstanton </s>
+<s> It is such a strain keeping men up to the mark </s>
+<s> They are always trying to escape from us </s>
+<s> LADY STUTFIELD </s>
+<s> It seems to me that it is we who are always trying to escape from them </s>
+<s> Men are so very, very heartless </s>
+<s> They know their power and use it </s>
+<s> LADY CAROLINE </s>
+<s> [Takes coffee from Servant.] What stuff and nonsense all this about men is </s>
+<s> The thing to do is to keep men in their proper place </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> But what is their proper place, Lady Caroline </s>
+<s> LADY CAROLINE </s>
+<s> Looking after their wives, Mrs Allonby </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> [Takes coffee from Servant.] Really </s>
+<s> And if they're not married </s>
+<s> LADY CAROLINE </s>
+<s> If they are not married, they should be looking after a wife </s>
+<s> It's perfectly scandalous the amount of bachelors who are going about society </s>
+<s> There should be a law passed to compel them all to marry within twelve months </s>
+<s> LADY STUTFIELD </s>
+<s> [Refuses coffee.] But if they're in love with some one who, perhaps, is tied to another </s>
+<s> LADY CAROLINE </s>
+<s> In that case, Lady Stutfield, they should be married off in a week to some plain respectable girl, in order to teach them not to meddle with other people's property </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I don't think that we should ever be spoken of as other people's property </s>
+<s> All men are married women's property </s>
+<s> That is the only true definition of what married women's property really is </s>
+<s> But we don't belong to any one </s>
+<s> LADY STUTFIELD </s>
+<s> Oh, I am so very, very glad to hear you say so </s>
+<s> LADY HUNSTANTON </s>
+<s> But do you really think, dear Caroline, that legislation would improve matters in any way </s>
+<s> I am told that, nowadays, all the married men live like bachelors, and all the bachelors like married men </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I certainly never know one from the other </s>
+<s> LADY STUTFIELD </s>
+<s> Oh, I think one can always know at once whether a man has home claims upon his life or not </s>
+<s> I have noticed a very, very sad expression in the eyes of so many married men </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah, all that I have noticed is that they are horribly tedious when they are good husbands, and abominably conceited when they are not </s>
+<s> LADY HUNSTANTON </s>
+<s> Well, I suppose the type of husband has completely changed since my young days, but I'm bound to state that poor dear Hunstanton was the most delightful of creatures, and as good as gold </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah, my husband is a sort of promissory note; I'm tired of meeting him </s>
+<s> LADY CAROLINE </s>
+<s> But you renew him from time to time, don't you </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh no, Lady Caroline </s>
+<s> I have only had one husband as yet </s>
+<s> I suppose you look upon me as quite an amateur </s>
+<s> LADY CAROLINE </s>
+<s> With your views on life I wonder you married at all </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> So do I </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear child, I believe you are really very happy in your married life, but that you like to hide your happiness from others </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I assure you I was horribly deceived in Ernest </s>
+<s> LADY HUNSTANTON </s>
+<s> Oh, I hope not, dear </s>
+<s> I knew his mother quite well </s>
+<s> She was a Stratton, Caroline, one of Lord Crowland's daughters LADY CAROLINE </s>
+<s> Victoria Stratton </s>
+<s> I remember her perfectly </s>
+<s> A silly fair-haired woman with no chin </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah, Ernest has a chin </s>
+<s> He has a very strong chin, a square chin </s>
+<s> Ernest's chin is far too square </s>
+<s> LADY STUTFIELD </s>
+<s> But do you really think a man's chin can be too square </s>
+<s> I think a man should look very, very strong, and that his chin should be quite, quite square </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Then you should certainly know Ernest, Lady Stutfield </s>
+<s> It is only fair to tell you beforehand he has got no conversation at all </s>
+<s> LADY STUTFIELD </s>
+<s> I adore silent men </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh, Ernest isn't silent </s>
+<s> He talks the whole time </s>
+<s> But he has got no conversation </s>
+<s> What he talks about I don't know </s>
+<s> I haven't listened to him for years </s>
+<s> LADY STUTFIELD </s>
+<s> Have you never forgiven him then </s>
+<s> How sad that seems </s>
+<s> But all life is very, very sad, is it not </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Life, Lady Stutfield, is simply a MAUVAIS QUART D'HEURE made up of exquisite moments </s>
+<s> LADY STUTFIELD </s>
+<s> Yes, there are moments, certainly </s>
+<s> But was it something very, very wrong that Mr Allonby did </s>
+<s> Did he become angry with you, and say anything that was unkind or true </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh dear, no </s>
+<s> Ernest is invariably calm </s>
+<s> That is one of the reasons he always gets on my nerves </s>
+<s> Nothing is so aggravating as calmness </s>
+<s> There is something positively brutal about the good temper of most modern men </s>
+<s> I wonder we women stand it as well as we do </s>
+<s> LADY STUTFIELD </s>
+<s> Yes; men's good temper shows they are not so sensitive as we are, not so finely strung </s>
+<s> It makes a great barrier often between husband and wife, does it not </s>
+<s> But I would so much like to know what was the wrong thing Mr Allonby did </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Well, I will tell you, if you solemnly promise to tell everybody else </s>
+<s> LADY STUTFIELD </s>
+<s> Thank you, thank you </s>
+<s> I will make a point of repeating it </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> When Ernest and I were engaged, he swore to me positively on his knees that he had never loved any one before in the whole course of his life </s>
+<s> I was very young at the time, so I didn't believe him, I needn't tell you </s>
+<s> Unfortunately, however, I made no enquiries of any kind till after I had been actually married four or five months </s>
+<s> I found out then that what he had told me was perfectly true </s>
+<s> And that sort of thing makes a man so absolutely uninteresting </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Men always want to be a woman's first love </s>
+<s> That is their clumsy vanity </s>
+<s> We women have a more subtle instinct about things </s>
+<s> What we like is to be a man's last romance </s>
+<s> LADY STUTFIELD </s>
+<s> I see what you mean </s>
+<s> It's very, very beautiful </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear child, you don't mean to tell me that you won't forgive your husband because he never loved any one else </s>
+<s> Did you ever hear such a thing, Caroline </s>
+<s> I am quite surprised </s>
+<s> LADY CAROLINE </s>
+<s> Oh, women have become so highly educated, Jane, that nothing should surprise us nowadays, except happy marriages </s>
+<s> They apparently are getting remarkably rare </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh, they're quite out of date </s>
+<s> LADY STUTFIELD </s>
+<s> Except amongst the middle classes, I have been told </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> How like the middle classes </s>
+<s> LADY STUTFIELD </s>
+<s> Yes - is it not </s>
+<s> - very, very like them </s>
+<s> LADY CAROLINE </s>
+<s> If what you tell us about the middle classes is true, Lady Stutfield, it redounds greatly to their credit </s>
+<s> It is much to be regretted that in our rank of life the wife should be so persistently frivolous, under the impression apparently that it is the proper thing to be </s>
+<s> It is to that I attribute the unhappiness of so many marriages we all know of in society </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Do you know, Lady Caroline, I don't think the frivolity of the wife has ever anything to do with it </s>
+<s> More marriages are ruined nowadays by the common sense of the husband than by anything else </s>
+<s> How can a woman be expected to be happy with a man who insists on treating her as if she were a perfectly rational being </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Man, poor, awkward, reliable, necessary man belongs to a sex that has been rational for millions and millions of years </s>
+<s> He can't help himself </s>
+<s> It is in his race </s>
+<s> The History of Woman is very different </s>
+<s> We have always been picturesque protests against the mere existence of common sense </s>
+<s> We saw its dangers from the first </s>
+<s> LADY STUTFIELD </s>
+<s> Yes, the common sense of husbands is certainly most, most trying </s>
+<s> Do tell me your conception of the Ideal Husband </s>
+<s> I think it would be so very, very helpful </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> The Ideal Husband </s>
+<s> There couldn't be such a thing </s>
+<s> The institution is wrong </s>
+<s> LADY STUTFIELD </s>
+<s> The Ideal Man, then, in his relations to US </s>
+<s> LADY CAROLINE </s>
+<s> He would probably be extremely realistic </s>
+<s> MRS </s>
+<s> CAROLINE </s>
+<s> The Ideal Man </s>
+<s> Oh, the Ideal Man should talk to us as if we were goddesses, and treat us as if we were children </s>
+<s> He should refuse all our serious requests, and gratify every one of our whims </s>
+<s> He should encourage us to have caprices, and forbid us to have missions </s>
+<s> He should always say much more than he means, and always mean much more than he says </s>
+<s> LADY HUNSTANTON </s>
+<s> But how could he do both, dear </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> He should never run down other pretty women </s>
+<s> That would show he had no taste, or make one suspect that he had too much </s>
+<s> No; he should be nice about them all, but say that somehow they don't attract him </s>
+<s> LADY STUTFIELD </s>
+<s> Yes, that is always very, very pleasant to hear about other women </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> If we ask him a question about anything, he should give us an answer all about ourselves </s>
+<s> He should invariably praise us for whatever qualities he knows we haven't got </s>
+<s> But he should be pitiless, quite pitiless, in reproaching us for the virtues that we have never dreamed of possessing </s>
+<s> He should never believe that we know the use of useful things </s>
+<s> That would be unforgiveable </s>
+<s> But he should shower on us everything we don't want </s>
+<s> LADY CAROLINE </s>
+<s> As far as I can see, he is to do nothing but pay bills and compliments </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> He should persistently compromise us in public, and treat us with absolute respect when we are alone </s>
+<s> And yet he should be always ready to have a perfectly terrible scene, whenever we want one, and to become miserable, absolutely miserable, at a moment's notice, and to overwhelm us with just reproaches in less than twenty minutes, and to be positively violent at the end of half an hour, and to leave us for ever at a quarter to eight, when we have to go and dress for dinner </s>
+<s> And when, after that, one has seen him for really the last time, and he has refused to take back the little things he has given one, and promised never to communicate with one again, or to write one any foolish letters, he should be perfectly broken-hearted, and telegraph to one all day long, and send one little notes every half-hour by a private hansom, and dine quite alone at the club, so that every one should know how unhappy he was </s>
+<s> And after a whole dreadful week, during which one has gone about everywhere with one's husband, just to show how absolutely lonely one was, he may be given a third last parting, in the evening, and then, if his conduct has been quite irreproachable, and one has behaved really badly to him, he should be allowed to admit that he has been entirely in the wrong, and when he has admitted that, it becomes a woman's duty to forgive, and one can do it all over again from the beginning, with variations </s>
+<s> LADY HUNSTANTON </s>
+<s> How clever you are, my dear </s>
+<s> You never mean a single word you say </s>
+<s> LADY STUTFIELD </s>
+<s> Thank you, thank you </s>
+<s> It has been quite, quite entrancing </s>
+<s> I must try and remember it all </s>
+<s> There are such a number of details that are so very, very important </s>
+<s> LADY CAROLINE </s>
+<s> But you have not told us yet what the reward of the Ideal Man is to be </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> His reward </s>
+<s> Oh, infinite expectation </s>
+<s> That is quite enough for him </s>
+<s> LADY STUTFIELD </s>
+<s> But men are so terribly, terribly exacting, are they not </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> That makes no matter </s>
+<s> One should never surrender </s>
+<s> LADY STUTFIELD </s>
+<s> Not even to the Ideal Man </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Certainly not to him </s>
+<s> Unless, of course, one wants to grow tired of him </s>
+<s> LADY STUTFIELD </s>
+<s> Oh </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> yes </s>
+<s> I see that </s>
+<s> It is very, very helpful </s>
+<s> Do you think, Mrs Allonby, I shall ever meet the Ideal Man </s>
+<s> Or are there more than one </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> There are just four in London, Lady Stutfield </s>
+<s> LADY HUNSTANTON </s>
+<s> Oh, my dear </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> [Going over to her.] What has happened </s>
+<s> Do tell me </s>
+<s> LADY HUNSTANTON [in a low voice] I had completely forgotten that the American young lady has been in the room all the time </s>
+<s> I am afraid some of this clever talk may have shocked her a little </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah, that will do her so much good </s>
+<s> LADY HUNSTANTON </s>
+<s> Let us hope she didn't understand much </s>
+<s> I think I had better go over and talk to her </s>
+<s> [Rises and goes across to HESTER WORSLEY.] Well, dear Miss Worsley </s>
+<s> [Sitting down beside her.] How quiet you have been in your nice little corner all this time </s>
+<s> I suppose you have been reading a book </s>
+<s> There are so many books here in the library </s>
+<s> HESTER </s>
+<s> No, I have been listening to the conversation </s>
+<s> LADY HUNSTANTON </s>
+<s> You mustn't believe everything that was said, you know, dear </s>
+<s> HESTER </s>
+<s> I didn't believe any of it LADY HUNSTANTON </s>
+<s> That is quite right, dear </s>
+<s> HESTER </s>
+<s> [Continuing.] I couldn't believe that any women could really hold such views of life as I have heard to-night from some of your guests </s>
+<s> [An awkward pause.] LADY HUNSTANTON </s>
+<s> I hear you have such pleasant society in America </s>
+<s> Quite like our own in places, my son wrote to me </s>
+<s> HESTER </s>
+<s> There are cliques in America as elsewhere, Lady Hunstanton </s>
+<s> But true American society consists simply of all the good women and good men we have in our country </s>
+<s> LADY HUNSTANTON </s>
+<s> What a sensible system, and I dare say quite pleasant too </s>
+<s> I am afraid in England we have too many artificial social barriers </s>
+<s> We don't see as much as we should of the middle and lower classes </s>
+<s> HESTER </s>
+<s> In America we have no lower classes </s>
+<s> LADY HUNSTANTON </s>
+<s> Really </s>
+<s> What a very strange arrangement </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> What is that dreadful girl talking about </s>
+<s> LADY STUTFIELD </s>
+<s> She is painfully natural, is she not </s>
+<s> LADY CAROLINE </s>
+<s> There are a great many things you haven't got in America, I am told, Miss Worsley </s>
+<s> They say you have no ruins, and no curiosities </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> [To LADY STUTFIELD.] What nonsense </s>
+<s> They have their mothers and their manners </s>
+<s> HESTER </s>
+<s> The English aristocracy supply us with our curiosities, Lady Caroline </s>
+<s> They are sent over to us every summer, regularly, in the steamers, and propose to us the day after they land </s>
+<s> As for ruins, we are trying to build up something that will last longer than brick or stone </s>
+<s> [Gets up to take her fan from table.] LADY HUNSTANTON </s>
+<s> What is that, dear </s>
+<s> Ah, yes, an iron Exhibition, is it not, at that place that has the curious name </s>
+<s> HESTER </s>
+<s> [Standing by table.] We are trying to build up life, Lady Hunstanton, on a better, truer, purer basis than life rests on here </s>
+<s> This sounds strange to you all, no doubt </s>
+<s> How could it sound other than strange </s>
+<s> You rich people in England, you don't know how you are living </s>
+<s> How could you know </s>
+<s> You shut out from your society the gentle and the good </s>
+<s> You laugh at the simple and the pure </s>
+<s> Living, as you all do, on others and by them, you sneer at self-sacrifice, and if you throw bread to the poor, it is merely to keep them quiet for a season </s>
+<s> With all your pomp and wealth and art you don't know how to live - you don't even know that </s>
+<s> You love the beauty that you can see and touch and handle, the beauty that you can destroy, and do destroy, but of the unseen beauty of life, of the unseen beauty of a higher life, you know nothing </s>
+<s> You have lost life's secret </s>
+<s> Oh, your English society seems to me shallow, selfish, foolish </s>
+<s> It has blinded its eyes, and stopped its ears </s>
+<s> It lies like a leper in purple </s>
+<s> It sits like a dead thing smeared with gold </s>
+<s> It is all wrong, all wrong </s>
+<s> LADY STUTFIELD </s>
+<s> I don't think one should know of these things </s>
+<s> It is not very, very nice, is it </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear Miss Worsley, I thought you liked English society so much </s>
+<s> You were such a success in it </s>
+<s> And you were so much admired by the best people </s>
+<s> I quite forget what Lord Henry Weston said of you - but it was most complimentary, and you know what an authority he is on beauty </s>
+<s> HESTER </s>
+<s> Lord Henry Weston </s>
+<s> I remember him, Lady Hunstanton </s>
+<s> A man with a hideous smile and a hideous past </s>
+<s> He is asked everywhere </s>
+<s> No dinner-party is complete without him </s>
+<s> What of those whose ruin is due to him </s>
+<s> They are outcasts </s>
+<s> They are nameless </s>
+<s> If you met them in the street you would turn your head away </s>
+<s> I don't complain of their punishment </s>
+<s> Let all women who have sinned be punished </s>
+<s> [MRS </s>
+<s> ARBUTHNOT enters from terrace behind in a cloak with a lace veil over her head </s>
+<s> She hears the last words and starts.] LADY HUNSTANTON </s>
+<s> My dear young lady </s>
+<s> HESTER </s>
+<s> It is right that they should be punished, but don't let them be the only ones to suffer </s>
+<s> If a man and woman have sinned, let them both go forth into the desert to love or loathe each other there </s>
+<s> Let them both be branded </s>
+<s> Set a mark, if you wish, on each, but don't punish the one and let the other go free </s>
+<s> Don't have one law for men and another for women </s>
+<s> You are unjust to women in England </s>
+<s> And till you count what is a shame in a woman to be an infamy in a man, you will always be unjust, and Right, that pillar of fire, and Wrong, that pillar of cloud, will be made dim to your eyes, or be not seen at all, or if seen, not regarded LADY CAROLINE </s>
+<s> Might I, dear Miss Worsley, as you are standing up, ask you for my cotton that is just behind you </s>
+<s> Thank you </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear Mrs Arbuthnot </s>
+<s> I am so pleased you have come up </s>
+<s> But I didn't hear you announced </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh, I came straight in from the terrace, Lady Hunstanton, just as I was </s>
+<s> You didn't tell me you had a party </s>
+<s> LADY HUNSTANTON </s>
+<s> Not a party </s>
+<s> Only a few guests who are staying in the house, and whom you must know </s>
+<s> Allow me </s>
+<s> [Tries to help her </s>
+<s> Rings bell.] Caroline, this is Mrs Arbuthnot, one of my sweetest friends </s>
+<s> Lady Caroline Pontefract, Lady Stutfield, Mrs Allonby, and my young American friend, Miss Worsley, who has just been telling us all how wicked we are </s>
+<s> HESTER </s>
+<s> I am afraid you think I spoke too strongly, Lady Hunstanton </s>
+<s> But there are some things in England - LADY HUNSTANTON </s>
+<s> My dear young lady, there was a great deal of truth, I dare say, in what you said, and you looked very pretty while you said it, which is much more important, Lord Illingworth would tell us </s>
+<s> The only point where I thought you were a little hard was about Lady Caroline's brother, about poor Lord Henry </s>
+<s> He is really such good company </s>
+<s> [Enter Footman.] Take Mrs Arbuthnot's things </s>
+<s> [Exit Footman with wraps.] HESTER </s>
+<s> Lady Caroline, I had no idea it was your brother </s>
+<s> I am sorry for the pain I must have caused you - I - LADY CAROLINE </s>
+<s> My dear Miss Worsley, the only part of your little speech, if I may so term it, with which I thoroughly agreed, was the part about my brother </s>
+<s> Nothing that you could possibly say could be too bad for him </s>
+<s> I regard Henry as infamous, absolutely infamous </s>
+<s> But I am bound to state, as you were remarking, Jane, that he is excellent company, and he has one of the best cooks in London, and after a good dinner one can forgive anybody, even one's own relations </s>
+<s> LADY HUNSTANTON [to MISS WORSLEY] Now, do come, dear, and make friends with Mrs Arbuthnot </s>
+<s> She is one of the good, sweet, simple people you told us we never admitted into society </s>
+<s> I am sorry to say Mrs Arbuthnot comes very rarely to me </s>
+<s> But that is not my fault </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> What a bore it is the men staying so long after dinner </s>
+<s> I expect they are saying the most dreadful things about us </s>
+<s> LADY STUTFIELD </s>
+<s> Do you really think so </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I was sure of it </s>
+<s> LADY STUTFIELD </s>
+<s> How very, very horrid of them </s>
+<s> Shall we go onto the terrace </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh, anything to get away from the dowagers and the dowdies </s>
+<s> [Rises and goes with LADY STUTFIELD to door L.C.] We are only going to look at the stars, Lady Hunstanton </s>
+<s> LADY HUNSTANTON </s>
+<s> You will find a great many, dear, a great many </s>
+<s> But don't catch cold </s>
+<s> [To MRS </s>
+<s> ARBUTHNOT.] We shall all miss Gerald so much, dear Mrs Arbuthnot </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> But has Lord Illingworth really offered to make Gerald his secretary </s>
+<s> LADY HUNSTANTON </s>
+<s> Oh, yes </s>
+<s> He has been most charming about it </s>
+<s> He has the highest possible opinion of your boy </s>
+<s> You don't know Lord Illingworth, I believe, dear </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I have never met him </s>
+<s> LADY HUNSTANTON </s>
+<s> You know him by name, no doubt </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I am afraid I don't </s>
+<s> I live so much out of the world, and see so few people </s>
+<s> I remember hearing years ago of an old Lord Illingworth who lived in Yorkshire, I think </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, yes </s>
+<s> That would be the last Earl but one </s>
+<s> He was a very curious man </s>
+<s> He wanted to marry beneath him </s>
+<s> Or wouldn't, I believe </s>
+<s> There was some scandal about it </s>
+<s> The present Lord Illingworth is quite different </s>
+<s> He is very distinguished </s>
+<s> He does - well, he does nothing, which I am afraid our pretty American visitor here thinks very wrong of anybody, and I don't know that he cares much for the subjects in which you are so interested, dear Mrs Arbuthnot </s>
+<s> Do you think, Caroline, that Lord Illingworth is interested in the Housing of the Poor </s>
+<s> LADY CAROLINE </s>
+<s> I should fancy not at all, Jane </s>
+<s> LADY HUNSTANTON </s>
+<s> We all have our different tastes, have we not </s>
+<s> But Lord Illingworth has a very high position, and there is nothing he couldn't get if he chose to ask for it </s>
+<s> Of course, he is comparatively a young man still, and he has only come to his title within - how long exactly is it, Caroline, since Lord Illingworth succeeded </s>
+<s> LADY CAROLINE </s>
+<s> About four years, I think, Jane </s>
+<s> I know it was the same year in which my brother had his last exposure in the evening newspapers </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, I remember </s>
+<s> That would be about four years ago </s>
+<s> Of course, there were a great many people between the present Lord Illingworth and the title, Mrs Arbuthnot </s>
+<s> There was - who was there, Caroline </s>
+<s> LADY CAROLINE </s>
+<s> There was poor Margaret's baby </s>
+<s> You remember how anxious she was to have a boy, and it was a boy, but it died, and her husband died shortly afterwards, and she married almost immediately one of Lord Ascot's sons, who, I am told, beats her </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, that is in the family, dear, that is in the family </s>
+<s> And there was also, I remember, a clergyman who wanted to be a lunatic, or a lunatic who wanted to be a clergyman, I forget which, but I know the Court of Chancery investigated the matter, and decided that he was quite sane </s>
+<s> And I saw him afterwards at poor Lord Plumstead's with straws in his hair, or something very odd about him </s>
+<s> I can't recall what </s>
+<s> I often regret, Lady Caroline, that dear Lady Cecilia never lived to see her son get the title </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Lady Cecilia </s>
+<s> LADY HUNSTANTON </s>
+<s> Lord Illingworth's mother, dear Mrs Arbuthnot, was one of the Duchess of Jerningham's pretty daughters, and she married Sir Thomas Harford, who wasn't considered a very good match for her at the time, though he was said to be the handsomest man in London </s>
+<s> I knew them all quite intimately, and both the sons, Arthur and George </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> It was the eldest son who succeeded, of course, Lady Hunstanton </s>
+<s> LADY HUNSTANTON </s>
+<s> No, dear, he was killed in the hunting field </s>
+<s> Or was it fishing, Caroline </s>
+<s> I forget </s>
+<s> But George came in for everything </s>
+<s> I always tell him that no younger son has ever had such good luck as he has had </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Lady Hunstanton, I want to speak to Gerald at once </s>
+<s> Might I see him </s>
+<s> Can he be sent for </s>
+<s> LADY HUNSTANTON </s>
+<s> Certainly, dear </s>
+<s> I will send one of the servants into the dining-room to fetch him </s>
+<s> I don't know what keeps the gentlemen so long </s>
+<s> [Rings bell.] When I knew Lord Illingworth first as plain George Harford, he was simply a very brilliant young man about town, with not a penny of money except what poor dear Lady Cecilia gave him </s>
+<s> She was quite devoted to him </s>
+<s> Chiefly, I fancy, because he was on bad terms with his father </s>
+<s> Oh, here is the dear Archdeacon </s>
+<s> [To Servant.] It doesn't matter </s>
+<s> [Enter SIR JOHN and DOCTOR DAUBENY </s>
+<s> SIR JOHN goes over to LADY STUTFIELD, DOCTOR DAUBENY to LADY HUNSTANTON.] THE ARCHDEACON </s>
+<s> Lord Illingworth has been most entertaining </s>
+<s> I have never enjoyed myself more </s>
+<s> [Sees MRS </s>
+<s> ARBUTHNOT.] Ah, Mrs Arbuthnot </s>
+<s> LADY HUNSTANTON </s>
+<s> [To DOCTOR DAUBENY.] You see I have got Mrs Arbuthnot to come to me at last </s>
+<s> THE ARCHDEACON </s>
+<s> That is a great honour, Lady Hunstanton </s>
+<s> Mrs Daubeny will be quite jealous of you </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, I am so sorry Mrs Daubeny could not come with you to-night </s>
+<s> Headache as usual, I suppose </s>
+<s> THE ARCHDEACON </s>
+<s> Yes, Lady Hunstanton; a perfect martyr </s>
+<s> But she is happiest alone </s>
+<s> She is happiest alone </s>
+<s> LADY CAROLINE </s>
+<s> [To her husband.] John </s>
+<s> [SIR JOHN goes over to his wife </s>
+<s> DOCTOR DAUBENY talks to LADY HUNSTANTON and MRS </s>
+<s> ARBUTHNOT.] [MRS </s>
+<s> ARBUTHNOT watches LORD ILLINGWORTH the whole time </s>
+<s> He has passed across the room without noticing her, and approaches MRS </s>
+<s> ALLONBY, who with LADY STUTFIELD is standing by the door looking on to the terrace.] LORD ILLINGWORTH </s>
+<s> How is the most charming woman in the world </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> [Taking LADY STUTFIELD by the hand.] We are both quite well, thank you, Lord Illingworth </s>
+<s> But what a short time you have been in the dining-room </s>
+<s> It seems as if we had only just left </s>
+<s> LORD ILLINGWORTH </s>
+<s> I was bored to death </s>
+<s> Never opened my lips the whole time </s>
+<s> Absolutely longing to come in to you </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> You should have </s>
+<s> The American girl has been giving us a lecture </s>
+<s> LORD ILLINGWORTH </s>
+<s> Really </s>
+<s> All Americans lecture, I believe </s>
+<s> I suppose it is something in their climate </s>
+<s> What did she lecture about </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Oh, Puritanism, of course </s>
+<s> LORD ILLINGWORTH </s>
+<s> I am going to convert her, am I not </s>
+<s> How long do you give me </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> A week </s>
+<s> LORD ILLINGWORTH </s>
+<s> A week is more than enough </s>
+<s> [Enter GERALD and LORD ALFRED.] GERALD </s>
+<s> [Going to MRS </s>
+<s> ARBUTHNOT.] Dear mother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Gerald, I don't feel at all well </s>
+<s> See me home, Gerald </s>
+<s> I shouldn't have come </s>
+<s> GERALD </s>
+<s> I am so sorry, mother </s>
+<s> Certainly </s>
+<s> But you must know Lord Illingworth first </s>
+<s> [Goes across room.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> Not to-night, Gerald </s>
+<s> GERALD </s>
+<s> Lord Illingworth, I want you so much to know my mother </s>
+<s> LORD ILLINGWORTH </s>
+<s> With the greatest pleasure </s>
+<s> [To MRS </s>
+<s> ALLONBY.] I'll be back in a moment </s>
+<s> People's mothers always bore me to death </s>
+<s> All women become like their mothers </s>
+<s> That is their tragedy </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> No man does </s>
+<s> That is his </s>
+<s> LORD ILLINGWORTH </s>
+<s> What a delightful mood you are in to-night </s>
+<s> [Turns round and goes across with GERALD to MRS </s>
+<s> ARBUTHNOT </s>
+<s> When he sees her, he starts back in wonder </s>
+<s> Then slowly his eyes turn towards GERALD.] GERALD </s>
+<s> Mother, this is Lord Illingworth, who has offered to take me as his private secretary </s>
+<s> [MRS </s>
+<s> ARBUTHNOT bows coldly.] It is a wonderful opening for me, isn't it </s>
+<s> I hope he won't be disappointed in me, that is all </s>
+<s> You'll thank Lord Illingworth, mother, won't you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Lord Illingworth in very good, I am sure, to interest himself in you for the moment </s>
+<s> LORD ILLINGWORTH </s>
+<s> [Putting his hand on GERALD's shoulder.] Oh, Gerald and I are great friends already, Mrs </s>
+<s> </s>
+<s> </s>
+<s> Arbuthnot </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> There can be nothing in common between you and my son, Lord Illingworth </s>
+<s> GERALD </s>
+<s> Dear mother, how can you say so </s>
+<s> Of course Lord Illingworth is awfully clever and that sort of thing </s>
+<s> There is nothing Lord Illingworth doesn't know </s>
+<s> LORD ILLINGWORTH </s>
+<s> My dear boy </s>
+<s> GERALD </s>
+<s> He knows more about life than any one I have ever met </s>
+<s> I feel an awful duffer when I am with you, Lord Illingworth </s>
+<s> Of course, I have had so few advantages </s>
+<s> I have not been to Eton or Oxford like other chaps </s>
+<s> But Lord Illingworth doesn't seem to mind that </s>
+<s> He has been awfully good to me, mother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Lord Illingworth may change his mind </s>
+<s> He may not really want you as his secretary </s>
+<s> GERALD </s>
+<s> Mother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> You must remember, as you said yourself, you have had so few advantages </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Lord Illingworth, I want to speak to you for a moment </s>
+<s> Do come over </s>
+<s> LORD ILLINGWORTH </s>
+<s> Will you excuse me, Mrs Arbuthnot </s>
+<s> Now, don't let your charming mother make any more difficulties, Gerald </s>
+<s> The thing is quite settled, isn't it </s>
+<s> GERALD </s>
+<s> I hope so </s>
+<s> [LORD ILLINGWORTH goes across to MRS </s>
+<s> ARBUTHNOT.] MRS </s>
+<s> ALLONBY </s>
+<s> I thought you were never going to leave the lady in black velvet </s>
+<s> LORD ILLINGWORTH </s>
+<s> She is excessively handsome </s>
+<s> [Looks at MRS </s>
+<s> ARBUTHNOT.] LADY HUNSTANTON </s>
+<s> Caroline, shall we all make a move to the music- room </s>
+<s> Miss Worsley is going to play </s>
+<s> You'll come too, dear Mrs Arbuthnot, won't you </s>
+<s> You don't know what a treat is in store for you </s>
+<s> [To DOCTOR DAUBENY.] I must really take Miss Worsley down some afternoon to the rectory </s>
+<s> I should so much like dear Mrs Daubeny to hear her on the violin </s>
+<s> Ah, I forgot </s>
+<s> Dear Mrs Daubeny's hearing is a little defective, is it not </s>
+<s> THE ARCHDEACON </s>
+<s> Her deafness is a great privation to her </s>
+<s> She can't even hear my sermons now </s>
+<s> She reads them at home </s>
+<s> But she has many resources in herself, many resources </s>
+<s> LADY HUNSTANTON </s>
+<s> She reads a good deal, I suppose </s>
+<s> THE ARCHDEACON </s>
+<s> Just the very largest print </s>
+<s> The eyesight is rapidly going </s>
+<s> But she's never morbid, never morbid </s>
+<s> GERALD </s>
+<s> [To LORD ILLINGWORTH.] Do speak to my mother, Lord Illingworth, before you go into the music-room </s>
+<s> She seems to think, somehow, you don't mean what you said to me </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Aren't you coming </s>
+<s> LORD ILLINGWORTH </s>
+<s> In a few moments </s>
+<s> Lady Hunstanton, if Mrs Arbuthnot would allow me, I would like to say a few words to her, and we will join you later on </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, of course </s>
+<s> You will have a great deal to say to her, and she will have a great deal to thank you for </s>
+<s> It is not every son who gets such an offer, Mrs Arbuthnot </s>
+<s> But I know you appreciate that, dear </s>
+<s> LADY CAROLINE </s>
+<s> John </s>
+<s> LADY HUNSTANTON </s>
+<s> Now, don't keep Mrs Arbuthnot too long, Lord Illingworth </s>
+<s> We can't spare her </s>
+<s> [Exit following the other guests </s>
+<s> Sound of violin heard from music-room.] LORD ILLINGWORTH </s>
+<s> So that is our son, Rachel </s>
+<s> Well, I am very proud of him </s>
+<s> He in a Harford, every inch of him </s>
+<s> By the way, why Arbuthnot, Rachel </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> One name is as good as another, when one has no right to any name </s>
+<s> LORD ILLINGWORTH </s>
+<s> I suppose so - but why Gerald </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> After a man whose heart I broke - after my father </s>
+<s> LORD ILLINGWORTH </s>
+<s> Well, Rachel, what in over is over </s>
+<s> All I have got to say now in that I am very, very much pleased with our boy </s>
+<s> The world will know him merely as my private secretary, but to me he will be something very near, and very dear </s>
+<s> It is a curious thing, Rachel; my life seemed to be quite complete </s>
+<s> It was not so </s>
+<s> It lacked something, it lacked a son </s>
+<s> I have found my son now, I am glad I have found him </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> You have no right to claim him, or the smallest part of him </s>
+<s> The boy is entirely mine, and shall remain mine </s>
+<s> LORD ILLINGWORTH </s>
+<s> My dear Rachel, you have had him to yourself for over twenty years </s>
+<s> Why not let me have him for a little now </s>
+<s> He is quite as much mine as yours </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Are you talking of the child you abandoned </s>
+<s> Of the child who, as far as you are concerned, might have died of hunger and of want </s>
+<s> LORD ILLINGWORTH </s>
+<s> You forget, Rachel, it was you who left me </s>
+<s> It was not I who left you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I left you because you refused to give the child a name </s>
+<s> Before my son was born, I implored you to marry me </s>
+<s> LORD ILLINGWORTH </s>
+<s> I had no expectations then </s>
+<s> And besides, Rachel, I wasn't much older than you were </s>
+<s> I was only twenty-two </s>
+<s> I was twenty-one, I believe, when the whole thing began in your father's garden </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> When a man is old enough to do wrong he should be old enough to do right also </s>
+<s> LORD ILLINGWORTH </s>
+<s> My dear Rachel, intellectual generalities are always interesting, but generalities in morals mean absolutely nothing </s>
+<s> As for saying I left our child to starve, that, of course, is untrue and silly </s>
+<s> My mother offered you six hundred a year </s>
+<s> But you wouldn't take anything </s>
+<s> You simply disappeared, and carried the child away with you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I wouldn't have accepted a penny from her </s>
+<s> Your father was different </s>
+<s> He told you, in my presence, when we were in Paris, that it was your duty to marry me </s>
+<s> LORD ILLINGWORTH </s>
+<s> Oh, duty is what one expects from others, it is not what one does oneself </s>
+<s> Of course, I was influenced by my mother </s>
+<s> Every man is when he is young </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I am glad to hear you say so </s>
+<s> Gerald shall certainly not go away with you </s>
+<s> LORD ILLINGWORTH </s>
+<s> What nonsense, Rachel </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Do you think I would allow my son - LORD ILLINGWORTH </s>
+<s> OUR son </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> My son [LORD ILLINGWORTH shrugs his shoulders] - to go away with the man who spoiled my youth, who ruined my life, who has tainted every moment of my days </s>
+<s> You don't realise what my past has been in suffering and in shame </s>
+<s> LORD ILLINGWORTH </s>
+<s> My dear Rachel, I must candidly say that I think Gerald's future considerably more important than your past </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Gerald cannot separate his future from my past </s>
+<s> LORD ILLINGWORTH </s>
+<s> That is exactly what he should do </s>
+<s> That is exactly what you should help him to do </s>
+<s> What a typical woman you are </s>
+<s> You talk sentimentally, and you are thoroughly selfish the whole time </s>
+<s> But don't let us have a scene </s>
+<s> Rachel, I want you to look at this matter from the common-sense point of view, from the point of view of what is best for our son, leaving you and me out of the question </s>
+<s> What is our son at present </s>
+<s> An underpaid clerk in a small Provincial Bank in a third-rate English town </s>
+<s> If you imagine he is quite happy in such a position, you are mistaken </s>
+<s> He is thoroughly discontented </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> He was not discontented till he met you </s>
+<s> You have made him so </s>
+<s> LORD ILLINGWORTH </s>
+<s> Of course, I made him so </s>
+<s> Discontent is the first step in the progress of a man or a nation </s>
+<s> But I did not leave him with a mere longing for things he could not get </s>
+<s> No, I made him a charming offer </s>
+<s> He jumped at it, I need hardly say </s>
+<s> Any young man would </s>
+<s> And now, simply because it turns out that I am the boy's own father and he my own son, you propose practically to ruin his career </s>
+<s> That is to say, if I were a perfect stranger, you would allow Gerald to go away with me, but as he is my own flesh and blood you won't </s>
+<s> How utterly illogical you are </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I will not allow him to go </s>
+<s> LORD ILLINGWORTH </s>
+<s> How can you prevent it </s>
+<s> What excuse can you give to him for making him decline such an offer as mine </s>
+<s> I won't tell him in what relations I stand to him, I need hardly say </s>
+<s> But you daren't tell him </s>
+<s> You know that </s>
+<s> Look how you have brought him up </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I have brought him up to be a good man </s>
+<s> LORD ILLINGWORTH </s>
+<s> Quite so </s>
+<s> And what is the result </s>
+<s> You have educated him to be your judge if he ever finds you out </s>
+<s> And a bitter, an unjust judge he will be to you </s>
+<s> Don't be deceived, Rachel </s>
+<s> Children begin by loving their parents </s>
+<s> After a time they judge them </s>
+<s> Rarely, if ever, do they forgive them </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> George, don't take my son away from me </s>
+<s> I have had twenty years of sorrow, and I have only had one thing to love me, only one thing to love </s>
+<s> You have had a life of joy, and pleasure, and success </s>
+<s> You have been quite happy, you have never thought of us </s>
+<s> There was no reason, according to your views of life, why you should have remembered us at all </s>
+<s> Your meeting us was a mere accident, a horrible accident </s>
+<s> Forget it </s>
+<s> Don't come now, and rob me of </s>
+<s> </s>
+<s> </s>
+<s> of all I have in the whole world </s>
+<s> You are so rich in other things </s>
+<s> Leave me the little vineyard of my life; leave me the walled-in garden and the well of water; the ewe-lamb God sent me, in pity or in wrath, oh </s>
+<s> leave me that </s>
+<s> George, don't take Gerald from me </s>
+<s> LORD ILLINGWORTH </s>
+<s> Rachel, at the present moment you are not necessary to Gerald's career; I am </s>
+<s> There is nothing more to be said on the subject </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I will not let him go </s>
+<s> LORD ILLINGWORTH </s>
+<s> Here is Gerald </s>
+<s> He has a right to decide for himself </s>
+<s> [Enter GERALD.] GERALD </s>
+<s> Well, dear mother, I hope you have settled it all with Lord Illingworth </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I have not, Gerald </s>
+<s> LORD ILLINGWORTH </s>
+<s> Your mother seems not to like your coming with me, for some reason </s>
+<s> GERALD </s>
+<s> Why, mother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I thought you were quite happy here with me, Gerald </s>
+<s> I didn't know you were so anxious to leave me </s>
+<s> GERALD </s>
+<s> Mother, how can you talk like that </s>
+<s> Of course I have been quite happy with you </s>
+<s> But a man can't stay always with his mother </s>
+<s> No chap does </s>
+<s> I want to make myself a position, to do something </s>
+<s> I thought you would have been proud to see me Lord Illingworth's secretary </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I do not think you would be suitable as a private secretary to Lord Illingworth </s>
+<s> You have no qualifications </s>
+<s> LORD ILLINGWORTH </s>
+<s> I don't wish to seem to interfere for a moment, Mrs Arbuthnot, but as far as your last objection is concerned, I surely am the best judge </s>
+<s> And I can only tell you that your son has all the qualifications I had hoped for </s>
+<s> He has more, in fact, than I had even thought of </s>
+<s> Far more </s>
+<s> [MRS </s>
+<s> ARBUTHNOT remains silent.] Have you any other reason, Mrs Arbuthnot, why you don't wish your son to accept this post </s>
+<s> GERALD </s>
+<s> Have you, mother </s>
+<s> Do answer </s>
+<s> LORD ILLINGWORTH </s>
+<s> If you have, Mrs Arbuthnot, pray, pray say it </s>
+<s> We are quite by ourselves here </s>
+<s> Whatever it is, I need not say I will not repeat it </s>
+<s> GERALD </s>
+<s> Mother </s>
+<s> LORD ILLINGWORTH </s>
+<s> If you would like to be alone with your son, I will leave you </s>
+<s> You may have some other reason you don't wish me to hear </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I have no other reason </s>
+<s> LORD ILLINGWORTH </s>
+<s> Then, my dear boy, we may look on the thing as settled </s>
+<s> Come, you and I will smoke a cigarette on the terrace together </s>
+<s> And Mrs Arbuthnot, pray let me tell you, that I think you have acted very, very wisely </s>
+<s> [Exit with GERALD </s>
+<s> MRS </s>
+<s> ARBUTHNOT is left alone </s>
+<s> She stands immobile with a look of unutterable sorrow on her face.] ACT DROP THIRD ACT SCENE The Picture Gallery at Hunstanton </s>
+<s> Door at back leading on to terrace </s>
+<s> [LORD ILLINGWORTH and GERALD, R.C </s>
+<s> LORD ILLINGWORTH lolling on a sofa </s>
+<s> GERALD in a chair.] LORD ILLINGWORTH </s>
+<s> Thoroughly sensible woman, your mother, Gerald </s>
+<s> I knew she would come round in the end </s>
+<s> GERALD </s>
+<s> My mother is awfully conscientious, Lord Illingworth, and I know she doesn't think I am educated enough to be your secretary </s>
+<s> She is perfectly right, too </s>
+<s> I was fearfully idle when I was at school, and I couldn't pass an examination now to save my life </s>
+<s> LORD ILLINGWORTH </s>
+<s> My dear Gerald, examinations are of no value whatsoever </s>
+<s> If a man is a gentleman, he knows quite enough, and if he is not a gentleman, whatever he knows is bad for him </s>
+<s> GERALD </s>
+<s> But I am so ignorant of the world, Lord Illingworth </s>
+<s> LORD ILLINGWORTH </s>
+<s> Don't be afraid, Gerald </s>
+<s> Remember that you've got on your side the most wonderful thing in the world - youth </s>
+<s> There is nothing like youth </s>
+<s> The middle-aged are mortgaged to Life </s>
+<s> The old are in life's lumber-room </s>
+<s> But youth is the Lord of Life </s>
+<s> Youth has a kingdom waiting for it </s>
+<s> Every one is born a king, and most people die in exile, like most kings </s>
+<s> To win back my youth, Gerald, there is nothing I wouldn't do - except take exercise, get up early, or be a useful member of the community </s>
+<s> GERALD </s>
+<s> But you don't call yourself old, Lord Illingworth </s>
+<s> LORD ILLINGWORTH </s>
+<s> I am old enough to be your father, Gerald </s>
+<s> GERALD </s>
+<s> I don't remember my father; he died years ago </s>
+<s> LORD ILLINGWORTH </s>
+<s> So Lady Hunstanton told me </s>
+<s> GERALD </s>
+<s> It is very curious, my mother never talks to me about my father </s>
+<s> I sometimes think she must have married beneath her </s>
+<s> LORD ILLINGWORTH </s>
+<s> [Winces slightly.] Really </s>
+<s> [Goes over and puts his hand on GERALD'S shoulder.] You have missed not having a father, I suppose, Gerald </s>
+<s> GERALD </s>
+<s> Oh, no; my mother has been so good to me </s>
+<s> No one ever had such a mother as I have had </s>
+<s> LORD ILLINGWORTH </s>
+<s> I am quite sure of that </s>
+<s> Still I should imagine that most mothers don't quite understand their sons </s>
+<s> Don't realise, I mean, that a son has ambitions, a desire to see life, to make himself a name </s>
+<s> After all, Gerald, you couldn't be expected to pass all your life in such a hole as Wrockley, could you </s>
+<s> GERALD </s>
+<s> Oh, no </s>
+<s> It would be dreadful </s>
+<s> LORD ILLINGWORTH </s>
+<s> A mother's love is very touching, of course, but it is often curiously selfish </s>
+<s> I mean, there is a good deal of selfishness in it </s>
+<s> GERALD </s>
+<s> [Slowly.] I suppose there is </s>
+<s> LORD ILLINGWORTH </s>
+<s> Your mother is a thoroughly good woman </s>
+<s> But good women have such limited views of life, their horizon is so small, their interests are so petty, aren't they </s>
+<s> GERALD </s>
+<s> They are awfully interested, certainly, in things we don't care much about </s>
+<s> LORD ILLINGWORTH </s>
+<s> I suppose your mother is very religious, and that sort of thing </s>
+<s> GERALD </s>
+<s> Oh, yes, she's always going to church </s>
+<s> LORD ILLINGWORTH </s>
+<s> Ah </s>
+<s> she is not modern, and to be modern is the only thing worth being nowadays </s>
+<s> You want to be modern, don't you, Gerald </s>
+<s> You want to know life as it really is </s>
+<s> Not to be put of with any old-fashioned theories about life </s>
+<s> Well, what you have to do at present is simply to fit yourself for the best society </s>
+<s> A man who can dominate a London dinner-table can dominate the world </s>
+<s> The future belongs to the dandy </s>
+<s> It is the exquisites who are going to rule </s>
+<s> GERALD </s>
+<s> I should like to wear nice things awfully, but I have always been told that a man should not think too much about his clothes </s>
+<s> LORD ILLINGWORTH </s>
+<s> People nowadays are so absolutely superficial that they don't understand the philosophy of the superficial </s>
+<s> By the way, Gerald, you should learn how to tie your tie better </s>
+<s> Sentiment is all very well for the button-hole </s>
+<s> But the essential thing for a necktie is style </s>
+<s> A well-tied tie is the first serious step in life </s>
+<s> GERALD </s>
+<s> [Laughing.] I might be able to learn how to tie a tie, Lord Illingworth, but I should never be able to talk as you do </s>
+<s> I don't know how to talk </s>
+<s> LORD ILLINGWORTH </s>
+<s> Oh </s>
+<s> talk to every woman as if you loved her, and to every man as if he bored you, and at the end of your first season you will have the reputation of possessing the most perfect social tact </s>
+<s> GERALD </s>
+<s> But it is very difficult to get into society isn't it </s>
+<s> LORD ILLINGWORTH </s>
+<s> To get into the best society, nowadays, one has either to feed people, amuse people, or shock people - that is all </s>
+<s> GERALD </s>
+<s> I suppose society is wonderfully delightful </s>
+<s> LORD ILLINGWORTH </s>
+<s> To be in it is merely a bore </s>
+<s> But to be out of it simply a tragedy </s>
+<s> Society is a necessary thing </s>
+<s> No man has any real success in this world unless he has got women to back him, and women rule society </s>
+<s> If you have not got women on your side you are quite over </s>
+<s> You might just as well be a barrister, or a stockbroker, or a journalist at once </s>
+<s> GERALD </s>
+<s> It is very difficult to understand women, is it not </s>
+<s> LORD ILLINGWORTH </s>
+<s> You should never try to understand them </s>
+<s> Women are pictures </s>
+<s> Men are problems </s>
+<s> If you want to know what a woman really means - which, by the way, is always a dangerous thing to do - look at her, don't listen to her </s>
+<s> GERALD </s>
+<s> But women are awfully clever, aren't they </s>
+<s> LORD ILLINGWORTH </s>
+<s> One should always tell them so </s>
+<s> But, to the philosopher, my dear Gerald, women represent the triumph of matter over mind - just as men represent the triumph of mind over morals </s>
+<s> GERALD </s>
+<s> How then can women have so much power as you say they have </s>
+<s> LORD ILLINGWORTH </s>
+<s> The history of women is the history of the worst form of tyranny the world has ever known </s>
+<s> The tyranny of the weak over the strong </s>
+<s> It is the only tyranny that lasts </s>
+<s> GERALD </s>
+<s> But haven't women got a refining influence </s>
+<s> LORD ILLINGWORTH </s>
+<s> Nothing refines but the intellect </s>
+<s> GERALD </s>
+<s> Still, there are many different kinds of women, aren't there </s>
+<s> LORD ILLINGWORTH </s>
+<s> Only two kinds in society: the plain and the coloured </s>
+<s> GERALD </s>
+<s> But there are good women in society, aren't there </s>
+<s> LORD ILLINGWORTH </s>
+<s> Far too many </s>
+<s> GERALD </s>
+<s> But do you think women shouldn't be good </s>
+<s> LORD ILLINGWORTH </s>
+<s> One should never tell them so, they'd all become good at once </s>
+<s> Women are a fascinatingly wilful sex </s>
+<s> Every woman is a rebel, and usually in wild revolt against herself </s>
+<s> GERALD </s>
+<s> You have never been married, Lord Illingworth, have you </s>
+<s> LORD ILLINGWORTH </s>
+<s> Men marry because they are tired; women because they are curious </s>
+<s> Both are disappointed </s>
+<s> GERALD </s>
+<s> But don't you think one can be happy when one is married </s>
+<s> LORD ILLINGWORTH </s>
+<s> Perfectly happy </s>
+<s> But the happiness of a married man, my dear Gerald, depends on the people he has not married </s>
+<s> GERALD </s>
+<s> But if one is in love </s>
+<s> LORD ILLINGWORTH </s>
+<s> One should always be in love </s>
+<s> That is the reason one should never marry </s>
+<s> GERALD </s>
+<s> Love is a very wonderful thing, isn't it </s>
+<s> LORD ILLINGWORTH </s>
+<s> When one is in love one begins by deceiving oneself </s>
+<s> And one ends by deceiving others </s>
+<s> That is what the world calls a romance </s>
+<s> But a really GRANDE PASSION is comparatively rare nowadays </s>
+<s> It is the privilege of people who have nothing to do </s>
+<s> That is the one use of the idle classes in a country, and the only possible explanation of us Harfords </s>
+<s> GERALD </s>
+<s> Harfords, Lord Illingworth </s>
+<s> LORD ILLINGWORTH </s>
+<s> That is my family name </s>
+<s> You should study the Peerage, Gerald </s>
+<s> It is the one book a young man about town should know thoroughly, and it is the best thing in fiction the English have ever done </s>
+<s> And now, Gerald, you are going into a perfectly new life with me, and I want you to know how to live </s>
+<s> [MRS </s>
+<s> ARBUTHNOT appears on terrace behind.] For the world has been made by fools that wise men should live in it </s>
+<s> [Enter L.C </s>
+<s> LADY HUNSTANTON and DR </s>
+<s> DAUBENY.] LADY HUNSTANTON </s>
+<s> Ah </s>
+<s> here you are, dear Lord Illingworth </s>
+<s> Well, I suppose you have been telling our young friend, Gerald, what his new duties are to be, and giving him a great deal of good advice over a pleasant cigarette </s>
+<s> LORD ILLINGWORTH </s>
+<s> I have been giving him the best of advice, Lady Hunstanton, and the best of cigarettes </s>
+<s> LADY HUNSTANTON </s>
+<s> I am so sorry I was not here to listen to you, but I suppose I am too old now to learn </s>
+<s> Except from you, dear Archdeacon, when you are in your nice pulpit </s>
+<s> But then I always know what you are going to say, so I don't feel alarmed </s>
+<s> [Sees MRS </s>
+<s> ARBUTHNOT.] Ah </s>
+<s> dear Mrs Arbuthnot, do come and join us </s>
+<s> Come, dear </s>
+<s> [Enter MRS </s>
+<s> ARBUTHNOT.] Gerald has been having such a long talk with Lord Illingworth; I am sure you must feel very much flattered at the pleasant way in which everything has turned out for him </s>
+<s> Let us sit down </s>
+<s> [They sit down.] And how is your beautiful embroidery going on </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I am always at work, Lady Hunstanton </s>
+<s> LADY HUNSTANTON </s>
+<s> Mrs Daubeny embroiders a little, too, doesn't she </s>
+<s> THE ARCHDEACON </s>
+<s> She was very deft with her needle once, quite a Dorcas </s>
+<s> But the gout has crippled her fingers a good deal </s>
+<s> She has not touched the tambour frame for nine or ten years </s>
+<s> But she has many other amusements </s>
+<s> She is very much interested in her own health </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah </s>
+<s> that is always a nice distraction, in it not </s>
+<s> Now, what are you talking about, Lord Illingworth </s>
+<s> Do tell us </s>
+<s> LORD ILLINGWORTH </s>
+<s> I was on the point of explaining to Gerald that the world has always laughed at its own tragedies, that being the only way in which it has been able to bear them </s>
+<s> And that, consequently, whatever the world has treated seriously belongs to the comedy side of things </s>
+<s> LADY HUNSTANTON </s>
+<s> Now I am quite out of my depth </s>
+<s> I usually am when Lord Illingworth says anything </s>
+<s> And the Humane Society is most careless </s>
+<s> They never rescue me </s>
+<s> I am left to sink </s>
+<s> I have a dim idea, dear Lord Illingworth, that you are always on the side of the sinners, and I know I always try to be on the side of the saints, but that is as far as I get </s>
+<s> And after all, it may be merely the fancy of a drowning person </s>
+<s> LORD ILLINGWORTH </s>
+<s> The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah </s>
+<s> that quite does for me </s>
+<s> I haven't a word to say </s>
+<s> You and I, dear Mrs Arbuthnot, are behind the age </s>
+<s> We can't follow Lord Illingworth </s>
+<s> Too much care was taken with our education, I am afraid </s>
+<s> To have been well brought up is a great drawback nowadays </s>
+<s> It shuts one out from so much </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I should be sorry to follow Lord Illingworth in any of his opinions </s>
+<s> LADY HUNSTANTON </s>
+<s> You are quite right, dear </s>
+<s> [GERALD shrugs his shoulders and looks irritably over at his mother </s>
+<s> Enter LADY CAROLINE.] LADY CAROLINE </s>
+<s> Jane, have you seen John anywhere </s>
+<s> LADY HUNSTANTON </s>
+<s> You needn't be anxious about him, dear </s>
+<s> He is with Lady Stutfield; I saw them some time ago, in the Yellow Drawing-room </s>
+<s> They seem quite happy together </s>
+<s> You are not going, Caroline </s>
+<s> Pray sit down </s>
+<s> LADY CAROLINE </s>
+<s> I think I had better look after John </s>
+<s> [Exit LADY CAROLINE.] LADY HUNSTANTON </s>
+<s> It doesn't do to pay men so much attention </s>
+<s> And Caroline has really nothing to be anxious about </s>
+<s> Lady Stutfield is very sympathetic </s>
+<s> She is just as sympathetic about one thing as she is about another </s>
+<s> A beautiful nature </s>
+<s> [Enter SIR JOHN and MRS </s>
+<s> ALLONBY.] Ah </s>
+<s> here is Sir John </s>
+<s> And with Mrs Allonby too </s>
+<s> I suppose it was Mrs Allonby I saw him with </s>
+<s> Sir John, Caroline has been looking everywhere for you </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> We have been waiting for her in the Music-room, dear Lady Hunstanton </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah </s>
+<s> the Music-room, of course </s>
+<s> I thought it was the Yellow Drawing-room, my memory is getting so defective </s>
+<s> [To the ARCHDEACON.] Mrs Daubeny has a wonderful memory, hasn't she </s>
+<s> THE ARCHDEACON </s>
+<s> She used to be quite remarkable for her memory, but since her last attack she recalls chiefly the events of her early childhood </s>
+<s> But she finds great pleasure in such retrospections, great pleasure </s>
+<s> [Enter LADY STUTFIELD and MR </s>
+<s> KELVIL.] LADY HUNSTANTON </s>
+<s> Ah </s>
+<s> dear Lady Stutfield </s>
+<s> and what has Mr Kelvil been talking to you about </s>
+<s> LADY STUTFIELD </s>
+<s> About Bimetallism, as well as I remember </s>
+<s> LADY HUNSTANTON </s>
+<s> Bimetallism </s>
+<s> Is that quite a nice subject </s>
+<s> However, I know people discuss everything very freely nowadays </s>
+<s> What did Sir John talk to you about, dear Mrs Allonby </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> About Patagonia </s>
+<s> LADY HUNSTANTON </s>
+<s> Really </s>
+<s> What a remote topic </s>
+<s> But very improving, I have no doubt </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> He has been most interesting on the subject of Patagonia </s>
+<s> Savages seem to have quite the same views as cultured people on almost all subjects </s>
+<s> They are excessively advanced </s>
+<s> LADY HUNSTANTON </s>
+<s> What do they do </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Apparently everything </s>
+<s> LADY HUNSTANTON </s>
+<s> Well, it is very gratifying, dear Archdeacon, is it not, to find that Human Nature is permanently one </s>
+<s> - On the whole, the world is the same world, is it not </s>
+<s> LORD ILLINGWORTH </s>
+<s> The world is simply divided into two classes - those who believe the incredible, like the public - and those who do the improbable - MRS </s>
+<s> ALLONBY </s>
+<s> Like yourself </s>
+<s> LORD ILLINGWORTH </s>
+<s> Yes; I am always astonishing myself </s>
+<s> It is the only thing that makes life worth living </s>
+<s> LADY STUTFIELD </s>
+<s> And what have you been doing lately that astonishes you </s>
+<s> LORD ILLINGWORTH </s>
+<s> I have been discovering all kinds of beautiful qualities in my own nature </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah </s>
+<s> don't become quite perfect all at once </s>
+<s> Do it gradually </s>
+<s> LORD ILLINGWORTH </s>
+<s> I don't intend to grow perfect at all </s>
+<s> At least, I hope I shan't </s>
+<s> It would be most inconvenient </s>
+<s> Women love us for our defects </s>
+<s> If we have enough of them, they will forgive us everything, even our gigantic intellects </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> It is premature to ask us to forgive analysis </s>
+<s> We forgive adoration; that is quite as much as should be expected from us </s>
+<s> [Enter LORD ALFRED </s>
+<s> He joins LADY STUTFIELD.] LADY HUNSTANTON </s>
+<s> Ah </s>
+<s> we women should forgive everything, shouldn't we, dear Mrs Arbuthnot </s>
+<s> I am sure you agree with me in that </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I do not, Lady Hunstanton </s>
+<s> I think there are many things women should never forgive </s>
+<s> LADY HUNSTANTON </s>
+<s> What sort of things </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> The ruin of another woman's life </s>
+<s> [Moves slowly away to back of stage.] LADY HUNSTANTON </s>
+<s> Ah </s>
+<s> those things are very sad, no doubt, but I believe there are admirable homes where people of that kind are looked after and reformed, and I think on the whole that the secret of life is to take things very, very easily </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> The secret of life is never to have an emotion that is unbecoming </s>
+<s> LADY STUTFIELD </s>
+<s> The secret of life is to appreciate the pleasure of being terribly, terribly deceived </s>
+<s> KELVIL </s>
+<s> The secret of life is to resist temptation, Lady Stutfield </s>
+<s> LORD ILLINGWORTH </s>
+<s> There is no secret of life </s>
+<s> Life's aim, if it has one, is simply to be always looking for temptations </s>
+<s> There are not nearly enough </s>
+<s> I sometimes pass a whole day without coming across a single one </s>
+<s> It is quite dreadful </s>
+<s> It makes one so nervous about the future </s>
+<s> LADY HUNSTANTON </s>
+<s> [Shakes her fan at him.] I don't know how it is, dear Lord Illingworth, but everything you have said to-day seems to me excessively immoral </s>
+<s> It has been most interesting, listening to you </s>
+<s> LORD ILLINGWORTH </s>
+<s> All thought is immoral </s>
+<s> Its very essence is destruction </s>
+<s> If you think of anything, you kill it </s>
+<s> Nothing survives being thought of </s>
+<s> LADY HUNSTANTON </s>
+<s> I don't understand a word, Lord Illingworth </s>
+<s> But I have no doubt it is all quite true </s>
+<s> Personally, I have very little to reproach myself with, on the score of thinking </s>
+<s> I don't believe in women thinking too much </s>
+<s> Women should think in moderation, as they should do all things in moderation </s>
+<s> LORD ILLINGWORTH </s>
+<s> Moderation is a fatal thing, Lady Hunstanton </s>
+<s> Nothing succeeds like excess </s>
+<s> LADY HUNSTANTON </s>
+<s> I hope I shall remember that </s>
+<s> It sounds an admirable maxim </s>
+<s> But I'm beginning to forget everything </s>
+<s> It's a great misfortune </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is one of your most fascinating qualities, Lady Hunstanton </s>
+<s> No woman should have a memory </s>
+<s> Memory in a woman is the beginning of dowdiness </s>
+<s> One can always tell from a woman's bonnet whether she has got a memory or not </s>
+<s> LADY HUNSTANTON </s>
+<s> How charming you are, dear Lord Illingworth </s>
+<s> You always find out that one's most glaring fault is one's most important virtue </s>
+<s> You have the most comforting views of life </s>
+<s> [Enter FARQUHAR.] FARQUHAR </s>
+<s> Doctor Daubeny's carriage </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear Archdeacon </s>
+<s> It is only half-past ten </s>
+<s> THE ARCHDEACON </s>
+<s> [Rising.] I am afraid I must go, Lady Hunstanton </s>
+<s> Tuesday is always one of Mrs Daubeny's bad nights </s>
+<s> LADY HUNSTANTON </s>
+<s> [Rising.] Well, I won't keep you from her </s>
+<s> [Goes with him towards door.] I have told Farquhar to put a brace of partridge into the carriage </s>
+<s> Mrs Daubeny may fancy them </s>
+<s> THE ARCHDEACON </s>
+<s> It is very kind of you, but Mrs Daubeny never touches solids now </s>
+<s> Lives entirely on jellies </s>
+<s> But she is wonderfully cheerful, wonderfully cheerful </s>
+<s> She has nothing to complain of </s>
+<s> [Exit with LADY HUNSTANTON.] MRS </s>
+<s> ALLONBY </s>
+<s> [Goes over to LORD ILLINGWORTH.] There is a beautiful moon to-night </s>
+<s> LORD ILLINGWORTH </s>
+<s> Let us go and look at it </s>
+<s> To look at anything that is inconstant is charming nowadays </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> You have your looking-glass </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is unkind </s>
+<s> It merely shows me my wrinkles </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Mine is better behaved </s>
+<s> It never tells me the truth </s>
+<s> LORD ILLINGWORTH </s>
+<s> Then it is in love with you </s>
+<s> [Exeunt SIR JOHN, LADY STUTFIELD, MR </s>
+<s> KELVIL and LORD ALFRED.] GERALD </s>
+<s> [To LORD ILLINGWORTH] May I come too </s>
+<s> LORD ILLINGWORTH </s>
+<s> Do, my dear boy </s>
+<s> [Moves towards with MRS </s>
+<s> ALLONBY and GERALD.] [LADY CAROLINE enters, looks rapidly round and goes off in opposite direction to that taken by SIR JOHN and LADY STUTFIELD.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> Gerald </s>
+<s> GERALD </s>
+<s> What, mother </s>
+<s> [Exit LORD ILLINGWORTH with MRS </s>
+<s> ALLONBY.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> It is getting late </s>
+<s> Let us go home </s>
+<s> GERALD </s>
+<s> My dear mother </s>
+<s> Do let us wait a little longer </s>
+<s> Lord Illingworth is so delightful, and, by the way, mother, I have a great surprise for you </s>
+<s> We are starting for India at the end of this month </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Let us go home </s>
+<s> GERALD </s>
+<s> If you really want to, of course, mother, but I must bid good-bye to Lord Illingworth first </s>
+<s> I'll be back in five minutes </s>
+<s> [Exit.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> Let him leave me if he chooses, but not with him - not with him </s>
+<s> I couldn't bear it </s>
+<s> [Walks up and down.] [Enter HESTER.] HESTER </s>
+<s> What a lovely night it is, Mrs Arbuthnot </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Is it </s>
+<s> HESTER </s>
+<s> Mrs Arbuthnot, I wish you would let us be friends </s>
+<s> You are so different from the other women here </s>
+<s> When you came into the Drawing-room this evening, somehow you brought with you a sense of what is good and pure in life </s>
+<s> I had been foolish </s>
+<s> There are things that are right to say, but that may be said at the wrong time and to the wrong people </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I heard what you said </s>
+<s> I agree with it, Miss Worsley </s>
+<s> HESTER </s>
+<s> I didn't know you had heard it </s>
+<s> But I knew you would agree with me </s>
+<s> A woman who has sinned should be punished, shouldn't she </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Yes </s>
+<s> HESTER </s>
+<s> She shouldn't be allowed to come into the society of good men and women </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> She should not </s>
+<s> HESTER </s>
+<s> And the man should be punished in the same way </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> In the same way </s>
+<s> And the children, if there are children, in the same way also </s>
+<s> HESTER </s>
+<s> Yes, it is right that the sins of the parents should be visited on the children </s>
+<s> It is a just law </s>
+<s> It is God's law </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> It is one of God's terrible laws </s>
+<s> [Moves away to fireplace.] HESTER </s>
+<s> You are distressed about your son leaving you, Mrs Arbuthnot </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Yes </s>
+<s> HESTER </s>
+<s> Do you like him going away with Lord Illingworth </s>
+<s> Of course there is position, no doubt, and money, but position and money are not everything, are they </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> They are nothing; they bring misery </s>
+<s> HESTER </s>
+<s> Then why do you let your son go with him </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> He wishes it himself </s>
+<s> HESTER </s>
+<s> But if you asked him he would stay, would he not </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> He has set his heart on going </s>
+<s> HESTER </s>
+<s> He couldn't refuse you anything </s>
+<s> He loves you too much </s>
+<s> Ask him to stay </s>
+<s> Let me send him in to you </s>
+<s> He is on the terrace at this moment with Lord Illingworth </s>
+<s> I heard them laughing together as I passed through the Music-room </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Don't trouble, Miss Worsley, I can wait </s>
+<s> It is of no consequence </s>
+<s> HESTER </s>
+<s> No, I'll tell him you want him </s>
+<s> Do - do ask him to stay </s>
+<s> [Exit HESTER.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> He won't come - I know he won't come </s>
+<s> [Enter LADY CAROLINE </s>
+<s> She looks round anxiously </s>
+<s> Enter GERALD.] LADY CAROLINE </s>
+<s> Mr Arbuthnot, may I ask you is Sir John anywhere on the terrace </s>
+<s> GERALD </s>
+<s> No, Lady Caroline, he is not on the terrace </s>
+<s> LADY CAROLINE </s>
+<s> It is very curious </s>
+<s> It is time for him to retire </s>
+<s> [Exit LADY CAROLINE.] GERALD </s>
+<s> Dear mother, I am afraid I kept you waiting </s>
+<s> I forgot all about it </s>
+<s> I am so happy to-night, mother; I have never been so happy </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> At the prospect of going away </s>
+<s> GERALD </s>
+<s> Don't put it like that, mother </s>
+<s> Of course I am sorry to leave you </s>
+<s> Why, you are the best mother in the whole world </s>
+<s> But after all, as Lord Illingworth says, it is impossible to live in such a place as Wrockley </s>
+<s> You don't mind it </s>
+<s> But I'm ambitions; I want something more than that </s>
+<s> I want to have a career </s>
+<s> I want to do something that will make you proud of me, and Lord Illingworth is going to help me </s>
+<s> He is going to do everything for me </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Gerald, don't go away with Lord Illingworth </s>
+<s> I implore you not to </s>
+<s> Gerald, I beg you </s>
+<s> GERALD </s>
+<s> Mother, how changeable you are </s>
+<s> You don't seem to know your own mind for a single moment </s>
+<s> An hour and a half ago in the Drawing-room you agreed to the whole thing; now you turn round and make objections, and try to force me to give up my one chance in life </s>
+<s> Yes, my one chance </s>
+<s> You don't suppose that men like Lord Illingworth are to be found every day, do you, mother </s>
+<s> It is very strange that when I have had such a wonderful piece of good luck, the one person to put difficulties in my way should be my own mother </s>
+<s> Besides, you know, mother, I love Hester Worsley </s>
+<s> Who could help loving her </s>
+<s> I love her more than I have ever told you, far more </s>
+<s> And if I had a position, if I had prospects, I could - I could ask her to - Don't you understand now, mother, what it means to me to be Lord Illingworth's secretary </s>
+<s> To start like that is to find a career ready for one - before one - waiting for one </s>
+<s> If I were Lord Illingworth's secretary I could ask Hester to be my wife </s>
+<s> As a wretched bank clerk with a hundred a year it would be an impertinence </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I fear you need have no hopes of Miss Worsley </s>
+<s> I know her views on life </s>
+<s> She has just told them to me </s>
+<s> [A pause.] GERALD </s>
+<s> Then I have my ambition left, at any rate </s>
+<s> That is something - I am glad I have that </s>
+<s> You have always tried to crush my ambition, mother - haven't you </s>
+<s> You have told me that the world is a wicked place, that success is not worth having, that society is shallow, and all that sort of thing - well, I don't believe it, mother </s>
+<s> I think the world must be delightful </s>
+<s> I think society must be exquisite </s>
+<s> I think success is a thing worth having </s>
+<s> You have been wrong in all that you taught me, mother, quite wrong </s>
+<s> Lord Illingworth is a successful man </s>
+<s> He is a fashionable man </s>
+<s> He is a man who lives in the world and for it </s>
+<s> Well, I would give anything to be just like Lord Illingworth </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I would sooner see you dead </s>
+<s> GERALD </s>
+<s> Mother, what is your objection to Lord Illingworth </s>
+<s> Tell me - tell me right out </s>
+<s> What is it </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> He is a bad man </s>
+<s> GERALD </s>
+<s> In what way bad </s>
+<s> I don't understand what you mean </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I will tell you </s>
+<s> GERALD </s>
+<s> I suppose you think him bad, because he doesn't believe the same things as you do </s>
+<s> Well, men are different from women, mother </s>
+<s> It is natural that they should have different views </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> It is not what Lord Illingworth believes, or what he does not believe, that makes him bad </s>
+<s> It is what he is </s>
+<s> GERALD </s>
+<s> Mother, is it something you know of him </s>
+<s> Something you actually know </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> It is something I know </s>
+<s> GERALD </s>
+<s> Something you are quite sure of </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Quite sure of </s>
+<s> GERALD </s>
+<s> How long have you known it </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> For twenty years </s>
+<s> GERALD </s>
+<s> Is it fair to go back twenty years in any man's career </s>
+<s> And what have you or I to do with Lord Illingworth's early life </s>
+<s> What business is it of ours </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> What this man has been, he is now, and will be always </s>
+<s> GERALD </s>
+<s> Mother, tell me what Lord Illingworth did </s>
+<s> If he did anything shameful, I will not go away with him </s>
+<s> Surely you know me well enough for that </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Gerald, come near to me </s>
+<s> Quite close to me, as you used to do when you were a little boy, when you were mother's own boy </s>
+<s> [GERALD sits down betide his mother </s>
+<s> She runs her fingers through his hair, and strokes his hands.] Gerald, there was a girl once, she was very young, she was little over eighteen at the time </s>
+<s> George Harford - that was Lord Illingworth's name then - George Harford met her </s>
+<s> She knew nothing about life </s>
+<s> He - knew everything </s>
+<s> He made this girl love him </s>
+<s> He made her love him so much that she left her father's house with him one morning </s>
+<s> She loved him so much, and he had promised to marry her </s>
+<s> He had solemnly promised to marry her, and she had believed him </s>
+<s> She was very young, and - and ignorant of what life really is </s>
+<s> But he put the marriage off from week to week, and month to month </s>
+<s> - She trusted in him all the while </s>
+<s> She loved him </s>
+<s> - Before her child was born - for she had a child - she implored him for the child's sake to marry her, that the child might have a name, that her sin might not be visited on the child, who was innocent </s>
+<s> He refused </s>
+<s> After the child was born she left him, taking the child away, and her life was ruined, and her soul ruined, and all that was sweet, and good, and pure in her ruined also </s>
+<s> She suffered terribly - she suffers now </s>
+<s> She will always suffer </s>
+<s> For her there is no joy, no peace, no atonement </s>
+<s> She is a woman who drags a chain like a guilty thing </s>
+<s> She is a woman who wears a mask, like a thing that is a leper </s>
+<s> The fire cannot purify her </s>
+<s> The waters cannot quench her anguish </s>
+<s> Nothing can heal her </s>
+<s> no anodyne can give her sleep </s>
+<s> no poppies forgetfulness </s>
+<s> She is lost </s>
+<s> She is a lost soul </s>
+<s> - That is why I call Lord Illingworth a bad man </s>
+<s> That is why I don't want my boy to be with him </s>
+<s> GERALD </s>
+<s> My dear mother, it all sounds very tragic, of course </s>
+<s> But I dare say the girl was just as much to blame as Lord Illingworth was </s>
+<s> - After all, would a really nice girl, a girl with any nice feelings at all, go away from her home with a man to whom she was not married, and live with him as his wife </s>
+<s> No nice girl would </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> [After a pause.] Gerald, I withdraw all my objections </s>
+<s> You are at liberty to go away with Lord Illingworth, when and where you choose </s>
+<s> GERALD </s>
+<s> Dear mother, I knew you wouldn't stand in my way </s>
+<s> You are the best woman God ever made </s>
+<s> And, as for Lord Illingworth, I don't believe he is capable of anything infamous or base </s>
+<s> I can't believe it of him - I can't </s>
+<s> HESTER </s>
+<s> [Outside.] Let me go </s>
+<s> Let me go </s>
+<s> [Enter HESTER in terror, and rushes over to GERALD and flings herself in his arms.] HESTER </s>
+<s> Oh </s>
+<s> save me - save me from him </s>
+<s> GERALD </s>
+<s> From whom </s>
+<s> HESTER </s>
+<s> He has insulted me </s>
+<s> Horribly insulted me </s>
+<s> Save me </s>
+<s> GERALD </s>
+<s> Who </s>
+<s> Who has dared - </s>
+<s> [LORD ILLINGWORTH enters at back of stage </s>
+<s> HESTER breaks from GERALD'S arms and points to him.] GERALD [He is quite beside himself with rage and indignation.] Lord Illingworth, you have insulted the purest thing on God's earth, a thing as pure as my own mother </s>
+<s> You have insulted the woman I love most in the world with my own mother </s>
+<s> As there is a God in Heaven, I will kill you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> [Rushing across and catching hold of him] No </s>
+<s> no </s>
+<s> GERALD </s>
+<s> [Thrusting her back.] Don't hold me, mother </s>
+<s> Don't hold me - I'll kill him </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Gerald </s>
+<s> GERALD </s>
+<s> Let me go, I say </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Stop, Gerald, stop </s>
+<s> He is your own father </s>
+<s> [GERALD clutches his mother's hands and looks into her face </s>
+<s> She sinks slowly on the ground in shame </s>
+<s> HESTER steals towards the door </s>
+<s> LORD ILLINGWORTH frowns and bites his lip </s>
+<s> After a time GERALD raises his mother up, puts his am round her, and leads her from the room.] ACT DROP FOURTH ACT SCENE Sitting-room at Mrs Arbuthnot's </s>
+<s> Large open French window at back, looking on to garden </s>
+<s> Doors R.C </s>
+<s> and L.C </s>
+<s> [GERALD ARBUTHNOT writing at table.] [Enter ALICE R.C </s>
+<s> followed by LADY HUNSTANTON and MRS </s>
+<s> ALLONBY.] ALICE </s>
+<s> Lady Hunstanton and Mrs Allonby </s>
+<s> [Exit L.C.] LADY HUNSTANTON </s>
+<s> Good morning, Gerald </s>
+<s> GERALD </s>
+<s> [Rising.] Good morning, Lady Hunstanton </s>
+<s> Good morning, Mrs Allonby </s>
+<s> LADY HUNSTANTON </s>
+<s> [Sitting down.] We came to inquire for your dear mother, Gerald </s>
+<s> I hope she is better </s>
+<s> GERALD </s>
+<s> My mother has not come down yet, Lady Hunstanton </s>
+<s> LADY HUNSTANTON </s>
+<s> Ah, I am afraid the heat was too much for her last night </s>
+<s> I think there must have been thunder in the air </s>
+<s> Or perhaps it was the music </s>
+<s> Music makes one feel so romantic - at least it always gets on one's nerves </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> It's the same thing, nowadays </s>
+<s> LADY HUNSTANTON </s>
+<s> I am so glad I don't know what you mean, dear </s>
+<s> I am afraid you mean something wrong </s>
+<s> Ah, I see you're examining Mrs Arbuthnot's pretty room </s>
+<s> Isn't it nice and old-fashioned </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> [Surveying the room through her lorgnette.] It looks quite the happy English home </s>
+<s> LADY HUNSTANTON </s>
+<s> That's just the word, dear; that just describes it </s>
+<s> One feels your mother's good influence in everything she has about her, Gerald </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Lord Illingworth says that all influence is bad, but that a good influence is the worst in the world </s>
+<s> LADY HUNSTANTON </s>
+<s> When Lord Illingworth knows Mrs Arbuthnot better he will change his mind </s>
+<s> I must certainly bring him here </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I should like to see Lord Illingworth in a happy English home </s>
+<s> LADY HUNSTANTON </s>
+<s> It would do him a great deal of good, dear </s>
+<s> Most women in London, nowadays, seem to furnish their rooms with nothing but orchids, foreigners, and French novels </s>
+<s> But here we have the room of a sweet saint </s>
+<s> Fresh natural flowers, books that don't shock one, pictures that one can look at without blushing </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> But I like blushing </s>
+<s> LADY HUNSTANTON </s>
+<s> Well, there IS a good deal to be said for blushing, if one can do it at the proper moment </s>
+<s> Poor dear Hunstanton used to tell me I didn't blush nearly often enough </s>
+<s> But then he was so very particular </s>
+<s> He wouldn't let me know any of his men friends, except those who were over seventy, like poor Lord Ashton: who afterwards, by the way, was brought into the Divorce Court </s>
+<s> A most unfortunate case </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I delight in men over seventy </s>
+<s> They always offer one the devotion of a lifetime </s>
+<s> I think seventy an ideal age for a man </s>
+<s> LADY HUNSTANTON </s>
+<s> She is quite incorrigible, Gerald, isn't she </s>
+<s> By-the-by, Gerald, I hope your dear mother will come and see me more often now </s>
+<s> You and Lord Illingworth start almost immediately, don't you </s>
+<s> GERALD </s>
+<s> I have given up my intention of being Lord Illingworth's secretary </s>
+<s> LADY HUNSTANTON </s>
+<s> Surely not, Gerald </s>
+<s> It would be most unwise of you </s>
+<s> What reason can you have </s>
+<s> GERALD </s>
+<s> I don't think I should be suitable for the post </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I wish Lord Illingworth would ask me to be his secretary </s>
+<s> But he says I am not serious enough </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear, you really mustn't talk like that in this house </s>
+<s> Mrs Arbuthnot doesn't know anything about the wicked society in which we all live </s>
+<s> She won't go into it </s>
+<s> She is far too good </s>
+<s> I consider it was a great honour her coming to me last night </s>
+<s> It gave quite an atmosphere of respectability to the party </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Ah, that must have been what you thought was thunder in the air </s>
+<s> LADY HUNSTANTON </s>
+<s> My dear, how can you say that </s>
+<s> There is no resemblance between the two things at all </s>
+<s> But really, Gerald, what do you mean by not being suitable </s>
+<s> GERALD </s>
+<s> Lord Illingworth's views of life and mine are too different </s>
+<s> LADY HUNSTANTON </s>
+<s> But, my dear Gerald, at your age you shouldn't have any views of life </s>
+<s> They are quite out of place </s>
+<s> You must be guided by others in this matter </s>
+<s> Lord Illingworth has made you the most flattering offer, and travelling with him you would see the world - as much of it, at least, as one should look at - under the best auspices possible, and stay with all the right people, which is so important at this solemn moment in your career </s>
+<s> GERALD </s>
+<s> I don't want to see the world: I've seen enough of it </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> I hope you don't think you have exhausted life, Mr Arbuthnot </s>
+<s> When a man says that, one knows that life has exhausted him </s>
+<s> GERALD </s>
+<s> I don't wish to leave my mother </s>
+<s> LADY HUNSTANTON </s>
+<s> Now, Gerald, that is pure laziness on your part </s>
+<s> Not leave your mother </s>
+<s> If I were your mother I would insist on your going </s>
+<s> [Enter ALICE L.C.] ALICE </s>
+<s> Mrs Arbuthnot's compliments, my lady, but she has a bad headache, and cannot see any one this morning </s>
+<s> [Exit R.C.] LADY HUNSTANTON </s>
+<s> [Rising.] A bad headache </s>
+<s> I am so sorry </s>
+<s> Perhaps you'll bring her up to Hunstanton this afternoon, if she is better, Gerald </s>
+<s> GERALD </s>
+<s> I am afraid not this afternoon, Lady Hunstanton </s>
+<s> LADY HUNSTANTON </s>
+<s> Well, to-morrow, then </s>
+<s> Ah, if you had a father, Gerald, he wouldn't let you waste your life here </s>
+<s> He would send you off with Lord Illingworth at once </s>
+<s> But mothers are so weak </s>
+<s> They give up to their sons in everything </s>
+<s> We are all heart, all heart </s>
+<s> Come, dear, I must call at the rectory and inquire for Mrs Daubeny, who, I am afraid, is far from well </s>
+<s> It is wonderful how the Archdeacon bears up, quite wonderful </s>
+<s> He is the most sympathetic of husbands </s>
+<s> Quite a model </s>
+<s> Good-bye, Gerald, give my fondest love to your mother </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> Good-bye, Mr Arbuthnot </s>
+<s> GERALD </s>
+<s> Good-bye </s>
+<s> [Exit LADY HUNSTANTON and MRS </s>
+<s> ALLONBY </s>
+<s> GERALD sits down and reads over his letter.] GERALD </s>
+<s> What name can I sign </s>
+<s> I, who have no right to any name </s>
+<s> [Signs name, puts letter into envelope, addresses it, and is about to seal it, when door L.C </s>
+<s> opens and MRS </s>
+<s> ARBUTHNOT enters </s>
+<s> GERALD lays down sealing-wax </s>
+<s> Mother and son look at each other.] LADY HUNSTANTON </s>
+<s> [Through French window at the back.] Good-bye again, Gerald </s>
+<s> We are taking the short cut across your pretty garden </s>
+<s> Now, remember my advice to you - start at once with Lord Illingworth </s>
+<s> MRS </s>
+<s> ALLONBY </s>
+<s> AU REVOIR, Mr Arbuthnot </s>
+<s> Mind you bring me back something nice from your travels - not an Indian shawl - on no account an Indian shawl </s>
+<s> [Exeunt.] GERALD </s>
+<s> Mother, I have just written to him </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> To whom </s>
+<s> GERALD </s>
+<s> To my father </s>
+<s> I have written to tell him to come here at four o'clock this afternoon </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> He shall not come here </s>
+<s> He shall not cross the threshold of my house </s>
+<s> GERALD </s>
+<s> He must come </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Gerald, if you are going away with Lord Illingworth, go at once </s>
+<s> Go before it kills me: but don't ask me to meet him </s>
+<s> GERALD </s>
+<s> Mother, you don't understand </s>
+<s> Nothing in the world would induce me to go away with Lord Illingworth, or to leave you </s>
+<s> Surely you know me well enough for that </s>
+<s> No: I have written to him to say - MRS </s>
+<s> ARBUTHNOT </s>
+<s> What can you have to say to him </s>
+<s> GERALD </s>
+<s> Can't you guess, mother, what I have written in this letter </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> No </s>
+<s> GERALD </s>
+<s> Mother, surely you can </s>
+<s> Think, think what must be done, now, at once, within the next few days </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> There is nothing to be done </s>
+<s> GERALD </s>
+<s> I have written to Lord Illingworth to tell him that he must marry you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Marry me </s>
+<s> GERALD </s>
+<s> Mother, I will force him to do it </s>
+<s> The wrong that has been done you must be repaired </s>
+<s> Atonement must be made </s>
+<s> Justice may be slow, mother, but it comes in the end </s>
+<s> In a few days you shall be Lord Illingworth's lawful wife </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> But, Gerald - GERALD </s>
+<s> I will insist upon his doing it </s>
+<s> I will make him do it: he will not dare to refuse </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> But, Gerald, it is I who refuse </s>
+<s> I will not marry Lord Illingworth </s>
+<s> GERALD </s>
+<s> Not marry him </s>
+<s> Mother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I will not marry him </s>
+<s> GERALD </s>
+<s> But you don't understand: it is for your sake I am talking, not for mine </s>
+<s> This marriage, this necessary marriage, this marriage which for obvious reasons must inevitably take place, will not help me, will not give me a name that will be really, rightly mine to bear </s>
+<s> But surely it will be something for you, that you, my mother, should, however late, become the wife of the man who is my father </s>
+<s> Will not that be something </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I will not marry him </s>
+<s> GERALD </s>
+<s> Mother, you must </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I will not </s>
+<s> You talk of atonement for a wrong done </s>
+<s> What atonement can be made to me </s>
+<s> There is no atonement possible </s>
+<s> I am disgraced: he is not </s>
+<s> That is all </s>
+<s> It is the usual history of a man and a woman as it usually happens, as it always happens </s>
+<s> And the ending is the ordinary ending </s>
+<s> The woman suffers </s>
+<s> The man goes free </s>
+<s> GERALD </s>
+<s> I don't know if that is the ordinary ending, mother: I hope it is not </s>
+<s> But your life, at any rate, shall not end like that </s>
+<s> The man shall make whatever reparation is possible </s>
+<s> It is not enough </s>
+<s> It does not wipe out the past, I know that </s>
+<s> But at least it makes the future better, better for you, mother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I refuse to marry Lord Illingworth </s>
+<s> GERALD </s>
+<s> If he came to you himself and asked you to be his wife you would give him a different answer </s>
+<s> Remember, he is my father </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> If he came himself, which he will not do, my answer would be the same </s>
+<s> Remember I am your mother </s>
+<s> GERALD </s>
+<s> Mother, you make it terribly difficult for me by talking like that; and I can't understand why you won't look at this matter from the right, from the only proper standpoint </s>
+<s> It is to take away the bitterness out of your life, to take away the shadow that lies on your name, that this marriage must take place </s>
+<s> There is no alternative: and after the marriage you and I can go away together </s>
+<s> But the marriage must take place first </s>
+<s> It is a duty that you owe, not merely to yourself, but to all other women - yes: to all the other women in the world, lest he betray more </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I owe nothing to other women </s>
+<s> There is not one of them to help me </s>
+<s> There is not one woman in the world to whom I could go for pity, if I would take it, or for sympathy, if I could win it </s>
+<s> Women are hard on each other </s>
+<s> That girl, last night, good though she is, fled from the room as though I were a tainted thing </s>
+<s> She was right </s>
+<s> I am a tainted thing </s>
+<s> But my wrongs are my own, and I will bear them alone </s>
+<s> I must bear them alone </s>
+<s> What have women who have not sinned to do with me, or I with them </s>
+<s> We do not understand each other </s>
+<s> [Enter HESTER behind.] GERALD </s>
+<s> I implore you to do what I ask you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> What son has ever asked of his mother to make so hideous a sacrifice </s>
+<s> None </s>
+<s> GERALD </s>
+<s> What mother has ever refused to marry the father of her own child </s>
+<s> None </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Let me be the first, then </s>
+<s> I will not do it </s>
+<s> GERALD </s>
+<s> Mother, you believe in religion, and you brought me up to believe in it also </s>
+<s> Well, surely your religion, the religion that you taught me when I was a boy, mother, must tell you that I am right </s>
+<s> You know it, you feel it </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I do not know it </s>
+<s> I do not feel it, nor will I ever stand before God's altar and ask God's blessing on so hideous a mockery as a marriage between me and George Harford </s>
+<s> I will not say the words the Church bids us to say </s>
+<s> I will not say them </s>
+<s> I dare not </s>
+<s> How could I swear to love the man I loathe, to honour him who wrought you dishonour, to obey him who, in his mastery, made me to sin </s>
+<s> No: marriage is a sacrament for those who love each other </s>
+<s> It is not for such as him, or such as me </s>
+<s> Gerald, to save you from the world's sneers and taunts I have lied to the world </s>
+<s> For twenty years I have lied to the world </s>
+<s> I could not tell the world the truth </s>
+<s> Who can, ever </s>
+<s> But not for my own sake will I lie to God, and in God's presence </s>
+<s> No, Gerald, no ceremony, Church-hallowed or State-made, shall ever bind me to George Harford </s>
+<s> It may be that I am too bound to him already, who, robbing me, yet left me richer, so that in the mire of my life I found the pearl of price, or what I thought would be so </s>
+<s> GERALD </s>
+<s> I don't understand you now </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Men don't understand what mothers are </s>
+<s> I am no different from other women except in the wrong done me and the wrong I did, and my very heavy punishments and great disgrace </s>
+<s> And yet, to bear you I had to look on death </s>
+<s> To nurture you I had to wrestle with it </s>
+<s> Death fought with me for you </s>
+<s> All women have to fight with death to keep their children </s>
+<s> Death, being childless, wants our children from us </s>
+<s> Gerald, when you were naked I clothed you, when you were hungry I gave you food </s>
+<s> Night and day all that long winter I tended you </s>
+<s> No office is too mean, no care too lowly for the thing we women love - and oh </s>
+<s> how I loved YOU </s>
+<s> Not Hannah, Samuel more </s>
+<s> And you needed love, for you were weakly, and only love could have kept you alive </s>
+<s> Only love can keep any one alive </s>
+<s> And boys are careless often and without thinking give pain, and we always fancy that when they come to man's estate and know us better they will repay us </s>
+<s> But it is not so </s>
+<s> The world draws them from our side, and they make friends with whom they are happier than they are with us, and have amusements from which we are barred, and interests that are not ours: and they are unjust to us often, for when they find life bitter they blame us for it, and when they find it sweet we do not taste its sweetness with them </s>
+<s> </s>
+<s> </s>
+<s> You made many friends and went into their houses and were glad with them, and I, knowing my secret, did not dare to follow, but stayed at home and closed the door, shut out the sun and sat in darkness </s>
+<s> What should I have done in honest households </s>
+<s> My past was ever with me </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> And you thought I didn't care for the pleasant things of life </s>
+<s> I tell you I longed for them, but did not dare to touch them, feeling I had no right </s>
+<s> You thought I was happier working amongst the poor </s>
+<s> That was my mission, you imagined </s>
+<s> It was not, but where else was I to go </s>
+<s> The sick do not ask if the hand that smooths their pillow is pure, nor the dying care if the lips that touch their brow have known the kiss of sin </s>
+<s> It was you I thought of all the time; I gave to them the love you did not need: lavished on them a love that was not theirs </s>
+<s> </s>
+<s> </s>
+<s> And you thought I spent too much of my time in going to Church, and in Church duties </s>
+<s> But where else could I turn </s>
+<s> God's house is the only house where sinners are made welcome, and you were always in my heart, Gerald, too much in my heart </s>
+<s> For, though day after day, at morn or evensong, I have knelt in God's house, I have never repented of my sin </s>
+<s> How could I repent of my sin when you, my love, were its fruit </s>
+<s> Even now that you are bitter to me I cannot repent </s>
+<s> I do not </s>
+<s> You are more to me than innocence </s>
+<s> I would rather be your mother - oh </s>
+<s> much rather </s>
+<s> - than have been always pure </s>
+<s> </s>
+<s> </s>
+<s> Oh, don't you see </s>
+<s> don't you understand </s>
+<s> It is my dishonour that has made you so dear to me </s>
+<s> It is my disgrace that has bound you so closely to me </s>
+<s> It is the price I paid for you - the price of soul and body - that makes me love you as I do </s>
+<s> Oh, don't ask me to do this horrible thing </s>
+<s> Child of my shame, be still the child of my shame </s>
+<s> GERALD </s>
+<s> Mother, I didn't know you loved me so much as that </s>
+<s> And I will be a better son to you than I have been </s>
+<s> And you and I must never leave each other </s>
+<s> </s>
+<s> </s>
+<s> but, mother </s>
+<s> </s>
+<s> </s>
+<s> I can't help it </s>
+<s> </s>
+<s> </s>
+<s> you must become my father's wife </s>
+<s> You must marry him </s>
+<s> It is your duty </s>
+<s> HESTER </s>
+<s> [Running forwards and embracing MRS </s>
+<s> ARBUTHNOT.] No, no; you shall not </s>
+<s> That would be real dishonour, the first you have ever known </s>
+<s> That would be real disgrace: the first to touch you </s>
+<s> Leave him and come with me </s>
+<s> There are other countries than England </s>
+<s> </s>
+<s> </s>
+<s> Oh </s>
+<s> other countries over sea, better, wiser, and less unjust lands </s>
+<s> The world is very wide and very big </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> No, not for me </s>
+<s> For me the world is shrivelled to a palm's breadth, and where I walk there are thorns </s>
+<s> HESTER </s>
+<s> It shall not be so </s>
+<s> We shall somewhere find green valleys and fresh waters, and if we weep, well, we shall weep together </s>
+<s> Have we not both loved him </s>
+<s> GERALD </s>
+<s> Hester </s>
+<s> HESTER </s>
+<s> [Waving him back.] Don't, don't </s>
+<s> You cannot love me at all, unless you love her also </s>
+<s> You cannot honour me, unless she's holier to you </s>
+<s> In her all womanhood is martyred </s>
+<s> Not she alone, but all of us are stricken in her house </s>
+<s> GERALD </s>
+<s> Hester, Hester, what shall I do </s>
+<s> HESTER </s>
+<s> Do you respect the man who is your father </s>
+<s> GERALD </s>
+<s> Respect him </s>
+<s> I despise him </s>
+<s> He is infamous </s>
+<s> HESTER </s>
+<s> I thank you for saving me from him last night </s>
+<s> GERALD </s>
+<s> Ah, that is nothing </s>
+<s> I would die to save you </s>
+<s> But you don't tell me what to do now </s>
+<s> HESTER </s>
+<s> Have I not thanked you for saving ME </s>
+<s> GERALD </s>
+<s> But what should I do </s>
+<s> HESTER </s>
+<s> Ask your own heart, not mine </s>
+<s> I never had a mother to save, or shame </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> He is hard - he is hard </s>
+<s> Let me go away </s>
+<s> GERALD </s>
+<s> [Rushes over and kneels down bedside his mother.] Mother, forgive me: I have been to blame </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Don't kiss my hands: they are cold </s>
+<s> My heart is cold: something has broken it </s>
+<s> HESTER, Ah, don't say that </s>
+<s> Hearts live by being wounded </s>
+<s> Pleasure may turn a heart to stone, riches may make it callous, but sorrow - oh, sorrow cannot break it </s>
+<s> Besides, what sorrows have you now </s>
+<s> Why, at this moment you are more dear to him than ever, DEAR though you have BEEN, and oh </s>
+<s> how dear you HAVE been always </s>
+<s> Ah </s>
+<s> be kind to him </s>
+<s> GERALD </s>
+<s> You are my mother and my father all in one </s>
+<s> I need no second parent </s>
+<s> It was for you I spoke, for you alone </s>
+<s> Oh, say something, mother </s>
+<s> Have I but found one love to lose another </s>
+<s> Don't tell me that </s>
+<s> O mother, you are cruel </s>
+<s> [Gets up and flings himself sobbing on a sofa.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> [To HESTER.] But has he found indeed another love </s>
+<s> HESTER </s>
+<s> You know I have loved him always </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> But we are very poor </s>
+<s> HESTER </s>
+<s> Who, being loved, is poor </s>
+<s> Oh, no one </s>
+<s> I hate my riches </s>
+<s> They are a burden </s>
+<s> Let him share it with me </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> But we are disgraced </s>
+<s> We rank among the outcasts Gerald is nameless </s>
+<s> The sins of the parents should be visited on the children </s>
+<s> It is God's law </s>
+<s> HESTER </s>
+<s> I was wrong </s>
+<s> God's law is only Love </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> [Rises, and taking HESTER by the hand, goes slowly over to where GERALD is lying on the sofa with his head buried in his hands </s>
+<s> She touches him and he looks up.] Gerald, I cannot give you a father, but I have brought you a wife </s>
+<s> GERALD </s>
+<s> Mother, I am not worthy either of her or you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> So she comes first, you are worthy </s>
+<s> And when you are away, Gerald </s>
+<s> </s>
+<s> </s>
+<s> with </s>
+<s> </s>
+<s> </s>
+<s> her - oh, think of me sometimes </s>
+<s> Don't forget me </s>
+<s> And when you pray, pray for me </s>
+<s> We should pray when we are happiest, and you will be happy, Gerald </s>
+<s> HESTER </s>
+<s> Oh, you don't think of leaving us </s>
+<s> GERALD </s>
+<s> Mother, you won't leave us </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I might bring shame upon you </s>
+<s> GERALD </s>
+<s> Mother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> For a little then: and if you let me, near you always </s>
+<s> HESTER </s>
+<s> [To MRS </s>
+<s> ARBUTHNOT.] Come out with us to the garden </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Later on, later on </s>
+<s> [Exeunt HESTER and GERALD </s>
+<s> MRS </s>
+<s> ARBUTHNOT goes towards door L.C </s>
+<s> Stops at looking-glass over mantelpiece and looks into it </s>
+<s> Enter ALICE R.C.] ALICE </s>
+<s> A gentleman to see you, ma'am </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Say I am not at home </s>
+<s> Show me the card </s>
+<s> [Takes card from salver and looks at it.] Say I will not see him </s>
+<s> [LORD ILLINGWORTH enters </s>
+<s> MRS </s>
+<s> ARBUTHNOT sees him in the glass and starts, but does not turn round </s>
+<s> Exit ALICE.] What can you have to say to me to-day, George Harford </s>
+<s> You can have nothing to say to me </s>
+<s> You must leave this house </s>
+<s> LORD ILLINGWORTH </s>
+<s> Rachel, Gerald knows everything about you and me now, so some arrangement must be come to that will suit us all three </s>
+<s> I assure you, he will find in me the most charming and generous of fathers </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> My son may come in at any moment </s>
+<s> I saved you last night </s>
+<s> I may not be able to save you again </s>
+<s> My son feels my dishonour strongly, terribly strongly </s>
+<s> I beg you to go </s>
+<s> LORD ILLINGWORTH </s>
+<s> [Sitting down.] Last night was excessively unfortunate </s>
+<s> That silly Puritan girl making a scene merely because I wanted to kiss her </s>
+<s> What harm is there in a kiss </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> [Turning round.] A kiss may ruin a human life, George Harford </s>
+<s> I know that </s>
+<s> I know that too well </s>
+<s> LORD ILLINGWORTH </s>
+<s> We won't discuss that at present </s>
+<s> What is of importance to-day, as yesterday, is still our son </s>
+<s> I am extremely fond of him, as you know, and odd though it may seem to you, I admired his conduct last night immensely </s>
+<s> He took up the cudgels for that pretty prude with wonderful promptitude </s>
+<s> He is just what I should have liked a son of mine to be </s>
+<s> Except that no son of mine should ever take the side of the Puritans: that is always an error </s>
+<s> Now, what I propose is this </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Lord Illingworth, no proposition of yours interests me </s>
+<s> LORD ILLINGWORTH </s>
+<s> According to our ridiculous English laws, I can't legitimise Gerald </s>
+<s> But I can leave him my property </s>
+<s> Illingworth is entailed, of course, but it is a tedious barrack of a place </s>
+<s> He can have Ashby, which is much prettier, Harborough, which has the best shooting in the north of England, and the house in St </s>
+<s> James Square </s>
+<s> What more can a gentleman require in this world </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Nothing more, I am quite sure </s>
+<s> LORD ILLINGWORTH </s>
+<s> As for a title, a title is really rather a nuisance in these democratic days </s>
+<s> As George Harford I had everything I wanted </s>
+<s> Now I have merely everything that other people want, which isn't nearly so pleasant </s>
+<s> Well, my proposal is this </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I told you I was not interested, and I beg you to go </s>
+<s> LORD ILLINGWORTH </s>
+<s> The boy is to be with you for six months in the year, and with me for the other six </s>
+<s> That is perfectly fair, is it not </s>
+<s> You can have whatever allowance you like, and live where you choose </s>
+<s> As for your past, no one knows anything about it except myself and Gerald </s>
+<s> There is the Puritan, of course, the Puritan in white muslin, but she doesn't count </s>
+<s> She couldn't tell the story without explaining that she objected to being kissed, could she </s>
+<s> And all the women would think her a fool and the men think her a bore </s>
+<s> And you need not be afraid that Gerald won't be my heir </s>
+<s> I needn't tell you I have not the slightest intention of marrying </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> You come too late </s>
+<s> My son has no need of you </s>
+<s> You are not necessary </s>
+<s> LORD ILLINGWORTH </s>
+<s> What do you mean, Rachel </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> That you are not necessary to Gerald's career </s>
+<s> He does not require you </s>
+<s> LORD ILLINGWORTH </s>
+<s> I do not understand you </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Look into the garden </s>
+<s> [LORD ILLINGWORTH rises and goes towards window.] You had better not let them see you: you bring unpleasant memories </s>
+<s> [LORD ILLINGWORTH looks out and starts.] She loves him </s>
+<s> They love each other </s>
+<s> We are safe from you, and we are going away </s>
+<s> LORD ILLINGWORTH </s>
+<s> Where </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> We will not tell you, and if you find us we will not know you </s>
+<s> You seem surprised </s>
+<s> What welcome would you get from the girl whose lips you tried to soil, from the boy whose life you have shamed, from the mother whose dishonour comes from you </s>
+<s> LORD ILLINGWORTH </s>
+<s> You have grown hard, Rachel </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I was too weak once </s>
+<s> It is well for me that I have changed </s>
+<s> LORD ILLINGWORTH </s>
+<s> I was very young at the time </s>
+<s> We men know life too early </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> And we women know life too late </s>
+<s> That is the difference between men and women </s>
+<s> [A pause.] LORD ILLINGWORTH </s>
+<s> Rachel, I want my son </s>
+<s> My money may be of no use to him now </s>
+<s> I may be of no use to him, but I want my son </s>
+<s> Bring us together, Rachel </s>
+<s> You can do it if you choose </s>
+<s> [Sees letter on table.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> There is no room in my boy's life for you </s>
+<s> He is not interested in YOU </s>
+<s> LORD ILLINGWORTH </s>
+<s> Then why does he write to me </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> What do you mean </s>
+<s> LORD ILLINGWORTH </s>
+<s> What letter is this </s>
+<s> [Takes up letter.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> That - is nothing </s>
+<s> Give it to me </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is addressed to ME </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> You are not to open it </s>
+<s> I forbid you to open it </s>
+<s> LORD ILLINGWORTH </s>
+<s> And in Gerald's handwriting </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> It was not to have been sent </s>
+<s> It is a letter he wrote to you this morning, before he saw me </s>
+<s> But he is sorry now he wrote it, very sorry </s>
+<s> You are not to open it </s>
+<s> Give it to me </s>
+<s> LORD ILLINGWORTH </s>
+<s> It belongs to me </s>
+<s> [Opens it, sits down and reads it slowly </s>
+<s> MRS </s>
+<s> ARBUTHNOT watches him all the time.] You have read this letter, I suppose, Rachel </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> No </s>
+<s> LORD ILLINGWORTH </s>
+<s> You know what is in it </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Yes </s>
+<s> LORD ILLINGWORTH </s>
+<s> I don't admit for a moment that the boy is right in what he says </s>
+<s> I don't admit that it is any duty of mine to marry you </s>
+<s> I deny it entirely </s>
+<s> But to get my son back I am ready - yes, I am ready to marry you, Rachel - and to treat you always with the deference and respect due to my wife </s>
+<s> I will marry you as soon as you choose </s>
+<s> I give you my word of honour </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> You made that promise to me once before and broke it </s>
+<s> LORD ILLINGWORTH </s>
+<s> I will keep it now </s>
+<s> And that will show you that I love my son, at least as much as you love him </s>
+<s> For when I marry you, Rachel, there are some ambitions I shall have to surrender </s>
+<s> High ambitions, too, if any ambition is high </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I decline to marry you, Lord Illingworth </s>
+<s> LORD ILLINGWORTH </s>
+<s> Are you serious </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Yes </s>
+<s> LORD ILLINGWORTH </s>
+<s> Do tell me your reasons </s>
+<s> They would interest me enormously </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> I have already explained them to my son </s>
+<s> LORD ILLINGWORTH </s>
+<s> I suppose they were intensely sentimental, weren't they </s>
+<s> You women live by your emotions and for them </s>
+<s> You have no philosophy of life </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> You are right </s>
+<s> We women live by our emotions and for them </s>
+<s> By our passions, and for them, if you will </s>
+<s> I have two passions, Lord Illingworth: my love of him, my hate of you </s>
+<s> You cannot kill those </s>
+<s> They feed each other </s>
+<s> LORD ILLINGWORTH </s>
+<s> What sort of love is that which needs to have hate as its brother </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> It is the sort of love I have for Gerald </s>
+<s> Do you think that terrible </s>
+<s> Well it is terrible </s>
+<s> All love is terrible </s>
+<s> All love is a tragedy </s>
+<s> I loved you once, Lord Illingworth </s>
+<s> Oh, what a tragedy for a woman to have loved you </s>
+<s> LORD ILLINGWORTH </s>
+<s> So you really refuse to marry me </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Yes </s>
+<s> LORD ILLINGWORTH </s>
+<s> Because you hate me </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Yes </s>
+<s> LORD ILLINGWORTH </s>
+<s> And does my son hate me as you do </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> No </s>
+<s> LORD ILLINGWORTH </s>
+<s> I am glad of that, Rachel </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> He merely despises you </s>
+<s> LORD ILLINGWORTH </s>
+<s> What a pity </s>
+<s> What a pity for him, I mean </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Don't be deceived, George </s>
+<s> Children begin by loving their parents </s>
+<s> After a time they judge them </s>
+<s> Rarely if ever do they forgive them </s>
+<s> LORD ILLINGWORTH </s>
+<s> [Reads letter over again, very slowly.] May I ask by what arguments you made the boy who wrote this letter, this beautiful, passionate letter, believe that you should not marry his father, the father of your own child </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> It was not I who made him see it </s>
+<s> It was another </s>
+<s> LORD ILLINGWORTH </s>
+<s> What FIN-DE-SIECLE person </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> The Puritan, Lord Illingworth </s>
+<s> [A pause.] LORD ILLINGWORTH </s>
+<s> [Winces, then rises slowly and goes over to table where his hat and gloves are </s>
+<s> MRS </s>
+<s> ARBUTHNOT is standing close to the table </s>
+<s> He picks up one of the gloves, and begins pulling it on.] There is not much then for me to do here, Rachel </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> Nothing </s>
+<s> LORD ILLINGWORTH </s>
+<s> It is good-bye, is it </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> For ever, I hope, this time, Lord Illingworth </s>
+<s> LORD ILLINGWORTH </s>
+<s> How curious </s>
+<s> At this moment you look exactly as you looked the night you left me twenty years ago </s>
+<s> You have just the same expression in your mouth </s>
+<s> Upon my word, Rachel, no woman ever loved me as you did </s>
+<s> Why, you gave yourself to me like a flower, to do anything I liked with </s>
+<s> You were the prettiest of playthings, the most fascinating of small romances </s>
+<s> </s>
+<s> </s>
+<s> [Pulls out watch.] Quarter to two </s>
+<s> Must be strolling back to Hunstanton </s>
+<s> Don't suppose I shall see you there again </s>
+<s> I'm sorry, I am, really </s>
+<s> It's been an amusing experience to have met amongst people of one's own rank, and treated quite seriously too, one's mistress, and one's - [MRS </s>
+<s> ARBUTHNOT snatches up glove and strikes LORD ILLINGWORTH across the face with it </s>
+<s> LORD ILLINGWORTH starts </s>
+<s> He is dazed by the insult of his punishment </s>
+<s> Then he controls himself, and goes to window and looks out at his son </s>
+<s> Sighs and leaves the room.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> [Falls sobbing on the sofa.] He would have said it </s>
+<s> He would have said it </s>
+<s> [Enter GERALD and HESTER from the garden.] GERALD </s>
+<s> Well, dear mother </s>
+<s> You never came out after all </s>
+<s> So we have come in to fetch you </s>
+<s> Mother, you have not been crying </s>
+<s> [Kneels down beside her.] MRS </s>
+<s> ARBUTHNOT </s>
+<s> My boy </s>
+<s> My boy </s>
+<s> My boy </s>
+<s> [Running her fingers through his hair.] HESTER </s>
+<s> [Coming over.] But you have two children now </s>
+<s> You'll let me be your daughter </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> [Looking up.] Would you choose me for a mother </s>
+<s> HESTER </s>
+<s> You of all women I have ever known </s>
+<s> [They move towards the door leading into garden with their arms round each other's waists </s>
+<s> GERALD goes to table L.C </s>
+<s> for his hat </s>
+<s> On turning round he sees LORD ILLINGWORTH'S glove lying on the floor, and picks it up.] GERALD </s>
+<s> Hallo, mother, whose glove is this </s>
+<s> You have had a visitor </s>
+<s> Who was it </s>
+<s> MRS </s>
+<s> ARBUTHNOT </s>
+<s> [Turning round.] Oh </s>
+<s> no one </s>
+<s> No one in particular </s>
+<s> A man of no importance </s>
+<s> CURTAIN </s>

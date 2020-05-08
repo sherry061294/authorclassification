@@ -1,0 +1,2928 @@
+<s> LADY WINDERMERE'S FAN THE PERSONS OF THE PLAY Lord Windermere Lord Darlington Lord Augustus Lorton Mr Dumby Mr Cecil Graham Mr Hopper Parker, Butler Lady Windermere The Duchess of Berwick Lady Agatha Carlisle Lady Plymdale Lady Stutfield Lady Jedburgh Mrs Cowper-Cowper Mrs Erlynne Rosalie, Maid THE SCENES OF THE PLAY ACT I </s>
+<s> Morning-room in Lord Windermere's house </s>
+<s> ACT II </s>
+<s> Drawing-room in Lord Windermere's house </s>
+<s> ACT III </s>
+<s> Lord Darlington's rooms </s>
+<s> ACT IV </s>
+<s> Same as Act I </s>
+<s> TIME: The Present PLACE: London </s>
+<s> The action of the play takes place within twenty-four hours, beginning on a Tuesday afternoon at five o'clock, and ending the next day at 1.30 p.m </s>
+<s> LONDON: ST </s>
+<s> JAMES'S THEATRE Lessee and Manager: Mr George Alexander February 22nd, 1892 </s>
+<s> Lord Windermere, Mr George Alexander </s>
+<s> Lord Darlington, Mr Nutcombe Gould </s>
+<s> Lord Augustus Lorton, Mr H </s>
+<s> H </s>
+<s> Vincent </s>
+<s> Mr Cecil Graham, Mr Ben Webster </s>
+<s> Mr Dumby, Mr Vane-Tempest </s>
+<s> Mr Hopper, Mr Alfred Holles </s>
+<s> Parker (Butler), Mr V </s>
+<s> Sansbury </s>
+<s> Lady Windermere, Miss Lily Hanbury </s>
+<s> The Duchess of Berwick, Miss Fanny Coleman </s>
+<s> Lady Agatha Carlisle, Miss Laura Graves </s>
+<s> Lady Plymdale, Miss Granville </s>
+<s> Lady Jedburgh, Miss B </s>
+<s> Page </s>
+<s> Lady Stutfield, Miss Madge Girdlestone </s>
+<s> Mrs Cowper-Cowper, Miss A </s>
+<s> de Winton </s>
+<s> Mrs Erlynne, Miss Marion Terry </s>
+<s> Rosalie (Maid), Miss Winifred Dolan </s>
+<s> FIRST ACT SCENCE Morning-room of Lord Windermere's house in Carlton House Terrace </s>
+<s> Doors C </s>
+<s> and R </s>
+<s> Bureau with books and papers R </s>
+<s> Sofa with small tea-table L </s>
+<s> Window opening on to terrace L </s>
+<s> Table R </s>
+<s> [LADY WINDERMERE is at table R., arranging roses in a blue bowl.] [Enter PARKER.] PARKER </s>
+<s> Is your ladyship at home this afternoon </s>
+<s> LADY WINDERMERE </s>
+<s> Yes--who has called </s>
+<s> PARKER </s>
+<s> Lord Darlington, my lady </s>
+<s> LADY WINDERMERE </s>
+<s> [Hesitates for a moment.] Show him up--and I'm at home to any one who calls </s>
+<s> PARKER </s>
+<s> Yes, my lady </s>
+<s> [Exit C.] LADY WINDERMERE </s>
+<s> It's best for me to see him before to-night </s>
+<s> I'm glad he's come </s>
+<s> [Enter PARKER C.] PARKER </s>
+<s> Lord Darlington, [Enter LORD DARLINGTON C.] [Exit PARKER.] LORD DARLINGTON </s>
+<s> How do you do, Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> How do you do, Lord Darlington </s>
+<s> No, I can't shake hands with you </s>
+<s> My hands are all wet with these roses </s>
+<s> Aren't they lovely </s>
+<s> They came up from Selby this morning </s>
+<s> LORD DARLINGTON </s>
+<s> They are quite perfect </s>
+<s> [Sees a fan lying on the table.] And what a wonderful fan </s>
+<s> May I look at it </s>
+<s> LADY WINDERMERE </s>
+<s> Do </s>
+<s> Pretty, isn't it </s>
+<s> It's got my name on it, and everything </s>
+<s> I have only just seen it myself </s>
+<s> It's my husband's birthday present to me </s>
+<s> You know to-day is my birthday </s>
+<s> LORD DARLINGTON </s>
+<s> No </s>
+<s> Is it really </s>
+<s> LADY WINDERMERE </s>
+<s> Yes, I'm of age to-day </s>
+<s> Quite an important day in my life, isn't it </s>
+<s> That is why I am giving this party to-night </s>
+<s> Do sit down </s>
+<s> [Still arranging flowers.] LORD DARLINGTON </s>
+<s> [Sitting down.] I wish I had known it was your birthday, Lady Windermere </s>
+<s> I would have covered the whole street in front of your house with flowers for you to walk on </s>
+<s> They are made for you </s>
+<s> [A short pause.] LADY WINDERMERE </s>
+<s> Lord Darlington, you annoyed me last night at the Foreign Office </s>
+<s> I am afraid you are going to annoy me again </s>
+<s> LORD DARLINGTON </s>
+<s> I, Lady Windermere </s>
+<s> [Enter PARKER and FOOTMAN C., with tray and tea things.] LADY WINDERMERE </s>
+<s> Put it there, Parker </s>
+<s> That will do </s>
+<s> [Wipes her hands with her pocket-handkerchief, goes to tea-table, and sits down.] Won't you come over, Lord Darlington </s>
+<s> [Exit PARKER C.] LORD DARLINGTON </s>
+<s> [Takes chair and goes across L.C.] I am quite miserable, Lady Windermere </s>
+<s> You must tell me what I did </s>
+<s> [Sits down at table L.] LADY WINDERMERE </s>
+<s> Well, you kept paying me elaborate compliments the whole evening </s>
+<s> LORD DARLINGTON </s>
+<s> [Smiling.] Ah, nowadays we are all of us so hard up, that the only pleasant things to pay ARE compliments </s>
+<s> They're the only things we CAN pay </s>
+<s> LADY WINDERMERE </s>
+<s> [Shaking her head.] No, I am talking very seriously </s>
+<s> You mustn't laugh, I am quite serious </s>
+<s> I don't like compliments, and I don't see why a man should think he is pleasing a woman enormously when he says to her a whole heap of things that he doesn't mean </s>
+<s> LORD DARLINGTON </s>
+<s> Ah, but I did mean them </s>
+<s> [Takes tea which she offers him.] LADY WINDERMERE </s>
+<s> [Gravely.] I hope not </s>
+<s> I should be sorry to have to quarrel with you, Lord Darlington </s>
+<s> I like you very much, you know that </s>
+<s> But I shouldn't like you at all if I thought you were what most other men are </s>
+<s> Believe me, you are better than most other men, and I sometimes think you pretend to be worse </s>
+<s> LORD DARLINGTON </s>
+<s> We all have our little vanities, Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> Why do you make that your special one </s>
+<s> [Still seated at table L.] LORD DARLINGTON </s>
+<s> [Still seated L.C.] Oh, nowadays so many conceited people go about Society pretending to be good, that I think it shows rather a sweet and modest disposition to pretend to be bad </s>
+<s> Besides, there is this to be said </s>
+<s> If you pretend to be good, the world takes you very seriously </s>
+<s> If you pretend to be bad, it doesn't </s>
+<s> Such is the astounding stupidity of optimism </s>
+<s> LADY WINDERMERE </s>
+<s> Don't you WANT the world to take you seriously then, Lord Darlington </s>
+<s> LORD DARLINGTON </s>
+<s> No, not the world </s>
+<s> Who are the people the world takes seriously </s>
+<s> All the dull people one can think of, from the Bishops down to the bores </s>
+<s> I should like YOU to take me very seriously, Lady Windermere, YOU more than any one else in life </s>
+<s> LADY WINDERMERE </s>
+<s> Why--why me </s>
+<s> LORD DARLINGTON </s>
+<s> [After a slight hesitation.] Because I think we might be great friends </s>
+<s> Let us be great friends </s>
+<s> You may want a friend some day </s>
+<s> LADY WINDERMERE </s>
+<s> Why do you say that </s>
+<s> LORD DARLINGTON </s>
+<s> Oh!--we all want friends at times </s>
+<s> LADY WINDERMERE </s>
+<s> I think we're very good friends already, Lord Darlington </s>
+<s> We can always remain so as long as you don't - LORD DARLINGTON </s>
+<s> Don't what </s>
+<s> LADY WINDERMERE </s>
+<s> Don't spoil it by saying extravagant silly things to me </s>
+<s> You think I am a Puritan, I suppose </s>
+<s> Well, I have something of the Puritan in me </s>
+<s> I was brought up like that </s>
+<s> I am glad of it </s>
+<s> My mother died when I was a mere child </s>
+<s> I lived always with Lady Julia, my father's elder sister, you know </s>
+<s> She was stern to me, but she taught me what the world is forgetting, the difference that there is between what is right and what is wrong </s>
+<s> SHE allowed of no compromise </s>
+<s> _I_ allow of none </s>
+<s> LORD DARLINGTON </s>
+<s> My dear Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> [Leaning back on the sofa.] You look on me as being behind the age.--Well, I am </s>
+<s> I should be sorry to be on the same level as an age like this </s>
+<s> LORD DARLINGTON </s>
+<s> You think the age very bad </s>
+<s> LADY WINDERMERE </s>
+<s> Yes </s>
+<s> Nowadays people seem to look on life as a speculation </s>
+<s> It is not a speculation </s>
+<s> It is a sacrament </s>
+<s> Its ideal is Love </s>
+<s> Its purification is sacrifice </s>
+<s> LORD DARLINGTON </s>
+<s> [Smiling.] Oh, anything is better than being sacrificed </s>
+<s> LADY WINDERMERE </s>
+<s> [Leaning forward.] Don't say that </s>
+<s> LORD DARLINGTON </s>
+<s> I do say it </s>
+<s> I feel it--I know it </s>
+<s> [Enter PARKER C.] PARKER </s>
+<s> The men want to know if they are to put the carpets on the terrace for to-night, my lady </s>
+<s> LADY WINDERMERE </s>
+<s> You don't think it will rain, Lord Darlington, do you </s>
+<s> LORD DARLINGTON </s>
+<s> I won't hear of its raining on your birthday </s>
+<s> LADY WINDERMERE </s>
+<s> Tell them to do it at once, Parker </s>
+<s> [Exit PARKER C.] LORD DARLINGTON </s>
+<s> [Still seated.] Do you think then--of course I am only putting an imaginary instance--do you think that in the case of a young married couple, say about two years married, if the husband suddenly becomes the intimate friend of a woman of--well, more than doubtful character--is always calling upon her, lunching with her, and probably paying her bills--do you think that the wife should not console herself </s>
+<s> LADY WINDERMERE </s>
+<s> [Frowning] Console herself </s>
+<s> LORD DARLINGTON </s>
+<s> Yes, I think she should--I think she has the right </s>
+<s> LADY WINDERMERE </s>
+<s> Because the husband is vile--should the wife be vile also </s>
+<s> LORD DARLINGTON </s>
+<s> Vileness is a terrible word, Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> It is a terrible thing, Lord Darlington </s>
+<s> LORD DARLINGTON </s>
+<s> Do you know I am afraid that good people do a great deal of harm in this world </s>
+<s> Certainly the greatest harm they do is that they make badness of such extraordinary importance </s>
+<s> It is absurd to divide people into good and bad </s>
+<s> People are either charming or tedious </s>
+<s> I take the side of the charming, and you, Lady Windermere, can't help belonging to them </s>
+<s> LADY WINDERMERE </s>
+<s> Now, Lord Darlington </s>
+<s> [Rising and crossing R., front of him.] Don't stir, I am merely going to finish my flowers </s>
+<s> [Goes to table R.C.] LORD DARLINGTON </s>
+<s> [Rising and moving chair.] And I must say I think you are very hard on modern life, Lady Windermere </s>
+<s> Of course there is much against it, I admit </s>
+<s> Most women, for instance, nowadays, are rather mercenary </s>
+<s> LADY WINDERMERE </s>
+<s> Don't talk about such people </s>
+<s> LORD DARLINGTON </s>
+<s> Well then, setting aside mercenary people, who, of course, are dreadful, do you think seriously that women who have committed what the world calls a fault should never be forgiven </s>
+<s> LADY WINDERMERE </s>
+<s> [Standing at table.] I think they should never be forgiven </s>
+<s> LORD DARLINGTON </s>
+<s> And men </s>
+<s> Do you think that there should be the same laws for men as there are for women </s>
+<s> LADY WINDERMERE </s>
+<s> Certainly </s>
+<s> LORD DARLINGTON </s>
+<s> I think life too complex a thing to be settled by these hard and fast rules </s>
+<s> LADY WINDERMERE </s>
+<s> If we had 'these hard and fast rules,' we should find life much more simple </s>
+<s> LORD DARLINGTON </s>
+<s> You allow of no exceptions </s>
+<s> LADY WINDERMERE </s>
+<s> None </s>
+<s> LORD DARLINGTON </s>
+<s> Ah, what a fascinating Puritan you are, Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> The adjective was unnecessary, Lord Darlington </s>
+<s> LORD DARLINGTON </s>
+<s> I couldn't help it </s>
+<s> I can resist everything except temptation </s>
+<s> LADY WINDERMERE </s>
+<s> You have the modern affectation of weakness </s>
+<s> LORD DARLINGTON </s>
+<s> [Looking at her.] It's only an affectation, Lady Windermere </s>
+<s> [Enter PARKER C.] PARKER </s>
+<s> The Duchess of Berwick and Lady Agatha Carlisle </s>
+<s> [Enter the DUCHESS OF BERWICK and LADY AGATHA CARLISLE C.] [Exit PARKER C.] DUCHESS OF BERWICK </s>
+<s> [Coming down C., and shaking hands.] Dear Margaret, I am so pleased to see you </s>
+<s> You remember Agatha, don't you </s>
+<s> [Crossing L.C.] How do you do, Lord Darlington </s>
+<s> I won't let you know my daughter, you are far too wicked </s>
+<s> LORD DARLINGTON </s>
+<s> Don't say that, Duchess </s>
+<s> As a wicked man I am a complete failure </s>
+<s> Why, there are lots of people who say I have never really done anything wrong in the whole course of my life </s>
+<s> Of course they only say it behind my back </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Isn't he dreadful </s>
+<s> Agatha, this is Lord Darlington </s>
+<s> Mind you don't believe a word he says </s>
+<s> [LORD DARLINGTON crosses R.C.] No, no tea, thank you, dear </s>
+<s> [Crosses and sits on sofa.] We have just had tea at Lady Markby's </s>
+<s> Such bad tea, too </s>
+<s> It was quite undrinkable </s>
+<s> I wasn't at all surprised </s>
+<s> Her own son-in-law supplies it </s>
+<s> Agatha is looking forward so much to your ball to-night, dear Margaret </s>
+<s> LADY WINDERMERE </s>
+<s> [Seated L.C.] Oh, you mustn't think it is going to be a ball, Duchess </s>
+<s> It is only a dance in honour of my birthday </s>
+<s> A small and early </s>
+<s> LORD DARLINGTON </s>
+<s> [Standing L.C.] Very small, very early, and very select, Duchess </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [On sofa L.] Of course it's going to be select </s>
+<s> But we know THAT, dear Margaret, about YOUR house </s>
+<s> It is really one of the few houses in London where I can take Agatha, and where I feel perfectly secure about dear Berwick </s>
+<s> I don't know what society is coming to </s>
+<s> The most dreadful people seem to go everywhere </s>
+<s> They certainly come to my parties--the men get quite furious if one doesn't ask them </s>
+<s> Really, some one should make a stand against it </s>
+<s> LADY WINDERMERE </s>
+<s> _I_ will, Duchess </s>
+<s> I will have no one in my house about whom there is any scandal </s>
+<s> LORD DARLINGTON </s>
+<s> [R.C.] Oh, don't say that, Lady Windermere </s>
+<s> I should never be admitted </s>
+<s> [Sitting.] DUCHESS OF BERWICK </s>
+<s> Oh, men don't matter </s>
+<s> With women it is different </s>
+<s> We're good </s>
+<s> Some of us are, at least </s>
+<s> But we are positively getting elbowed into the corner </s>
+<s> Our husbands would really forget our existence if we didn't nag at them from time to time, just to remind them that we have a perfect legal right to do so </s>
+<s> LORD DARLINGTON </s>
+<s> It's a curious thing, Duchess, about the game of marriage--a game, by the way, that is going out of fashion--the wives hold all the honours, and invariably lose the odd trick </s>
+<s> DUCHESS OF BERWICK </s>
+<s> The odd trick </s>
+<s> Is that the husband, Lord Darlington </s>
+<s> LORD DARLINGTON </s>
+<s> It would be rather a good name for the modern husband </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Dear Lord Darlington, how thoroughly depraved you are </s>
+<s> LADY WINDERMERE </s>
+<s> Lord Darlington is trivial </s>
+<s> LORD DARLINGTON </s>
+<s> Ah, don't say that, Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> Why do you TALK so trivially about life, then </s>
+<s> LORD DARLINGTON </s>
+<s> Because I think that life is far too important a thing ever to talk seriously about it </s>
+<s> [Moves up C.] DUCHESS OF BERWICK </s>
+<s> What does he mean </s>
+<s> Do, as a concession to my poor wits, Lord Darlington, just explain to me what you really mean </s>
+<s> LORD DARLINGTON </s>
+<s> [Coming down back of table.] I think I had better not, Duchess </s>
+<s> Nowadays to be intelligible is to be found out </s>
+<s> Good-bye </s>
+<s> [Shakes hands with DUCHESS.] And now--[goes up stage] Lady Windermere, good-bye </s>
+<s> I may come to-night, mayn't I </s>
+<s> Do let me come </s>
+<s> LADY WINDERMERE </s>
+<s> [Standing up stage with LORD DARLINGTON.] Yes, certainly </s>
+<s> But you are not to say foolish, insincere things to people </s>
+<s> LORD DARLINGTON </s>
+<s> [Smiling.] Ah </s>
+<s> you are beginning to reform me </s>
+<s> It is a dangerous thing to reform any one, Lady Windermere </s>
+<s> [Bows, and exit C.] DUCHESS OF BERWICK </s>
+<s> [Who has risen, goes C.] What a charming, wicked creature </s>
+<s> I like him so much </s>
+<s> I'm quite delighted he's gone </s>
+<s> How sweet you're looking </s>
+<s> Where DO you get your gowns </s>
+<s> And now I must tell you how sorry I am for you, dear Margaret </s>
+<s> [Crosses to sofa and sits with LADY WINDERMERE.] Agatha, darling </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> [Rises.] DUCHESS OF BERWICK </s>
+<s> Will you go and look over the photograph album that I see there </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> [Goes to table up L.] DUCHESS OF BERWICK </s>
+<s> Dear girl </s>
+<s> She is so fond of photographs of Switzerland </s>
+<s> Such a pure taste, I think </s>
+<s> But I really am so sorry for you, Margaret LADY WINDERMERE </s>
+<s> [Smiling.] Why, Duchess </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Oh, on account of that horrid woman </s>
+<s> She dresses so well, too, which makes it much worse, sets such a dreadful example </s>
+<s> Augustus--you know my disreputable brother--such a trial to us all--well, Augustus is completely infatuated about her </s>
+<s> It is quite scandalous, for she is absolutely inadmissible into society </s>
+<s> Many a woman has a past, but I am told that she has at least a dozen, and that they all fit </s>
+<s> LADY WINDERMERE </s>
+<s> Whom are you talking about, Duchess </s>
+<s> DUCHESS OF BERWICK </s>
+<s> About Mrs Erlynne </s>
+<s> LADY WINDERMERE </s>
+<s> Mrs Erlynne </s>
+<s> I never heard of her, Duchess </s>
+<s> And what HAS she to do with me </s>
+<s> DUCHESS OF BERWICK </s>
+<s> My poor child </s>
+<s> Agatha, darling </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Will you go out on the terrace and look at the sunset </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> [Exit through window, L.] DUCHESS OF BERWICK </s>
+<s> Sweet girl </s>
+<s> So devoted to sunsets </s>
+<s> Shows such refinement of feeling, does it not </s>
+<s> After all, there is nothing like Nature, is there </s>
+<s> LADY WINDERMERE </s>
+<s> But what is it, Duchess </s>
+<s> Why do you talk to me about this person </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Don't you really know </s>
+<s> I assure you we're all so distressed about it </s>
+<s> Only last night at dear Lady Jansen's every one was saying how extraordinary it was that, of all men in London, Windermere should behave in such a way </s>
+<s> LADY WINDERMERE </s>
+<s> My husband--what has HE got to do with any woman of that kind </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Ah, what indeed, dear </s>
+<s> That is the point </s>
+<s> He goes to see her continually, and stops for hours at a time, and while he is there she is not at home to any one </s>
+<s> Not that many ladies call on her, dear, but she has a great many disreputable men friends--my own brother particularly, as I told you--and that is what makes it so dreadful about Windermere </s>
+<s> We looked upon HIM as being such a model husband, but I am afraid there is no doubt about it </s>
+<s> My dear nieces--you know the Saville girls, don't you?--such nice domestic creatures--plain, dreadfully plain, but so good-- well, they're always at the window doing fancy work, and making ugly things for the poor, which I think so useful of them in these dreadful socialistic days, and this terrible woman has taken a house in Curzon Street, right opposite them--such a respectable street, too </s>
+<s> I don't know what we're coming to </s>
+<s> And they tell me that Windermere goes there four and five times a week--they SEE him </s>
+<s> They can't help it--and although they never talk scandal, they--well, of course--they remark on it to every one </s>
+<s> And the worst of it all is that I have been told that this woman has got a great deal of money out of somebody, for it seems that she came to London six months ago without anything at all to speak of, and now she has this charming house in Mayfair, drives her ponies in the Park every afternoon and all--well, all--since she has known poor dear Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> Oh, I can't believe it </s>
+<s> DUCHESS OF BERWICK </s>
+<s> But it's quite true, my dear </s>
+<s> The whole of London knows it </s>
+<s> That is why I felt it was better to come and talk to you, and advise you to take Windermere away at once to Homburg or to Aix, where he'll have something to amuse him, and where you can watch him all day long </s>
+<s> I assure you, my dear, that on several occasions after I was first married, I had to pretend to be very ill, and was obliged to drink the most unpleasant mineral waters, merely to get Berwick out of town </s>
+<s> He was so extremely susceptible </s>
+<s> Though I am bound to say he never gave away any large sums of money to anybody </s>
+<s> He is far too high-principled for that </s>
+<s> LADY WINDERMERE </s>
+<s> [Interrupting.] Duchess, Duchess, it's impossible </s>
+<s> [Rising and crossing stage to C.] We are only married two years </s>
+<s> Our child is but six months old </s>
+<s> [Sits in chair R </s>
+<s> of L </s>
+<s> table.] DUCHESS OF BERWICK </s>
+<s> Ah, the dear pretty baby </s>
+<s> How is the little darling </s>
+<s> Is it a boy or a girl </s>
+<s> I hope a girl--Ah, no, I remember it's a boy </s>
+<s> I'm so sorry </s>
+<s> Boys are so wicked </s>
+<s> My boy is excessively immoral </s>
+<s> You wouldn't believe at what hours he comes home </s>
+<s> And he's only left Oxford a few months--I really don't know what they teach them there </s>
+<s> LADY WINDERMERE </s>
+<s> Are ALL men bad </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Oh, all of them, my dear, all of them, without any exception </s>
+<s> And they never grow any better </s>
+<s> Men become old, but they never become good </s>
+<s> LADY WINDERMERE </s>
+<s> Windermere and I married for love </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Yes, we begin like that </s>
+<s> It was only Berwick's brutal and incessant threats of suicide that made me accept him at all, and before the year was out, he was running after all kinds of petticoats, every colour, every shape, every material </s>
+<s> In fact, before the honeymoon was over, I caught him winking at my maid, a most pretty, respectable girl </s>
+<s> I dismissed her at once without a character.--No, I remember I passed her on to my sister; poor dear Sir George is so short-sighted, I thought it wouldn't matter </s>
+<s> But it did, though--it was most unfortunate </s>
+<s> [Rises.] And now, my dear child, I must go, as we are dining out </s>
+<s> And mind you don't take this little aberration of Windermere's too much to heart </s>
+<s> Just take him abroad, and he'll come back to you all right </s>
+<s> LADY WINDERMERE </s>
+<s> Come back to me </s>
+<s> [C.] DUCHESS OF BERWICK </s>
+<s> [L.C.] Yes, dear, these wicked women get our husbands away from us, but they always come back, slightly damaged, of course </s>
+<s> And don't make scenes, men hate them </s>
+<s> LADY WINDERMERE </s>
+<s> It is very kind of you, Duchess, to come and tell me all this </s>
+<s> But I can't believe that my husband is untrue to me </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Pretty child </s>
+<s> I was like that once </s>
+<s> Now I know that all men are monsters </s>
+<s> [LADY WINDERMERE rings bell.] The only thing to do is to feed the wretches well </s>
+<s> A good cook does wonders, and that I know you have </s>
+<s> My dear Margaret, you are not going to cry </s>
+<s> LADY WINDERMERE </s>
+<s> You needn't be afraid, Duchess, I never cry </s>
+<s> DUCHESS OF BERWICK </s>
+<s> That's quite right, dear </s>
+<s> Crying is the refuge of plain women but the ruin of pretty ones </s>
+<s> Agatha, darling </s>
+<s> LADY AGATHA </s>
+<s> [Entering L.] Yes, mamma </s>
+<s> [Stands back of table L.C.] DUCHESS OF BERWICK </s>
+<s> Come and bid good-bye to Lady Windermere, and thank her for your charming visit </s>
+<s> [Coming down again.] And by the way, I must thank you for sending a card to Mr Hopper--he's that rich young Australian people are taking such notice of just at present </s>
+<s> His father made a great fortune by selling some kind of food in circular tins--most palatable, I believe--I fancy it is the thing the servants always refuse to eat </s>
+<s> But the son is quite interesting </s>
+<s> I think he's attracted by dear Agatha's clever talk </s>
+<s> Of course, we should be very sorry to lose her, but I think that a mother who doesn't part with a daughter every season has no real affection </s>
+<s> We're coming to-night, dear </s>
+<s> [PARKER opens C </s>
+<s> doors.] And remember my advice, take the poor fellow out of town at once, it is the only thing to do </s>
+<s> Good-bye, once more; come, Agatha </s>
+<s> [Exeunt DUCHESS and LADY AGATHA C.] LADY WINDERMERE </s>
+<s> How horrible </s>
+<s> I understand now what Lord Darlington meant by the imaginary instance of the couple not two years married </s>
+<s> Oh </s>
+<s> it can't be true--she spoke of enormous sums of money paid to this woman </s>
+<s> I know where Arthur keeps his bank book- -in one of the drawers of that desk </s>
+<s> I might find out by that </s>
+<s> I WILL find out </s>
+<s> [Opens drawer.] No, it is some hideous mistake </s>
+<s> [Rises and goes C.] Some silly scandal </s>
+<s> He loves ME </s>
+<s> He loves ME </s>
+<s> But why should I not look </s>
+<s> I am his wife, I have a right to look </s>
+<s> [Returns to bureau, takes out book and examines it page by page, smiles and gives a sigh of relief.] I knew it </s>
+<s> there is not a word of truth in this stupid story </s>
+<s> [Puts book back in dranver </s>
+<s> As the does so, starts and takes out another book.] A second book- -private--locked </s>
+<s> [Tries to open it, but fails </s>
+<s> Sees paper knife on bureau, and with it cuts cover from book </s>
+<s> Begins to start at the first page.] 'Mrs Erlynne--600 pounds--Mrs Erlynne--700 pounds--Mrs Erlynne--400 pounds' </s>
+<s> Oh </s>
+<s> it is true </s>
+<s> It is true </s>
+<s> How horrible </s>
+<s> [Throws book on floor.] [Enter LORD WINDERMERE C.] LORD WINDERMERE </s>
+<s> Well, dear, has the fan been sent home yet </s>
+<s> [Going R.C </s>
+<s> Sees book.] Margaret, you have cut open my bank book </s>
+<s> You have no right to do such a thing </s>
+<s> LADY WINDERMERE </s>
+<s> You think it wrong that you are found out, don't you </s>
+<s> LORD WINDERMERE </s>
+<s> I think it wrong that a wife should spy on her husband </s>
+<s> LADY WINDERMERE </s>
+<s> I did not spy on you </s>
+<s> I never knew of this woman's existence till half an hour ago </s>
+<s> Some one who pitied me was kind enough to tell me what every one in London knows already-- your daily visits to Curzon Street, your mad infatuation, the monstrous sums of money you squander on this infamous woman </s>
+<s> [Crossing L.] LORD WINDERMERE </s>
+<s> Margaret </s>
+<s> don't talk like that of Mrs Erlynne, you don't know how unjust it is </s>
+<s> LADY WINDERMERE </s>
+<s> [Turning to him.] You are very jealous of Mrs Erlynne's honour </s>
+<s> I wish you had been as jealous of mine </s>
+<s> LORD WINDERMERE </s>
+<s> Your honour is untouched, Margaret </s>
+<s> You don't think for a moment that--[Puts book back into desk.] LADY WINDERMERE </s>
+<s> I think that you spend your money strangely </s>
+<s> That is all </s>
+<s> Oh, don't imagine I mind about the money </s>
+<s> As far as I am concerned, you may squander everything we have </s>
+<s> But what I DO mind is that you who have loved me, you who have taught me to love you, should pass from the love that is given to the love that is bought </s>
+<s> Oh, it's horrible </s>
+<s> [Sits on sofa.] And it is I who feel degraded </s>
+<s> YOU don't feel anything </s>
+<s> I feel stained, utterly stained </s>
+<s> You can't realise how hideous the last six months seems to me now--every kiss you have given me is tainted in my memory </s>
+<s> LORD WINDERMERE </s>
+<s> [Crossing to her.] Don't say that, Margaret </s>
+<s> I never loved any one in the whole world but you </s>
+<s> LADY WINDERMERE </s>
+<s> [Rises.] Who is this woman, then </s>
+<s> Why do you take a house for her </s>
+<s> LORD WINDERMERE </s>
+<s> I did not take a house for her </s>
+<s> LADY WINDERMERE </s>
+<s> You gave her the money to do it, which is the same thing </s>
+<s> LORD WINDERMERE </s>
+<s> Margaret, as far as I have known Mrs Erlynne - LADY WINDERMERE </s>
+<s> Is there a Mr Erlynne--or is he a myth </s>
+<s> LORD WINDERMERE </s>
+<s> Her husband died many years ago </s>
+<s> She is alone in the world </s>
+<s> LADY WINDERMERE </s>
+<s> No relations </s>
+<s> [A pause.] LORD WINDERMERE </s>
+<s> None </s>
+<s> LADY WINDERMERE </s>
+<s> Rather curious, isn't it </s>
+<s> [L.] LORD WINDERMERE </s>
+<s> [L.C.] Margaret, I was saying to you--and I beg you to listen to me--that as far as I have known Mrs Erlynne, she has conducted herself well </s>
+<s> If years ago - LADY WINDERMERE </s>
+<s> Oh </s>
+<s> [Crossing R.C.] I don't want details about her life </s>
+<s> LORD WINDERMERE </s>
+<s> [C.] I am not going to give you any details about her life </s>
+<s> I tell you simply this--Mrs Erlynne was once honoured, loved, respected </s>
+<s> She was well born, she had position-- she lost everything--threw it away, if you like </s>
+<s> That makes it all the more bitter </s>
+<s> Misfortunes one can endure--they come from outside, they are accidents </s>
+<s> But to suffer for one's own faults-- ah!--there is the sting of life </s>
+<s> It was twenty years ago, too </s>
+<s> She was little more than a girl then </s>
+<s> She had been a wife for even less time than you have </s>
+<s> LADY WINDERMERE </s>
+<s> I am not interested in her--and--you should not mention this woman and me in the same breath </s>
+<s> It is an error of taste </s>
+<s> [Sitting R </s>
+<s> at desk.] LORD WINDERMERE </s>
+<s> Margaret, you could save this woman </s>
+<s> She wants to get back into society, and she wants you to help her </s>
+<s> [Crossing to her.] LADY WINDERMERE </s>
+<s> Me </s>
+<s> LORD WINDERMERE </s>
+<s> Yes, you </s>
+<s> LADY WINDERMERE </s>
+<s> How impertinent of her </s>
+<s> [A pause.] LORD WINDERMERE </s>
+<s> Margaret, I came to ask you a great favour, and I still ask it of you, though you have discovered what I had intended you should never have known that I have given Mrs Erlynne a large sum of money </s>
+<s> I want you to send her an invitation for our party to-night </s>
+<s> [Standing L </s>
+<s> of her.] LADY WINDERMERE </s>
+<s> You are mad </s>
+<s> [Rises.] LORD WINDERMERE </s>
+<s> I entreat you </s>
+<s> People may chatter about her, do chatter about her, of course, but they don't know anything definite against her </s>
+<s> She has been to several houses--not to houses where you would go, I admit, but still to houses where women who are in what is called Society nowadays do go </s>
+<s> That does not content her </s>
+<s> She wants you to receive her once </s>
+<s> LADY WINDERMERE </s>
+<s> As a triumph for her, I suppose </s>
+<s> LORD WINDERMERE </s>
+<s> No; but because she knows that you are a good woman--and that if she comes here once she will have a chance of a happier, a surer life than she has had </s>
+<s> She will make no further effort to know you </s>
+<s> Won't you help a woman who is trying to get back </s>
+<s> LADY WINDERMERE </s>
+<s> No </s>
+<s> If a woman really repents, she never wishes to return to the society that has made or seen her ruin </s>
+<s> LORD WINDERMERE </s>
+<s> I beg of you </s>
+<s> LADY WINDERMERE </s>
+<s> [Crossing to door R.] I am going to dress for dinner, and don't mention the subject again this evening </s>
+<s> Arthur [going to him C.], you fancy because I have no father or mother that I am alone in the world, and that you can treat me as you choose </s>
+<s> You are wrong, I have friends, many friends </s>
+<s> LORD WINDERMERE </s>
+<s> [L.C.] Margaret, you are talking foolishly, recklessly </s>
+<s> I won't argue with you, but I insist upon your asking Mrs Erlynne to-night </s>
+<s> LADY WINDERMERE </s>
+<s> [R.C.] I shall do nothing of the kind </s>
+<s> [Crossing L </s>
+<s> C.] LORD WINDERMERE </s>
+<s> You refuse </s>
+<s> [C.] LADY WINDERMERE </s>
+<s> Absolutely </s>
+<s> LORD WINDERMERE </s>
+<s> Ah, Margaret, do this for my sake; it is her last chance </s>
+<s> LADY WINDERMERE </s>
+<s> What has that to do with me </s>
+<s> LORD WINDERMERE </s>
+<s> How hard good women are </s>
+<s> LADY WINDERMERE </s>
+<s> How weak bad men are </s>
+<s> LORD WINDERMERE </s>
+<s> Margaret, none of us men may be good enough for the women we marry--that is quite true--but you don't imagine I would ever--oh, the suggestion is monstrous </s>
+<s> LADY WINDERMERE </s>
+<s> Why should YOU be different from other men </s>
+<s> I am told that there is hardly a husband in London who does not waste his life over SOME shameful passion </s>
+<s> LORD WINDERMERE </s>
+<s> I am not one of them </s>
+<s> LADY WINDERMERE </s>
+<s> I am not sure of that </s>
+<s> LORD WINDERMERE </s>
+<s> You are sure in your heart </s>
+<s> But don't make chasm after chasm between us </s>
+<s> God knows the last few minutes have thrust us wide enough apart </s>
+<s> Sit down and write the card </s>
+<s> LADY WINDERMERE </s>
+<s> Nothing in the whole world would induce me </s>
+<s> LORD WINDERMERE </s>
+<s> [Crossing to bureau.] Then I will </s>
+<s> [Rings electric bell, sits and writes card.] LADY WINDERMERE </s>
+<s> You are going to invite this woman </s>
+<s> [Crossing to him.] LORD WINDERMERE </s>
+<s> Yes </s>
+<s> [Pause </s>
+<s> Enter PARKER.] Parker </s>
+<s> PARKER </s>
+<s> Yes, my lord </s>
+<s> [Comes down L.C.] LORD WINDERMERE </s>
+<s> Have this note sent to Mrs Erlynne at No </s>
+<s> 84A Curzon Street </s>
+<s> [Crossing to L.C </s>
+<s> and giving note to PARKER.] There is no answer </s>
+<s> [Exit PARKER C.] LADY WINDERMERE </s>
+<s> Arthur, if that woman comes here, I shall insult her </s>
+<s> LORD WINDERMERE </s>
+<s> Margaret, don't say that </s>
+<s> LADY WINDERMERE </s>
+<s> I mean it </s>
+<s> LORD WINDERMERE </s>
+<s> Child, if you did such a thing, there's not a woman in London who wouldn't pity you </s>
+<s> LADY WINDERMERE </s>
+<s> There is not a GOOD woman in London who would not applaud me </s>
+<s> We have been too lax </s>
+<s> We must make an example </s>
+<s> I propose to begin to-night </s>
+<s> [Picking up fan.] Yes, you gave me this fan to-day; it was your birthday present </s>
+<s> If that woman crosses my threshold, I shall strike her across the face with it </s>
+<s> LORD WINDERMERE </s>
+<s> Margaret, you couldn't do such a thing </s>
+<s> LADY WINDERMERE </s>
+<s> You don't know me </s>
+<s> [Moves R.] [Enter PARKER.] Parker </s>
+<s> PARKER </s>
+<s> Yes, my lady </s>
+<s> LADY WINDERMERE </s>
+<s> I shall dine in my own room </s>
+<s> I don't want dinner, in fact </s>
+<s> See that everything is ready by half-past ten </s>
+<s> And, Parker, be sure you pronounce the names of the guests very distinctly to-night </s>
+<s> Sometimes you speak so fast that I miss them </s>
+<s> I am particularly anxious to hear the names quite clearly, so as to make no mistake </s>
+<s> You understand, Parker </s>
+<s> PARKER </s>
+<s> Yes, my lady </s>
+<s> LADY WINDERMERE </s>
+<s> That will do </s>
+<s> [Exit PARKER C.] [Speaking to LORD WINDERMERE] Arthur, if that woman comes here--I warn you - LORD WINDERMERE </s>
+<s> Margaret, you'll ruin us </s>
+<s> LADY WINDERMERE </s>
+<s> Us </s>
+<s> From this moment my life is separate from yours </s>
+<s> But if you wish to avoid a public scandal, write at once to this woman, and tell her that I forbid her to come here </s>
+<s> LORD WINDERMERE </s>
+<s> I will not--I cannot--she must come </s>
+<s> LADY WINDERMERE </s>
+<s> Then I shall do exactly as I have said </s>
+<s> [Goes R.] You leave me no choice </s>
+<s> [Exit R.] LORD WINDERMERE </s>
+<s> [Calling after her.] Margaret </s>
+<s> Margaret </s>
+<s> [A pause.] My God </s>
+<s> What shall I do </s>
+<s> I dare not tell her who this woman really is </s>
+<s> The shame would kill her </s>
+<s> [Sinks down into a chair and buries his face in his hands.] ACT DROP SECOND ACT SCENE Drawing-room in Lord Windermere's house </s>
+<s> Door R.U </s>
+<s> opening into ball-room, where band is playing </s>
+<s> Door L </s>
+<s> through which guests are entering </s>
+<s> Door L.U </s>
+<s> opens on to illuminated terrace </s>
+<s> Palms, flowers, and brilliant lights </s>
+<s> Room crowded with guests </s>
+<s> Lady Windermere is receiving them </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [Up C.] So strange Lord Windermere isn't here </s>
+<s> Mr Hopper is very late, too </s>
+<s> You have kept those five dances for him, Agatha </s>
+<s> [Comes down.] LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [Sitting on sofa.] Just let me see your card </s>
+<s> I'm so glad Lady Windermere has revived cards.--They're a mother's only safeguard </s>
+<s> You dear simple little thing </s>
+<s> [Scratches out two names.] No nice girl should ever waltz with such particularly younger sons </s>
+<s> It looks so fast </s>
+<s> The last two dances you might pass on the terrace with Mr Hopper </s>
+<s> [Enter MR </s>
+<s> DUMBY and LADY PLYMDALE from the ball-room.] LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [Fanning herself.] The air is so pleasant there </s>
+<s> PARKER </s>
+<s> Mrs Cowper-Cowper </s>
+<s> Lady Stutfield </s>
+<s> Sir James Royston </s>
+<s> Mr Guy Berkeley </s>
+<s> [These people enter as announced.] DUMBY </s>
+<s> Good evening, Lady Stutfield </s>
+<s> I suppose this will be the last ball of the season </s>
+<s> LADY STUTFIELD </s>
+<s> I suppose so, Mr Dumby </s>
+<s> It's been a delightful season, hasn't it </s>
+<s> DUMBY </s>
+<s> Quite delightful </s>
+<s> Good evening, Duchess </s>
+<s> I suppose this will be the last ball of the season </s>
+<s> DUCHESS OF BERWICK </s>
+<s> I suppose so, Mr Dumby </s>
+<s> It has been a very dull season, hasn't it </s>
+<s> DUMBY </s>
+<s> Dreadfully dull </s>
+<s> Dreadfully dull </s>
+<s> MR </s>
+<s> COWPER-COWPER </s>
+<s> Good evening, Mr Dumby </s>
+<s> I suppose this will be the last ball of the season </s>
+<s> DUMBY </s>
+<s> Oh, I think not </s>
+<s> There'll probably be two more </s>
+<s> [Wanders back to LADY PLYMDALE.] PARKER </s>
+<s> Mr Rufford </s>
+<s> Lady Jedburgh and Miss Graham </s>
+<s> Mr Hopper </s>
+<s> [These people enter as announced.] HOPPER </s>
+<s> How do you do, Lady Windermere </s>
+<s> How do you do, Duchess </s>
+<s> [Bows to LADY AGATHA.] DUCHESS OF BERWICK </s>
+<s> Dear Mr Hopper, how nice of you to come so early </s>
+<s> We all know how you are run after in London </s>
+<s> HOPPER </s>
+<s> Capital place, London </s>
+<s> They are not nearly so exclusive in London as they are in Sydney </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Ah </s>
+<s> we know your value, Mr Hopper </s>
+<s> We wish there were more like you </s>
+<s> It would make life so much easier </s>
+<s> Do you know, Mr Hopper, dear Agatha and I are so much interested in Australia </s>
+<s> It must be so pretty with all the dear little kangaroos flying about </s>
+<s> Agatha has found it on the map </s>
+<s> What a curious shape it is </s>
+<s> Just like a large packing case </s>
+<s> However, it is a very young country, isn't it </s>
+<s> HOPPER </s>
+<s> Wasn't it made at the same time as the others, Duchess </s>
+<s> DUCHESS OF BERWICK </s>
+<s> How clever you are, Mr Hopper </s>
+<s> You have a cleverness quite of your own </s>
+<s> Now I mustn't keep you </s>
+<s> HOPPER </s>
+<s> But I should like to dance with Lady Agatha, Duchess </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Well, I hope she has a dance left </s>
+<s> Have you a dance left, Agatha </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> The next one </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> HOPPER </s>
+<s> May I have the pleasure </s>
+<s> [LADY AGATHA bows.] DUCHESS OF BERWICK </s>
+<s> Mind you take great care of my little chatterbox, Mr Hopper </s>
+<s> [LADY AGATHA and MR </s>
+<s> HOPPER pass into ball-room.] [Enter LORD WINDERMERE.] LORD WINDERMERE </s>
+<s> Margaret, I want to speak to you </s>
+<s> LADY WINDERMERE </s>
+<s> In a moment </s>
+<s> [The music drops.] PARKER </s>
+<s> Lord Augustus Lorton </s>
+<s> [Enter LORD AUGUSTUS.] LORD AUGUSTUS </s>
+<s> Good evening, Lady Windermere </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Sir James, will you take me into the ball- room </s>
+<s> Augustus has been dining with us to-night </s>
+<s> I really have had quite enough of dear Augustus for the moment </s>
+<s> [SIR JAMES ROYSTON gives the DUCHESS his aim and escorts her into the ball-room.] PARKER </s>
+<s> Mr and Mrs Arthur Bowden </s>
+<s> Lord and Lady Paisley </s>
+<s> Lord Darlington </s>
+<s> [These people enter as announced.] LORD AUGUSTUS </s>
+<s> [Coming up to LORD WINDERMERE.] Want to speak to you particularly, dear boy </s>
+<s> I'm worn to a shadow </s>
+<s> Know I don't look it </s>
+<s> None of us men do look what we really are </s>
+<s> Demmed good thing, too </s>
+<s> What I want to know is this </s>
+<s> Who is she </s>
+<s> Where does she come from </s>
+<s> Why hasn't she got any demmed relations </s>
+<s> Demmed nuisance, relations </s>
+<s> But they make one so demmed respectable </s>
+<s> LORD WINDERMERE </s>
+<s> You are talking of Mrs Erlynne, I suppose </s>
+<s> I only met her six months ago </s>
+<s> Till then, I never knew of her existence </s>
+<s> LORD AUGUSTUS </s>
+<s> You have seen a good deal of her since then </s>
+<s> LORD WINDERMERE </s>
+<s> [Coldly.] Yes, I have seen a good deal of her since then </s>
+<s> I have just seen her </s>
+<s> LORD AUGUSTUS </s>
+<s> Egad </s>
+<s> the women are very down on her </s>
+<s> I have been dining with Arabella this evening </s>
+<s> By Jove </s>
+<s> you should have heard what she said about Mrs Erlynne </s>
+<s> She didn't leave a rag on her </s>
+<s> </s>
+<s> </s>
+<s> [Aside.] Berwick and I told her that didn't matter much, as the lady in question must have an extremely fine figure </s>
+<s> You should have seen Arabella's expression </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> But, look here, dear boy </s>
+<s> I don't know what to do about Mrs Erlynne </s>
+<s> Egad </s>
+<s> I might be married to her; she treats me with such demmed indifference </s>
+<s> She's deuced clever, too </s>
+<s> She explains everything </s>
+<s> Egad </s>
+<s> she explains you </s>
+<s> She has got any amount of explanations for you--and all of them different </s>
+<s> LORD WINDERMERE </s>
+<s> No explanations are necessary about my friendship with Mrs Erlynne </s>
+<s> LORD AUGUSTUS </s>
+<s> Hem </s>
+<s> Well, look here, dear old fellow </s>
+<s> Do you think she will ever get into this demmed thing called Society </s>
+<s> Would you introduce her to your wife </s>
+<s> No use beating about the confounded bush </s>
+<s> Would you do that </s>
+<s> LORD WINDERMERE </s>
+<s> Mrs Erlynne is coming here to-night </s>
+<s> LORD AUGUSTUS </s>
+<s> Your wife has sent her a card </s>
+<s> LORD WINDERMERE </s>
+<s> Mrs Erlynne has received a card </s>
+<s> LORD AUGUSTUS </s>
+<s> Then she's all right, dear boy </s>
+<s> But why didn't you tell me that before </s>
+<s> It would have saved me a heap of worry and demmed misunderstandings </s>
+<s> [LADY AGATHA and MR </s>
+<s> HOPPER cross and exit on terrace L.U.E.] PARKER </s>
+<s> Mr Cecil Graham </s>
+<s> [Enter MR </s>
+<s> CECIL GRAHAM.] CECIL GRAHAM </s>
+<s> [Bows to LADY WINDERMERE, passes over and shakes hands with LORD WINDERMERE.] Good evening, Arthur </s>
+<s> Why don't you ask me how I am </s>
+<s> I like people to ask me how I am </s>
+<s> It shows a wide-spread interest in my health </s>
+<s> Now, to-night I am not at all well </s>
+<s> Been dining with my people </s>
+<s> Wonder why it is one's people are always so tedious </s>
+<s> My father would talk morality after dinner </s>
+<s> I told him he was old enough to know better </s>
+<s> But my experience is that as soon as people are old enough to know better, they don't know anything at all </s>
+<s> Hallo, Tuppy </s>
+<s> Hear you're going to be married again; thought you were tired of that game </s>
+<s> LORD AUGUSTUS </s>
+<s> You're excessively trivial, my dear boy, excessively trivial </s>
+<s> CECIL GRAHAM </s>
+<s> By the way, Tuppy, which is it </s>
+<s> Have you been twice married and once divorced, or twice divorced and once married </s>
+<s> I say you've been twice divorced and once married </s>
+<s> It seems so much more probable </s>
+<s> LORD AUGUSTUS </s>
+<s> I have a very bad memory </s>
+<s> I really don't remember which </s>
+<s> [Moves away R.] LADY PLYMDALE </s>
+<s> Lord Windermere, I've something most particular to ask you </s>
+<s> LORD WINDERMERE </s>
+<s> I am afraid--if you will excuse me--I must join my wife </s>
+<s> LADY PLYMDALE </s>
+<s> Oh, you mustn't dream of such a thing </s>
+<s> It's most dangerous nowadays for a husband to pay any attention to his wife in public </s>
+<s> It always makes people think that he beats her when they're alone </s>
+<s> The world has grown so suspicious of anything that looks like a happy married life </s>
+<s> But I'll tell you what it is at supper </s>
+<s> [Moves towards door of ball-room.] LORD WINDERMERE </s>
+<s> [C.] Margaret </s>
+<s> I MUST speak to you </s>
+<s> LADY WINDERMERE </s>
+<s> Will you hold my fan for me, Lord Darlington </s>
+<s> Thanks </s>
+<s> [Comes down to him.] LORD WINDERMERE </s>
+<s> [Crossing to her.] Margaret, what you said before dinner was, of course, impossible </s>
+<s> LADY WINDERMERE </s>
+<s> That woman is not coming here to-night </s>
+<s> LORD WINDERMERE </s>
+<s> [R.C.] Mrs Erlynne is coming here, and if you in any way annoy or wound her, you will bring shame and sorrow on us both </s>
+<s> Remember that </s>
+<s> Ah, Margaret </s>
+<s> only trust me </s>
+<s> A wife should trust her husband </s>
+<s> LADY WINDERMERE </s>
+<s> [C.] London is full of women who trust their husbands </s>
+<s> One can always recognise them </s>
+<s> They look so thoroughly unhappy </s>
+<s> I am not going to be one of them </s>
+<s> [Moves up.] Lord Darlington, will you give me back my fan, please </s>
+<s> Thanks </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> A useful thing a fan, isn't it </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> I want a friend to-night, Lord Darlington: I didn't know I would want one so soon </s>
+<s> LORD DARLINGTON </s>
+<s> Lady Windermere </s>
+<s> I knew the time would come some day; but why to-night </s>
+<s> LORD WINDERMERE </s>
+<s> I WILL tell her </s>
+<s> I must </s>
+<s> It would be terrible if there were any scene </s>
+<s> Margaret </s>
+<s> </s>
+<s> </s>
+<s> PARKER </s>
+<s> Mrs Erlynne </s>
+<s> [LORD WINDERMERE starts </s>
+<s> MRS </s>
+<s> ERLYNNE enters, very beautifully dressed and very dignified </s>
+<s> LADY WINDERMERE clutches at her fan, then lets it drop on the door </s>
+<s> She bows coldly to MRS </s>
+<s> ERLYNNE, who bows to her sweetly in turn, and sails into the room.] LORD DARLINGTON </s>
+<s> You have dropped your fan, Lady Windermere </s>
+<s> [Picks it up and hands it to her.] MRS </s>
+<s> ERLYNNE </s>
+<s> [C.] How do you do, again, Lord Windermere </s>
+<s> How charming your sweet wife looks </s>
+<s> Quite a picture </s>
+<s> LORD WINDERMERE </s>
+<s> [In a low voice.] It was terribly rash of you to come </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Smiling.] The wisest thing I ever did in my life </s>
+<s> And, by the way, you must pay me a good deal of attention this evening </s>
+<s> I am afraid of the women </s>
+<s> You must introduce me to some of them </s>
+<s> The men I can always manage </s>
+<s> How do you do, Lord Augustus </s>
+<s> You have quite neglected me lately </s>
+<s> I have not seen you since yesterday </s>
+<s> I am afraid you're faithless </s>
+<s> Every one told me so </s>
+<s> LORD AUGUSTUS </s>
+<s> [R.] Now really, Mrs Erlynne, allow me to explain </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [R.C.] No, dear Lord Augustus, you can't explain anything </s>
+<s> It is your chief charm </s>
+<s> LORD AUGUSTUS </s>
+<s> Ah </s>
+<s> if you find charms in me, Mrs Erlynne - [They converse together </s>
+<s> LORD WINDERMERE moves uneasily about the room watching MRS </s>
+<s> ERLYNNE.] LORD DARLINGTON </s>
+<s> [To LADY WINDERMERE.] How pale you are </s>
+<s> LADY WINDERMERE </s>
+<s> Cowards are always pale </s>
+<s> LORD DARLINGTON </s>
+<s> You look faint </s>
+<s> Come out on the terrace </s>
+<s> LADY WINDERMERE </s>
+<s> Yes </s>
+<s> [To PARKER.] Parker, send my cloak out </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Crossing to her.] Lady Windermere, how beautifully your terrace is illuminated </s>
+<s> Reminds me of Prince Doria's at Rome </s>
+<s> [LADY WINDERMERE bows coldly, and goes off with LORD DARLINGTON.] Oh, how do you do, Mr Graham </s>
+<s> Isn't that your aunt, Lady Jedburgh </s>
+<s> I should so much like to know her </s>
+<s> CECIL GRAHAM </s>
+<s> [After a moment's hesitation and embarrassment.] Oh, certainly, if you wish it </s>
+<s> Aunt Caroline, allow me to introduce Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> So pleased to meet you, Lady Jedburgh </s>
+<s> [Sits beside her on the sofa.] Your nephew and I are great friends </s>
+<s> I am so much interested in his political career </s>
+<s> I think he's sure to be a wonderful success </s>
+<s> He thinks like a Tory, and talks like a Radical, and that's so important nowadays </s>
+<s> He's such a brilliant talker, too </s>
+<s> But we all know from whom he inherits that </s>
+<s> Lord Allandale was saying to me only yesterday, in the Park, that Mr Graham talks almost as well as his aunt </s>
+<s> LADY JEDBURGH </s>
+<s> [R.] Most kind of you to say these charming things to me </s>
+<s> [MRS </s>
+<s> ERLYNNE smiles, and continues conversation.] DUMBY </s>
+<s> [To CECIL GRAHAM.] Did you introduce Mrs Erlynne to Lady Jedburgh </s>
+<s> CECIL GRAHAM </s>
+<s> Had to, my dear fellow </s>
+<s> Couldn't help it </s>
+<s> That woman can make one do anything she wants </s>
+<s> How, I don't know </s>
+<s> DUMBY </s>
+<s> Hope to goodness she won't speak to me </s>
+<s> [Saunters towards LADY PLYMDALE.] MRS </s>
+<s> ERLYNNE </s>
+<s> [C </s>
+<s> To LADY JEDBURGH.] On Thursday </s>
+<s> With great pleasure </s>
+<s> [Rises, and speaks to LORD WINDERMERE, laughing.] What a bore it is to have to be civil to these old dowagers </s>
+<s> But they always insist on it </s>
+<s> LADY PLYMDALE </s>
+<s> [To MR </s>
+<s> DUMBY.] Who is that well-dressed woman talking to Windermere </s>
+<s> DUMBY </s>
+<s> Haven't got the slightest idea </s>
+<s> Looks like an edition de luxe of a wicked French novel, meant specially for the English market </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> So that is poor Dumby with Lady Plymdale </s>
+<s> I hear she is frightfully jealous of him </s>
+<s> He doesn't seem anxious to speak to me to-night </s>
+<s> I suppose he is afraid of her </s>
+<s> Those straw- coloured women have dreadful tempers </s>
+<s> Do you know, I think I'll dance with you first, Windermere </s>
+<s> [LORD WINDERMERE bits his lip and frowns.] It will make Lord Augustus so jealous </s>
+<s> Lord Augustus </s>
+<s> [LORD AUGUSTUS comes down.] Lord Windermere insists on my dancing with him first, and, as it's his own house, I can't well refuse </s>
+<s> You know I would much sooner dance with you </s>
+<s> LORD AUGUSTUS </s>
+<s> [With a low bow.] I wish I could think so, Mrs Erlynne </s>
+<s> MRS ERLYNNE </s>
+<s> You know it far too well </s>
+<s> I can fancy a person dancing through life with you and finding it charming </s>
+<s> LORD AUGUSTUS </s>
+<s> [Placing his hand on his white waistcoat.] Oh, thank you, thank you </s>
+<s> You are the most adorable of all ladies </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> What a nice speech </s>
+<s> So simple and so sincere </s>
+<s> Just the sort of speech I like </s>
+<s> Well, you shall hold my bouquet </s>
+<s> [Goes towards ball-room on LORD WINDERMERE'S arm.] Ah, Mr Dumby, how are you </s>
+<s> I am so sorry I have been out the last three times you have called </s>
+<s> Come and lunch on Friday </s>
+<s> DUMBY </s>
+<s> [With perfect nonchalance.] Delighted </s>
+<s> [LADY PLYMDALE glares with indignation at MR </s>
+<s> DUMBY </s>
+<s> LORD AUGUSTUS follows MRS </s>
+<s> ERLYNNE and LORD WINDERMERE into the ball-room holding bouquet] LADY PLYMDALE </s>
+<s> [To MR </s>
+<s> DUMBY.] What an absolute brute you are </s>
+<s> I never can believe a word you say </s>
+<s> Why did you tell me you didn't know her </s>
+<s> What do you mean by calling on her three times running </s>
+<s> You are not to go to lunch there; of course you understand that </s>
+<s> DUMBY </s>
+<s> My dear Laura, I wouldn't dream of going </s>
+<s> LADY PLYMDALE </s>
+<s> You haven't told me her name yet </s>
+<s> Who is she </s>
+<s> DUMBY </s>
+<s> [Coughs slightly and smooths his hair.] She's a Mrs Erlynne </s>
+<s> LADY PLYMDALE </s>
+<s> That woman </s>
+<s> DUMBY </s>
+<s> Yes; that is what every one calls her </s>
+<s> LADY PLYMDALE </s>
+<s> How very interesting </s>
+<s> How intensely interesting </s>
+<s> I really must have a good stare at her </s>
+<s> [Goes to door of ball-room and looks in.] I have heard the most shocking things about her </s>
+<s> They say she is ruining poor Windermere </s>
+<s> And Lady Windermere, who goes in for being so proper, invites her </s>
+<s> How extremely amusing </s>
+<s> It takes a thoroughly good woman to do a thoroughly stupid thing </s>
+<s> You are to lunch there on Friday </s>
+<s> DUMBY </s>
+<s> Why </s>
+<s> LADY PLYMDALE </s>
+<s> Because I want you to take my husband with you </s>
+<s> He has been so attentive lately, that he has become a perfect nuisance </s>
+<s> Now, this woman is just the thing for him </s>
+<s> He'll dance attendance upon her as long as she lets him, and won't bother me </s>
+<s> I assure you, women of that kind are most useful </s>
+<s> They form the basis of other people's marriages </s>
+<s> DUMBY </s>
+<s> What a mystery you are </s>
+<s> LADY PLYMDALE </s>
+<s> [Looking at him.] I wish YOU were </s>
+<s> DUMBY </s>
+<s> I am--to myself </s>
+<s> I am the only person in the world I should like to know thoroughly; but I don't see any chance of it just at present </s>
+<s> [They pass into the ball-room, and LADY WINDERMERE and LORD DARLINGTON enter from the terrace.] LADY WINDERMERE </s>
+<s> Yes </s>
+<s> Her coming here is monstrous, unbearable </s>
+<s> I know now what you meant to-day at tea-time </s>
+<s> Why didn't you tell me right out </s>
+<s> You should have </s>
+<s> LORD DARLINGTON </s>
+<s> I couldn't </s>
+<s> A man can't tell these things about another man </s>
+<s> But if I had known he was going to make you ask her here to-night, I think I would have told you </s>
+<s> That insult, at any rate, you would have been spared </s>
+<s> LADY WINDERMERE </s>
+<s> I did not ask her </s>
+<s> He insisted on her coming-- against my entreaties--against my commands </s>
+<s> Oh </s>
+<s> the house is tainted for me </s>
+<s> I feel that every woman here sneers at me as she dances by with my husband </s>
+<s> What have I done to deserve this </s>
+<s> I gave him all my life </s>
+<s> He took it--used it--spoiled it </s>
+<s> I am degraded in my own eyes; and I lack courage--I am a coward </s>
+<s> [Sits down on sofa.] LORD DARLINGTON </s>
+<s> If I know you at all, I know that you can't live with a man who treats you like this </s>
+<s> What sort of life would you have with him </s>
+<s> You would feel that he was lying to you every moment of the day </s>
+<s> You would feel that the look in his eyes was false, his voice false, his touch false, his passion false </s>
+<s> He would come to you when he was weary of others; you would have to comfort him </s>
+<s> He would come to you when he was devoted to others; you would have to charm him </s>
+<s> You would have to be to him the mask of his real life, the cloak to hide his secret </s>
+<s> LADY WINDERMERE </s>
+<s> You are right--you are terribly right </s>
+<s> But where am I to turn </s>
+<s> You said you would be my friend, Lord Darlington.-- Tell me, what am I to do </s>
+<s> Be my friend now </s>
+<s> LORD DARLINGTON </s>
+<s> Between men and women there is no friendship possible </s>
+<s> There is passion, enmity, worship, love, but no friendship </s>
+<s> I love you - LADY WINDERMERE </s>
+<s> No, no </s>
+<s> [Rises.] LORD DARLINGTON </s>
+<s> Yes, I love you </s>
+<s> You are more to me than anything in the whole world </s>
+<s> What does your husband give you </s>
+<s> Nothing </s>
+<s> Whatever is in him he gives to this wretched woman, whom he has thrust into your society, into your home, to shame you before every one </s>
+<s> I offer you my life - LADY WINDERMERE </s>
+<s> Lord Darlington </s>
+<s> LORD DARLINGTON </s>
+<s> My life--my whole life </s>
+<s> Take it, and do with it what you will </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> I love you--love you as I have never loved any living thing </s>
+<s> From the moment I met you I loved you, loved you blindly, adoringly, madly </s>
+<s> You did not know it then--you know it now </s>
+<s> Leave this house to-night </s>
+<s> I won't tell you that the world matters nothing, or the world's voice, or the voice of society </s>
+<s> They matter a great deal </s>
+<s> They matter far too much </s>
+<s> But there are moments when one has to choose between living one's own life, fully, entirely, completely--or dragging out some false, shallow, degrading existence that the world in its hypocrisy demands </s>
+<s> You have that moment now </s>
+<s> Choose </s>
+<s> Oh, my love, choose </s>
+<s> LADY WINDERMERE </s>
+<s> [Moving slowly away from him, and looking at him with startled eyes.] I have not the courage </s>
+<s> LORD DARLINGTON </s>
+<s> [Following her.] Yes; you have the courage </s>
+<s> There may be six months of pain, of disgrace even, but when you no longer bear his name, when you bear mine, all will be well </s>
+<s> Margaret, my love, my wife that shall be some day--yes, my wife </s>
+<s> You know it </s>
+<s> What are you now </s>
+<s> This woman has the place that belongs by right to you </s>
+<s> Oh </s>
+<s> go--go out of this house, with head erect, with a smile upon your lips, with courage in your eyes </s>
+<s> All London will know why you did it; and who will blame you </s>
+<s> No one </s>
+<s> If they do, what matter </s>
+<s> Wrong </s>
+<s> What is wrong </s>
+<s> It's wrong for a man to abandon his wife for a shameless woman </s>
+<s> It is wrong for a wife to remain with a man who so dishonours her </s>
+<s> You said once you would make no compromise with things </s>
+<s> Make none now </s>
+<s> Be brave </s>
+<s> Be yourself </s>
+<s> LADY WINDERMERE </s>
+<s> I am afraid of being myself </s>
+<s> Let me think </s>
+<s> Let me wait </s>
+<s> My husband may return to me </s>
+<s> [Sits down on sofa.] LORD DARLINGTON </s>
+<s> And you would take him back </s>
+<s> You are not what I thought you were </s>
+<s> You are just the same as every other woman </s>
+<s> You would stand anything rather than face the censure of a world, whose praise you would despise </s>
+<s> In a week you will be driving with this woman in the Park </s>
+<s> She will be your constant guest--your dearest friend </s>
+<s> You would endure anything rather than break with one blow this monstrous tie </s>
+<s> You are right </s>
+<s> You have no courage; none </s>
+<s> LADY WINDERMERE </s>
+<s> Ah, give me time to think </s>
+<s> I cannot answer you now </s>
+<s> [Passes her hand nervously over her brow.] LORD DARLINGTON </s>
+<s> It must be now or not at all </s>
+<s> LADY WINDERMERE </s>
+<s> [Rising from the sofa.] Then, not at all </s>
+<s> [A pause.] LORD DARLINGTON </s>
+<s> You break my heart </s>
+<s> LADY WINDERMERE </s>
+<s> Mine is already broken </s>
+<s> [A pause.] LORD DARLINGTON </s>
+<s> To-morrow I leave England </s>
+<s> This is the last time I shall ever look on you </s>
+<s> You will never see me again </s>
+<s> For one moment our lives met--our souls touched </s>
+<s> They must never meet or touch again </s>
+<s> Good-bye, Margaret </s>
+<s> [Exit.] LADY WINDERMERE </s>
+<s> How alone I am in life </s>
+<s> How terribly alone </s>
+<s> [The music stops </s>
+<s> Enter the DUCHESS OF BERWICK and LORD PAISLEY laughing and talking </s>
+<s> Other guests come on from ball-room.] DUCHESS OF BERWICK </s>
+<s> Dear Margaret, I've just been having such a delightful chat with Mrs Erlynne </s>
+<s> I am so sorry for what I said to you this afternoon about her </s>
+<s> Of course, she must be all right if YOU invite her </s>
+<s> A most attractive woman, and has such sensible views on life </s>
+<s> Told me she entirely disapproved of people marrying more than once, so I feel quite safe about poor Augustus </s>
+<s> Can't imagine why people speak against her </s>
+<s> It's those horrid nieces of mine--the Saville girls--they're always talking scandal </s>
+<s> Still, I should go to Homburg, dear, I really should </s>
+<s> She is just a little too attractive </s>
+<s> But where is Agatha </s>
+<s> Oh, there she is: [LADY AGATHA and MR </s>
+<s> HOPPER enter from terrace L.U.E.] Mr Hopper, I am very, very angry with you </s>
+<s> You have taken Agatha out on the terrace, and she is so delicate </s>
+<s> HOPPER </s>
+<s> Awfully sorry, Duchess </s>
+<s> We went out for a moment and then got chatting together </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [C.] Ah, about dear Australia, I suppose </s>
+<s> HOPPER </s>
+<s> Yes </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Agatha, darling </s>
+<s> [Beckons her over.] LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [Aside.] Did Mr Hopper definitely - LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> And what answer did you give him, dear child </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [Affectionately.] My dear one </s>
+<s> You always say the right thing </s>
+<s> Mr Hopper </s>
+<s> James </s>
+<s> Agatha has told me everything </s>
+<s> How cleverly you have both kept your secret </s>
+<s> HOPPER </s>
+<s> You don't mind my taking Agatha off to Australia, then, Duchess </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [Indignantly.] To Australia </s>
+<s> Oh, don't mention that dreadful vulgar place </s>
+<s> HOPPER </s>
+<s> But she said she'd like to come with me </s>
+<s> DUCHESS OF BERWICK </s>
+<s> [Severely.] Did you say that, Agatha </s>
+<s> LADY AGATHA </s>
+<s> Yes, mamma </s>
+<s> DUCHESS OF BERWICK </s>
+<s> Agatha, you say the most silly things possible </s>
+<s> I think on the whole that Grosvenor Square would be a more healthy place to reside in </s>
+<s> There are lots of vulgar people live in Grosvenor Square, but at any rate there are no horrid kangaroos crawling about </s>
+<s> But we'll talk about that to-morrow </s>
+<s> James, you can take Agatha down </s>
+<s> You'll come to lunch, of course, James </s>
+<s> At half-past one, instead of two </s>
+<s> The Duke will wish to say a few words to you, I am sure </s>
+<s> HOPPER </s>
+<s> I should like to have a chat with the Duke, Duchess </s>
+<s> He has not said a single word to me yet </s>
+<s> DUCHESS OF BERWICK </s>
+<s> I think you'll find he will have a great deal to say to you to-morrow </s>
+<s> [Exit LADY AGATHA with MR </s>
+<s> HOPPER.] And now good-night, Margaret </s>
+<s> I'm afraid it's the old, old story, dear </s>
+<s> Love--well, not love at first sight, but love at the end of the season, which is so much more satisfactory </s>
+<s> LADY WINDERMERE </s>
+<s> Good-night, Duchess </s>
+<s> [Exit the DUCHESS OF BERWICK on LORD PAISLEY'S arm.] LADY PLYMDALE </s>
+<s> My dear Margaret, what a handsome woman your husband has been dancing with </s>
+<s> I should be quite jealous if I were you </s>
+<s> Is she a great friend of yours </s>
+<s> LADY WINDERMERE </s>
+<s> No </s>
+<s> LADY PLYMDALE </s>
+<s> Really </s>
+<s> Good-night, dear </s>
+<s> [Looks at MR </s>
+<s> DUMBY and exit.] DUMBY </s>
+<s> Awful manners young Hopper has </s>
+<s> CECIL GRAHAM </s>
+<s> Ah </s>
+<s> Hopper is one of Nature's gentlemen, the worst type of gentleman I know </s>
+<s> DUMBY </s>
+<s> Sensible woman, Lady Windermere </s>
+<s> Lots of wives would have objected to Mrs Erlynne coming </s>
+<s> But Lady Windermere has that uncommon thing called common sense </s>
+<s> CECIL GRAHAM </s>
+<s> And Windermere knows that nothing looks so like innocence as an indiscretion </s>
+<s> DUMBY </s>
+<s> Yes; dear Windermere is becoming almost modern </s>
+<s> Never thought he would </s>
+<s> [Bows to LADY WINDERMERE and exit.] LADY JEDBURGH </s>
+<s> Good night, Lady Windermere </s>
+<s> What a fascinating woman Mrs Erlynne is </s>
+<s> She is coming to lunch on Thursday, won't you come too </s>
+<s> I expect the Bishop and dear Lady Merton </s>
+<s> LADY WINDERMERE </s>
+<s> I am afraid I am engaged, Lady Jedburgh </s>
+<s> LADY JEDBURGH </s>
+<s> So sorry </s>
+<s> Come, dear </s>
+<s> [Exeunt LADY JEDBURGH and MISS GRAHAM.] [Enter MRS </s>
+<s> ERLYNNE and LORD WINDERMERE.] MRS </s>
+<s> ERLYNNE </s>
+<s> Charming ball it has been </s>
+<s> Quite reminds me of old days </s>
+<s> [Sits on sofa.] And I see that there are just as many fools in society as there used to be </s>
+<s> So pleased to find that nothing has altered </s>
+<s> Except Margaret </s>
+<s> She's grown quite pretty </s>
+<s> The last time I saw her--twenty years ago, she was a fright in flannel </s>
+<s> Positive fright, I assure you </s>
+<s> The dear Duchess </s>
+<s> and that sweet Lady Agatha </s>
+<s> Just the type of girl I like </s>
+<s> Well, really, Windermere, if I am to be the Duchess's sister-in-law LORD WINDERMERE </s>
+<s> [Sitting L </s>
+<s> of her.] But are you-- </s>
+<s> [Exit MR </s>
+<s> CECIL GRAHAM with rest of guests </s>
+<s> LADY WINDERMERE watches, with a look of scorn and pain, MRS </s>
+<s> ERLYNNE and her husband </s>
+<s> They are unconscious of her presence.] MRS </s>
+<s> ERLYNNE </s>
+<s> Oh, yes </s>
+<s> He's to call to-morrow at twelve o'clock </s>
+<s> He wanted to propose to-night </s>
+<s> In fact he did </s>
+<s> He kept on proposing </s>
+<s> Poor Augustus, you know how he repeats himself </s>
+<s> Such a bad habit </s>
+<s> But I told him I wouldn't give him an answer till to- morrow </s>
+<s> Of course I am going to take him </s>
+<s> And I dare say I'll make him an admirable wife, as wives go </s>
+<s> And there is a great deal of good in Lord Augustus </s>
+<s> Fortunately it is all on the surface </s>
+<s> Just where good qualities should be </s>
+<s> Of course you must help me in this matter </s>
+<s> LORD WINDERMERE </s>
+<s> I am not called on to encourage Lord Augustus, I suppose </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Oh, no </s>
+<s> I do the encouraging </s>
+<s> But you will make me a handsome settlement, Windermere, won't you </s>
+<s> LORD WINDERMERE </s>
+<s> [Frowning.] Is that what you want to talk to me about to-night </s>
+<s> MRS ERLYNNE </s>
+<s> Yes </s>
+<s> LORD WINDERMERE </s>
+<s> [With a gesture of impatience.] I will not talk of it here </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Laughing.] Then we will talk of it on the terrace </s>
+<s> Even business should have a picturesque background </s>
+<s> Should it not, Windermere </s>
+<s> With a proper background women can do anything </s>
+<s> LORD WINDERMERE </s>
+<s> Won't to-morrow do as well </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> No; you see, to-morrow I am going to accept him </s>
+<s> And I think it would be a good thing if I was able to tell him that I had--well, what shall I say?--2000 pounds a year left to me by a third cousin--or a second husband--or some distant relative of that kind </s>
+<s> It would be an additional attraction, wouldn't it </s>
+<s> You have a delightful opportunity now of paying me a compliment, Windermere </s>
+<s> But you are not very clever at paying compliments </s>
+<s> I am afraid Margaret doesn't encourage you in that excellent habit </s>
+<s> It's a great mistake on her part </s>
+<s> When men give up saying what is charming, they give up thinking what is charming </s>
+<s> But seriously, what do you say to 2000 pounds </s>
+<s> 2500 pounds, I think </s>
+<s> In modern life margin is everything </s>
+<s> Windermere, don't you think the world an intensely amusing place </s>
+<s> I do </s>
+<s> [Exit on terrace with LORD WINDERMERE </s>
+<s> Music strikes up in ball- room.] LADY WINDERMERE </s>
+<s> To stay in this house any longer is impossible </s>
+<s> To-night a man who loves me offered me his whole life </s>
+<s> I refused it </s>
+<s> It was foolish of me </s>
+<s> I will offer him mine now </s>
+<s> I will give him mine </s>
+<s> I will go to him </s>
+<s> [Puts on cloak and goes to the door, then turns back </s>
+<s> Sits down at table and writes a letter, puts it into an envelope, and leaves it on table.] Arthur has never understood me </s>
+<s> When he reads this, he will </s>
+<s> He may do as he chooses now with his life </s>
+<s> I have done with mine as I think best, as I think right </s>
+<s> It is he who has broken the bond of marriage-- not I </s>
+<s> I only break its bondage </s>
+<s> [Exit.] [PARKER enters L </s>
+<s> and crosses towards the ball-room R </s>
+<s> Enter MRS </s>
+<s> ERLYNNE.] MRS </s>
+<s> ERLYNNE </s>
+<s> Is Lady Windermere in the ball-room </s>
+<s> PARKER </s>
+<s> Her ladyship has just gone out </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Gone out </s>
+<s> She's not on the terrace </s>
+<s> PARKER </s>
+<s> No, madam </s>
+<s> Her ladyship has just gone out of the house </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Starts, and looks at the servant with a puzzled expression in her face.] Out of the house </s>
+<s> PARKER </s>
+<s> Yes, madam--her ladyship told me she had left a letter for his lordship on the table </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> A letter for Lord Windermere </s>
+<s> PARKER </s>
+<s> Yes, madam </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Thank you </s>
+<s> [Exit PARKER </s>
+<s> The music in the ball-room stops.] Gone out of her house </s>
+<s> A letter addressed to her husband </s>
+<s> [Goes over to bureau and looks at letter </s>
+<s> Takes it up and lays it down again with a shudder of fear.] No, no </s>
+<s> It would be impossible </s>
+<s> Life doesn't repeat its tragedies like that </s>
+<s> Oh, why does this horrible fancy come across me </s>
+<s> Why do I remember now the one moment of my life I most wish to forget </s>
+<s> Does life repeat its tragedies </s>
+<s> [Tears letter open and reads it, then sinks down into a chair with a gesture of anguish.] Oh, how terrible </s>
+<s> The same words that twenty years ago I wrote to her father </s>
+<s> and how bitterly I have been punished for it </s>
+<s> No; my punishment, my real punishment is to- night, is now </s>
+<s> [Still seated R.] [Enter LORD WINDERMERE L.U.E.] LORD WINDERMERE </s>
+<s> Have you said good-night to my wife </s>
+<s> [Comes C.] MRS </s>
+<s> ERLYNNE </s>
+<s> [Crushing letter in her hand.] Yes </s>
+<s> LORD WINDERMERE </s>
+<s> Where is she </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> She is very tired </s>
+<s> She has gone to bed </s>
+<s> She said she had a headache </s>
+<s> LORD WINDERMERE </s>
+<s> I must go to her </s>
+<s> You'll excuse me </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Rising hurriedly.] Oh, no </s>
+<s> It's nothing serious </s>
+<s> She's only very tired, that is all </s>
+<s> Besides, there are people still in the supper-room </s>
+<s> She wants you to make her apologies to them </s>
+<s> She said she didn't wish to be disturbed </s>
+<s> [Drops letter.] She asked me to tell you </s>
+<s> LORD WINDERMERE </s>
+<s> [Picks up letter.] You have dropped something </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Oh yes, thank you, that is mine </s>
+<s> [Puts out her hand to take it.] LORD WINDERMERE </s>
+<s> [Still looking at letter.] But it's my wife's handwriting, isn't it </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Takes the letter quickly.] Yes, it's--an address </s>
+<s> Will you ask them to call my carriage, please </s>
+<s> LORD WINDERMERE </s>
+<s> Certainly </s>
+<s> [Goes L </s>
+<s> and Exit.] MRS </s>
+<s> ERLYNNE </s>
+<s> Thanks </s>
+<s> What can I do </s>
+<s> What can I do </s>
+<s> I feel a passion awakening within me that I never felt before </s>
+<s> What can it mean </s>
+<s> The daughter must not be like the mother--that would be terrible </s>
+<s> How can I save her </s>
+<s> How can I save my child </s>
+<s> A moment may ruin a life </s>
+<s> Who knows that better than I </s>
+<s> Windermere must be got out of the house; that is absolutely necessary </s>
+<s> [Goes L.] But how shall I do it </s>
+<s> It must be done somehow </s>
+<s> Ah </s>
+<s> [Enter LORD AUGUSTUS R.U.E </s>
+<s> carrying bouquet.] LORD AUGUSTUS </s>
+<s> Dear lady, I am in such suspense </s>
+<s> May I not have an answer to my request </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Lord Augustus, listen to me </s>
+<s> You are to take Lord Windermere down to your club at once, and keep him there as long as possible </s>
+<s> You understand </s>
+<s> LORD AUGUSTUS </s>
+<s> But you said you wished me to keep early hours </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Nervously.] Do what I tell you </s>
+<s> Do what I tell you </s>
+<s> LORD AUGUSTUS </s>
+<s> And my reward </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Your reward </s>
+<s> Your reward </s>
+<s> Oh </s>
+<s> ask me that to- morrow </s>
+<s> But don't let Windermere out of your sight to-night </s>
+<s> If you do I will never forgive you </s>
+<s> I will never speak to you again </s>
+<s> I'll have nothing to do with you </s>
+<s> Remember you are to keep Windermere at your club, and don't let him come back to-night </s>
+<s> [Exit L.] LORD AUGUSTUS </s>
+<s> Well, really, I might be her husband already </s>
+<s> Positively I might </s>
+<s> [Follows her in a bewildered manner.] ACT DROP </s>
+<s> THIRD ACT SCENE Lord Darlington's Rooms </s>
+<s> A large sofa is in front of fireplace R </s>
+<s> At the back of the stage a curtain is drawn across the window </s>
+<s> Doors L </s>
+<s> and R </s>
+<s> Table R </s>
+<s> with writing materials </s>
+<s> Table C </s>
+<s> with syphons, glasses, and Tantalus frame </s>
+<s> Table L </s>
+<s> with cigar and cigarette box </s>
+<s> Lamps lit </s>
+<s> LADY WINDERMERE </s>
+<s> [Standing by the fireplace.] Why doesn't he come </s>
+<s> This waiting is horrible </s>
+<s> He should be here </s>
+<s> Why is he not here, to wake by passionate words some fire within me </s>
+<s> I am cold-- cold as a loveless thing </s>
+<s> Arthur must have read my letter by this time </s>
+<s> If he cared for me, he would have come after me, would have taken me back by force </s>
+<s> But he doesn't care </s>
+<s> He's entrammelled by this woman--fascinated by her--dominated by her </s>
+<s> If a woman wants to hold a man, she has merely to appeal to what is worst in him </s>
+<s> We make gods of men and they leave us </s>
+<s> Others make brutes of them and they fawn and are faithful </s>
+<s> How hideous life is </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> Oh </s>
+<s> it was mad of me to come here, horribly mad </s>
+<s> And yet, which is the worst, I wonder, to be at the mercy of a man who loves one, or the wife of a man who in one's own house dishonours one </s>
+<s> What woman knows </s>
+<s> What woman in the whole world </s>
+<s> But will he love me always, this man to whom I am giving my life </s>
+<s> What do I bring him </s>
+<s> Lips that have lost the note of joy, eyes that are blinded by tears, chill hands and icy heart </s>
+<s> I bring him nothing </s>
+<s> I must go back-- no; I can't go back, my letter has put me in their power--Arthur would not take me back </s>
+<s> That fatal letter </s>
+<s> No </s>
+<s> Lord Darlington leaves England to-morrow </s>
+<s> I will go with him--I have no choice </s>
+<s> [Sits down for a few moments </s>
+<s> Then starts up and puts on her cloak.] No, no </s>
+<s> I will go back, let Arthur do with me what he pleases </s>
+<s> I can't wait here </s>
+<s> It has been madness my coming </s>
+<s> I must go at once </s>
+<s> As for Lord Darlington--Oh </s>
+<s> here he is </s>
+<s> What shall I do </s>
+<s> What can I say to him </s>
+<s> Will he let me go away at all </s>
+<s> I have heard that men are brutal, horrible </s>
+<s> </s>
+<s> </s>
+<s> Oh </s>
+<s> [Hides her face in her hands.] [Enter MRS </s>
+<s> ERLYNNE L.] MRS </s>
+<s> ERLYNNE </s>
+<s> Lady Windermere </s>
+<s> [LADY WINDERMERE starts and looks up </s>
+<s> Then recoils in contempt.] Thank Heaven I am in time </s>
+<s> You must go back to your husband's house immediately </s>
+<s> LADY WINDERMERE </s>
+<s> Must </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Authoritatively.] Yes, you must </s>
+<s> There is not a second to be lost </s>
+<s> Lord Darlington may return at any moment </s>
+<s> LADY WINDERMERE </s>
+<s> Don't come near me </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Oh </s>
+<s> You are on the brink of ruin, you are on the brink of a hideous precipice </s>
+<s> You must leave this place at once, my carriage is waiting at the corner of the street </s>
+<s> You must come with me and drive straight home </s>
+<s> [LADY WINDERMERE throws off her cloak and flings it on the sofa.] What are you doing </s>
+<s> LADY WINDERMERE </s>
+<s> Mrs Erlynne--if you had not come here, I would have gone back </s>
+<s> But now that I see you, I feel that nothing in the whole world would induce me to live under the same roof as Lord Windermere </s>
+<s> You fill me with horror </s>
+<s> There is something about you that stirs the wildest--rage within me </s>
+<s> And I know why you are here </s>
+<s> My husband sent you to lure me back that I might serve as a blind to whatever relations exist between you and him </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Oh </s>
+<s> You don't think that--you can't </s>
+<s> LADY WINDERMERE </s>
+<s> Go back to my husband, Mrs Erlynne </s>
+<s> He belongs to you and not to me </s>
+<s> I suppose he is afraid of a scandal </s>
+<s> Men are such cowards </s>
+<s> They outrage every law of the world, and are afraid of the world's tongue </s>
+<s> But he had better prepare himself </s>
+<s> He shall have a scandal </s>
+<s> He shall have the worst scandal there has been in London for years </s>
+<s> He shall see his name in every vile paper, mine on every hideous placard </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> No--no - LADY WINDERMERE </s>
+<s> Yes </s>
+<s> he shall </s>
+<s> Had he come himself, I admit I would have gone back to the life of degradation you and he had prepared for me--I was going back--but to stay himself at home, and to send you as his messenger--oh </s>
+<s> it was infamous--infamous </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [C.] Lady Windermere, you wrong me horribly--you wrong your husband horribly </s>
+<s> He doesn't know you are here--he thinks you are safe in your own house </s>
+<s> He thinks you are asleep in your own room </s>
+<s> He never read the mad letter you wrote to him </s>
+<s> LADY WINDERMERE </s>
+<s> [R.] Never read it </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> No--he knows nothing about it </s>
+<s> LADY WINDERMERE </s>
+<s> How simple you think me </s>
+<s> [Going to her.] You are lying to me </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Restraining herself.] I am not </s>
+<s> I am telling you the truth </s>
+<s> LADY WINDERMERE </s>
+<s> If my husband didn't read my letter, how is it that you are here </s>
+<s> Who told you I had left the house you were shameless enough to enter </s>
+<s> Who told you where I had gone to </s>
+<s> My husband told you, and sent you to decoy me back </s>
+<s> [Crosses L.] MRS </s>
+<s> ERLYNNE </s>
+<s> [R.C.] Your husband has never seen the letter </s>
+<s> I-- saw it, I opened it </s>
+<s> I--read it </s>
+<s> LADY WINDERMERE </s>
+<s> [Turning to her.] You opened a letter of mine to my husband </s>
+<s> You wouldn't dare </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Dare </s>
+<s> Oh </s>
+<s> to save you from the abyss into which you are falling, there is nothing in the world I would not dare, nothing in the whole world </s>
+<s> Here is the letter </s>
+<s> Your husband has never read it </s>
+<s> He never shall read it </s>
+<s> [Going to fireplace.] It should never have been written </s>
+<s> [Tears it and throws it into the fire.] LADY WINDERMERE </s>
+<s> [With infinite contempt in her voice and look.] How do I know that that was my letter after all </s>
+<s> You seem to think the commonest device can take me in </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Oh </s>
+<s> why do you disbelieve everything I tell you </s>
+<s> What object do you think I have in coming here, except to save you from utter ruin, to save you from the consequence of a hideous mistake </s>
+<s> That letter that is burnt now WAS your letter </s>
+<s> I swear it to you </s>
+<s> LADY WINDERMERE </s>
+<s> [Slowly.] You took good care to burn it before I had examined it </s>
+<s> I cannot trust you </s>
+<s> You, whose whole life is a lie, could you speak the truth about anything </s>
+<s> [Sits down.] MRS </s>
+<s> ERLYNNE </s>
+<s> [Hurriedly.] Think as you like about me--say what you choose against me, but go back, go back to the husband you love </s>
+<s> LADY WINDERMERE </s>
+<s> [Sullenly.] I do NOT love him </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> You do, and you know that he loves you </s>
+<s> LADY WINDERMERE </s>
+<s> He does not understand what love is </s>
+<s> He understands it as little as you do--but I see what you want </s>
+<s> It would be a great advantage for you to get me back </s>
+<s> Dear Heaven </s>
+<s> what a life I would have then </s>
+<s> Living at the mercy of a woman who has neither mercy nor pity in her, a woman whom it is an infamy to meet, a degradation to know, a vile woman, a woman who comes between husband and wife </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [With a gesture of despair.] Lady Windermere, Lady Windermere, don't say such terrible things </s>
+<s> You don't know how terrible they are, how terrible and how unjust </s>
+<s> Listen, you must listen </s>
+<s> Only go back to your husband, and I promise you never to communicate with him again on any pretext--never to see him--never to have anything to do with his life or yours </s>
+<s> The money that he gave me, he gave me not through love, but through hatred, not in worship, but in contempt </s>
+<s> The hold I have over him - LADY WINDERMERE </s>
+<s> [Rising.] Ah </s>
+<s> you admit you have a hold </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Yes, and I will tell you what it is </s>
+<s> It is his love for you, Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> You expect me to believe that </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> You must believe it </s>
+<s> It is true </s>
+<s> It is his love for you that has made him submit to--oh </s>
+<s> call it what you like, tyranny, threats, anything you choose </s>
+<s> But it is his love for you </s>
+<s> His desire to spare you--shame, yes, shame and disgrace </s>
+<s> LADY WINDERMERE </s>
+<s> What do you mean </s>
+<s> You are insolent </s>
+<s> What have I to do with you </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Humbly.] Nothing </s>
+<s> I know it--but I tell you that your husband loves you--that you may never meet with such love again in your whole life--that such love you will never meet--and that if you throw it away, the day may come when you will starve for love and it will not be given to you, beg for love and it will be denied you--Oh </s>
+<s> Arthur loves you </s>
+<s> LADY WINDERMERE </s>
+<s> Arthur </s>
+<s> And you tell me there is nothing between you </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Lady Windermere, before Heaven your husband is guiltless of all offence towards you </s>
+<s> And I--I tell you that had it ever occurred to me that such a monstrous suspicion would have entered your mind, I would have died rather than have crossed your life or his--oh </s>
+<s> died, gladly died </s>
+<s> [Moves away to sofa R.] LADY WINDERMERE </s>
+<s> You talk as if you had a heart </s>
+<s> Women like you have no hearts </s>
+<s> Heart is not in you </s>
+<s> You are bought and sold </s>
+<s> [Sits L.C.] MRS </s>
+<s> ERLYNNE </s>
+<s> [Starts, with a gesture of pain </s>
+<s> Then restrains herself, and comes over to where LADY WINDERMERE is sitting </s>
+<s> As she speaks, she stretches out her hands towards her, but does not dare to touch her.] Believe what you choose about me </s>
+<s> I am not worth a moment's sorrow </s>
+<s> But don't spoil your beautiful young life on my account </s>
+<s> You don't know what may be in store for you, unless you leave this house at once </s>
+<s> You don't know what it is to fall into the pit, to be despised, mocked, abandoned, sneered at--to be an outcast </s>
+<s> to find the door shut against one, to have to creep in by hideous byways, afraid every moment lest the mask should be stripped from one's face, and all the while to hear the laughter, the horrible laughter of the world, a thing more tragic than all the tears the world has ever shed </s>
+<s> You don't know what it is </s>
+<s> One pays for one's sin, and then one pays again, and all one's life one pays </s>
+<s> You must never know that.--As for me, if suffering be an expiation, then at this moment I have expiated all my faults, whatever they have been; for to-night you have made a heart in one who had it not, made it and broken it.--But let that pass </s>
+<s> I may have wrecked my own life, but I will not let you wreck yours </s>
+<s> You- -why, you are a mere girl, you would be lost </s>
+<s> You haven't got the kind of brains that enables a woman to get back </s>
+<s> You have neither the wit nor the courage </s>
+<s> You couldn't stand dishonour </s>
+<s> No </s>
+<s> Go back, Lady Windermere, to the husband who loves you, whom you love </s>
+<s> You have a child, Lady Windermere </s>
+<s> Go back to that child who even now, in pain or in joy, may be calling to you </s>
+<s> [LADY WINDERMERE rises.] God gave you that child </s>
+<s> He will require from you that you make his life fine, that you watch over him </s>
+<s> What answer will you make to God if his life is ruined through you </s>
+<s> Back to your house, Lady Windermere--your husband loves you </s>
+<s> He has never swerved for a moment from the love he bears you </s>
+<s> But even if he had a thousand loves, you must stay with your child </s>
+<s> If he was harsh to you, you must stay with your child </s>
+<s> If he ill-treated you, you must stay with your child </s>
+<s> If he abandoned you, your place is with your child </s>
+<s> [LADY WINDERMERE bursts into tears and buries her face in her hands.] [Rushing to her.] Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> [Holding out her hands to her, helplessly, as a child might do.] Take me home </s>
+<s> Take me home </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Is about to embrace her </s>
+<s> Then restrains herself </s>
+<s> There is a look of wonderful joy in her face.] Come </s>
+<s> Where is your cloak </s>
+<s> [Getting it from sofa.] Here </s>
+<s> Put it on </s>
+<s> Come at once </s>
+<s> [They go to the door.] LADY WINDERMERE </s>
+<s> Stop </s>
+<s> Don't you hear voices </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> No, no </s>
+<s> There was no one </s>
+<s> LADY WINDERMERE </s>
+<s> Yes, there is </s>
+<s> Listen </s>
+<s> Oh </s>
+<s> that is my husband's voice </s>
+<s> He is coming in </s>
+<s> Save me </s>
+<s> Oh, it's some plot </s>
+<s> You have sent for him </s>
+<s> [Voices outside.] MRS </s>
+<s> ERLYNNE </s>
+<s> Silence </s>
+<s> I'm here to save you, if I can </s>
+<s> But I fear it is too late </s>
+<s> There </s>
+<s> [Points to the curtain across the window.] The first chance you have, slip out, if you ever get a chance </s>
+<s> LADY WINDERMERE </s>
+<s> But you </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Oh </s>
+<s> never mind me </s>
+<s> I'll face them </s>
+<s> [LADY WINDERMERE hides herself behind the curtain.] LORD AUGUSTUS </s>
+<s> [Outside.] Nonsense, dear Windermere, you must not leave me </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Lord Augustus </s>
+<s> Then it is I who am lost </s>
+<s> [Hesitates for a moment, then looks round and sees door R., and exits through it.] [Enter LORD DARLINGTON, MR </s>
+<s> DUMBY, LORD WINDERMERE, LORD AUGUSTUS LORTON, and MR </s>
+<s> CECIL GRAHAM </s>
+<s> DUMBY </s>
+<s> What a nuisance their turning us out of the club at this hour </s>
+<s> It's only two o'clock </s>
+<s> [Sinks into a chair.] The lively part of the evening is only just beginning </s>
+<s> [Yawns and closes his eyes.] LORD WINDERMERE </s>
+<s> It is very good of you, Lord Darlington, allowing Augustus to force our company on you, but I'm afraid I can't stay long </s>
+<s> LORD DARLINGTON </s>
+<s> Really </s>
+<s> I am so sorry </s>
+<s> You'll take a cigar, won't you </s>
+<s> LORD WINDERMERE </s>
+<s> Thanks </s>
+<s> [Sits down.] LORD AUGUSTUS </s>
+<s> [To LORD WINDERMERE.] My dear boy, you must not dream of going </s>
+<s> I have a great deal to talk to you about, of demmed importance, too </s>
+<s> [Sits down with him at L </s>
+<s> table.] CECIL GRAHAM </s>
+<s> Oh </s>
+<s> We all know what that is </s>
+<s> Tuppy can't talk about anything but Mrs Erlynne </s>
+<s> LORD WINDERMERE </s>
+<s> Well, that is no business of yours, is it, Cecil </s>
+<s> CECIL GRAHAM </s>
+<s> None </s>
+<s> That is why it interests me </s>
+<s> My own business always bores me to death </s>
+<s> I prefer other people's </s>
+<s> LORD DARLINGTON </s>
+<s> Have something to drink, you fellows </s>
+<s> Cecil, you'll have a whisky and soda </s>
+<s> CECIL GRAHAM </s>
+<s> Thanks </s>
+<s> [Goes to table with LORD DARLINGTON.] Mrs Erlynne looked very handsome to-night, didn't she </s>
+<s> LORD DARLINGTON </s>
+<s> I am not one of her admirers </s>
+<s> CECIL GRAHAM </s>
+<s> I usen't to be, but I am now </s>
+<s> Why </s>
+<s> she actually made me introduce her to poor dear Aunt Caroline </s>
+<s> I believe she is going to lunch there </s>
+<s> LORD DARLINGTON </s>
+<s> [In Purple.] No </s>
+<s> CECIL GRAHAM </s>
+<s> She is, really </s>
+<s> LORD DARLINGTON </s>
+<s> Excuse me, you fellows </s>
+<s> I'm going away to- morrow </s>
+<s> And I have to write a few letters </s>
+<s> [Goes to writing table and sits down.] DUMBY </s>
+<s> Clever woman, Mrs Erlynne </s>
+<s> CECIL GRAHAM </s>
+<s> Hallo, Dumby </s>
+<s> I thought you were asleep </s>
+<s> DUMBY </s>
+<s> I am, I usually am </s>
+<s> LORD AUGUSTUS </s>
+<s> A very clever woman </s>
+<s> Knows perfectly well what a demmed fool I am--knows it as well as I do myself </s>
+<s> [CECIL GRAHAM comes towards him laughing.] Ah, you may laugh, my boy, but it is a great thing to come across a woman who thoroughly understands one </s>
+<s> DUMBY </s>
+<s> It is an awfully dangerous thing </s>
+<s> They always end by marrying one </s>
+<s> CECIL GRAHAM </s>
+<s> But I thought, Tuppy, you were never going to see her again </s>
+<s> Yes </s>
+<s> you told me so yesterday evening at the club </s>
+<s> You said you'd heard - [Whispering to him.] LORD AUGUSTUS </s>
+<s> Oh, she's explained that </s>
+<s> CECIL GRAHAM </s>
+<s> And the Wiesbaden affair </s>
+<s> LORD AUGUSTUS </s>
+<s> She's explained that too </s>
+<s> DUMBY </s>
+<s> And her income, Tuppy </s>
+<s> Has she explained that </s>
+<s> LORD AUGUSTUS </s>
+<s> [In a very serious voice.] She's going to explain that to-morrow </s>
+<s> [CECIL GRAHAM goes back to C </s>
+<s> table.] DUMBY </s>
+<s> Awfully commercial, women nowadays </s>
+<s> Our grandmothers threw their caps over the mills, of course, but, by Jove, their granddaughters only throw their caps over mills that can raise the wind for them </s>
+<s> LORD AUGUSTUS </s>
+<s> You want to make her out a wicked woman </s>
+<s> She is not </s>
+<s> CECIL GRAHAM </s>
+<s> Oh </s>
+<s> Wicked women bother one </s>
+<s> Good women bore one </s>
+<s> That is the only difference between them </s>
+<s> LORD AUGUSTUS </s>
+<s> [Puffing a cigar.] Mrs Erlynne has a future before her </s>
+<s> DUMBY </s>
+<s> Mrs Erlynne has a past before her </s>
+<s> LORD AUGUSTUS </s>
+<s> I prefer women with a past </s>
+<s> They're always so demmed amusing to talk to </s>
+<s> CECIL GRAHAM </s>
+<s> Well, you'll have lots of topics of conversation with HER, Tuppy </s>
+<s> [Rising and going to him.] LORD AUGUSTUS </s>
+<s> You're getting annoying, dear-boy; you're getting demmed annoying </s>
+<s> CECIL GRAHAM </s>
+<s> [Puts his hands on his shoulders.] Now, Tuppy, you've lost your figure and you've lost your character </s>
+<s> Don't lose your temper; you have only got one </s>
+<s> LORD AUGUSTUS </s>
+<s> My dear boy, if I wasn't the most good-natured man in London - CECIL GRAHAM </s>
+<s> We'd treat you with more respect, wouldn't we, Tuppy </s>
+<s> [Strolls away.] DUMBY </s>
+<s> The youth of the present day are quite monstrous </s>
+<s> They have absolutely no respect for dyed hair </s>
+<s> [LORD AUGUSTUS looks round angrily.] CECIL GRAHAM </s>
+<s> Mrs Erlynne has a very great respect for dear Tuppy </s>
+<s> DUMBY </s>
+<s> Then Mrs Erlynne sets an admirable example to the rest of her sex </s>
+<s> It is perfectly brutal the way most women nowadays behave to men who are not their husbands </s>
+<s> LORD WINDERMERE </s>
+<s> Dumby, you are ridiculous, and Cecil, you let your tongue run away with you </s>
+<s> You must leave Mrs Erlynne alone </s>
+<s> You don't really know anything about her, and you're always talking scandal against her </s>
+<s> CECIL GRAHAM </s>
+<s> [Coming towards him L.C.] My dear Arthur, I never talk scandal </s>
+<s> _I_ only talk gossip </s>
+<s> LORD WINDERMERE </s>
+<s> What is the difference between scandal and gossip </s>
+<s> CECIL GRAHAM </s>
+<s> Oh </s>
+<s> gossip is charming </s>
+<s> History is merely gossip </s>
+<s> But scandal is gossip made tedious by morality </s>
+<s> Now, I never moralise </s>
+<s> A man who moralises is usually a hypocrite, and a woman who moralises is invariably plain </s>
+<s> There is nothing in the whole world so unbecoming to a woman as a Nonconformist conscience </s>
+<s> And most women know it, I'm glad to say </s>
+<s> LORD AUGUSTUS </s>
+<s> Just my sentiments, dear boy, just my sentiments </s>
+<s> CECIL GRAHAM </s>
+<s> Sorry to hear it, Tuppy; whenever people agree with me, I always feel I must be wrong </s>
+<s> LORD AUGUSTUS </s>
+<s> My dear boy, when I was your age - CECIL GRAHAM </s>
+<s> But you never were, Tuppy, and you never will be </s>
+<s> [Goes up C.] I say, Darlington, let us have some cards </s>
+<s> You'll play, Arthur, won't you </s>
+<s> LORD WINDERMERE </s>
+<s> No, thanks, Cecil </s>
+<s> DUMBY </s>
+<s> [With a sigh.] Good heavens </s>
+<s> how marriage ruins a man </s>
+<s> It's as demoralising as cigarettes, and far more expensive </s>
+<s> CECIL GRAHAM </s>
+<s> You'll play, of course, Tuppy </s>
+<s> LORD AUGUSTUS </s>
+<s> [Pouring himself out a brandy and soda at table.] Can't, dear boy </s>
+<s> Promised Mrs Erlynne never to play or drink again </s>
+<s> CECIL GRAHAM </s>
+<s> Now, my dear Tuppy, don't be led astray into the paths of virtue </s>
+<s> Reformed, you would be perfectly tedious </s>
+<s> That is the worst of women </s>
+<s> They always want one to be good </s>
+<s> And if we are good, when they meet us, they don't love us at all </s>
+<s> They like to find us quite irretrievably bad, and to leave us quite unattractively good </s>
+<s> LORD DARLINGTON </s>
+<s> [Rising from R </s>
+<s> table, where he has been writing letters.] They always do find us bad </s>
+<s> DUMBY </s>
+<s> I don't think we are bad </s>
+<s> I think we are all good, except Tuppy </s>
+<s> LORD DARLINGTON </s>
+<s> No, we are all in the gutter, but some of us are looking at the stars </s>
+<s> [Sits down at C </s>
+<s> table.] DUMBY </s>
+<s> We are all in the gutter, but some of us are looking at the stars </s>
+<s> Upon my word, you are very romantic to-night, Darlington </s>
+<s> CECIL GRAHAM </s>
+<s> Too romantic </s>
+<s> You must be in love </s>
+<s> Who is the girl </s>
+<s> LORD DARLINGTON </s>
+<s> The woman I love is not free, or thinks she isn't </s>
+<s> [Glances instinctively at LORD WINDERMERE while he speaks.] CECIL GRAHAM </s>
+<s> A married woman, then </s>
+<s> Well, there's nothing in the world like the devotion of a married woman </s>
+<s> It's a thing no married man knows anything about </s>
+<s> LORD DARLINGTON </s>
+<s> Oh </s>
+<s> she doesn't love me </s>
+<s> She is a good woman </s>
+<s> She is the only good woman I have ever met in my life </s>
+<s> CECIL GRAHAM </s>
+<s> The only good woman you have ever met in your life </s>
+<s> LORD DARLINGTON </s>
+<s> Yes </s>
+<s> CECIL GRAHAM </s>
+<s> [Lighting a cigarette.] Well, you are a lucky fellow </s>
+<s> Why, I have met hundreds of good women </s>
+<s> I never seem to meet any but good women </s>
+<s> The world is perfectly packed with good women </s>
+<s> To know them is a middle-class education </s>
+<s> LORD DARLINGTON </s>
+<s> This woman has purity and innocence </s>
+<s> She has everything we men have lost </s>
+<s> CECIL GRAHAM </s>
+<s> My dear fellow, what on earth should we men do going about with purity and innocence </s>
+<s> A carefully thought-out buttonhole is much more effective </s>
+<s> DUMBY </s>
+<s> She doesn't really love you then </s>
+<s> LORD DARLINGTON </s>
+<s> No, she does not </s>
+<s> DUMBY </s>
+<s> I congratulate you, my dear fellow </s>
+<s> In this world there are only two tragedies </s>
+<s> One is not getting what one wants, and the other is getting it </s>
+<s> The last is much the worst; the last is a real tragedy </s>
+<s> But I am interested to hear she does not love you </s>
+<s> How long could you love a woman who didn't love you, Cecil </s>
+<s> CECIL GRAHAM </s>
+<s> A woman who didn't love me </s>
+<s> Oh, all my life </s>
+<s> DUMBY </s>
+<s> So could I </s>
+<s> But it's so difficult to meet one </s>
+<s> LORD DARLINGTON </s>
+<s> How can you be so conceited, DUMBY </s>
+<s> DUMBY </s>
+<s> I didn't say it as a matter of conceit </s>
+<s> I said it as a matter of regret </s>
+<s> I have been wildly, madly adored </s>
+<s> I am sorry I have </s>
+<s> It has been an immense nuisance </s>
+<s> I should like to be allowed a little time to myself now and then </s>
+<s> LORD AUGUSTUS </s>
+<s> [Looking round.] Time to educate yourself, I suppose </s>
+<s> DUMBY </s>
+<s> No, time to forget all I have learned </s>
+<s> That is much more important, dear Tuppy </s>
+<s> [LORD AUGUSTUS moves uneasily in his chair.] LORD DARLINGTON </s>
+<s> What cynics you fellows are </s>
+<s> CECIL GRAHAM </s>
+<s> What is a cynic </s>
+<s> [Sitting on the back of the sofa.] LORD DARLINGTON </s>
+<s> A man who knows the price of everything and the value of nothing </s>
+<s> CECIL GRAHAM </s>
+<s> And a sentimentalist, my dear Darlington, is a man who sees an absurd value in everything, and doesn't know the market price of any single thing </s>
+<s> LORD DARLINGTON </s>
+<s> You always amuse me, Cecil </s>
+<s> You talk as if you were a man of experience </s>
+<s> CECIL GRAHAM </s>
+<s> I am </s>
+<s> [Moves up to front off fireplace.] LORD DARLINGTON </s>
+<s> You are far too young </s>
+<s> CECIL GRAHAM </s>
+<s> That is a great error </s>
+<s> Experience is a question of instinct about life </s>
+<s> I have got it </s>
+<s> Tuppy hasn't </s>
+<s> Experience is the name Tuppy gives to his mistakes </s>
+<s> That is all </s>
+<s> [LORD AUGUSTUS looks round indignantly.] DUMBY </s>
+<s> Experience is the name every one gives to their mistakes </s>
+<s> CECIL GRAHAM </s>
+<s> [Standing with his back to the fireplace.] One shouldn't commit any </s>
+<s> [Sees LADY WINDERMERE'S fan on sofa.] DUMBY </s>
+<s> Life would be very dull without them </s>
+<s> CECIL GRAHAM </s>
+<s> Of course you are quite faithful to this woman you are in love with, Darlington, to this good woman </s>
+<s> LORD DARLINGTON </s>
+<s> Cecil, if on really loves a woman, all other women in the world become absolutely meaningless to one </s>
+<s> Love changes one--_I_ am changed </s>
+<s> CECIL GRAHAM </s>
+<s> Dear me </s>
+<s> How very interesting </s>
+<s> Tuppy, I want to talk to you </s>
+<s> [LORD AUGUSTUS takes no notice.] DUMBY </s>
+<s> It's no use talking to Tuppy </s>
+<s> You might just as well talk to a brick wall </s>
+<s> CECIL GRAHAM </s>
+<s> But I like talking to a brick wall--it's the only thing in the world that never contradicts me </s>
+<s> Tuppy </s>
+<s> LORD AUGUSTUS </s>
+<s> Well, what is it </s>
+<s> What is it </s>
+<s> [Rising and going over to CECIL GRAHAM.] CECIL GRAHAM </s>
+<s> Come over here </s>
+<s> I want you particularly </s>
+<s> [Aside.] Darlington has been moralising and talking about the purity of love, and that sort of thing, and he has got some woman in his rooms all the time </s>
+<s> LORD AUGUSTUS </s>
+<s> No, really </s>
+<s> really </s>
+<s> CECIL GRAHAM </s>
+<s> [In a low voice.] Yes, here is her fan </s>
+<s> [Points to the fan.] LORD AUGUSTUS </s>
+<s> [Chuckling.] By Jove </s>
+<s> By Jove </s>
+<s> LORD WINDERMERE </s>
+<s> [Up by door.] I am really off now, Lord Darlington </s>
+<s> I am sorry you are leaving England so soon </s>
+<s> Pray call on us when you come back </s>
+<s> My wife and I will be charmed to see you </s>
+<s> LORD DARLINGTON </s>
+<s> [Up sage with LORD WINDERMERE.] I am afraid I shall be away for many years </s>
+<s> Good-night </s>
+<s> CECIL GRAHAM </s>
+<s> Arthur </s>
+<s> LORD WINDERMERE </s>
+<s> What </s>
+<s> CECIL GRAHAM </s>
+<s> I want to speak to you for a moment </s>
+<s> No, do come </s>
+<s> LORD WINDERMERE </s>
+<s> [Putting on his coat.] I can't--I'm off </s>
+<s> CECIL GRAHAM </s>
+<s> It is something very particular </s>
+<s> It will interest you enormously </s>
+<s> LORD WINDERMERE </s>
+<s> [Smiling.] It is some of your nonsense, Cecil </s>
+<s> CECIL GRAHAM </s>
+<s> It isn't </s>
+<s> It isn't really </s>
+<s> LORD AUGUSTUS </s>
+<s> [Going to him.] My dear fellow, you mustn't go yet </s>
+<s> I have a lot to talk to you about </s>
+<s> And Cecil has something to show you </s>
+<s> LORD WINDERMERE </s>
+<s> [Walking over.] Well, what is it </s>
+<s> CECIL GRAHAM </s>
+<s> Darlington has got a woman here in his rooms </s>
+<s> Here is her fan </s>
+<s> Amusing, isn't it </s>
+<s> [A pause.] LORD WINDERMERE </s>
+<s> Good God </s>
+<s> [Seizes the fan--DUMBY rises.] CECIL GRAHAM </s>
+<s> What is the matter </s>
+<s> LORD WINDERMERE </s>
+<s> Lord Darlington </s>
+<s> LORD DARLINGTON </s>
+<s> [Turning round.] Yes </s>
+<s> LORD WINDERMERE </s>
+<s> What is my wife's fan doing here in your rooms </s>
+<s> Hands off, Cecil </s>
+<s> Don't touch me </s>
+<s> LORD DARLINGTON </s>
+<s> Your wife's fan </s>
+<s> LORD WINDERMERE </s>
+<s> Yes, here it is </s>
+<s> LORD DARLINGTON </s>
+<s> [Walking towards him.] I don't know </s>
+<s> LORD WINDERMERE </s>
+<s> You must know </s>
+<s> I demand an explanation </s>
+<s> Don't hold me, you fool </s>
+<s> [To CECIL GRAHAM.] LORD DARLINGTON </s>
+<s> [Aside.] She is here after all </s>
+<s> LORD WINDERMERE </s>
+<s> Speak, sir </s>
+<s> Why is my wife's fan here </s>
+<s> Answer me </s>
+<s> By God </s>
+<s> I'll search your rooms, and if my wife's here, I'll-- [Moves.] LORD DARLINGTON </s>
+<s> You shall not search my rooms </s>
+<s> You have no right to do so </s>
+<s> I forbid you </s>
+<s> LORD WINDERMERE </s>
+<s> You scoundrel </s>
+<s> I'll not leave your room till I have searched every corner of it </s>
+<s> What moves behind that curtain </s>
+<s> [Rushes towards the curtain C.] MRS </s>
+<s> ERLYNNE </s>
+<s> [Enters behind R.] Lord Windermere </s>
+<s> LORD WINDERMERE </s>
+<s> Mrs Erlynne </s>
+<s> [Every one starts and turns round </s>
+<s> LADY WINDERMERE slips out from behind the curtain and glides from the room L.] MRS </s>
+<s> ERLYNNE </s>
+<s> I am afraid I took your wife's fan in mistake for my own, when I was leaving your house to-night </s>
+<s> I am so sorry </s>
+<s> [Takes fan from him </s>
+<s> LORD WINDERMERE looks at her in contempt </s>
+<s> LORD DARLINGTON in mingled astonishment and anger </s>
+<s> LORD AUGUSTUS turns away </s>
+<s> The other men smile at each other.] ACT DROP </s>
+<s> FOURTH ACT SCENE--Same as in Act I </s>
+<s> LADY WINDERMERE </s>
+<s> [Lying on sofa.] How can I tell him </s>
+<s> I can't tell him </s>
+<s> It would kill me </s>
+<s> I wonder what happened after I escaped from that horrible room </s>
+<s> Perhaps she told them the true reason of her being there, and the real meaning of that--fatal fan of mine </s>
+<s> Oh, if he knows--how can I look him in the face again </s>
+<s> He would never forgive me </s>
+<s> [Touches bell.] How securely one thinks one lives--out of reach of temptation, sin, folly </s>
+<s> And then suddenly--Oh </s>
+<s> Life is terrible </s>
+<s> It rules us, we do not rule it </s>
+<s> [Enter ROSALIE R.] ROSALIE </s>
+<s> Did your ladyship ring for me </s>
+<s> LADY WINDERMERE </s>
+<s> Yes </s>
+<s> Have you found out at what time Lord Windermere came in last night </s>
+<s> ROSALIE </s>
+<s> His lordship did not come in till five o'clock </s>
+<s> LADY WINDERMERE </s>
+<s> Five o'clock </s>
+<s> He knocked at my door this morning, didn't he </s>
+<s> ROSALIE </s>
+<s> Yes, my lady--at half-past nine </s>
+<s> I told him your ladyship was not awake yet </s>
+<s> LADY WINDERMERE </s>
+<s> Did he say anything </s>
+<s> ROSALIE </s>
+<s> Something about your ladyship's fan </s>
+<s> I didn't quite catch what his lordship said </s>
+<s> Has the fan been lost, my lady </s>
+<s> I can't find it, and Parker says it was not left in any of the rooms </s>
+<s> He has looked in all of them and on the terrace as well </s>
+<s> LADY WINDERMERE </s>
+<s> It doesn't matter </s>
+<s> Tell Parker not to trouble </s>
+<s> That will do </s>
+<s> [Exit ROSALIE.] LADY WINDERMERE </s>
+<s> [Rising.] She is sure to tell him </s>
+<s> I can fancy a person doing a wonderful act of self-sacrifice, doing it spontaneously, recklessly, nobly--and afterwards finding out that it costs too much </s>
+<s> Why should she hesitate between her ruin and mine </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> How strange </s>
+<s> I would have publicly disgraced her in my own house </s>
+<s> She accepts public disgrace in the house of another to save me </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> There is a bitter irony in things, a bitter irony in the way we talk of good and bad women </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> Oh, what a lesson </s>
+<s> and what a pity that in life we only get our lessons when they are of no use to us </s>
+<s> For even if she doesn't tell, I must </s>
+<s> Oh </s>
+<s> the shame of it, the shame of it </s>
+<s> To tell it is to live through it all again </s>
+<s> Actions are the first tragedy in life, words are the second </s>
+<s> Words are perhaps the worst </s>
+<s> Words are merciless </s>
+<s> </s>
+<s> </s>
+<s> Oh </s>
+<s> [Starts as LORD WINDERMERE enters.] LORD WINDERMERE </s>
+<s> [Kisses her.] Margaret--how pale you look </s>
+<s> LADY WINDERMERE </s>
+<s> I slept very badly </s>
+<s> LORD WINDERMERE </s>
+<s> [Sitting on sofa with her.] I am so sorry </s>
+<s> I came in dreadfully late, and didn't like to wake you </s>
+<s> You are crying, dear </s>
+<s> LADY WINDERMERE </s>
+<s> Yes, I am crying, for I have something to tell you, Arthur </s>
+<s> LORD WINDERMERE </s>
+<s> My dear child, you are not well </s>
+<s> You've been doing too much </s>
+<s> Let us go away to the country </s>
+<s> You'll be all right at Selby </s>
+<s> The season is almost over </s>
+<s> There is no use staying on </s>
+<s> Poor darling </s>
+<s> We'll go away to-day, if you like </s>
+<s> [Rises.] We can easily catch the 3.40 </s>
+<s> I'll send a wire to Fannen </s>
+<s> [Crosses and sits down at table to write a telegram.] LADY WINDERMERE </s>
+<s> Yes; let us go away to-day </s>
+<s> No; I can't go to- day, Arthur </s>
+<s> There is some one I must see before I leave town-- some one who has been kind to me </s>
+<s> LORD WINDERMERE </s>
+<s> [Rising and leaning over sofa.] Kind to you </s>
+<s> LADY WINDERMERE </s>
+<s> Far more than that </s>
+<s> [Rises and goes to him.] I will tell you, Arthur, but only love me, love me as you used to love me </s>
+<s> LORD WINDERMERE </s>
+<s> Used to </s>
+<s> You are not thinking of that wretched woman who came here last night </s>
+<s> [Coming round and sitting R </s>
+<s> of her.] You don't still imagine--no, you couldn't </s>
+<s> LADY WINDERMERE </s>
+<s> I don't </s>
+<s> I know now I was wrong and foolish </s>
+<s> LORD WINDERMERE </s>
+<s> It was very good of you to receive her last night--but you are never to see her again </s>
+<s> LADY WINDERMERE </s>
+<s> Why do you say that </s>
+<s> [A pause.] LORD WINDERMERE </s>
+<s> [Holding her hand.] Margaret, I thought Mrs Erlynne was a woman more sinned against than sinning, as the phrase goes </s>
+<s> I thought she wanted to be good, to get back into a place that she had lost by a moment's folly, to lead again a decent life </s>
+<s> I believed what she told me--I was mistaken in her </s>
+<s> She is bad--as bad as a woman can be </s>
+<s> LADY WINDERMERE </s>
+<s> Arthur, Arthur, don't talk so bitterly about any woman </s>
+<s> I don't think now that people can be divided into the good and the bad as though they were two separate races or creations </s>
+<s> What are called good women may have terrible things in them, mad moods of recklessness, assertion, jealousy, sin </s>
+<s> Bad women, as they are termed, may have in them sorrow, repentance, pity, sacrifice </s>
+<s> And I don't think Mrs Erlynne a bad woman--I know she's not </s>
+<s> LORD WINDERMERE </s>
+<s> My dear child, the woman's impossible </s>
+<s> No matter what harm she tries to do us, you must never see her again </s>
+<s> She is inadmissible anywhere </s>
+<s> LADY WINDERMERE </s>
+<s> But I want to see her </s>
+<s> I want her to come here </s>
+<s> LORD WINDERMERE </s>
+<s> Never </s>
+<s> LADY WINDERMERE </s>
+<s> She came here once as YOUR guest </s>
+<s> She must come now as MINE </s>
+<s> That is but fair </s>
+<s> LORD WINDERMERE </s>
+<s> She should never have come here </s>
+<s> LADY WINDERMERE </s>
+<s> [Rising.] It is too late, Arthur, to say that now </s>
+<s> [Moves away.] LORD WINDERMERE </s>
+<s> [Rising.] Margaret, if you knew where Mrs Erlynne went last night, after she left this house, you would not sit in the same room with her </s>
+<s> It was absolutely shameless, the whole thing </s>
+<s> LADY WINDERMERE </s>
+<s> Arthur, I can't bear it any longer </s>
+<s> I must tell you </s>
+<s> Last night - [Enter PARKER with a tray on which lie LADY WINDERMERE'S fan and a card.] PARKER </s>
+<s> Mrs Erlynne has called to return your ladyship's fan which she took away by mistake last night </s>
+<s> Mrs Erlynne has written a message on the card </s>
+<s> LADY WINDERMERE </s>
+<s> Oh, ask Mrs Erlynne to be kind enough to come up </s>
+<s> [Reads card.] Say I shall be very glad to see her </s>
+<s> [Exit PARKER.] She wants to see me, Arthur </s>
+<s> LORD WINDERMERE </s>
+<s> [Takes card and looks at it.] Margaret, I BEG you not to </s>
+<s> Let me see her first, at any rate </s>
+<s> She's a very dangerous woman </s>
+<s> She is the most dangerous woman I know </s>
+<s> You don't realise what you're doing </s>
+<s> LADY WINDERMERE </s>
+<s> It is right that I should see her </s>
+<s> LORD WINDERMERE </s>
+<s> My child, you may be on the brink of a great sorrow </s>
+<s> Don't go to meet it </s>
+<s> It is absolutely necessary that I should see her before you do </s>
+<s> LADY WINDERMERE </s>
+<s> Why should it be necessary </s>
+<s> [Enter PARKER.] PARKER </s>
+<s> Mrs Erlynne </s>
+<s> [Enter MRS </s>
+<s> ERLYNNE.] [Exit PARKER.] MRS </s>
+<s> ERLYNNE </s>
+<s> How do you do, Lady Windermere </s>
+<s> [To LORD WINDERMERE.] How do you do </s>
+<s> Do you know, Lady Windermere, I am so sorry about your fan </s>
+<s> I can't imagine how I made such a silly mistake </s>
+<s> Most stupid of me </s>
+<s> And as I was driving in your direction, I thought I would take the opportunity of returning your property in person with many apologies for my carelessness, and of bidding you good-bye </s>
+<s> LADY WINDERMERE </s>
+<s> Good-bye </s>
+<s> [Moves towards sofa with MRS </s>
+<s> ERLYNNE and sits down beside her.] Are you going away, then, Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Yes; I am going to live abroad again </s>
+<s> The English climate doesn't suit me </s>
+<s> My--heart is affected here, and that I don't like </s>
+<s> I prefer living in the south </s>
+<s> London is too full of fogs and--and serious people, Lord Windermere </s>
+<s> Whether the fogs produce the serious people or whether the serious people produce the fogs, I don't know, but the whole thing rather gets on my nerves, and so I'm leaving this afternoon by the Club Train </s>
+<s> LADY WINDERMERE </s>
+<s> This afternoon </s>
+<s> But I wanted so much to come and see you </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> How kind of you </s>
+<s> But I am afraid I have to go </s>
+<s> LADY WINDERMERE </s>
+<s> Shall I never see you again, Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> I am afraid not </s>
+<s> Our lives lie too far apart </s>
+<s> But there is a little thing I would like you to do for me </s>
+<s> I want a photograph of you, Lady Windermere--would you give me one </s>
+<s> You don't know how gratified I should be </s>
+<s> LADY WINDERMERE </s>
+<s> Oh, with pleasure </s>
+<s> There is one on that table </s>
+<s> I'll show it to you </s>
+<s> [Goes across to the table.] LORD WINDERMERE </s>
+<s> [Coming up to MRS </s>
+<s> ERLYNNE and speaking in a low voice.] It is monstrous your intruding yourself here after your conduct last night </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [With an amused smile.] My dear Windermere, manners before morals </s>
+<s> LADY WINDERMERE </s>
+<s> [Returning.] I'm afraid it is very flattering--I am not so pretty as that </s>
+<s> [Showing photograph.] MRS </s>
+<s> ERLYNNE </s>
+<s> You are much prettier </s>
+<s> But haven't you got one of yourself with your little boy </s>
+<s> LADY WINDERMERE </s>
+<s> I have </s>
+<s> Would you prefer one of those </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Yes </s>
+<s> LADY WINDERMERE </s>
+<s> I'll go and get it for you, if you'll excuse me for a moment </s>
+<s> I have one upstairs </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> So sorry, Lady Windermere, to give you so much trouble </s>
+<s> LADY WINDERMERE </s>
+<s> [Moves to door R.] No trouble at all, Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Thanks so much </s>
+<s> [Exit LADY WINDERMERE R.] You seem rather out of temper this morning, Windermere </s>
+<s> Why should you be </s>
+<s> Margaret and I get on charmingly together </s>
+<s> LORD WINDERMERE </s>
+<s> I can't bear to see you with her </s>
+<s> Besides, you have not told me the truth, Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> I have not told HER the truth, you mean </s>
+<s> LORD WINDERMERE </s>
+<s> [Standing C.] I sometimes wish you had </s>
+<s> I should have been spared then the misery, the anxiety, the annoyance of the last six months </s>
+<s> But rather than my wife should know--that the mother whom she was taught to consider as dead, the mother whom she has mourned as dead, is living--a divorced woman, going about under an assumed name, a bad woman preying upon life, as I know you now to be--rather than that, I was ready to supply you with money to pay bill after bill, extravagance after extravagance, to risk what occurred yesterday, the first quarrel I have ever had with my wife </s>
+<s> You don't understand what that means to me </s>
+<s> How could you </s>
+<s> But I tell you that the only bitter words that ever came from those sweet lips of hers were on your account, and I hate to see you next her </s>
+<s> You sully the innocence that is in her </s>
+<s> [Moves L.C.] And then I used to think that with all your faults you were frank and honest </s>
+<s> You are not </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Why do you say that </s>
+<s> LORD WINDERMERE </s>
+<s> You made me get you an invitation to my wife's ball </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> For my daughter's ball--yes </s>
+<s> LORD WINDERMERE </s>
+<s> You came, and within an hour of your leaving the house you are found in a man's rooms--you are disgraced before every one </s>
+<s> [Goes up stage C.] MRS </s>
+<s> ERLYNNE </s>
+<s> Yes </s>
+<s> LORD WINDERMERE </s>
+<s> [Turning round on her.] Therefore I have a right to look upon you as what you are--a worthless, vicious woman </s>
+<s> I have the right to tell you never to enter this house, never to attempt to come near my wife - MRS </s>
+<s> ERLYNNE </s>
+<s> [Coldly.] My daughter, you mean </s>
+<s> LORD WINDERMERE </s>
+<s> You have no right to claim her as your daughter </s>
+<s> You left her, abandoned her when she was but a child in the cradle, abandoned her for your lover, who abandoned you in turn </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Rising.] Do you count that to his credit, Lord Windermere--or to mine </s>
+<s> LORD WINDERMERE </s>
+<s> To his, now that I know you </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Take care--you had better be careful </s>
+<s> LORD WINDERMERE </s>
+<s> Oh, I am not going to mince words for you </s>
+<s> I know you thoroughly </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Looks steadily at him.] I question that </s>
+<s> LORD WINDERMERE </s>
+<s> I DO know you </s>
+<s> For twenty years of your life you lived without your child, without a thought of your child </s>
+<s> One day you read in the papers that she had married a rich man </s>
+<s> You saw your hideous chance </s>
+<s> You knew that to spare her the ignominy of learning that a woman like you was her mother, I would endure anything </s>
+<s> You began your blackmailing, MRS </s>
+<s> ERLYNNE </s>
+<s> [Shrugging her shoulders.] Don't use ugly words, Windermere </s>
+<s> They are vulgar </s>
+<s> I saw my chance, it is true, and took it </s>
+<s> LORD WINDERMERE </s>
+<s> Yes, you took it--and spoiled it all last night by being found out </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [With a strange smile.] You are quite right, I spoiled it all last night </s>
+<s> LORD WINDERMERE </s>
+<s> And as for your blunder in taking my wife's fan from here and then leaving it about in Darlington's rooms, it is unpardonable </s>
+<s> I can't bear the sight of it now </s>
+<s> I shall never let my wife use it again </s>
+<s> The thing is soiled for me </s>
+<s> You should have kept it and not brought it back </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> I think I shall keep it </s>
+<s> [Goes up.] It's extremely pretty </s>
+<s> [Takes up fan.] I shall ask Margaret to give it to me </s>
+<s> LORD WINDERMERE </s>
+<s> I hope my wife will give it you </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Oh, I'm sure she will have no objection </s>
+<s> LORD WINDERMERE </s>
+<s> I wish that at the same time she would give you a miniature she kisses every night before she prays--It's the miniature of a young innocent-looking girl with beautiful DARK hair </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Ah, yes, I remember </s>
+<s> How long ago that seems </s>
+<s> [Goes to sofa and sits down.] It was done before I was married </s>
+<s> Dark hair and an innocent expression were the fashion then, Windermere </s>
+<s> [A pause.] LORD WINDERMERE </s>
+<s> What do you mean by coming here this morning </s>
+<s> What is your object </s>
+<s> [Crossing L.C </s>
+<s> and sitting.] MRS </s>
+<s> ERLYNNE </s>
+<s> [With a note of irony in her voice.] To bid good- bye to my dear daughter, of course </s>
+<s> [LORD WINDERMERE bites his under lip in anger </s>
+<s> MRS </s>
+<s> ERLYNNE looks at him, and her voice and manner become serious </s>
+<s> In her accents at she talks there is a note of deep tragedy </s>
+<s> For a moment she reveals herself.] Oh, don't imagine I am going to have a pathetic scene with her, weep on her neck and tell her who I am, and all that kind of thing </s>
+<s> I have no ambition to play the part of a mother </s>
+<s> Only once in my life like I known a mother's feelings </s>
+<s> That was last night </s>
+<s> They were terrible--they made me suffer--they made me suffer too much </s>
+<s> For twenty years, as you say, I have lived childless,--I want to live childless still </s>
+<s> [Hiding her feelings with a trivial laugh.] Besides, my dear Windermere, how on earth could I pose as a mother with a grown-up daughter </s>
+<s> Margaret is twenty-one, and I have never admitted that I am more than twenty-nine, or thirty at the most </s>
+<s> Twenty-nine when there are pink shades, thirty when there are not </s>
+<s> So you see what difficulties it would involve </s>
+<s> No, as far as I am concerned, let your wife cherish the memory of this dead, stainless mother </s>
+<s> Why should I interfere with her illusions </s>
+<s> I find it hard enough to keep my own </s>
+<s> I lost one illusion last night </s>
+<s> I thought I had no heart </s>
+<s> I find I have, and a heart doesn't suit me, Windermere </s>
+<s> Somehow it doesn't go with modern dress </s>
+<s> It makes one look old </s>
+<s> [Takes up hand-mirror from table and looks into it.] And it spoils one's career at critical moments </s>
+<s> LORD WINDERMERE </s>
+<s> You fill me with horror--with absolute horror </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Rising.] I suppose, Windermere, you would like me to retire into a convent, or become a hospital nurse, or something of that kind, as people do in silly modern novels </s>
+<s> That is stupid of you, Arthur; in real life we don't do such things--not as long as we have any good looks left, at any rate </s>
+<s> No--what consoles one nowadays is not repentance, but pleasure </s>
+<s> Repentance is quite out of date </s>
+<s> And besides, if a woman really repents, she has to go to a bad dressmaker, otherwise no one believes in her </s>
+<s> And nothing in the world would induce me to do that </s>
+<s> No; I am going to pass entirely out of your two lives </s>
+<s> My coming into them has been a mistake--I discovered that last night </s>
+<s> LORD WINDERMERE </s>
+<s> A fatal mistake </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Smiling.] Almost fatal </s>
+<s> LORD WINDERMERE </s>
+<s> I am sorry now I did not tell my wife the whole thing at once </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> I regret my bad actions </s>
+<s> You regret your good ones- -that is the difference between us </s>
+<s> LORD WINDERMERE </s>
+<s> I don't trust you </s>
+<s> I WILL tell my wife </s>
+<s> It's better for her to know, and from me </s>
+<s> It will cause her infinite pain--it will humiliate her terribly, but it's right that she should know </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> You propose to tell her </s>
+<s> LORD WINDERMERE </s>
+<s> I am going to tell her </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Going up to him.] If you do, I will make my name so infamous that it will mar every moment of her life </s>
+<s> It will ruin her, and make her wretched </s>
+<s> If you dare to tell her, there is no depth of degradation I will not sink to, no pit of shame I will not enter </s>
+<s> You shall not tell her--I forbid you </s>
+<s> LORD WINDERMERE </s>
+<s> Why </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [After a pause.] If I said to you that I cared for her, perhaps loved her even--you would sneer at me, wouldn't you </s>
+<s> LORD WINDERMERE </s>
+<s> I should feel it was not true </s>
+<s> A mother's love means devotion, unselfishness, sacrifice </s>
+<s> What could you know of such things </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> You are right </s>
+<s> What could I know of such things </s>
+<s> Don't let us talk any more about it--as for telling my daughter who I am, that I do not allow </s>
+<s> It is my secret, it is not yours </s>
+<s> If I make up my mind to tell her, and I think I will, I shall tell her before I leave the house--if not, I shall never tell her </s>
+<s> LORD WINDERMERE </s>
+<s> [Angrily.] Then let me beg of you to leave our house at once </s>
+<s> I will make your excuses to Margaret </s>
+<s> [Enter LADY WINDERMERE R </s>
+<s> She goes over to MRS </s>
+<s> ERLYNNE with the photograph in her hand </s>
+<s> LORD WINDERMERE moves to back of sofa, and anxiously watches MRS </s>
+<s> ERLYNNE as the scene progresses.] LADY WINDERMERE </s>
+<s> I am so sorry, Mrs Erlynne, to have kept you waiting </s>
+<s> I couldn't find the photograph anywhere </s>
+<s> At last I discovered it in my husband's dressing-room--he had stolen it </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Takes the photograph from her and looks at it.] I am not surprised--it is charming </s>
+<s> [Goes over to sofa with LADY WINDERMERE, and sits down beside her </s>
+<s> Looks again at the photograph.] And so that is your little boy </s>
+<s> What is he called </s>
+<s> LADY WINDERMERE </s>
+<s> Gerard, after my dear father </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Laying the photograph down.] Really </s>
+<s> LADY WINDERMERE </s>
+<s> Yes </s>
+<s> If it had been a girl, I would have called it after my mother </s>
+<s> My mother had the same name as myself, Margaret </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> My name is Margaret too </s>
+<s> LADY WINDERMERE </s>
+<s> Indeed </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Yes </s>
+<s> [Pause.] You are devoted to your mother's memory, Lady Windermere, your husband tells me </s>
+<s> LADY WINDERMERE </s>
+<s> We all have ideals in life </s>
+<s> At least we all should have </s>
+<s> Mine is my mother </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Ideals are dangerous things </s>
+<s> Realities are better </s>
+<s> They wound, but they're better </s>
+<s> LADY WINDERMERE </s>
+<s> [Shaking her head.] If I lost my ideals, I should lose everything </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Everything </s>
+<s> LADY WINDERMERE </s>
+<s> Yes </s>
+<s> [Pause.] MRS </s>
+<s> ERLYNNE </s>
+<s> Did your father often speak to you of your mother </s>
+<s> LADY WINDERMERE </s>
+<s> No, it gave him too much pain </s>
+<s> He told me how my mother had died a few months after I was born </s>
+<s> His eyes filled with tears as he spoke </s>
+<s> Then he begged me never to mention her name to him again </s>
+<s> It made him suffer even to hear it </s>
+<s> My father- -my father really died of a broken heart </s>
+<s> His was the most ruined life know, MRS </s>
+<s> ERLYNNE </s>
+<s> [Rising.] I am afraid I must go now, Lady Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> [Rising.] Oh no, don't </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> I think I had better </s>
+<s> My carriage must have come back by this time </s>
+<s> I sent it to Lady Jedburgh's with a note </s>
+<s> LADY WINDERMERE </s>
+<s> Arthur, would you mind seeing if Mrs Erlynne's carriage has come back </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Pray don't trouble, Lord Windermere </s>
+<s> LADY WINDERMERE </s>
+<s> Yes, Arthur, do go, please </s>
+<s> [LORD WINDERMERE hesitated for a moment and looks at MRS </s>
+<s> ERLYNNE </s>
+<s> She remains quite impassive </s>
+<s> He leaves the room.] [To MRS </s>
+<s> ERLYNNE.] Oh </s>
+<s> What am I to say to you </s>
+<s> You saved me last night </s>
+<s> [Goes towards her.] MRS </s>
+<s> ERLYNNE </s>
+<s> Hush--don't speak of it </s>
+<s> LADY WINDERMERE </s>
+<s> I must speak of it </s>
+<s> I can't let you think that I am going to accept this sacrifice </s>
+<s> I am not </s>
+<s> It is too great </s>
+<s> I am going to tell my husband everything </s>
+<s> It is my duty </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> It is not your duty--at least you have duties to others besides him </s>
+<s> You say you owe me something </s>
+<s> LADY WINDERMERE </s>
+<s> I owe you everything </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Then pay your debt by silence </s>
+<s> That is the only way in which it can be paid </s>
+<s> Don't spoil the one good thing I have done in my life by telling it to any one </s>
+<s> Promise me that what passed last night will remain a secret between us </s>
+<s> You must not bring misery into your husband's life </s>
+<s> Why spoil his love </s>
+<s> You must not spoil it </s>
+<s> Love is easily killed </s>
+<s> Oh </s>
+<s> how easily love is killed </s>
+<s> Pledge me your word, Lady Windermere, that you will never tell him </s>
+<s> I insist upon it </s>
+<s> LADY WINDERMERE </s>
+<s> [With bowed head.] It is your will, not mine </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Yes, it is my will </s>
+<s> And never forget your child--I like to think of you as a mother </s>
+<s> I like you to think of yourself as one </s>
+<s> LADY WINDERMERE </s>
+<s> [Looking up.] I always will now </s>
+<s> Only once in my life I have forgotten my own mother--that was last night </s>
+<s> Oh, if I had remembered her I should not have been so foolish, so wicked </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [With a slight shudder.] Hush, last night is quite over </s>
+<s> [Enter LORD WINDERMERE.] LORD WINDERMERE </s>
+<s> Your carriage has not come back yet, Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> It makes no matter </s>
+<s> I'll take a hansom </s>
+<s> There is nothing in the world so respectable as a good Shrewsbury and Talbot </s>
+<s> And now, dear Lady Windermere, I am afraid it is really good-bye </s>
+<s> [Moves up C.] Oh, I remember </s>
+<s> You'll think me absurd, but do you know I've taken a great fancy to this fan that I was silly enough to run away with last night from your ball </s>
+<s> Now, I wonder would you give it to me </s>
+<s> Lord Windermere says you may </s>
+<s> I know it is his present </s>
+<s> LADY WINDERMERE </s>
+<s> Oh, certainly, if it will give you any pleasure </s>
+<s> But it has my name on it </s>
+<s> It has 'Margaret' on it </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> But we have the same Christian name </s>
+<s> LADY WINDERMERE </s>
+<s> Oh, I forgot </s>
+<s> Of course, do have it </s>
+<s> What a wonderful chance our names being the same </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> Quite wonderful </s>
+<s> Thanks--it will always remind me of you </s>
+<s> [Shakes hands with her.] [Enter PARKER.] PARKER </s>
+<s> Lord Augustus Lorton </s>
+<s> Mrs Erlynne's carriage has come </s>
+<s> [Enter LORD AUGUSTUS.] LORD AUGUSTUS </s>
+<s> Good morning, dear boy </s>
+<s> Good morning, Lady Windermere </s>
+<s> [Sees MRS </s>
+<s> ERLYNNE.] Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> How do you do, Lord Augustus </s>
+<s> Are you quite well this morning </s>
+<s> LORD AUGUSTUS </s>
+<s> [Coldly.] Quite well, thank you, Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> You don't look at all well, Lord Augustus </s>
+<s> You stop up too late--it is so bad for you </s>
+<s> You really should take more care of yourself </s>
+<s> Good-bye, Lord Windermere </s>
+<s> [Goes towards door with a bow to LORD AUGUSTUS </s>
+<s> Suddenly smiles and looks back at him.] Lord Augustus </s>
+<s> Won't you see me to my carriage </s>
+<s> You might carry the fan </s>
+<s> LORD WINDERMERE </s>
+<s> Allow me </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> No; I want Lord Augustus </s>
+<s> I have a special message for the dear Duchess </s>
+<s> Won't you carry the fan, Lord Augustus </s>
+<s> LORD AUGUSTUS </s>
+<s> If you really desire it, Mrs Erlynne </s>
+<s> MRS </s>
+<s> ERLYNNE </s>
+<s> [Laughing.] Of course I do </s>
+<s> You'll carry it so gracefully </s>
+<s> You would carry off anything gracefully, dear Lord Augustus </s>
+<s> [When she reaches the door she looks back for a moment at LADY WINDERMERE </s>
+<s> Their eyes meet </s>
+<s> Then she turns, and exit C </s>
+<s> followed by LORD AUGUSTUS.] LADY WINDERMERE </s>
+<s> You will never speak against Mrs Erlynne again, Arthur, will you </s>
+<s> LORD WINDERMERE </s>
+<s> [Gravely.] She is better than one thought her </s>
+<s> LADY WINDERMERE </s>
+<s> She is better than I am </s>
+<s> LORD WINDERMERE </s>
+<s> [Smiling as he strokes her hair.] Child, you and she belong to different worlds </s>
+<s> Into your world evil has never entered </s>
+<s> LADY WINDERMERE </s>
+<s> Don't say that, Arthur </s>
+<s> There is the same world for all of us, and good and evil, sin and innocence, go through it hand in hand </s>
+<s> To shut one's eyes to half of life that one may live securely is as though one blinded oneself that one might walk with more safety in a land of pit and precipice </s>
+<s> LORD WINDERMERE </s>
+<s> [Moves down with her.] Darling, why do you say that </s>
+<s> LADY WINDERMERE </s>
+<s> [Sits on sofa.] Because I, who had shut my eyes to life, came to the brink </s>
+<s> And one who had separated us - LORD WINDERMERE </s>
+<s> We were never separated </s>
+<s> LADY WINDERMERE </s>
+<s> We never must be again </s>
+<s> O Arthur, don't love me less, and I will trust you more </s>
+<s> I will trust you absolutely </s>
+<s> Let us go to Selby </s>
+<s> In the Rose Garden at Selby the roses are white and red </s>
+<s> [Enter LORD AUGUSTUS C.] LORD AUGUSTUS </s>
+<s> Arthur, she has explained everything </s>
+<s> [LADY WINDERMERE looks horribly frightened at this </s>
+<s> LORD WINDERMERE starts </s>
+<s> LORD AUGUSTUS takes WINDERMERE by the arm and brings him to front of stage </s>
+<s> He talks rapidly and in a low voice </s>
+<s> LADY WINDERMERE stands watching them in terror.] My dear fellow, she has explained every demmed thing </s>
+<s> We all wronged her immensely </s>
+<s> It was entirely for my sake she went to Darlington's rooms </s>
+<s> Called first at the Club--fact is, wanted to put me out of suspense--and being told I had gone on--followed--naturally frightened when she heard a lot of us coming in--retired to another room--I assure you, most gratifying to me, the whole thing </s>
+<s> We all behaved brutally to her </s>
+<s> She is just the woman for me </s>
+<s> Suits me down to the ground </s>
+<s> All the conditions she makes are that we live entirely out of England </s>
+<s> A very good thing too </s>
+<s> Demmed clubs, demmed climate, demmed cooks, demmed everything </s>
+<s> Sick of it all </s>
+<s> LADY WINDERMERE </s>
+<s> [Frightened.] Has Mrs Erlynne-- </s>
+<s> LORD AUGUSTUS </s>
+<s> [Advancing towards her with a low bow.] Yes, Lady Windermere-- Mrs Erlynne has done me the honour of accepting my hand </s>
+<s> LORD WINDERMERE </s>
+<s> Well, you are certainly marrying a very clever woman </s>
+<s> LADY WINDERMERE </s>
+<s> [Taking her husband's hand.] Ah, you're marrying a very good woman </s>
+<s> CURTAIN </s>

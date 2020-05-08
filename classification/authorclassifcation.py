@@ -15,7 +15,6 @@ import spacy
 
 nlp = spacy.load('en', disable=['parser', 'ner'])
 nlp.max_length = 5000000
-#sent = "The striped bats are hanging on their feet for best"
 text = []
 authorName =[]
 stopWords = set(stopwords.words('english'))
@@ -27,9 +26,9 @@ def pre_process_func(filedata):
     
     # Punctuation Removal
     filedata_no_punct = filedata_lower.translate(str.maketrans('', '', string.punctuation))
-    doc = nlp(filedata_no_punct)
 
     # Extract the lemma for each token and join
+    doc = nlp(filedata_no_punct)
     filedata_lemmatized = " ".join([token.lemma_ for token in doc])
     # print(filedata_lemmatized)
     
@@ -47,7 +46,6 @@ for filename in os.listdir(os.getcwd() + '/../data/raw_data/'):
     with open(filename_full_path, 'r') as f:
         authorName.append(filename.split('_')[0])
         filedata = f.read()
-
         filedata_final = pre_process_func(filedata)
         text.append(filedata_final)
         count+=1
@@ -101,7 +99,7 @@ for filename in os.listdir(os.getcwd() + '/../data/generated_data/2gram'):
         filedata_without_start_end_tag = filedata_without_start_tag.replace(" </s>\n",".")
         filedata_final = pre_process_func(filedata_without_start_end_tag)
         twogram_text.append(filedata_final)
-
+print(twogram_label)
 encoded_2gram_labels = labelencoder.fit_transform(twogram_label)
 twongram_bow = bow_transformer.transform(twogram_text)
 
@@ -110,8 +108,7 @@ twongram_bow = bow_transformer.transform(twogram_text)
 #     print("second one "+ str(encoded_2gram_labels[i]) + " " +  str(twogram_label[i]) + "\n")
 
 
-print("Scores for bigrams")
-print(model.score(twongram_bow, encoded_2gram_labels))
+print("\t \t \t Scores for bigrams")
 predictions = model.predict(twongram_bow)
 print(classification_report(encoded_2gram_labels,predictions))
 
@@ -135,8 +132,7 @@ encoded_3gram_labels = labelencoder.fit_transform(trigram_label)
 tringram_bow = bow_transformer.transform(trigram_text)
 
 
-print("Scores for trigrams")
-print(model.score(tringram_bow, encoded_3gram_labels))
+print("\t \t \t Scores for trigrams")
 predictions = model.predict(tringram_bow)
 print(classification_report(encoded_3gram_labels,predictions))
 
@@ -159,8 +155,7 @@ encoded_4gram_labels = labelencoder.fit_transform(quadgram_label)
 quadngram_bow = bow_transformer.transform(quadgram_text)
 
 
-print("Scores for quadgrams")
-print(model.score(quadngram_bow, encoded_4gram_labels))
+print("\t \t \t Scores for quadgrams")
 predictions = model.predict(quadngram_bow)
 print(classification_report(encoded_4gram_labels,predictions))
 

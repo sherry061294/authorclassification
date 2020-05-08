@@ -1,0 +1,604 @@
+<s> The Adventure of the Devil's Foot By Sir Arthur Conan Doyle In recording from time to time some of the curious experiences and interesting recollections which I associate with my long and intimate friendship with Mr Sherlock Holmes, I have continually been faced by difficulties caused by his own aversion to publicity </s>
+<s> To his sombre and cynical spirit all popular applause was always abhorrent, and nothing amused him more at the end of a successful case than to hand over the actual exposure to some orthodox official, and to listen with a mocking smile to the general chorus of misplaced congratulation </s>
+<s> It was indeed this attitude upon the part of my friend and certainly not any lack of interesting material which has caused me of late years to lay very few of my records before the public </s>
+<s> My participation in some of his adventures was always a privilege which entailed discretion and reticence upon me </s>
+<s> It was, then, with considerable surprise that I received a telegram from Holmes last Tuesday--he has never been known to write where a telegram would serve--in the following terms: Why not tell them of the Cornish horror--strangest case I have handled </s>
+<s> I have no idea what backward sweep of memory had brought the matter fresh to his mind, or what freak had caused him to desire that I should recount it; but I hasten, before another cancelling telegram may arrive, to hunt out the notes which give me the exact details of the case and to lay the narrative before my readers </s>
+<s> It was, then, in the spring of the year 1897 that Holmes's iron constitution showed some symptoms of giving way in the face of constant hard work of a most exacting kind, aggravated, perhaps, by occasional indiscretions of his own </s>
+<s> In March of that year Dr </s>
+<s> Moore Agar, of Harley Street, whose dramatic introduction to Holmes I may some day recount, gave positive injunctions that the famous private agent lay aside all his cases and surrender himself to complete rest if he wished to avert an absolute breakdown </s>
+<s> The state of his health was not a matter in which he himself took the faintest interest, for his mental detachment was absolute, but he was induced at last, on the threat of being permanently disqualified from work, to give himself a complete change of scene and air </s>
+<s> Thus it was that in the early spring of that year we found ourselves together in a small cottage near Poldhu Bay, at the further extremity of the Cornish peninsula </s>
+<s> It was a singular spot, and one peculiarly well suited to the grim humour of my patient </s>
+<s> From the windows of our little whitewashed house, which stood high upon a grassy headland, we looked down upon the whole sinister semicircle of Mounts Bay, that old death trap of sailing vessels, with its fringe of black cliffs and surge-swept reefs on which innumerable seamen have met their end </s>
+<s> With a northerly breeze it lies placid and sheltered, inviting the storm-tossed craft to tack into it for rest and protection </s>
+<s> Then come the sudden swirl round of the wind, the blistering gale from the south-west, the dragging anchor, the lee shore, and the last battle in the creaming breakers </s>
+<s> The wise mariner stands far out from that evil place </s>
+<s> On the land side our surroundings were as sombre as on the sea </s>
+<s> It was a country of rolling moors, lonely and dun-colored, with an occasional church tower to mark the site of some old-world village </s>
+<s> In every direction upon these moors there were traces of some vanished race which had passed utterly away, and left as its sole record strange monuments of stone, irregular mounds which contained the burned ashes of the dead, and curious earthworks which hinted at prehistoric strife </s>
+<s> The glamour and mystery of the place, with its sinister atmosphere of forgotten nations, appealed to the imagination of my friend, and he spent much of his time in long walks and solitary meditations upon the moor </s>
+<s> The ancient Cornish language had also arrested his attention, and he had, I remember, conceived the idea that it was akin to the Chaldean, and had been largely derived from the Phoenician traders in tin </s>
+<s> He had received a consignment of books upon philology and was settling down to develop this thesis when suddenly, to my sorrow and to his unfeigned delight, we found ourselves, even in that land of dreams, plunged into a problem at our very doors which was more intense, more engrossing, and infinitely more mysterious than any of those which had driven us from London </s>
+<s> Our simple life and peaceful, healthy routine were violently interrupted, and we were precipitated into the midst of a series of events which caused the utmost excitement not only in Cornwall but throughout the whole west of England </s>
+<s> Many of my readers may retain some recollection of what was called at the time "The Cornish Horror," though a most imperfect account of the matter reached the London press </s>
+<s> Now, after thirteen years, I will give the true details of this inconceivable affair to the public </s>
+<s> I have said that scattered towers marked the villages which dotted this part of Cornwall </s>
+<s> The nearest of these was the hamlet of Tredannick Wollas, where the cottages of a couple of hundred inhabitants clustered round an ancient, moss-grown church </s>
+<s> The vicar of the parish, Mr Roundhay, was something of an archaeologist, and as such Holmes had made his acquaintance </s>
+<s> He was a middle-aged man, portly and affable, with a considerable fund of local lore </s>
+<s> At his invitation we had taken tea at the vicarage and had come to know, also, Mr Mortimer Tregennis, an independent gentleman, who increased the clergyman's scanty resources by taking rooms in his large, straggling house </s>
+<s> The vicar, being a bachelor, was glad to come to such an arrangement, though he had little in common with his lodger, who was a thin, dark, spectacled man, with a stoop which gave the impression of actual, physical deformity </s>
+<s> I remember that during our short visit we found the vicar garrulous, but his lodger strangely reticent, a sad-faced, introspective man, sitting with averted eyes, brooding apparently upon his own affairs </s>
+<s> These were the two men who entered abruptly into our little sitting-room on Tuesday, March the 16th, shortly after our breakfast hour, as we were smoking together, preparatory to our daily excursion upon the moors </s>
+<s> "Mr Holmes," said the vicar in an agitated voice, "the most extraordinary and tragic affair has occurred during the night </s>
+<s> It is the most unheard-of business </s>
+<s> We can only regard it as a special Providence that you should chance to be here at the time, for in all England you are the one man we need" </s>
+<s> I glared at the intrusive vicar with no very friendly eyes; but Holmes took his pipe from his lips and sat up in his chair like an old hound who hears the view-halloa </s>
+<s> He waved his hand to the sofa, and our palpitating visitor with his agitated companion sat side by side upon it </s>
+<s> Mr Mortimer Tregennis was more self-contained than the clergyman, but the twitching of his thin hands and the brightness of his dark eyes showed that they shared a common emotion </s>
+<s> "Shall I speak or you" </s>
+<s> he asked of the vicar </s>
+<s> "Well, as you seem to have made the discovery, whatever it may be, and the vicar to have had it second-hand, perhaps you had better do the speaking," said Holmes </s>
+<s> I glanced at the hastily clad clergyman, with the formally dressed lodger seated beside him, and was amused at the surprise which Holmes's simple deduction had brought to their faces </s>
+<s> "Perhaps I had best say a few words first," said the vicar, "and then you can judge if you will listen to the details from Mr Tregennis, or whether we should not hasten at once to the scene of this mysterious affair </s>
+<s> I may explain, then, that our friend here spent last evening in the company of his two brothers, Owen and George, and of his sister Brenda, at their house of Tredannick Wartha, which is near the old stone cross upon the moor </s>
+<s> He left them shortly after ten o'clock, playing cards round the dining-room table, in excellent health and spirits </s>
+<s> This morning, being an early riser, he walked in that direction before breakfast and was overtaken by the carriage of Dr </s>
+<s> Richards, who explained that he had just been sent for on a most urgent call to Tredannick Wartha </s>
+<s> Mr Mortimer Tregennis naturally went with him </s>
+<s> When he arrived at Tredannick Wartha he found an extraordinary state of things </s>
+<s> His two brothers and his sister were seated round the table exactly as he had left them, the cards still spread in front of them and the candles burned down to their sockets </s>
+<s> The sister lay back stone-dead in her chair, while the two brothers sat on each side of her laughing, shouting, and singing, the senses stricken clean out of them </s>
+<s> All three of them, the dead woman and the two demented men, retained upon their faces an expression of the utmost horror--a convulsion of terror which was dreadful to look upon </s>
+<s> There was no sign of the presence of anyone in the house, except Mrs Porter, the old cook and housekeeper, who declared that she had slept deeply and heard no sound during the night </s>
+<s> Nothing had been stolen or disarranged, and there is absolutely no explanation of what the horror can be which has frightened a woman to death and two strong men out of their senses </s>
+<s> There is the situation, Mr Holmes, in a nutshell, and if you can help us to clear it up you will have done a great work" </s>
+<s> I had hoped that in some way I could coax my companion back into the quiet which had been the object of our journey; but one glance at his intense face and contracted eyebrows told me how vain was now the expectation </s>
+<s> He sat for some little time in silence, absorbed in the strange drama which had broken in upon our peace </s>
+<s> "I will look into this matter," he said at last </s>
+<s> "On the face of it, it would appear to be a case of a very exceptional nature </s>
+<s> Have you been there yourself, Mr Roundhay" </s>
+<s> "No, Mr Holmes </s>
+<s> Mr Tregennis brought back the account to the vicarage, and I at once hurried over with him to consult you" </s>
+<s> "How far is it to the house where this singular tragedy occurred" </s>
+<s> "About a mile inland" </s>
+<s> "Then we shall walk over together </s>
+<s> But before we start I must ask you a few questions, Mr Mortimer Tregennis" </s>
+<s> The other had been silent all this time, but I had observed that his more controlled excitement was even greater than the obtrusive emotion of the clergyman </s>
+<s> He sat with a pale, drawn face, his anxious gaze fixed upon Holmes, and his thin hands clasped convulsively together </s>
+<s> His pale lips quivered as he listened to the dreadful experience which had befallen his family, and his dark eyes seemed to reflect something of the horror of the scene </s>
+<s> "Ask what you like, Mr Holmes," said he eagerly </s>
+<s> "It is a bad thing to speak of, but I will answer you the truth" </s>
+<s> "Tell me about last night" </s>
+<s> "Well, Mr Holmes, I supped there, as the vicar has said, and my elder brother George proposed a game of whist afterwards </s>
+<s> We sat down about nine o'clock </s>
+<s> It was a quarter-past ten when I moved to go </s>
+<s> I left them all round the table, as merry as could be" </s>
+<s> "Who let you out" </s>
+<s> "Mrs Porter had gone to bed, so I let myself out </s>
+<s> I shut the hall door behind me </s>
+<s> The window of the room in which they sat was closed, but the blind was not drawn down </s>
+<s> There was no change in door or window this morning, or any reason to think that any stranger had been to the house </s>
+<s> Yet there they sat, driven clean mad with terror, and Brenda lying dead of fright, with her head hanging over the arm of the chair </s>
+<s> I'll never get the sight of that room out of my mind so long as I live" </s>
+<s> "The facts, as you state them, are certainly most remarkable," said Holmes </s>
+<s> "I take it that you have no theory yourself which can in any way account for them" </s>
+<s> "It's devilish, Mr Holmes, devilish" </s>
+<s> cried Mortimer Tregennis </s>
+<s> "It is not of this world </s>
+<s> Something has come into that room which has dashed the light of reason from their minds </s>
+<s> What human contrivance could do that" </s>
+<s> "I fear," said Holmes, "that if the matter is beyond humanity it is certainly beyond me </s>
+<s> Yet we must exhaust all natural explanations before we fall back upon such a theory as this </s>
+<s> As to yourself, Mr Tregennis, I take it you were divided in some way from your family, since they lived together and you had rooms apart" </s>
+<s> "That is so, Mr Holmes, though the matter is past and done with </s>
+<s> We were a family of tin-miners at Redruth, but we sold our venture to a company, and so retired with enough to keep us </s>
+<s> I won't deny that there was some feeling about the division of the money and it stood between us for a time, but it was all forgiven and forgotten, and we were the best of friends together" </s>
+<s> "Looking back at the evening which you spent together, does anything stand out in your memory as throwing any possible light upon the tragedy </s>
+<s> Think carefully, Mr Tregennis, for any clue which can help me" </s>
+<s> "There is nothing at all, sir" </s>
+<s> "Your people were in their usual spirits" </s>
+<s> "Never better" </s>
+<s> "Were they nervous people </s>
+<s> Did they ever show any apprehension of coming danger" </s>
+<s> "Nothing of the kind" </s>
+<s> "You have nothing to add then, which could assist me" </s>
+<s> Mortimer Tregennis considered earnestly for a moment </s>
+<s> "There is one thing occurs to me," said he at last </s>
+<s> "As we sat at the table my back was to the window, and my brother George, he being my partner at cards, was facing it </s>
+<s> I saw him once look hard over my shoulder, so I turned round and looked also </s>
+<s> The blind was up and the window shut, but I could just make out the bushes on the lawn, and it seemed to me for a moment that I saw something moving among them </s>
+<s> I couldn't even say if it was man or animal, but I just thought there was something there </s>
+<s> When I asked him what he was looking at, he told me that he had the same feeling </s>
+<s> That is all that I can say" </s>
+<s> "Did you not investigate" </s>
+<s> "No; the matter passed as unimportant" </s>
+<s> "You left them, then, without any premonition of evil" </s>
+<s> "None at all" </s>
+<s> "I am not clear how you came to hear the news so early this morning" </s>
+<s> "I am an early riser and generally take a walk before breakfast </s>
+<s> This morning I had hardly started when the doctor in his carriage overtook me </s>
+<s> He told me that old Mrs Porter had sent a boy down with an urgent message </s>
+<s> I sprang in beside him and we drove on </s>
+<s> When we got there we looked into that dreadful room </s>
+<s> The candles and the fire must have burned out hours before, and they had been sitting there in the dark until dawn had broken </s>
+<s> The doctor said Brenda must have been dead at least six hours </s>
+<s> There were no signs of violence </s>
+<s> She just lay across the arm of the chair with that look on her face </s>
+<s> George and Owen were singing snatches of songs and gibbering like two great apes </s>
+<s> Oh, it was awful to see </s>
+<s> I couldn't stand it, and the doctor was as white as a sheet </s>
+<s> Indeed, he fell into a chair in a sort of faint, and we nearly had him on our hands as well" </s>
+<s> "Remarkable--most remarkable" </s>
+<s> said Holmes, rising and taking his hat </s>
+<s> "I think, perhaps, we had better go down to Tredannick Wartha without further delay </s>
+<s> I confess that I have seldom known a case which at first sight presented a more singular problem" </s>
+<s> Our proceedings of that first morning did little to advance the investigation </s>
+<s> It was marked, however, at the outset by an incident which left the most sinister impression upon my mind </s>
+<s> The approach to the spot at which the tragedy occurred is down a narrow, winding, country lane </s>
+<s> While we made our way along it we heard the rattle of a carriage coming towards us and stood aside to let it pass </s>
+<s> As it drove by us I caught a glimpse through the closed window of a horribly contorted, grinning face glaring out at us </s>
+<s> Those staring eyes and gnashing teeth flashed past us like a dreadful vision </s>
+<s> "My brothers" </s>
+<s> cried Mortimer Tregennis, white to his lips </s>
+<s> "They are taking them to Helston" </s>
+<s> We looked with horror after the black carriage, lumbering upon its way </s>
+<s> Then we turned our steps towards this ill-omened house in which they had met their strange fate </s>
+<s> It was a large and bright dwelling, rather a villa than a cottage, with a considerable garden which was already, in that Cornish air, well filled with spring flowers </s>
+<s> Towards this garden the window of the sitting-room fronted, and from it, according to Mortimer Tregennis, must have come that thing of evil which had by sheer horror in a single instant blasted their minds </s>
+<s> Holmes walked slowly and thoughtfully among the flower-plots and along the path before we entered the porch </s>
+<s> So absorbed was he in his thoughts, I remember, that he stumbled over the watering-pot, upset its contents, and deluged both our feet and the garden path </s>
+<s> Inside the house we were met by the elderly Cornish housekeeper, Mrs Porter, who, with the aid of a young girl, looked after the wants of the family </s>
+<s> She readily answered all Holmes's questions </s>
+<s> She had heard nothing in the night </s>
+<s> Her employers had all been in excellent spirits lately, and she had never known them more cheerful and prosperous </s>
+<s> She had fainted with horror upon entering the room in the morning and seeing that dreadful company round the table </s>
+<s> She had, when she recovered, thrown open the window to let the morning air in, and had run down to the lane, whence she sent a farm-lad for the doctor </s>
+<s> The lady was on her bed upstairs if we cared to see her </s>
+<s> It took four strong men to get the brothers into the asylum carriage </s>
+<s> She would not herself stay in the house another day and was starting that very afternoon to rejoin her family at St </s>
+<s> Ives </s>
+<s> We ascended the stairs and viewed the body </s>
+<s> Miss Brenda Tregennis had been a very beautiful girl, though now verging upon middle age </s>
+<s> Her dark, clear-cut face was handsome, even in death, but there still lingered upon it something of that convulsion of horror which had been her last human emotion </s>
+<s> From her bedroom we descended to the sitting-room, where this strange tragedy had actually occurred </s>
+<s> The charred ashes of the overnight fire lay in the grate </s>
+<s> On the table were the four guttered and burned-out candles, with the cards scattered over its surface </s>
+<s> The chairs had been moved back against the walls, but all else was as it had been the night before </s>
+<s> Holmes paced with light, swift steps about the room; he sat in the various chairs, drawing them up and reconstructing their positions </s>
+<s> He tested how much of the garden was visible; he examined the floor, the ceiling, and the fireplace; but never once did I see that sudden brightening of his eyes and tightening of his lips which would have told me that he saw some gleam of light in this utter darkness </s>
+<s> "Why a fire" </s>
+<s> he asked once </s>
+<s> "Had they always a fire in this small room on a spring evening" </s>
+<s> Mortimer Tregennis explained that the night was cold and damp </s>
+<s> For that reason, after his arrival, the fire was lit </s>
+<s> "What are you going to do now, Mr Holmes" </s>
+<s> he asked </s>
+<s> My friend smiled and laid his hand upon my arm </s>
+<s> "I think, Watson, that I shall resume that course of tobacco-poisoning which you have so often and so justly condemned," said he </s>
+<s> "With your permission, gentlemen, we will now return to our cottage, for I am not aware that any new factor is likely to come to our notice here </s>
+<s> I will turn the facts over in my mind, Mr Tregennis, and should anything occur to me I will certainly communicate with you and the vicar </s>
+<s> In the meantime I wish you both good-morning" </s>
+<s> It was not until long after we were back in Poldhu Cottage that Holmes broke his complete and absorbed silence </s>
+<s> He sat coiled in his armchair, his haggard and ascetic face hardly visible amid the blue swirl of his tobacco smoke, his black brows drawn down, his forehead contracted, his eyes vacant and far away </s>
+<s> Finally he laid down his pipe and sprang to his feet </s>
+<s> "It won't do, Watson" </s>
+<s> said he with a laugh </s>
+<s> "Let us walk along the cliffs together and search for flint arrows </s>
+<s> We are more likely to find them than clues to this problem </s>
+<s> To let the brain work without sufficient material is like racing an engine </s>
+<s> It racks itself to pieces </s>
+<s> The sea air, sunshine, and patience, Watson--all else will come </s>
+<s> "Now, let us calmly define our position, Watson," he continued as we skirted the cliffs together </s>
+<s> "Let us get a firm grip of the very little which we DO know, so that when fresh facts arise we may be ready to fit them into their places </s>
+<s> I take it, in the first place, that neither of us is prepared to admit diabolical intrusions into the affairs of men </s>
+<s> Let us begin by ruling that entirely out of our minds </s>
+<s> Very good </s>
+<s> There remain three persons who have been grievously stricken by some conscious or unconscious human agency </s>
+<s> That is firm ground </s>
+<s> Now, when did this occur </s>
+<s> Evidently, assuming his narrative to be true, it was immediately after Mr Mortimer Tregennis had left the room </s>
+<s> That is a very important point </s>
+<s> The presumption is that it was within a few minutes afterwards </s>
+<s> The cards still lay upon the table </s>
+<s> It was already past their usual hour for bed </s>
+<s> Yet they had not changed their position or pushed back their chairs </s>
+<s> I repeat, then, that the occurrence was immediately after his departure, and not later than eleven o'clock last night </s>
+<s> "Our next obvious step is to check, so far as we can, the movements of Mortimer Tregennis after he left the room </s>
+<s> In this there is no difficulty, and they seem to be above suspicion </s>
+<s> Knowing my methods as you do, you were, of course, conscious of the somewhat clumsy water-pot expedient by which I obtained a clearer impress of his foot than might otherwise have been possible </s>
+<s> The wet, sandy path took it admirably </s>
+<s> Last night was also wet, you will remember, and it was not difficult--having obtained a sample print--to pick out his track among others and to follow his movements </s>
+<s> He appears to have walked away swiftly in the direction of the vicarage </s>
+<s> "If, then, Mortimer Tregennis disappeared from the scene, and yet some outside person affected the card-players, how can we reconstruct that person, and how was such an impression of horror conveyed </s>
+<s> Mrs Porter may be eliminated </s>
+<s> She is evidently harmless </s>
+<s> Is there any evidence that someone crept up to the garden window and in some manner produced so terrific an effect that he drove those who saw it out of their senses </s>
+<s> The only suggestion in this direction comes from Mortimer Tregennis himself, who says that his brother spoke about some movement in the garden </s>
+<s> That is certainly remarkable, as the night was rainy, cloudy, and dark </s>
+<s> Anyone who had the design to alarm these people would be compelled to place his very face against the glass before he could be seen </s>
+<s> There is a three-foot flower-border outside this window, but no indication of a footmark </s>
+<s> It is difficult to imagine, then, how an outsider could have made so terrible an impression upon the company, nor have we found any possible motive for so strange and elaborate an attempt </s>
+<s> You perceive our difficulties, Watson" </s>
+<s> "They are only too clear," I answered with conviction </s>
+<s> "And yet, with a little more material, we may prove that they are not insurmountable," said Holmes </s>
+<s> "I fancy that among your extensive archives, Watson, you may find some which were nearly as obscure </s>
+<s> Meanwhile, we shall put the case aside until more accurate data are available, and devote the rest of our morning to the pursuit of neolithic man" </s>
+<s> I may have commented upon my friend's power of mental detachment, but never have I wondered at it more than upon that spring morning in Cornwall when for two hours he discoursed upon celts, arrowheads, and shards, as lightly as if no sinister mystery were waiting for his solution </s>
+<s> It was not until we had returned in the afternoon to our cottage that we found a visitor awaiting us, who soon brought our minds back to the matter in hand </s>
+<s> Neither of us needed to be told who that visitor was </s>
+<s> The huge body, the craggy and deeply seamed face with the fierce eyes and hawk-like nose, the grizzled hair which nearly brushed our cottage ceiling, the beard--golden at the fringes and white near the lips, save for the nicotine stain from his perpetual cigar--all these were as well known in London as in Africa, and could only be associated with the tremendous personality of Dr </s>
+<s> Leon Sterndale, the great lion-hunter and explorer </s>
+<s> We had heard of his presence in the district and had once or twice caught sight of his tall figure upon the moorland paths </s>
+<s> He made no advances to us, however, nor would we have dreamed of doing so to him, as it was well known that it was his love of seclusion which caused him to spend the greater part of the intervals between his journeys in a small bungalow buried in the lonely wood of Beauchamp Arriance </s>
+<s> Here, amid his books and his maps, he lived an absolutely lonely life, attending to his own simple wants and paying little apparent heed to the affairs of his neighbours </s>
+<s> It was a surprise to me, therefore, to hear him asking Holmes in an eager voice whether he had made any advance in his reconstruction of this mysterious episode </s>
+<s> "The county police are utterly at fault," said he, "but perhaps your wider experience has suggested some conceivable explanation </s>
+<s> My only claim to being taken into your confidence is that during my many residences here I have come to know this family of Tregennis very well--indeed, upon my Cornish mother's side I could call them cousins--and their strange fate has naturally been a great shock to me </s>
+<s> I may tell you that I had got as far as Plymouth upon my way to Africa, but the news reached me this morning, and I came straight back again to help in the inquiry" </s>
+<s> Holmes raised his eyebrows </s>
+<s> "Did you lose your boat through it" </s>
+<s> "I will take the next" </s>
+<s> "Dear me </s>
+<s> that is friendship indeed" </s>
+<s> "I tell you they were relatives" </s>
+<s> "Quite so--cousins of your mother </s>
+<s> Was your baggage aboard the ship" </s>
+<s> "Some of it, but the main part at the hotel" </s>
+<s> "I see </s>
+<s> But surely this event could not have found its way into the Plymouth morning papers" </s>
+<s> "No, sir; I had a telegram" </s>
+<s> "Might I ask from whom" </s>
+<s> A shadow passed over the gaunt face of the explorer </s>
+<s> "You are very inquisitive, Mr Holmes" </s>
+<s> "It is my business" </s>
+<s> With an effort Dr </s>
+<s> Sterndale recovered his ruffled composure </s>
+<s> "I have no objection to telling you," he said </s>
+<s> "It was Mr Roundhay, the vicar, who sent me the telegram which recalled me" </s>
+<s> "Thank you," said Holmes </s>
+<s> "I may say in answer to your original question that I have not cleared my mind entirely on the subject of this case, but that I have every hope of reaching some conclusion </s>
+<s> It would be premature to say more" </s>
+<s> "Perhaps you would not mind telling me if your suspicions point in any particular direction" </s>
+<s> "No, I can hardly answer that" </s>
+<s> "Then I have wasted my time and need not prolong my visit" </s>
+<s> The famous doctor strode out of our cottage in considerable ill-humour, and within five minutes Holmes had followed him </s>
+<s> I saw him no more until the evening, when he returned with a slow step and haggard face which assured me that he had made no great progress with his investigation </s>
+<s> He glanced at a telegram which awaited him and threw it into the grate </s>
+<s> "From the Plymouth hotel, Watson," he said </s>
+<s> "I learned the name of it from the vicar, and I wired to make certain that Dr </s>
+<s> Leon Sterndale's account was true </s>
+<s> It appears that he did indeed spend last night there, and that he has actually allowed some of his baggage to go on to Africa, while he returned to be present at this investigation </s>
+<s> What do you make of that, Watson" </s>
+<s> "He is deeply interested" </s>
+<s> "Deeply interested--yes </s>
+<s> There is a thread here which we had not yet grasped and which might lead us through the tangle </s>
+<s> Cheer up, Watson, for I am very sure that our material has not yet all come to hand </s>
+<s> When it does we may soon leave our difficulties behind us" </s>
+<s> Little did I think how soon the words of Holmes would be realized, or how strange and sinister would be that new development which opened up an entirely fresh line of investigation </s>
+<s> I was shaving at my window in the morning when I heard the rattle of hoofs and, looking up, saw a dog-cart coming at a gallop down the road </s>
+<s> It pulled up at our door, and our friend, the vicar, sprang from it and rushed up our garden path </s>
+<s> Holmes was already dressed, and we hastened down to meet him </s>
+<s> Our visitor was so excited that he could hardly articulate, but at last in gasps and bursts his tragic story came out of him </s>
+<s> "We are devil-ridden, Mr Holmes </s>
+<s> My poor parish is devil-ridden" </s>
+<s> he cried </s>
+<s> "Satan himself is loose in it </s>
+<s> We are given over into his hands" </s>
+<s> He danced about in his agitation, a ludicrous object if it were not for his ashy face and startled eyes </s>
+<s> Finally he shot out his terrible news </s>
+<s> "Mr Mortimer Tregennis died during the night, and with exactly the same symptoms as the rest of his family" </s>
+<s> Holmes sprang to his feet, all energy in an instant </s>
+<s> "Can you fit us both into your dog-cart" </s>
+<s> "Yes, I can" </s>
+<s> "Then, Watson, we will postpone our breakfast </s>
+<s> Mr Roundhay, we are entirely at your disposal </s>
+<s> Hurry--hurry, before things get disarranged" </s>
+<s> The lodger occupied two rooms at the vicarage, which were in an angle by themselves, the one above the other </s>
+<s> Below was a large sitting-room; above, his bedroom </s>
+<s> They looked out upon a croquet lawn which came up to the windows </s>
+<s> We had arrived before the doctor or the police, so that everything was absolutely undisturbed </s>
+<s> Let me describe exactly the scene as we saw it upon that misty March morning </s>
+<s> It has left an impression which can never be effaced from my mind </s>
+<s> The atmosphere of the room was of a horrible and depressing stuffiness </s>
+<s> The servant who had first entered had thrown up the window, or it would have been even more intolerable </s>
+<s> This might partly be due to the fact that a lamp stood flaring and smoking on the centre table </s>
+<s> Beside it sat the dead man, leaning back in his chair, his thin beard projecting, his spectacles pushed up on to his forehead, and his lean dark face turned towards the window and twisted into the same distortion of terror which had marked the features of his dead sister </s>
+<s> His limbs were convulsed and his fingers contorted as though he had died in a very paroxysm of fear </s>
+<s> He was fully clothed, though there were signs that his dressing had been done in a hurry </s>
+<s> We had already learned that his bed had been slept in, and that the tragic end had come to him in the early morning </s>
+<s> One realized the red-hot energy which underlay Holmes's phlegmatic exterior when one saw the sudden change which came over him from the moment that he entered the fatal apartment </s>
+<s> In an instant he was tense and alert, his eyes shining, his face set, his limbs quivering with eager activity </s>
+<s> He was out on the lawn, in through the window, round the room, and up into the bedroom, for all the world like a dashing foxhound drawing a cover </s>
+<s> In the bedroom he made a rapid cast around and ended by throwing open the window, which appeared to give him some fresh cause for excitement, for he leaned out of it with loud ejaculations of interest and delight </s>
+<s> Then he rushed down the stair, out through the open window, threw himself upon his face on the lawn, sprang up and into the room once more, all with the energy of the hunter who is at the very heels of his quarry </s>
+<s> The lamp, which was an ordinary standard, he examined with minute care, making certain measurements upon its bowl </s>
+<s> He carefully scrutinized with his lens the talc shield which covered the top of the chimney and scraped off some ashes which adhered to its upper surface, putting some of them into an envelope, which he placed in his pocketbook </s>
+<s> Finally, just as the doctor and the official police put in an appearance, he beckoned to the vicar and we all three went out upon the lawn </s>
+<s> "I am glad to say that my investigation has not been entirely barren," he remarked </s>
+<s> "I cannot remain to discuss the matter with the police, but I should be exceedingly obliged, Mr Roundhay, if you would give the inspector my compliments and direct his attention to the bedroom window and to the sitting-room lamp </s>
+<s> Each is suggestive, and together they are almost conclusive </s>
+<s> If the police would desire further information I shall be happy to see any of them at the cottage </s>
+<s> And now, Watson, I think that, perhaps, we shall be better employed elsewhere" </s>
+<s> It may be that the police resented the intrusion of an amateur, or that they imagined themselves to be upon some hopeful line of investigation; but it is certain that we heard nothing from them for the next two days </s>
+<s> During this time Holmes spent some of his time smoking and dreaming in the cottage; but a greater portion in country walks which he undertook alone, returning after many hours without remark as to where he had been </s>
+<s> One experiment served to show me the line of his investigation </s>
+<s> He had bought a lamp which was the duplicate of the one which had burned in the room of Mortimer Tregennis on the morning of the tragedy </s>
+<s> This he filled with the same oil as that used at the vicarage, and he carefully timed the period which it would take to be exhausted </s>
+<s> Another experiment which he made was of a more unpleasant nature, and one which I am not likely ever to forget </s>
+<s> "You will remember, Watson," he remarked one afternoon, "that there is a single common point of resemblance in the varying reports which have reached us </s>
+<s> This concerns the effect of the atmosphere of the room in each case upon those who had first entered it </s>
+<s> You will recollect that Mortimer Tregennis, in describing the episode of his last visit to his brother's house, remarked that the doctor on entering the room fell into a chair </s>
+<s> You had forgotten </s>
+<s> Well I can answer for it that it was so </s>
+<s> Now, you will remember also that Mrs Porter, the housekeeper, told us that she herself fainted upon entering the room and had afterwards opened the window </s>
+<s> In the second case--that of Mortimer Tregennis himself--you cannot have forgotten the horrible stuffiness of the room when we arrived, though the servant had thrown open the window </s>
+<s> That servant, I found upon inquiry, was so ill that she had gone to her bed </s>
+<s> You will admit, Watson, that these facts are very suggestive </s>
+<s> In each case there is evidence of a poisonous atmosphere </s>
+<s> In each case, also, there is combustion going on in the room--in the one case a fire, in the other a lamp </s>
+<s> The fire was needed, but the lamp was lit--as a comparison of the oil consumed will show--long after it was broad daylight </s>
+<s> Why </s>
+<s> Surely because there is some connection between three things--the burning, the stuffy atmosphere, and, finally, the madness or death of those unfortunate people </s>
+<s> That is clear, is it not" </s>
+<s> "It would appear so" </s>
+<s> "At least we may accept it as a working hypothesis </s>
+<s> We will suppose, then, that something was burned in each case which produced an atmosphere causing strange toxic effects </s>
+<s> Very good </s>
+<s> In the first instance--that of the Tregennis family--this substance was placed in the fire </s>
+<s> Now the window was shut, but the fire would naturally carry fumes to some extent up the chimney </s>
+<s> Hence one would expect the effects of the poison to be less than in the second case, where there was less escape for the vapour </s>
+<s> The result seems to indicate that it was so, since in the first case only the woman, who had presumably the more sensitive organism, was killed, the others exhibiting that temporary or permanent lunacy which is evidently the first effect of the drug </s>
+<s> In the second case the result was complete </s>
+<s> The facts, therefore, seem to bear out the theory of a poison which worked by combustion </s>
+<s> "With this train of reasoning in my head I naturally looked about in Mortimer Tregennis's room to find some remains of this substance </s>
+<s> The obvious place to look was the talc shelf or smoke-guard of the lamp </s>
+<s> There, sure enough, I perceived a number of flaky ashes, and round the edges a fringe of brownish powder, which had not yet been consumed </s>
+<s> Half of this I took, as you saw, and I placed it in an envelope" </s>
+<s> "Why half, Holmes" </s>
+<s> "It is not for me, my dear Watson, to stand in the way of the official police force </s>
+<s> I leave them all the evidence which I found </s>
+<s> The poison still remained upon the talc had they the wit to find it </s>
+<s> Now, Watson, we will light our lamp; we will, however, take the precaution to open our window to avoid the premature decease of two deserving members of society, and you will seat yourself near that open window in an armchair unless, like a sensible man, you determine to have nothing to do with the affair </s>
+<s> Oh, you will see it out, will you </s>
+<s> I thought I knew my Watson </s>
+<s> This chair I will place opposite yours, so that we may be the same distance from the poison and face to face </s>
+<s> The door we will leave ajar </s>
+<s> Each is now in a position to watch the other and to bring the experiment to an end should the symptoms seem alarming </s>
+<s> Is that all clear </s>
+<s> Well, then, I take our powder--or what remains of it--from the envelope, and I lay it above the burning lamp </s>
+<s> So </s>
+<s> Now, Watson, let us sit down and await developments" </s>
+<s> They were not long in coming </s>
+<s> I had hardly settled in my chair before I was conscious of a thick, musky odour, subtle and nauseous </s>
+<s> At the very first whiff of it my brain and my imagination were beyond all control </s>
+<s> A thick, black cloud swirled before my eyes, and my mind told me that in this cloud, unseen as yet, but about to spring out upon my appalled senses, lurked all that was vaguely horrible, all that was monstrous and inconceivably wicked in the universe </s>
+<s> Vague shapes swirled and swam amid the dark cloud-bank, each a menace and a warning of something coming, the advent of some unspeakable dweller upon the threshold, whose very shadow would blast my soul </s>
+<s> A freezing horror took possession of me </s>
+<s> I felt that my hair was rising, that my eyes were protruding, that my mouth was opened, and my tongue like leather </s>
+<s> The turmoil within my brain was such that something must surely snap </s>
+<s> I tried to scream and was vaguely aware of some hoarse croak which was my own voice, but distant and detached from myself </s>
+<s> At the same moment, in some effort of escape, I broke through that cloud of despair and had a glimpse of Holmes's face, white, rigid, and drawn with horror--the very look which I had seen upon the features of the dead </s>
+<s> It was that vision which gave me an instant of sanity and of strength </s>
+<s> I dashed from my chair, threw my arms round Holmes, and together we lurched through the door, and an instant afterwards had thrown ourselves down upon the grass plot and were lying side by side, conscious only of the glorious sunshine which was bursting its way through the hellish cloud of terror which had girt us in </s>
+<s> Slowly it rose from our souls like the mists from a landscape until peace and reason had returned, and we were sitting upon the grass, wiping our clammy foreheads, and looking with apprehension at each other to mark the last traces of that terrific experience which we had undergone </s>
+<s> "Upon my word, Watson" </s>
+<s> said Holmes at last with an unsteady voice, "I owe you both my thanks and an apology </s>
+<s> It was an unjustifiable experiment even for one's self, and doubly so for a friend </s>
+<s> I am really very sorry" </s>
+<s> "You know," I answered with some emotion, for I have never seen so much of Holmes's heart before, "that it is my greatest joy and privilege to help you" </s>
+<s> He relapsed at once into the half-humorous, half-cynical vein which was his habitual attitude to those about him </s>
+<s> "It would be superfluous to drive us mad, my dear Watson," said he </s>
+<s> "A candid observer would certainly declare that we were so already before we embarked upon so wild an experiment </s>
+<s> I confess that I never imagined that the effect could be so sudden and so severe" </s>
+<s> He dashed into the cottage, and, reappearing with the burning lamp held at full arm's length, he threw it among a bank of brambles </s>
+<s> "We must give the room a little time to clear </s>
+<s> I take it, Watson, that you have no longer a shadow of a doubt as to how these tragedies were produced" </s>
+<s> "None whatever" </s>
+<s> "But the cause remains as obscure as before </s>
+<s> Come into the arbour here and let us discuss it together </s>
+<s> That villainous stuff seems still to linger round my throat </s>
+<s> I think we must admit that all the evidence points to this man, Mortimer Tregennis, having been the criminal in the first tragedy, though he was the victim in the second one </s>
+<s> We must remember, in the first place, that there is some story of a family quarrel, followed by a reconciliation </s>
+<s> How bitter that quarrel may have been, or how hollow the reconciliation we cannot tell </s>
+<s> When I think of Mortimer Tregennis, with the foxy face and the small shrewd, beady eyes behind the spectacles, he is not a man whom I should judge to be of a particularly forgiving disposition </s>
+<s> Well, in the next place, you will remember that this idea of someone moving in the garden, which took our attention for a moment from the real cause of the tragedy, emanated from him </s>
+<s> He had a motive in misleading us </s>
+<s> Finally, if he did not throw the substance into the fire at the moment of leaving the room, who did do so </s>
+<s> The affair happened immediately after his departure </s>
+<s> Had anyone else come in, the family would certainly have risen from the table </s>
+<s> Besides, in peaceful Cornwall, visitors did not arrive after ten o'clock at night </s>
+<s> We may take it, then, that all the evidence points to Mortimer Tregennis as the culprit" </s>
+<s> "Then his own death was suicide" </s>
+<s> "Well, Watson, it is on the face of it a not impossible supposition </s>
+<s> The man who had the guilt upon his soul of having brought such a fate upon his own family might well be driven by remorse to inflict it upon himself </s>
+<s> There are, however, some cogent reasons against it </s>
+<s> Fortunately, there is one man in England who knows all about it, and I have made arrangements by which we shall hear the facts this afternoon from his own lips </s>
+<s> Ah </s>
+<s> he is a little before his time </s>
+<s> Perhaps you would kindly step this way, Dr </s>
+<s> Leon Sterndale </s>
+<s> We have been conducing a chemical experiment indoors which has left our little room hardly fit for the reception of so distinguished a visitor" </s>
+<s> I had heard the click of the garden gate, and now the majestic figure of the great African explorer appeared upon the path </s>
+<s> He turned in some surprise towards the rustic arbour in which we sat </s>
+<s> "You sent for me, Mr Holmes </s>
+<s> I had your note about an hour ago, and I have come, though I really do not know why I should obey your summons" </s>
+<s> "Perhaps we can clear the point up before we separate," said Holmes </s>
+<s> "Meanwhile, I am much obliged to you for your courteous acquiescence </s>
+<s> You will excuse this informal reception in the open air, but my friend Watson and I have nearly furnished an additional chapter to what the papers call the Cornish Horror, and we prefer a clear atmosphere for the present </s>
+<s> Perhaps, since the matters which we have to discuss will affect you personally in a very intimate fashion, it is as well that we should talk where there can be no eavesdropping" </s>
+<s> The explorer took his cigar from his lips and gazed sternly at my companion </s>
+<s> "I am at a loss to know, sir," he said, "what you can have to speak about which affects me personally in a very intimate fashion" </s>
+<s> "The killing of Mortimer Tregennis," said Holmes </s>
+<s> For a moment I wished that I were armed </s>
+<s> Sterndale's fierce face turned to a dusky red, his eyes glared, and the knotted, passionate veins started out in his forehead, while he sprang forward with clenched hands towards my companion </s>
+<s> Then he stopped, and with a violent effort he resumed a cold, rigid calmness, which was, perhaps, more suggestive of danger than his hot-headed outburst </s>
+<s> "I have lived so long among savages and beyond the law," said he, "that I have got into the way of being a law to myself </s>
+<s> You would do well, Mr Holmes, not to forget it, for I have no desire to do you an injury" </s>
+<s> "Nor have I any desire to do you an injury, Dr </s>
+<s> Sterndale </s>
+<s> Surely the clearest proof of it is that, knowing what I know, I have sent for you and not for the police" </s>
+<s> Sterndale sat down with a gasp, overawed for, perhaps, the first time in his adventurous life </s>
+<s> There was a calm assurance of power in Holmes's manner which could not be withstood </s>
+<s> Our visitor stammered for a moment, his great hands opening and shutting in his agitation </s>
+<s> "What do you mean" </s>
+<s> he asked at last </s>
+<s> "If this is bluff upon your part, Mr Holmes, you have chosen a bad man for your experiment </s>
+<s> Let us have no more beating about the bush </s>
+<s> What DO you mean" </s>
+<s> "I will tell you," said Holmes, "and the reason why I tell you is that I hope frankness may beget frankness </s>
+<s> What my next step may be will depend entirely upon the nature of your own defence" </s>
+<s> "My defence" </s>
+<s> "Yes, sir" </s>
+<s> "My defence against what" </s>
+<s> "Against the charge of killing Mortimer Tregennis" </s>
+<s> Sterndale mopped his forehead with his handkerchief </s>
+<s> "Upon my word, you are getting on," said he </s>
+<s> "Do all your successes depend upon this prodigious power of bluff" </s>
+<s> "The bluff," said Holmes sternly, "is upon your side, Dr </s>
+<s> Leon Sterndale, and not upon mine </s>
+<s> As a proof I will tell you some of the facts upon which my conclusions are based </s>
+<s> Of your return from Plymouth, allowing much of your property to go on to Africa, I will say nothing save that it first informed me that you were one of the factors which had to be taken into account in reconstructing this drama--" "I came back--" "I have heard your reasons and regard them as unconvincing and inadequate </s>
+<s> We will pass that </s>
+<s> You came down here to ask me whom I suspected </s>
+<s> I refused to answer you </s>
+<s> You then went to the vicarage, waited outside it for some time, and finally returned to your cottage" </s>
+<s> "How do you know that" </s>
+<s> "I followed you" </s>
+<s> "I saw no one" </s>
+<s> "That is what you may expect to see when I follow you </s>
+<s> You spent a restless night at your cottage, and you formed certain plans, which in the early morning you proceeded to put into execution </s>
+<s> Leaving your door just as day was breaking, you filled your pocket with some reddish gravel that was lying heaped beside your gate" </s>
+<s> Sterndale gave a violent start and looked at Holmes in amazement </s>
+<s> "You then walked swiftly for the mile which separated you from the vicarage </s>
+<s> You were wearing, I may remark, the same pair of ribbed tennis shoes which are at the present moment upon your feet </s>
+<s> At the vicarage you passed through the orchard and the side hedge, coming out under the window of the lodger Tregennis </s>
+<s> It was now daylight, but the household was not yet stirring </s>
+<s> You drew some of the gravel from your pocket, and you threw it up at the window above you" </s>
+<s> Sterndale sprang to his feet </s>
+<s> "I believe that you are the devil himself" </s>
+<s> he cried </s>
+<s> Holmes smiled at the compliment </s>
+<s> "It took two, or possibly three, handfuls before the lodger came to the window </s>
+<s> You beckoned him to come down </s>
+<s> He dressed hurriedly and descended to his sitting-room </s>
+<s> You entered by the window </s>
+<s> There was an interview--a short one--during which you walked up and down the room </s>
+<s> Then you passed out and closed the window, standing on the lawn outside smoking a cigar and watching what occurred </s>
+<s> Finally, after the death of Tregennis, you withdrew as you had come </s>
+<s> Now, Dr </s>
+<s> Sterndale, how do you justify such conduct, and what were the motives for your actions </s>
+<s> If you prevaricate or trifle with me, I give you my assurance that the matter will pass out of my hands forever" </s>
+<s> Our visitor's face had turned ashen gray as he listened to the words of his accuser </s>
+<s> Now he sat for some time in thought with his face sunk in his hands </s>
+<s> Then with a sudden impulsive gesture he plucked a photograph from his breast-pocket and threw it on the rustic table before us </s>
+<s> "That is why I have done it," said he </s>
+<s> It showed the bust and face of a very beautiful woman </s>
+<s> Holmes stooped over it </s>
+<s> "Brenda Tregennis," said he </s>
+<s> "Yes, Brenda Tregennis," repeated our visitor </s>
+<s> "For years I have loved her </s>
+<s> For years she has loved me </s>
+<s> There is the secret of that Cornish seclusion which people have marvelled at </s>
+<s> It has brought me close to the one thing on earth that was dear to me </s>
+<s> I could not marry her, for I have a wife who has left me for years and yet whom, by the deplorable laws of England, I could not divorce </s>
+<s> For years Brenda waited </s>
+<s> For years I waited </s>
+<s> And this is what we have waited for" </s>
+<s> A terrible sob shook his great frame, and he clutched his throat under his brindled beard </s>
+<s> Then with an effort he mastered himself and spoke on: "The vicar knew </s>
+<s> He was in our confidence </s>
+<s> He would tell you that she was an angel upon earth </s>
+<s> That was why he telegraphed to me and I returned </s>
+<s> What was my baggage or Africa to me when I learned that such a fate had come upon my darling </s>
+<s> There you have the missing clue to my action, Mr Holmes" </s>
+<s> "Proceed," said my friend </s>
+<s> Dr </s>
+<s> Sterndale drew from his pocket a paper packet and laid it upon the table </s>
+<s> On the outside was written "Radix pedis diaboli" with a red poison label beneath it </s>
+<s> He pushed it towards me </s>
+<s> "I understand that you are a doctor, sir </s>
+<s> Have you ever heard of this preparation" </s>
+<s> "Devil's-foot root </s>
+<s> No, I have never heard of it" </s>
+<s> "It is no reflection upon your professional knowledge," said he, "for I believe that, save for one sample in a laboratory at Buda, there is no other specimen in Europe </s>
+<s> It has not yet found its way either into the pharmacopoeia or into the literature of toxicology </s>
+<s> The root is shaped like a foot, half human, half goatlike; hence the fanciful name given by a botanical missionary </s>
+<s> It is used as an ordeal poison by the medicine-men in certain districts of West Africa and is kept as a secret among them </s>
+<s> This particular specimen I obtained under very extraordinary circumstances in the Ubangi country" </s>
+<s> He opened the paper as he spoke and disclosed a heap of reddish-brown, snuff-like powder </s>
+<s> "Well, sir" </s>
+<s> asked Holmes sternly </s>
+<s> "I am about to tell you, Mr Holmes, all that actually occurred, for you already know so much that it is clearly to my interest that you should know all </s>
+<s> I have already explained the relationship in which I stood to the Tregennis family </s>
+<s> For the sake of the sister I was friendly with the brothers </s>
+<s> There was a family quarrel about money which estranged this man Mortimer, but it was supposed to be made up, and I afterwards met him as I did the others </s>
+<s> He was a sly, subtle, scheming man, and several things arose which gave me a suspicion of him, but I had no cause for any positive quarrel </s>
+<s> "One day, only a couple of weeks ago, he came down to my cottage and I showed him some of my African curiosities </s>
+<s> Among other things I exhibited this powder, and I told him of its strange properties, how it stimulates those brain centres which control the emotion of fear, and how either madness or death is the fate of the unhappy native who is subjected to the ordeal by the priest of his tribe </s>
+<s> I told him also how powerless European science would be to detect it </s>
+<s> How he took it I cannot say, for I never left the room, but there is no doubt that it was then, while I was opening cabinets and stooping to boxes, that he managed to abstract some of the devil's-foot root </s>
+<s> I well remember how he plied me with questions as to the amount and the time that was needed for its effect, but I little dreamed that he could have a personal reason for asking </s>
+<s> "I thought no more of the matter until the vicar's telegram reached me at Plymouth </s>
+<s> This villain had thought that I would be at sea before the news could reach me, and that I should be lost for years in Africa </s>
+<s> But I returned at once </s>
+<s> Of course, I could not listen to the details without feeling assured that my poison had been used </s>
+<s> I came round to see you on the chance that some other explanation had suggested itself to you </s>
+<s> But there could be none </s>
+<s> I was convinced that Mortimer Tregennis was the murderer; that for the sake of money, and with the idea, perhaps, that if the other members of his family were all insane he would be the sole guardian of their joint property, he had used the devil's-foot powder upon them, driven two of them out of their senses, and killed his sister Brenda, the one human being whom I have ever loved or who has ever loved me </s>
+<s> There was his crime; what was to be his punishment </s>
+<s> "Should I appeal to the law </s>
+<s> Where were my proofs </s>
+<s> I knew that the facts were true, but could I help to make a jury of countrymen believe so fantastic a story </s>
+<s> I might or I might not </s>
+<s> But I could not afford to fail </s>
+<s> My soul cried out for revenge </s>
+<s> I have said to you once before, Mr Holmes, that I have spent much of my life outside the law, and that I have come at last to be a law to myself </s>
+<s> So it was even now </s>
+<s> I determined that the fate which he had given to others should be shared by himself </s>
+<s> Either that or I would do justice upon him with my own hand </s>
+<s> In all England there can be no man who sets less value upon his own life than I do at the present moment </s>
+<s> "Now I have told you all </s>
+<s> You have yourself supplied the rest </s>
+<s> I did, as you say, after a restless night, set off early from my cottage </s>
+<s> I foresaw the difficulty of arousing him, so I gathered some gravel from the pile which you have mentioned, and I used it to throw up to his window </s>
+<s> He came down and admitted me through the window of the sitting-room </s>
+<s> I laid his offence before him </s>
+<s> I told him that I had come both as judge and executioner </s>
+<s> The wretch sank into a chair, paralyzed at the sight of my revolver </s>
+<s> I lit the lamp, put the powder above it, and stood outside the window, ready to carry out my threat to shoot him should he try to leave the room </s>
+<s> In five minutes he died </s>
+<s> My God </s>
+<s> how he died </s>
+<s> But my heart was flint, for he endured nothing which my innocent darling had not felt before him </s>
+<s> There is my story, Mr Holmes </s>
+<s> Perhaps, if you loved a woman, you would have done as much yourself </s>
+<s> At any rate, I am in your hands </s>
+<s> You can take what steps you like </s>
+<s> As I have already said, there is no man living who can fear death less than I do" </s>
+<s> Holmes sat for some little time in silence </s>
+<s> "What were your plans" </s>
+<s> he asked at last </s>
+<s> "I had intended to bury myself in central Africa </s>
+<s> My work there is but half finished" </s>
+<s> "Go and do the other half," said Holmes </s>
+<s> "I, at least, am not prepared to prevent you" </s>
+<s> Dr </s>
+<s> Sterndale raised his giant figure, bowed gravely, and walked from the arbour </s>
+<s> Holmes lit his pipe and handed me his pouch </s>
+<s> "Some fumes which are not poisonous would be a welcome change," said he </s>
+<s> "I think you must agree, Watson, that it is not a case in which we are called upon to interfere </s>
+<s> Our investigation has been independent, and our action shall be so also </s>
+<s> You would not denounce the man" </s>
+<s> "Certainly not," I answered </s>
+<s> "I have never loved, Watson, but if I did and if the woman I loved had met such an end, I might act even as our lawless lion-hunter has done </s>
+<s> Who knows </s>
+<s> Well, Watson, I will not offend your intelligence by explaining what is obvious </s>
+<s> The gravel upon the window-sill was, of course, the starting-point of my research </s>
+<s> It was unlike anything in the vicarage garden </s>
+<s> Only when my attention had been drawn to Dr </s>
+<s> Sterndale and his cottage did I find its counterpart </s>
+<s> The lamp shining in broad daylight and the remains of powder upon the shield were successive links in a fairly obvious chain </s>
+<s> And now, my dear Watson, I think we may dismiss the matter from our mind and go back with a clear conscience to the study of those Chaldean roots which are surely to be traced in the Cornish branch of the great Celtic speech" </s>
+<s> </s>

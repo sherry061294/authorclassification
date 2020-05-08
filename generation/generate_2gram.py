@@ -39,7 +39,7 @@ def generate_sentence(word_probs, max_words):
         # add word to sentence and reset previous words
         sentence += next_word + " "
         p1_word = next_word
-
+    
     sentence = sentence + "</s>"
 
     perp = perplexity(word_probs, sentence)

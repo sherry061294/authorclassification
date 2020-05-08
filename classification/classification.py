@@ -32,10 +32,13 @@ with open (os.getcwd() +'/PossessivesList', 'r') as p:
     Possessives_list = p.read()
 p.close()
 count=0
-for filename in os.listdir(os.getcwd() + '/final/data/processed_data/'):
-    filename_full_path = os.getcwd() + '/final/data/processed_data/'+ filename
+path = os.getcwd() + '/../data/processed_data_feature_engineering/'
+print(path)
+for filename in os.listdir(path):
+    filename_full_path = path + filename
     print(filename)
     with open(filename_full_path, 'r') as f:
+        print(count)
         authorName.append(filename.split('_')[0])
         filedata = f.read()
         num_sentences = len(filedata.split('\n'))
@@ -92,33 +95,20 @@ dfObj['avg_word_length'] = avg_word_length_file
 dfObj['no_of_sentences'] = number_of_sentences_file
 
 dfObj2['author_name'] = authorName
+print(dfObj)
 
+print(dfObj2)
 import numpy as np
-from sklearn import preprocessing
-import matplotlib.pyplot as plt 
-plt.rc("font", size=14)
-from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-import seaborn as sns
-sns.set(style="white")
-sns.set(style="whitegrid", color_codes=True)
-
-from imblearn.over_sampling import SMOTE
-os = SMOTE(random_state=0)
-X_train, X_test, y_train, y_test = train_test_split(dfObj, dfObj2, test_size=0.1, random_state=0)
-
 from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import classification_report
+
+X_train, X_test, y_train, y_test = train_test_split(dfObj, dfObj2, test_size=0.1, random_state=0)
 
 model = MultinomialNB()
 # training the model...
 model = model.fit(X_train, y_train)
 
-model.score(X_train, y_train)
-print("Accuracy")
-print(model.score(X_test, y_test))
-
-from sklearn.metrics import classification_report
- 
 # getting the predictions of the Validation Set...
 predictions = model.predict(X_test)
 # getting the Precision, Recall, F1-Score

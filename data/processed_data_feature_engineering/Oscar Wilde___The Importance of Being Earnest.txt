@@ -1,0 +1,2981 @@
+<s> The Importance of Being Earnest A Trivial Comedy for Serious People THE PERSONS IN THE PLAY John Worthing, J.P </s>
+<s> Algernon Moncrieff Rev </s>
+<s> Canon Chasuble, D.D </s>
+<s> Merriman, Butler Lane, Manservant Lady Bracknell Hon </s>
+<s> Gwendolen Fairfax Cecily Cardew Miss Prism, Governess THE SCENES OF THE PLAY ACT I </s>
+<s> Algernon Moncrieff's Flat in Half-Moon Street, W </s>
+<s> ACT II </s>
+<s> The Garden at the Manor House, Woolton </s>
+<s> ACT III </s>
+<s> Drawing-Room at the Manor House, Woolton </s>
+<s> TIME: The Present </s>
+<s> LONDON: ST </s>
+<s> JAMES'S THEATRE Lessee and Manager: Mr George Alexander February 14th, 1895 * * * * * John Worthing, J.P.: Mr George Alexander </s>
+<s> Algernon Moncrieff: Mr Allen Aynesworth </s>
+<s> Rev </s>
+<s> Canon Chasuble, D.D.: Mr H </s>
+<s> H </s>
+<s> Vincent </s>
+<s> Merriman: Mr Frank Dyall </s>
+<s> Lane: Mr F </s>
+<s> Kinsey Peile </s>
+<s> Lady Bracknell: Miss Rose Leclercq </s>
+<s> Hon </s>
+<s> Gwendolen Fairfax: Miss Irene Vanbrugh </s>
+<s> Cecily Cardew: Miss Evelyn Millard </s>
+<s> Miss Prism: Mrs George Canninge </s>
+<s> FIRST ACT SCENE Morning-room in Algernon's flat in Half-Moon Street </s>
+<s> The room is luxuriously and artistically furnished </s>
+<s> The sound of a piano is heard in the adjoining room </s>
+<s> [Lane is arranging afternoon tea on the table, and after the music has ceased, Algernon enters.] Algernon </s>
+<s> Did you hear what I was playing, Lane </s>
+<s> Lane </s>
+<s> I didn't think it polite to listen, sir </s>
+<s> Algernon </s>
+<s> I'm sorry for that, for your sake </s>
+<s> I don't play accurately--any one can play accurately--but I play with wonderful expression </s>
+<s> As far as the piano is concerned, sentiment is my forte </s>
+<s> I keep science for Life </s>
+<s> Lane </s>
+<s> Yes, sir </s>
+<s> Algernon </s>
+<s> And, speaking of the science of Life, have you got the cucumber sandwiches cut for Lady Bracknell </s>
+<s> Lane </s>
+<s> Yes, sir </s>
+<s> [Hands them on a salver.] Algernon </s>
+<s> [Inspects them, takes two, and sits down on the sofa.] Oh </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> by the way, Lane, I see from your book that on Thursday night, when Lord Shoreman and Mr Worthing were dining with me, eight bottles of champagne are entered as having been consumed </s>
+<s> Lane </s>
+<s> Yes, sir; eight bottles and a pint </s>
+<s> Algernon </s>
+<s> Why is it that at a bachelor's establishment the servants invariably drink the champagne </s>
+<s> I ask merely for information </s>
+<s> Lane </s>
+<s> I attribute it to the superior quality of the wine, sir </s>
+<s> I have often observed that in married households the champagne is rarely of a first-rate brand </s>
+<s> Algernon </s>
+<s> Good heavens </s>
+<s> Is marriage so demoralising as that </s>
+<s> Lane </s>
+<s> I believe it _is_ a very pleasant state, sir </s>
+<s> I have had very little experience of it myself up to the present </s>
+<s> I have only been married once </s>
+<s> That was in consequence of a misunderstanding between myself and a young person </s>
+<s> Algernon </s>
+<s> [Languidly_._] I don't know that I am much interested in your family life, Lane </s>
+<s> Lane </s>
+<s> No, sir; it is not a very interesting subject </s>
+<s> I never think of it myself </s>
+<s> Algernon </s>
+<s> Very natural, I am sure </s>
+<s> That will do, Lane, thank you </s>
+<s> Lane </s>
+<s> Thank you, sir </s>
+<s> [Lane goes out.] Algernon </s>
+<s> Lane's views on marriage seem somewhat lax </s>
+<s> Really, if the lower orders don't set us a good example, what on earth is the use of them </s>
+<s> They seem, as a class, to have absolutely no sense of moral responsibility </s>
+<s> [Enter Lane.] Lane </s>
+<s> Mr Ernest Worthing </s>
+<s> [Enter Jack.] [Lane goes out_._] Algernon </s>
+<s> How are you, my dear Ernest </s>
+<s> What brings you up to town </s>
+<s> Jack </s>
+<s> Oh, pleasure, pleasure </s>
+<s> What else should bring one anywhere </s>
+<s> Eating as usual, I see, Algy </s>
+<s> Algernon </s>
+<s> [Stiffly_._] I believe it is customary in good society to take some slight refreshment at five o'clock </s>
+<s> Where have you been since last Thursday </s>
+<s> Jack </s>
+<s> [Sitting down on the sofa.] In the country </s>
+<s> Algernon </s>
+<s> What on earth do you do there </s>
+<s> Jack </s>
+<s> [Pulling off his gloves_._] When one is in town one amuses oneself </s>
+<s> When one is in the country one amuses other people </s>
+<s> It is excessively boring </s>
+<s> Algernon </s>
+<s> And who are the people you amuse </s>
+<s> Jack </s>
+<s> [Airily_._] Oh, neighbours, neighbours </s>
+<s> Algernon </s>
+<s> Got nice neighbours in your part of Shropshire </s>
+<s> Jack </s>
+<s> Perfectly horrid </s>
+<s> Never speak to one of them </s>
+<s> Algernon </s>
+<s> How immensely you must amuse them </s>
+<s> [Goes over and takes sandwich.] By the way, Shropshire is your county, is it not </s>
+<s> Jack </s>
+<s> Eh </s>
+<s> Shropshire </s>
+<s> Yes, of course </s>
+<s> Hallo </s>
+<s> Why all these cups </s>
+<s> Why cucumber sandwiches </s>
+<s> Why such reckless extravagance in one so young </s>
+<s> Who is coming to tea </s>
+<s> Algernon </s>
+<s> Oh </s>
+<s> merely Aunt Augusta and Gwendolen </s>
+<s> Jack </s>
+<s> How perfectly delightful </s>
+<s> Algernon </s>
+<s> Yes, that is all very well; but I am afraid Aunt Augusta won't quite approve of your being here </s>
+<s> Jack </s>
+<s> May I ask why </s>
+<s> Algernon </s>
+<s> My dear fellow, the way you flirt with Gwendolen is perfectly disgraceful </s>
+<s> It is almost as bad as the way Gwendolen flirts with you </s>
+<s> Jack </s>
+<s> I am in love with Gwendolen </s>
+<s> I have come up to town expressly to propose to her </s>
+<s> Algernon </s>
+<s> I thought you had come up for pleasure </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> I call that business </s>
+<s> Jack </s>
+<s> How utterly unromantic you are </s>
+<s> Algernon </s>
+<s> I really don't see anything romantic in proposing </s>
+<s> It is very romantic to be in love </s>
+<s> But there is nothing romantic about a definite proposal </s>
+<s> Why, one may be accepted </s>
+<s> One usually is, I believe </s>
+<s> Then the excitement is all over </s>
+<s> The very essence of romance is uncertainty </s>
+<s> If ever I get married, I'll certainly try to forget the fact </s>
+<s> Jack </s>
+<s> I have no doubt about that, dear Algy </s>
+<s> The Divorce Court was specially invented for people whose memories are so curiously constituted </s>
+<s> Algernon </s>
+<s> Oh </s>
+<s> there is no use speculating on that subject </s>
+<s> Divorces are made in Heaven--[Jack puts out his hand to take a sandwich </s>
+<s> Algernon at once interferes.] Please don't touch the cucumber sandwiches </s>
+<s> They are ordered specially for Aunt Augusta </s>
+<s> [Takes one and eats it.] Jack </s>
+<s> Well, you have been eating them all the time </s>
+<s> Algernon </s>
+<s> That is quite a different matter </s>
+<s> She is my aunt </s>
+<s> [Takes plate from below.] Have some bread and butter </s>
+<s> The bread and butter is for Gwendolen </s>
+<s> Gwendolen is devoted to bread and butter </s>
+<s> Jack </s>
+<s> [Advancing to table and helping himself.] And very good bread and butter it is too </s>
+<s> Algernon </s>
+<s> Well, my dear fellow, you need not eat as if you were going to eat it all </s>
+<s> You behave as if you were married to her already </s>
+<s> You are not married to her already, and I don't think you ever will be </s>
+<s> Jack </s>
+<s> Why on earth do you say that </s>
+<s> Algernon </s>
+<s> Well, in the first place girls never marry the men they flirt with </s>
+<s> Girls don't think it right </s>
+<s> Jack </s>
+<s> Oh, that is nonsense </s>
+<s> Algernon </s>
+<s> It isn't </s>
+<s> It is a great truth </s>
+<s> It accounts for the extraordinary number of bachelors that one sees all over the place </s>
+<s> In the second place, I don't give my consent </s>
+<s> Jack </s>
+<s> Your consent </s>
+<s> Algernon </s>
+<s> My dear fellow, Gwendolen is my first cousin </s>
+<s> And before I allow you to marry her, you will have to clear up the whole question of Cecily </s>
+<s> [Rings bell.] Jack </s>
+<s> Cecily </s>
+<s> What on earth do you mean </s>
+<s> What do you mean, Algy, by Cecily </s>
+<s> I don't know any one of the name of Cecily </s>
+<s> [Enter Lane.] Algernon </s>
+<s> Bring me that cigarette case Mr Worthing left in the smoking- room the last time he dined here </s>
+<s> Lane </s>
+<s> Yes, sir </s>
+<s> [Lane goes out.] Jack </s>
+<s> Do you mean to say you have had my cigarette case all this time </s>
+<s> I wish to goodness you had let me know </s>
+<s> I have been writing frantic letters to Scotland Yard about it </s>
+<s> I was very nearly offering a large reward </s>
+<s> Algernon </s>
+<s> Well, I wish you would offer one </s>
+<s> I happen to be more than usually hard up </s>
+<s> Jack </s>
+<s> There is no good offering a large reward now that the thing is found </s>
+<s> [Enter Lane with the cigarette case on a salver </s>
+<s> Algernon takes it at once </s>
+<s> Lane goes out.] Algernon </s>
+<s> I think that is rather mean of you, Ernest, I must say </s>
+<s> [Opens case and examines it.] However, it makes no matter, for, now that I look at the inscription inside, I find that the thing isn't yours after all </s>
+<s> Jack </s>
+<s> Of course it's mine </s>
+<s> [Moving to him.] You have seen me with it a hundred times, and you have no right whatsoever to read what is written inside </s>
+<s> It is a very ungentlemanly thing to read a private cigarette case </s>
+<s> Algernon </s>
+<s> Oh </s>
+<s> it is absurd to have a hard and fast rule about what one should read and what one shouldn't </s>
+<s> More than half of modern culture depends on what one shouldn't read </s>
+<s> Jack </s>
+<s> I am quite aware of the fact, and I don't propose to discuss modern culture </s>
+<s> It isn't the sort of thing one should talk of in private </s>
+<s> I simply want my cigarette case back </s>
+<s> Algernon </s>
+<s> Yes; but this isn't your cigarette case </s>
+<s> This cigarette case is a present from some one of the name of Cecily, and you said you didn't know any one of that name </s>
+<s> Jack </s>
+<s> Well, if you want to know, Cecily happens to be my aunt </s>
+<s> Algernon </s>
+<s> Your aunt </s>
+<s> Jack </s>
+<s> Yes </s>
+<s> Charming old lady she is, too </s>
+<s> Lives at Tunbridge Wells </s>
+<s> Just give it back to me, Algy </s>
+<s> Algernon </s>
+<s> [Retreating to back of sofa.] But why does she call herself little Cecily if she is your aunt and lives at Tunbridge Wells </s>
+<s> [Reading.] 'From little Cecily with her fondest love' </s>
+<s> Jack </s>
+<s> [Moving to sofa and kneeling upon it.] My dear fellow, what on earth is there in that </s>
+<s> Some aunts are tall, some aunts are not tall </s>
+<s> That is a matter that surely an aunt may be allowed to decide for herself </s>
+<s> You seem to think that every aunt should be exactly like your aunt </s>
+<s> That is absurd </s>
+<s> For Heaven's sake give me back my cigarette case </s>
+<s> [Follows Algernon round the room.] Algernon </s>
+<s> Yes </s>
+<s> But why does your aunt call you her uncle </s>
+<s> 'From little Cecily, with her fondest love to her dear Uncle Jack' </s>
+<s> There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out </s>
+<s> Besides, your name isn't Jack at all; it is Ernest </s>
+<s> Jack </s>
+<s> It isn't Ernest; it's Jack </s>
+<s> Algernon </s>
+<s> You have always told me it was Ernest </s>
+<s> I have introduced you to every one as Ernest </s>
+<s> You answer to the name of Ernest </s>
+<s> You look as if your name was Ernest </s>
+<s> You are the most earnest-looking person I ever saw in my life </s>
+<s> It is perfectly absurd your saying that your name isn't Ernest </s>
+<s> It's on your cards </s>
+<s> Here is one of them </s>
+<s> [Taking it from case.] 'Mr Ernest Worthing, B </s>
+<s> 4, The Albany' </s>
+<s> I'll keep this as a proof that your name is Ernest if ever you attempt to deny it to me, or to Gwendolen, or to any one else </s>
+<s> [Puts the card in his pocket.] Jack </s>
+<s> Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country </s>
+<s> Algernon </s>
+<s> Yes, but that does not account for the fact that your small Aunt Cecily, who lives at Tunbridge Wells, calls you her dear uncle </s>
+<s> Come, old boy, you had much better have the thing out at once </s>
+<s> Jack </s>
+<s> My dear Algy, you talk exactly as if you were a dentist </s>
+<s> It is very vulgar to talk like a dentist when one isn't a dentist </s>
+<s> It produces a false impression </s>
+<s> Algernon </s>
+<s> Well, that is exactly what dentists always do </s>
+<s> Now, go on </s>
+<s> Tell me the whole thing </s>
+<s> I may mention that I have always suspected you of being a confirmed and secret Bunburyist; and I am quite sure of it now </s>
+<s> Jack </s>
+<s> Bunburyist </s>
+<s> What on earth do you mean by a Bunburyist </s>
+<s> Algernon </s>
+<s> I'll reveal to you the meaning of that incomparable expression as soon as you are kind enough to inform me why you are Ernest in town and Jack in the country </s>
+<s> Jack </s>
+<s> Well, produce my cigarette case first </s>
+<s> Algernon </s>
+<s> Here it is </s>
+<s> [Hands cigarette case.] Now produce your explanation, and pray make it improbable </s>
+<s> [Sits on sofa.] Jack </s>
+<s> My dear fellow, there is nothing improbable about my explanation at all </s>
+<s> In fact it's perfectly ordinary </s>
+<s> Old Mr Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew </s>
+<s> Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism </s>
+<s> Algernon </s>
+<s> Where is that place in the country, by the way </s>
+<s> Jack </s>
+<s> That is nothing to you, dear boy </s>
+<s> You are not going to be invited </s>
+<s> </s>
+<s> </s>
+<s> I may tell you candidly that the place is not in Shropshire </s>
+<s> Algernon </s>
+<s> I suspected that, my dear fellow </s>
+<s> I have Bunburyed all over Shropshire on two separate occasions </s>
+<s> Now, go on </s>
+<s> Why are you Ernest in town and Jack in the country </s>
+<s> Jack </s>
+<s> My dear Algy, I don't know whether you will be able to understand my real motives </s>
+<s> You are hardly serious enough </s>
+<s> When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects </s>
+<s> It's one's duty to do so </s>
+<s> And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes </s>
+<s> That, my dear Algy, is the whole truth pure and simple </s>
+<s> Algernon </s>
+<s> The truth is rarely pure and never simple </s>
+<s> Modern life would be very tedious if it were either, and modern literature a complete impossibility </s>
+<s> Jack </s>
+<s> That wouldn't be at all a bad thing </s>
+<s> Algernon </s>
+<s> Literary criticism is not your forte, my dear fellow </s>
+<s> Don't try it </s>
+<s> You should leave that to people who haven't been at a University </s>
+<s> They do it so well in the daily papers </s>
+<s> What you really are is a Bunburyist </s>
+<s> I was quite right in saying you were a Bunburyist </s>
+<s> You are one of the most advanced Bunburyists I know </s>
+<s> Jack </s>
+<s> What on earth do you mean </s>
+<s> Algernon </s>
+<s> You have invented a very useful younger brother called Ernest, in order that you may be able to come up to town as often as you like </s>
+<s> I have invented an invaluable permanent invalid called Bunbury, in order that I may be able to go down into the country whenever I choose </s>
+<s> Bunbury is perfectly invaluable </s>
+<s> If it wasn't for Bunbury's extraordinary bad health, for instance, I wouldn't be able to dine with you at Willis's to- night, for I have been really engaged to Aunt Augusta for more than a week </s>
+<s> Jack </s>
+<s> I haven't asked you to dine with me anywhere to-night </s>
+<s> Algernon </s>
+<s> I know </s>
+<s> You are absurdly careless about sending out invitations </s>
+<s> It is very foolish of you </s>
+<s> Nothing annoys people so much as not receiving invitations </s>
+<s> Jack </s>
+<s> You had much better dine with your Aunt Augusta </s>
+<s> Algernon </s>
+<s> I haven't the smallest intention of doing anything of the kind </s>
+<s> To begin with, I dined there on Monday, and once a week is quite enough to dine with one's own relations </s>
+<s> In the second place, whenever I do dine there I am always treated as a member of the family, and sent down with either no woman at all, or two </s>
+<s> In the third place, I know perfectly well whom she will place me next to, to-night </s>
+<s> She will place me next Mary Farquhar, who always flirts with her own husband across the dinner-table </s>
+<s> That is not very pleasant </s>
+<s> Indeed, it is not even decent </s>
+<s> </s>
+<s> </s>
+<s> and that sort of thing is enormously on the increase </s>
+<s> The amount of women in London who flirt with their own husbands is perfectly scandalous </s>
+<s> It looks so bad </s>
+<s> It is simply washing one's clean linen in public </s>
+<s> Besides, now that I know you to be a confirmed Bunburyist I naturally want to talk to you about Bunburying </s>
+<s> I want to tell you the rules </s>
+<s> Jack </s>
+<s> I'm not a Bunburyist at all </s>
+<s> If Gwendolen accepts me, I am going to kill my brother, indeed I think I'll kill him in any case </s>
+<s> Cecily is a little too much interested in him </s>
+<s> It is rather a bore </s>
+<s> So I am going to get rid of Ernest </s>
+<s> And I strongly advise you to do the same with Mr </s>
+<s> </s>
+<s> </s>
+<s> with your invalid friend who has the absurd name </s>
+<s> Algernon </s>
+<s> Nothing will induce me to part with Bunbury, and if you ever get married, which seems to me extremely problematic, you will be very glad to know Bunbury </s>
+<s> A man who marries without knowing Bunbury has a very tedious time of it </s>
+<s> Jack </s>
+<s> That is nonsense </s>
+<s> If I marry a charming girl like Gwendolen, and she is the only girl I ever saw in my life that I would marry, I certainly won't want to know Bunbury </s>
+<s> Algernon </s>
+<s> Then your wife will </s>
+<s> You don't seem to realise, that in married life three is company and two is none </s>
+<s> Jack </s>
+<s> [Sententiously.] That, my dear young friend, is the theory that the corrupt French Drama has been propounding for the last fifty years </s>
+<s> Algernon </s>
+<s> Yes; and that the happy English home has proved in half the time </s>
+<s> Jack </s>
+<s> For heaven's sake, don't try to be cynical </s>
+<s> It's perfectly easy to be cynical </s>
+<s> Algernon </s>
+<s> My dear fellow, it isn't easy to be anything nowadays </s>
+<s> There's such a lot of beastly competition about </s>
+<s> [The sound of an electric bell is heard.] Ah </s>
+<s> that must be Aunt Augusta </s>
+<s> Only relatives, or creditors, ever ring in that Wagnerian manner </s>
+<s> Now, if I get her out of the way for ten minutes, so that you can have an opportunity for proposing to Gwendolen, may I dine with you to-night at Willis's </s>
+<s> Jack </s>
+<s> I suppose so, if you want to </s>
+<s> Algernon </s>
+<s> Yes, but you must be serious about it </s>
+<s> I hate people who are not serious about meals </s>
+<s> It is so shallow of them </s>
+<s> [Enter Lane.] Lane </s>
+<s> Lady Bracknell and Miss Fairfax </s>
+<s> [Algernon goes forward to meet them </s>
+<s> Enter Lady Bracknell and Gwendolen.] Lady Bracknell </s>
+<s> Good afternoon, dear Algernon, I hope you are behaving very well </s>
+<s> Algernon </s>
+<s> I'm feeling very well, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> That's not quite the same thing </s>
+<s> In fact the two things rarely go together </s>
+<s> [Sees Jack and bows to him with icy coldness.] Algernon </s>
+<s> [To Gwendolen.] Dear me, you are smart </s>
+<s> Gwendolen </s>
+<s> I am always smart </s>
+<s> Am I not, Mr Worthing </s>
+<s> Jack </s>
+<s> You're quite perfect, Miss Fairfax </s>
+<s> Gwendolen </s>
+<s> Oh </s>
+<s> I hope I am not that </s>
+<s> It would leave no room for developments, and I intend to develop in many directions </s>
+<s> [Gwendolen and Jack sit down together in the corner.] Lady Bracknell </s>
+<s> I'm sorry if we are a little late, Algernon, but I was obliged to call on dear Lady Harbury </s>
+<s> I hadn't been there since her poor husband's death </s>
+<s> I never saw a woman so altered; she looks quite twenty years younger </s>
+<s> And now I'll have a cup of tea, and one of those nice cucumber sandwiches you promised me </s>
+<s> Algernon </s>
+<s> Certainly, Aunt Augusta </s>
+<s> [Goes over to tea-table.] Lady Bracknell </s>
+<s> Won't you come and sit here, Gwendolen </s>
+<s> Gwendolen </s>
+<s> Thanks, mamma, I'm quite comfortable where I am </s>
+<s> Algernon </s>
+<s> [Picking up empty plate in horror.] Good heavens </s>
+<s> Lane </s>
+<s> Why are there no cucumber sandwiches </s>
+<s> I ordered them specially </s>
+<s> Lane </s>
+<s> [Gravely.] There were no cucumbers in the market this morning, sir </s>
+<s> I went down twice </s>
+<s> Algernon </s>
+<s> No cucumbers </s>
+<s> Lane </s>
+<s> No, sir </s>
+<s> Not even for ready money </s>
+<s> Algernon </s>
+<s> That will do, Lane, thank you </s>
+<s> Lane </s>
+<s> Thank you, sir </s>
+<s> [Goes out.] Algernon </s>
+<s> I am greatly distressed, Aunt Augusta, about there being no cucumbers, not even for ready money </s>
+<s> Lady Bracknell </s>
+<s> It really makes no matter, Algernon </s>
+<s> I had some crumpets with Lady Harbury, who seems to me to be living entirely for pleasure now </s>
+<s> Algernon </s>
+<s> I hear her hair has turned quite gold from grief </s>
+<s> Lady Bracknell </s>
+<s> It certainly has changed its colour </s>
+<s> From what cause I, of course, cannot say </s>
+<s> [Algernon crosses and hands tea.] Thank you </s>
+<s> I've quite a treat for you to-night, Algernon </s>
+<s> I am going to send you down with Mary Farquhar </s>
+<s> She is such a nice woman, and so attentive to her husband </s>
+<s> It's delightful to watch them </s>
+<s> Algernon </s>
+<s> I am afraid, Aunt Augusta, I shall have to give up the pleasure of dining with you to-night after all </s>
+<s> Lady Bracknell </s>
+<s> [Frowning.] I hope not, Algernon </s>
+<s> It would put my table completely out </s>
+<s> Your uncle would have to dine upstairs </s>
+<s> Fortunately he is accustomed to that </s>
+<s> Algernon </s>
+<s> It is a great bore, and, I need hardly say, a terrible disappointment to me, but the fact is I have just had a telegram to say that my poor friend Bunbury is very ill again </s>
+<s> [Exchanges glances with Jack.] They seem to think I should be with him </s>
+<s> Lady Bracknell </s>
+<s> It is very strange </s>
+<s> This Mr Bunbury seems to suffer from curiously bad health </s>
+<s> Algernon </s>
+<s> Yes; poor Bunbury is a dreadful invalid </s>
+<s> Lady Bracknell </s>
+<s> Well, I must say, Algernon, that I think it is high time that Mr Bunbury made up his mind whether he was going to live or to die </s>
+<s> This shilly-shallying with the question is absurd </s>
+<s> Nor do I in any way approve of the modern sympathy with invalids </s>
+<s> I consider it morbid </s>
+<s> Illness of any kind is hardly a thing to be encouraged in others </s>
+<s> Health is the primary duty of life </s>
+<s> I am always telling that to your poor uncle, but he never seems to take much notice </s>
+<s> </s>
+<s> </s>
+<s> as far as any improvement in his ailment goes </s>
+<s> I should be much obliged if you would ask Mr Bunbury, from me, to be kind enough not to have a relapse on Saturday, for I rely on you to arrange my music for me </s>
+<s> It is my last reception, and one wants something that will encourage conversation, particularly at the end of the season when every one has practically said whatever they had to say, which, in most cases, was probably not much </s>
+<s> Algernon </s>
+<s> I'll speak to Bunbury, Aunt Augusta, if he is still conscious, and I think I can promise you he'll be all right by Saturday </s>
+<s> Of course the music is a great difficulty </s>
+<s> You see, if one plays good music, people don't listen, and if one plays bad music people don't talk </s>
+<s> But I'll run over the programme I've drawn out, if you will kindly come into the next room for a moment </s>
+<s> Lady Bracknell </s>
+<s> Thank you, Algernon </s>
+<s> It is very thoughtful of you </s>
+<s> [Rising, and following Algernon.] I'm sure the programme will be delightful, after a few expurgations </s>
+<s> French songs I cannot possibly allow </s>
+<s> People always seem to think that they are improper, and either look shocked, which is vulgar, or laugh, which is worse </s>
+<s> But German sounds a thoroughly respectable language, and indeed, I believe is so </s>
+<s> Gwendolen, you will accompany me </s>
+<s> Gwendolen </s>
+<s> Certainly, mamma </s>
+<s> [Lady Bracknell and Algernon go into the music-room, Gwendolen remains behind.] Jack </s>
+<s> Charming day it has been, Miss Fairfax </s>
+<s> Gwendolen </s>
+<s> Pray don't talk to me about the weather, Mr Worthing </s>
+<s> Whenever people talk to me about the weather, I always feel quite certain that they mean something else </s>
+<s> And that makes me so nervous </s>
+<s> Jack </s>
+<s> I do mean something else </s>
+<s> Gwendolen </s>
+<s> I thought so </s>
+<s> In fact, I am never wrong </s>
+<s> Jack </s>
+<s> And I would like to be allowed to take advantage of Lady Bracknell's temporary absence </s>
+<s> </s>
+<s> </s>
+<s> Gwendolen </s>
+<s> I would certainly advise you to do so </s>
+<s> Mamma has a way of coming back suddenly into a room that I have often had to speak to her about </s>
+<s> Jack </s>
+<s> [Nervously.] Miss Fairfax, ever since I met you I have admired you more than any girl </s>
+<s> </s>
+<s> </s>
+<s> I have ever met since </s>
+<s> </s>
+<s> </s>
+<s> I met you </s>
+<s> Gwendolen </s>
+<s> Yes, I am quite well aware of the fact </s>
+<s> And I often wish that in public, at any rate, you had been more demonstrative </s>
+<s> For me you have always had an irresistible fascination </s>
+<s> Even before I met you I was far from indifferent to you </s>
+<s> [Jack looks at her in amazement.] We live, as I hope you know, Mr Worthing, in an age of ideals </s>
+<s> The fact is constantly mentioned in the more expensive monthly magazines, and has reached the provincial pulpits, I am told; and my ideal has always been to love some one of the name of Ernest </s>
+<s> There is something in that name that inspires absolute confidence </s>
+<s> The moment Algernon first mentioned to me that he had a friend called Ernest, I knew I was destined to love you </s>
+<s> Jack </s>
+<s> You really love me, Gwendolen </s>
+<s> Gwendolen </s>
+<s> Passionately </s>
+<s> Jack </s>
+<s> Darling </s>
+<s> You don't know how happy you've made me </s>
+<s> Gwendolen </s>
+<s> My own Ernest </s>
+<s> Jack </s>
+<s> But you don't really mean to say that you couldn't love me if my name wasn't Ernest </s>
+<s> Gwendolen </s>
+<s> But your name is Ernest </s>
+<s> Jack </s>
+<s> Yes, I know it is </s>
+<s> But supposing it was something else </s>
+<s> Do you mean to say you couldn't love me then </s>
+<s> Gwendolen </s>
+<s> [Glibly.] Ah </s>
+<s> that is clearly a metaphysical speculation, and like most metaphysical speculations has very little reference at all to the actual facts of real life, as we know them </s>
+<s> Jack </s>
+<s> Personally, darling, to speak quite candidly, I don't much care about the name of Ernest </s>
+<s> </s>
+<s> </s>
+<s> I don't think the name suits me at all </s>
+<s> Gwendolen </s>
+<s> It suits you perfectly </s>
+<s> It is a divine name </s>
+<s> It has a music of its own </s>
+<s> It produces vibrations </s>
+<s> Jack </s>
+<s> Well, really, Gwendolen, I must say that I think there are lots of other much nicer names </s>
+<s> I think Jack, for instance, a charming name </s>
+<s> Gwendolen </s>
+<s> Jack </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> No, there is very little music in the name Jack, if any at all, indeed </s>
+<s> It does not thrill </s>
+<s> It produces absolutely no vibrations </s>
+<s> </s>
+<s> </s>
+<s> I have known several Jacks, and they all, without exception, were more than usually plain </s>
+<s> Besides, Jack is a notorious domesticity for John </s>
+<s> And I pity any woman who is married to a man called John </s>
+<s> She would probably never be allowed to know the entrancing pleasure of a single moment's solitude </s>
+<s> The only really safe name is Ernest Jack </s>
+<s> Gwendolen, I must get christened at once--I mean we must get married at once </s>
+<s> There is no time to be lost </s>
+<s> Gwendolen </s>
+<s> Married, Mr Worthing </s>
+<s> Jack </s>
+<s> [Astounded.] Well </s>
+<s> </s>
+<s> </s>
+<s> surely </s>
+<s> You know that I love you, and you led me to believe, Miss Fairfax, that you were not absolutely indifferent to me </s>
+<s> Gwendolen </s>
+<s> I adore you </s>
+<s> But you haven't proposed to me yet </s>
+<s> Nothing has been said at all about marriage </s>
+<s> The subject has not even been touched on </s>
+<s> Jack </s>
+<s> Well </s>
+<s> </s>
+<s> </s>
+<s> may I propose to you now </s>
+<s> Gwendolen </s>
+<s> I think it would be an admirable opportunity </s>
+<s> And to spare you any possible disappointment, Mr Worthing, I think it only fair to tell you quite frankly before-hand that I am fully determined to accept you </s>
+<s> Jack </s>
+<s> Gwendolen </s>
+<s> Gwendolen </s>
+<s> Yes, Mr Worthing, what have you got to say to me </s>
+<s> Jack </s>
+<s> You know what I have got to say to you </s>
+<s> Gwendolen </s>
+<s> Yes, but you don't say it </s>
+<s> Jack </s>
+<s> Gwendolen, will you marry me </s>
+<s> [Goes on his knees.] Gwendolen </s>
+<s> Of course I will, darling </s>
+<s> How long you have been about it </s>
+<s> I am afraid you have had very little experience in how to propose </s>
+<s> Jack </s>
+<s> My own one, I have never loved any one in the world but you </s>
+<s> Gwendolen </s>
+<s> Yes, but men often propose for practice </s>
+<s> I know my brother Gerald does </s>
+<s> All my girl-friends tell me so </s>
+<s> What wonderfully blue eyes you have, Ernest </s>
+<s> They are quite, quite, blue </s>
+<s> I hope you will always look at me just like that, especially when there are other people present </s>
+<s> [Enter Lady Bracknell.] Lady Bracknell </s>
+<s> Mr Worthing </s>
+<s> Rise, sir, from this semi-recumbent posture </s>
+<s> It is most indecorous </s>
+<s> Gwendolen </s>
+<s> Mamma </s>
+<s> [He tries to rise; she restrains him.] I must beg you to retire </s>
+<s> This is no place for you </s>
+<s> Besides, Mr Worthing has not quite finished yet </s>
+<s> Lady Bracknell </s>
+<s> Finished what, may I ask </s>
+<s> Gwendolen </s>
+<s> I am engaged to Mr Worthing, mamma </s>
+<s> [They rise together.] Lady Bracknell </s>
+<s> Pardon me, you are not engaged to any one </s>
+<s> When you do become engaged to some one, I, or your father, should his health permit him, will inform you of the fact </s>
+<s> An engagement should come on a young girl as a surprise, pleasant or unpleasant, as the case may be </s>
+<s> It is hardly a matter that she could be allowed to arrange for herself </s>
+<s> </s>
+<s> </s>
+<s> And now I have a few questions to put to you, Mr Worthing </s>
+<s> While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage </s>
+<s> Gwendolen </s>
+<s> [Reproachfully.] Mamma </s>
+<s> Lady Bracknell </s>
+<s> In the carriage, Gwendolen </s>
+<s> [Gwendolen goes to the door </s>
+<s> She and Jack blow kisses to each other behind Lady Bracknell's back </s>
+<s> Lady Bracknell looks vaguely about as if she could not understand what the noise was </s>
+<s> Finally turns round.] Gwendolen, the carriage </s>
+<s> Gwendolen </s>
+<s> Yes, mamma </s>
+<s> [Goes out, looking back at Jack.] Lady Bracknell </s>
+<s> [Sitting down.] You can take a seat, Mr Worthing </s>
+<s> [Looks in her pocket for note-book and pencil.] Jack </s>
+<s> Thank you, Lady Bracknell, I prefer standing </s>
+<s> Lady Bracknell </s>
+<s> [Pencil and note-book in hand.] I feel bound to tell you that you are not down on my list of eligible young men, although I have the same list as the dear Duchess of Bolton has </s>
+<s> We work together, in fact </s>
+<s> However, I am quite ready to enter your name, should your answers be what a really affectionate mother requires </s>
+<s> Do you smoke </s>
+<s> Jack </s>
+<s> Well, yes, I must admit I smoke </s>
+<s> Lady Bracknell </s>
+<s> I am glad to hear it </s>
+<s> A man should always have an occupation of some kind </s>
+<s> There are far too many idle men in London as it is </s>
+<s> How old are you </s>
+<s> Jack </s>
+<s> Twenty-nine </s>
+<s> Lady Bracknell </s>
+<s> A very good age to be married at </s>
+<s> I have always been of opinion that a man who desires to get married should know either everything or nothing </s>
+<s> Which do you know </s>
+<s> Jack </s>
+<s> [After some hesitation.] I know nothing, Lady Bracknell </s>
+<s> Lady Bracknell </s>
+<s> I am pleased to hear it </s>
+<s> I do not approve of anything that tampers with natural ignorance </s>
+<s> Ignorance is like a delicate exotic fruit; touch it and the bloom is gone </s>
+<s> The whole theory of modern education is radically unsound </s>
+<s> Fortunately in England, at any rate, education produces no effect whatsoever </s>
+<s> If it did, it would prove a serious danger to the upper classes, and probably lead to acts of violence in Grosvenor Square </s>
+<s> What is your income </s>
+<s> Jack </s>
+<s> Between seven and eight thousand a year </s>
+<s> Lady Bracknell </s>
+<s> [Makes a note in her book.] In land, or in investments </s>
+<s> Jack </s>
+<s> In investments, chiefly </s>
+<s> Lady Bracknell </s>
+<s> That is satisfactory </s>
+<s> What between the duties expected of one during one's lifetime, and the duties exacted from one after one's death, land has ceased to be either a profit or a pleasure </s>
+<s> It gives one position, and prevents one from keeping it up </s>
+<s> That's all that can be said about land </s>
+<s> Jack </s>
+<s> I have a country house with some land, of course, attached to it, about fifteen hundred acres, I believe; but I don't depend on that for my real income </s>
+<s> In fact, as far as I can make out, the poachers are the only people who make anything out of it </s>
+<s> Lady Bracknell </s>
+<s> A country house </s>
+<s> How many bedrooms </s>
+<s> Well, that point can be cleared up afterwards </s>
+<s> You have a town house, I hope </s>
+<s> A girl with a simple, unspoiled nature, like Gwendolen, could hardly be expected to reside in the country </s>
+<s> Jack </s>
+<s> Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham </s>
+<s> Of course, I can get it back whenever I like, at six months' notice </s>
+<s> Lady Bracknell </s>
+<s> Lady Bloxham </s>
+<s> I don't know her </s>
+<s> Jack </s>
+<s> Oh, she goes about very little </s>
+<s> She is a lady considerably advanced in years </s>
+<s> Lady Bracknell </s>
+<s> Ah, nowadays that is no guarantee of respectability of character </s>
+<s> What number in Belgrave Square </s>
+<s> Jack </s>
+<s> 149 </s>
+<s> Lady Bracknell </s>
+<s> [Shaking her head.] The unfashionable side </s>
+<s> I thought there was something </s>
+<s> However, that could easily be altered </s>
+<s> Jack </s>
+<s> Do you mean the fashion, or the side </s>
+<s> Lady Bracknell </s>
+<s> [Sternly.] Both, if necessary, I presume </s>
+<s> What are your politics </s>
+<s> Jack </s>
+<s> Well, I am afraid I really have none </s>
+<s> I am a Liberal Unionist </s>
+<s> Lady Bracknell </s>
+<s> Oh, they count as Tories </s>
+<s> They dine with us </s>
+<s> Or come in the evening, at any rate </s>
+<s> Now to minor matters </s>
+<s> Are your parents living </s>
+<s> Jack </s>
+<s> I have lost both my parents </s>
+<s> Lady Bracknell </s>
+<s> To lose one parent, Mr Worthing, may be regarded as a misfortune; to lose both looks like carelessness </s>
+<s> Who was your father </s>
+<s> He was evidently a man of some wealth </s>
+<s> Was he born in what the Radical papers call the purple of commerce, or did he rise from the ranks of the aristocracy </s>
+<s> Jack </s>
+<s> I am afraid I really don't know </s>
+<s> The fact is, Lady Bracknell, I said I had lost my parents </s>
+<s> It would be nearer the truth to say that my parents seem to have lost me </s>
+<s> </s>
+<s> </s>
+<s> I don't actually know who I am by birth </s>
+<s> I was </s>
+<s> </s>
+<s> </s>
+<s> well, I was found </s>
+<s> Lady Bracknell </s>
+<s> Found </s>
+<s> Jack </s>
+<s> The late Mr Thomas Cardew, an old gentleman of a very charitable and kindly disposition, found me, and gave me the name of Worthing, because he happened to have a first-class ticket for Worthing in his pocket at the time </s>
+<s> Worthing is a place in Sussex </s>
+<s> It is a seaside resort </s>
+<s> Lady Bracknell </s>
+<s> Where did the charitable gentleman who had a first-class ticket for this seaside resort find you </s>
+<s> Jack </s>
+<s> [Gravely.] In a hand-bag </s>
+<s> Lady Bracknell </s>
+<s> A hand-bag </s>
+<s> Jack </s>
+<s> [Very seriously.] Yes, Lady Bracknell </s>
+<s> I was in a hand-bag--a somewhat large, black leather hand-bag, with handles to it--an ordinary hand-bag in fact </s>
+<s> Lady Bracknell </s>
+<s> In what locality did this Mr James, or Thomas, Cardew come across this ordinary hand-bag </s>
+<s> Jack </s>
+<s> In the cloak-room at Victoria Station </s>
+<s> It was given to him in mistake for his own </s>
+<s> Lady Bracknell </s>
+<s> The cloak-room at Victoria Station </s>
+<s> Jack </s>
+<s> Yes </s>
+<s> The Brighton line </s>
+<s> Lady Bracknell </s>
+<s> The line is immaterial </s>
+<s> Mr Worthing, I confess I feel somewhat bewildered by what you have just told me </s>
+<s> To be born, or at any rate bred, in a hand-bag, whether it had handles or not, seems to me to display a contempt for the ordinary decencies of family life that reminds one of the worst excesses of the French Revolution </s>
+<s> And I presume you know what that unfortunate movement led to </s>
+<s> As for the particular locality in which the hand-bag was found, a cloak-room at a railway station might serve to conceal a social indiscretion--has probably, indeed, been used for that purpose before now--but it could hardly be regarded as an assured basis for a recognised position in good society </s>
+<s> Jack </s>
+<s> May I ask you then what you would advise me to do </s>
+<s> I need hardly say I would do anything in the world to ensure Gwendolen's happiness </s>
+<s> Lady Bracknell </s>
+<s> I would strongly advise you, Mr Worthing, to try and acquire some relations as soon as possible, and to make a definite effort to produce at any rate one parent, of either sex, before the season is quite over </s>
+<s> Jack </s>
+<s> Well, I don't see how I could possibly manage to do that </s>
+<s> I can produce the hand-bag at any moment </s>
+<s> It is in my dressing-room at home </s>
+<s> I really think that should satisfy you, Lady Bracknell </s>
+<s> Lady Bracknell </s>
+<s> Me, sir </s>
+<s> What has it to do with me </s>
+<s> You can hardly imagine that I and Lord Bracknell would dream of allowing our only daughter--a girl brought up with the utmost care--to marry into a cloak- room, and form an alliance with a parcel </s>
+<s> Good morning, Mr Worthing </s>
+<s> [Lady Bracknell sweeps out in majestic indignation.] Jack </s>
+<s> Good morning </s>
+<s> [Algernon, from the other room, strikes up the Wedding March </s>
+<s> Jack looks perfectly furious, and goes to the door.] For goodness' sake don't play that ghastly tune, Algy </s>
+<s> How idiotic you are </s>
+<s> [The music stops and Algernon enters cheerily.] Algernon </s>
+<s> Didn't it go off all right, old boy </s>
+<s> You don't mean to say Gwendolen refused you </s>
+<s> I know it is a way she has </s>
+<s> She is always refusing people </s>
+<s> I think it is most ill-natured of her </s>
+<s> Jack </s>
+<s> Oh, Gwendolen is as right as a trivet </s>
+<s> As far as she is concerned, we are engaged </s>
+<s> Her mother is perfectly unbearable </s>
+<s> Never met such a Gorgon </s>
+<s> </s>
+<s> </s>
+<s> I don't really know what a Gorgon is like, but I am quite sure that Lady Bracknell is one </s>
+<s> In any case, she is a monster, without being a myth, which is rather unfair </s>
+<s> </s>
+<s> </s>
+<s> I beg your pardon, Algy, I suppose I shouldn't talk about your own aunt in that way before you </s>
+<s> Algernon </s>
+<s> My dear boy, I love hearing my relations abused </s>
+<s> It is the only thing that makes me put up with them at all </s>
+<s> Relations are simply a tedious pack of people, who haven't got the remotest knowledge of how to live, nor the smallest instinct about when to die </s>
+<s> Jack </s>
+<s> Oh, that is nonsense </s>
+<s> Algernon </s>
+<s> It isn't </s>
+<s> Jack </s>
+<s> Well, I won't argue about the matter </s>
+<s> You always want to argue about things </s>
+<s> Algernon </s>
+<s> That is exactly what things were originally made for </s>
+<s> Jack </s>
+<s> Upon my word, if I thought that, I'd shoot myself </s>
+<s> </s>
+<s> </s>
+<s> [A pause.] You don't think there is any chance of Gwendolen becoming like her mother in about a hundred and fifty years, do you, Algy </s>
+<s> Algernon </s>
+<s> All women become like their mothers </s>
+<s> That is their tragedy </s>
+<s> No man does </s>
+<s> That's his </s>
+<s> Jack </s>
+<s> Is that clever </s>
+<s> Algernon </s>
+<s> It is perfectly phrased </s>
+<s> and quite as true as any observation in civilised life should be </s>
+<s> Jack </s>
+<s> I am sick to death of cleverness </s>
+<s> Everybody is clever nowadays </s>
+<s> You can't go anywhere without meeting clever people </s>
+<s> The thing has become an absolute public nuisance </s>
+<s> I wish to goodness we had a few fools left </s>
+<s> Algernon </s>
+<s> We have </s>
+<s> Jack </s>
+<s> I should extremely like to meet them </s>
+<s> What do they talk about </s>
+<s> Algernon </s>
+<s> The fools </s>
+<s> Oh </s>
+<s> about the clever people, of course </s>
+<s> Jack </s>
+<s> What fools </s>
+<s> Algernon </s>
+<s> By the way, did you tell Gwendolen the truth about your being Ernest in town, and Jack in the country </s>
+<s> Jack </s>
+<s> [In a very patronising manner.] My dear fellow, the truth isn't quite the sort of thing one tells to a nice, sweet, refined girl </s>
+<s> What extraordinary ideas you have about the way to behave to a woman </s>
+<s> Algernon </s>
+<s> The only way to behave to a woman is to make love to her, if she is pretty, and to some one else, if she is plain </s>
+<s> Jack </s>
+<s> Oh, that is nonsense </s>
+<s> Algernon </s>
+<s> What about your brother </s>
+<s> What about the profligate Ernest </s>
+<s> Jack </s>
+<s> Oh, before the end of the week I shall have got rid of him </s>
+<s> I'll say he died in Paris of apoplexy </s>
+<s> Lots of people die of apoplexy, quite suddenly, don't they </s>
+<s> Algernon </s>
+<s> Yes, but it's hereditary, my dear fellow </s>
+<s> It's a sort of thing that runs in families </s>
+<s> You had much better say a severe chill </s>
+<s> Jack </s>
+<s> You are sure a severe chill isn't hereditary, or anything of that kind </s>
+<s> Algernon </s>
+<s> Of course it isn't </s>
+<s> Jack </s>
+<s> Very well, then </s>
+<s> My poor brother Ernest to carried off suddenly, in Paris, by a severe chill </s>
+<s> That gets rid of him </s>
+<s> Algernon </s>
+<s> But I thought you said that </s>
+<s> </s>
+<s> </s>
+<s> Miss Cardew was a little too much interested in your poor brother Ernest </s>
+<s> Won't she feel his loss a good deal </s>
+<s> Jack </s>
+<s> Oh, that is all right </s>
+<s> Cecily is not a silly romantic girl, I am glad to say </s>
+<s> She has got a capital appetite, goes long walks, and pays no attention at all to her lessons </s>
+<s> Algernon </s>
+<s> I would rather like to see Cecily </s>
+<s> Jack </s>
+<s> I will take very good care you never do </s>
+<s> She is excessively pretty, and she is only just eighteen </s>
+<s> Algernon </s>
+<s> Have you told Gwendolen yet that you have an excessively pretty ward who is only just eighteen </s>
+<s> Jack </s>
+<s> Oh </s>
+<s> one doesn't blurt these things out to people </s>
+<s> Cecily and Gwendolen are perfectly certain to be extremely great friends </s>
+<s> I'll bet you anything you like that half an hour after they have met, they will be calling each other sister </s>
+<s> Algernon </s>
+<s> Women only do that when they have called each other a lot of other things first </s>
+<s> Now, my dear boy, if we want to get a good table at Willis's, we really must go and dress </s>
+<s> Do you know it is nearly seven </s>
+<s> Jack </s>
+<s> [Irritably.] Oh </s>
+<s> It always is nearly seven </s>
+<s> Algernon </s>
+<s> Well, I'm hungry </s>
+<s> Jack </s>
+<s> I never knew you when you weren't </s>
+<s> </s>
+<s> </s>
+<s> Algernon </s>
+<s> What shall we do after dinner </s>
+<s> Go to a theatre </s>
+<s> Jack </s>
+<s> Oh no </s>
+<s> I loathe listening </s>
+<s> Algernon </s>
+<s> Well, let us go to the Club </s>
+<s> Jack </s>
+<s> Oh, no </s>
+<s> I hate talking </s>
+<s> Algernon </s>
+<s> Well, we might trot round to the Empire at ten </s>
+<s> Jack </s>
+<s> Oh, no </s>
+<s> I can't bear looking at things </s>
+<s> It is so silly </s>
+<s> Algernon </s>
+<s> Well, what shall we do </s>
+<s> Jack </s>
+<s> Nothing </s>
+<s> Algernon </s>
+<s> It is awfully hard work doing nothing </s>
+<s> However, I don't mind hard work where there is no definite object of any kind </s>
+<s> [Enter Lane.] Lane </s>
+<s> Miss Fairfax </s>
+<s> [Enter Gwendolen </s>
+<s> Lane goes out.] Algernon </s>
+<s> Gwendolen, upon my word </s>
+<s> Gwendolen </s>
+<s> Algy, kindly turn your back </s>
+<s> I have something very particular to say to Mr Worthing </s>
+<s> Algernon </s>
+<s> Really, Gwendolen, I don't think I can allow this at all </s>
+<s> Gwendolen </s>
+<s> Algy, you always adopt a strictly immoral attitude towards life </s>
+<s> You are not quite old enough to do that </s>
+<s> [Algernon retires to the fireplace.] Jack </s>
+<s> My own darling </s>
+<s> Gwendolen </s>
+<s> Ernest, we may never be married </s>
+<s> From the expression on mamma's face I fear we never shall </s>
+<s> Few parents nowadays pay any regard to what their children say to them </s>
+<s> The old-fashioned respect for the young is fast dying out </s>
+<s> Whatever influence I ever had over mamma, I lost at the age of three </s>
+<s> But although she may prevent us from becoming man and wife, and I may marry some one else, and marry often, nothing that she can possibly do can alter my eternal devotion to you </s>
+<s> Jack </s>
+<s> Dear Gwendolen </s>
+<s> Gwendolen </s>
+<s> The story of your romantic origin, as related to me by mamma, with unpleasing comments, has naturally stirred the deeper fibres of my nature </s>
+<s> Your Christian name has an irresistible fascination </s>
+<s> The simplicity of your character makes you exquisitely incomprehensible to me </s>
+<s> Your town address at the Albany I have </s>
+<s> What is your address in the country </s>
+<s> Jack </s>
+<s> The Manor House, Woolton, Hertfordshire </s>
+<s> [Algernon, who has been carefully listening, smiles to himself, and writes the address on his shirt-cuff </s>
+<s> Then picks up the Railway Guide.] Gwendolen </s>
+<s> There is a good postal service, I suppose </s>
+<s> It may be necessary to do something desperate </s>
+<s> That of course will require serious consideration </s>
+<s> I will communicate with you daily </s>
+<s> Jack </s>
+<s> My own one </s>
+<s> Gwendolen </s>
+<s> How long do you remain in town </s>
+<s> Jack </s>
+<s> Till Monday </s>
+<s> Gwendolen </s>
+<s> Good </s>
+<s> Algy, you may turn round now </s>
+<s> Algernon </s>
+<s> Thanks, I've turned round already </s>
+<s> Gwendolen </s>
+<s> You may also ring the bell </s>
+<s> Jack </s>
+<s> You will let me see you to your carriage, my own darling </s>
+<s> Gwendolen </s>
+<s> Certainly </s>
+<s> Jack </s>
+<s> [To Lane, who now enters.] I will see Miss Fairfax out </s>
+<s> Lane </s>
+<s> Yes, sir </s>
+<s> [Jack and Gwendolen go off.] [Lane presents several letters on a salver to Algernon </s>
+<s> It is to be surmised that they are bills, as Algernon, after looking at the envelopes, tears them up.] Algernon </s>
+<s> A glass of sherry, Lane </s>
+<s> Lane </s>
+<s> Yes, sir </s>
+<s> Algernon </s>
+<s> To-morrow, Lane, I'm going Bunburying </s>
+<s> Lane </s>
+<s> Yes, sir </s>
+<s> Algernon </s>
+<s> I shall probably not be back till Monday </s>
+<s> You can put up my dress clothes, my smoking jacket, and all the Bunbury suits </s>
+<s> </s>
+<s> </s>
+<s> Lane </s>
+<s> Yes, sir </s>
+<s> [Handing sherry.] Algernon </s>
+<s> I hope to-morrow will be a fine day, Lane </s>
+<s> Lane </s>
+<s> It never is, sir </s>
+<s> Algernon </s>
+<s> Lane, you're a perfect pessimist </s>
+<s> Lane </s>
+<s> I do my best to give satisfaction, sir </s>
+<s> [Enter Jack </s>
+<s> Lane goes off.] Jack </s>
+<s> There's a sensible, intellectual girl </s>
+<s> the only girl I ever cared for in my life </s>
+<s> [Algernon is laughing immoderately.] What on earth are you so amused at </s>
+<s> Algernon </s>
+<s> Oh, I'm a little anxious about poor Bunbury, that is all </s>
+<s> Jack </s>
+<s> If you don't take care, your friend Bunbury will get you into a serious scrape some day </s>
+<s> Algernon </s>
+<s> I love scrapes </s>
+<s> They are the only things that are never serious </s>
+<s> Jack </s>
+<s> Oh, that's nonsense, Algy </s>
+<s> You never talk anything but nonsense </s>
+<s> Algernon </s>
+<s> Nobody ever does </s>
+<s> [Jack looks indignantly at him, and leaves the room </s>
+<s> Algernon lights a cigarette, reads his shirt-cuff, and smiles.] ACT DROP SECOND ACT SCENE Garden at the Manor House </s>
+<s> A flight of grey stone steps leads up to the house </s>
+<s> The garden, an old-fashioned one, full of roses </s>
+<s> Time of year, July </s>
+<s> Basket chairs, and a table covered with books, are set under a large yew-tree </s>
+<s> [Miss Prism discovered seated at the table </s>
+<s> Cecily is at the back watering flowers.] Miss Prism </s>
+<s> [Calling.] Cecily, Cecily </s>
+<s> Surely such a utilitarian occupation as the watering of flowers is rather Moulton's duty than yours </s>
+<s> Especially at a moment when intellectual pleasures await you </s>
+<s> Your German grammar is on the table </s>
+<s> Pray open it at page fifteen </s>
+<s> We will repeat yesterday's lesson </s>
+<s> Cecily </s>
+<s> [Coming over very slowly.] But I don't like German </s>
+<s> It isn't at all a becoming language </s>
+<s> I know perfectly well that I look quite plain after my German lesson </s>
+<s> Miss Prism </s>
+<s> Child, you know how anxious your guardian is that you should improve yourself in every way </s>
+<s> He laid particular stress on your German, as he was leaving for town yesterday </s>
+<s> Indeed, he always lays stress on your German when he is leaving for town </s>
+<s> Cecily </s>
+<s> Dear Uncle Jack is so very serious </s>
+<s> Sometimes he is so serious that I think he cannot be quite well </s>
+<s> Miss Prism </s>
+<s> [Drawing herself up.] Your guardian enjoys the best of health, and his gravity of demeanour is especially to be commended in one so comparatively young as he is </s>
+<s> I know no one who has a higher sense of duty and responsibility </s>
+<s> Cecily </s>
+<s> I suppose that is why he often looks a little bored when we three are together </s>
+<s> Miss Prism </s>
+<s> Cecily </s>
+<s> I am surprised at you </s>
+<s> Mr Worthing has many troubles in his life </s>
+<s> Idle merriment and triviality would be out of place in his conversation </s>
+<s> You must remember his constant anxiety about that unfortunate young man his brother </s>
+<s> Cecily </s>
+<s> I wish Uncle Jack would allow that unfortunate young man, his brother, to come down here sometimes </s>
+<s> We might have a good influence over him, Miss Prism </s>
+<s> I am sure you certainly would </s>
+<s> You know German, and geology, and things of that kind influence a man very much </s>
+<s> [Cecily begins to write in her diary.] Miss Prism </s>
+<s> [Shaking her head.] I do not think that even I could produce any effect on a character that according to his own brother's admission is irretrievably weak and vacillating </s>
+<s> Indeed I am not sure that I would desire to reclaim him </s>
+<s> I am not in favour of this modern mania for turning bad people into good people at a moment's notice </s>
+<s> As a man sows so let him reap </s>
+<s> You must put away your diary, Cecily </s>
+<s> I really don't see why you should keep a diary at all </s>
+<s> Cecily </s>
+<s> I keep a diary in order to enter the wonderful secrets of my life </s>
+<s> If I didn't write them down, I should probably forget all about them </s>
+<s> Miss Prism </s>
+<s> Memory, my dear Cecily, is the diary that we all carry about with us </s>
+<s> Cecily </s>
+<s> Yes, but it usually chronicles the things that have never happened, and couldn't possibly have happened </s>
+<s> I believe that Memory is responsible for nearly all the three-volume novels that Mudie sends us </s>
+<s> Miss Prism </s>
+<s> Do not speak slightingly of the three-volume novel, Cecily </s>
+<s> I wrote one myself in earlier days </s>
+<s> Cecily </s>
+<s> Did you really, Miss Prism </s>
+<s> How wonderfully clever you are </s>
+<s> I hope it did not end happily </s>
+<s> I don't like novels that end happily </s>
+<s> They depress me so much </s>
+<s> Miss Prism </s>
+<s> The good ended happily, and the bad unhappily </s>
+<s> That is what Fiction means </s>
+<s> Cecily </s>
+<s> I suppose so </s>
+<s> But it seems very unfair </s>
+<s> And was your novel ever published </s>
+<s> Miss Prism </s>
+<s> Alas </s>
+<s> no </s>
+<s> The manuscript unfortunately was abandoned </s>
+<s> [Cecily starts.] I use the word in the sense of lost or mislaid </s>
+<s> To your work, child, these speculations are profitless </s>
+<s> Cecily </s>
+<s> [Smiling.] But I see dear Dr </s>
+<s> Chasuble coming up through the garden </s>
+<s> Miss Prism </s>
+<s> [Rising and advancing.] Dr </s>
+<s> Chasuble </s>
+<s> This is indeed a pleasure </s>
+<s> [Enter Canon Chasuble.] Chasuble </s>
+<s> And how are we this morning </s>
+<s> Miss Prism, you are, I trust, well </s>
+<s> Cecily </s>
+<s> Miss Prism has just been complaining of a slight headache </s>
+<s> I think it would do her so much good to have a short stroll with you in the Park, Dr </s>
+<s> Chasuble </s>
+<s> Miss Prism </s>
+<s> Cecily, I have not mentioned anything about a headache </s>
+<s> Cecily </s>
+<s> No, dear Miss Prism, I know that, but I felt instinctively that you had a headache </s>
+<s> Indeed I was thinking about that, and not about my German lesson, when the Rector came in </s>
+<s> Chasuble </s>
+<s> I hope, Cecily, you are not inattentive </s>
+<s> Cecily </s>
+<s> Oh, I am afraid I am </s>
+<s> Chasuble </s>
+<s> That is strange </s>
+<s> Were I fortunate enough to be Miss Prism's pupil, I would hang upon her lips </s>
+<s> [Miss Prism glares.] I spoke metaphorically.--My metaphor was drawn from bees </s>
+<s> Ahem </s>
+<s> Mr Worthing, I suppose, has not returned from town yet </s>
+<s> Miss Prism </s>
+<s> We do not expect him till Monday afternoon </s>
+<s> Chasuble </s>
+<s> Ah yes, he usually likes to spend his Sunday in London </s>
+<s> He is not one of those whose sole aim is enjoyment, as, by all accounts, that unfortunate young man his brother seems to be </s>
+<s> But I must not disturb Egeria and her pupil any longer </s>
+<s> Miss Prism </s>
+<s> Egeria </s>
+<s> My name is Laetitia, Doctor </s>
+<s> Chasuble </s>
+<s> [Bowing.] A classical allusion merely, drawn from the Pagan authors </s>
+<s> I shall see you both no doubt at Evensong </s>
+<s> Miss Prism </s>
+<s> I think, dear Doctor, I will have a stroll with you </s>
+<s> I find I have a headache after all, and a walk might do it good </s>
+<s> Chasuble </s>
+<s> With pleasure, Miss Prism, with pleasure </s>
+<s> We might go as far as the schools and back </s>
+<s> Miss Prism </s>
+<s> That would be delightful </s>
+<s> Cecily, you will read your Political Economy in my absence </s>
+<s> The chapter on the Fall of the Rupee you may omit </s>
+<s> It is somewhat too sensational </s>
+<s> Even these metallic problems have their melodramatic side </s>
+<s> [Goes down the garden with Dr </s>
+<s> Chasuble.] Cecily </s>
+<s> [Picks up books and throws them back on table.] Horrid Political Economy </s>
+<s> Horrid Geography </s>
+<s> Horrid, horrid German </s>
+<s> [Enter Merriman with a card on a salver.] Merriman </s>
+<s> Mr Ernest Worthing has just driven over from the station </s>
+<s> He has brought his luggage with him </s>
+<s> Cecily </s>
+<s> [Takes the card and reads it.] 'Mr Ernest Worthing, B </s>
+<s> 4, The Albany, W' </s>
+<s> Uncle Jack's brother </s>
+<s> Did you tell him Mr Worthing was in town </s>
+<s> Merriman </s>
+<s> Yes, Miss </s>
+<s> He seemed very much disappointed </s>
+<s> I mentioned that you and Miss Prism were in the garden </s>
+<s> He said he was anxious to speak to you privately for a moment </s>
+<s> Cecily </s>
+<s> Ask Mr Ernest Worthing to come here </s>
+<s> I suppose you had better talk to the housekeeper about a room for him </s>
+<s> Merriman </s>
+<s> Yes, Miss </s>
+<s> [Merriman goes off.] Cecily </s>
+<s> I have never met any really wicked person before </s>
+<s> I feel rather frightened </s>
+<s> I am so afraid he will look just like every one else </s>
+<s> [Enter Algernon, very gay and debonnair.] He does </s>
+<s> Algernon </s>
+<s> [Raising his hat.] You are my little cousin Cecily, I'm sure </s>
+<s> Cecily </s>
+<s> You are under some strange mistake </s>
+<s> I am not little </s>
+<s> In fact, I believe I am more than usually tall for my age </s>
+<s> [Algernon is rather taken aback.] But I am your cousin Cecily </s>
+<s> You, I see from your card, are Uncle Jack's brother, my cousin Ernest, my wicked cousin Ernest </s>
+<s> Algernon </s>
+<s> Oh </s>
+<s> I am not really wicked at all, cousin Cecily </s>
+<s> You mustn't think that I am wicked </s>
+<s> Cecily </s>
+<s> If you are not, then you have certainly been deceiving us all in a very inexcusable manner </s>
+<s> I hope you have not been leading a double life, pretending to be wicked and being really good all the time </s>
+<s> That would be hypocrisy </s>
+<s> Algernon </s>
+<s> [Looks at her in amazement.] Oh </s>
+<s> Of course I have been rather reckless </s>
+<s> Cecily </s>
+<s> I am glad to hear it </s>
+<s> Algernon </s>
+<s> In fact, now you mention the subject, I have been very bad in my own small way </s>
+<s> Cecily </s>
+<s> I don't think you should be so proud of that, though I am sure it must have been very pleasant </s>
+<s> Algernon </s>
+<s> It is much pleasanter being here with you </s>
+<s> Cecily </s>
+<s> I can't understand how you are here at all </s>
+<s> Uncle Jack won't be back till Monday afternoon </s>
+<s> Algernon </s>
+<s> That is a great disappointment </s>
+<s> I am obliged to go up by the first train on Monday morning </s>
+<s> I have a business appointment that I am anxious </s>
+<s> </s>
+<s> </s>
+<s> to miss </s>
+<s> Cecily </s>
+<s> Couldn't you miss it anywhere but in London </s>
+<s> Algernon </s>
+<s> No: the appointment is in London </s>
+<s> Cecily </s>
+<s> Well, I know, of course, how important it is not to keep a business engagement, if one wants to retain any sense of the beauty of life, but still I think you had better wait till Uncle Jack arrives </s>
+<s> I know he wants to speak to you about your emigrating </s>
+<s> Algernon </s>
+<s> About my what </s>
+<s> Cecily </s>
+<s> Your emigrating </s>
+<s> He has gone up to buy your outfit </s>
+<s> Algernon </s>
+<s> I certainly wouldn't let Jack buy my outfit </s>
+<s> He has no taste in neckties at all </s>
+<s> Cecily </s>
+<s> I don't think you will require neckties </s>
+<s> Uncle Jack is sending you to Australia </s>
+<s> Algernon </s>
+<s> Australia </s>
+<s> I'd sooner die </s>
+<s> Cecily </s>
+<s> Well, he said at dinner on Wednesday night, that you would have to choose between this world, the next world, and Australia </s>
+<s> Algernon </s>
+<s> Oh, well </s>
+<s> The accounts I have received of Australia and the next world, are not particularly encouraging </s>
+<s> This world is good enough for me, cousin Cecily </s>
+<s> Cecily </s>
+<s> Yes, but are you good enough for it </s>
+<s> Algernon </s>
+<s> I'm afraid I'm not that </s>
+<s> That is why I want you to reform me </s>
+<s> You might make that your mission, if you don't mind, cousin Cecily </s>
+<s> Cecily </s>
+<s> I'm afraid I've no time, this afternoon </s>
+<s> Algernon </s>
+<s> Well, would you mind my reforming myself this afternoon </s>
+<s> Cecily </s>
+<s> It is rather Quixotic of you </s>
+<s> But I think you should try </s>
+<s> Algernon </s>
+<s> I will </s>
+<s> I feel better already </s>
+<s> Cecily </s>
+<s> You are looking a little worse </s>
+<s> Algernon </s>
+<s> That is because I am hungry </s>
+<s> Cecily </s>
+<s> How thoughtless of me </s>
+<s> I should have remembered that when one is going to lead an entirely new life, one requires regular and wholesome meals </s>
+<s> Won't you come in </s>
+<s> Algernon </s>
+<s> Thank you </s>
+<s> Might I have a buttonhole first </s>
+<s> I never have any appetite unless I have a buttonhole first </s>
+<s> Cecily </s>
+<s> A Marechal Niel </s>
+<s> [Picks up scissors.] Algernon </s>
+<s> No, I'd sooner have a pink rose </s>
+<s> Cecily </s>
+<s> Why </s>
+<s> [Cuts a flower.] Algernon </s>
+<s> Because you are like a pink rose, Cousin Cecily </s>
+<s> Cecily </s>
+<s> I don't think it can be right for you to talk to me like that </s>
+<s> Miss Prism never says such things to me </s>
+<s> Algernon </s>
+<s> Then Miss Prism is a short-sighted old lady </s>
+<s> [Cecily puts the rose in his buttonhole.] You are the prettiest girl I ever saw </s>
+<s> Cecily </s>
+<s> Miss Prism says that all good looks are a snare </s>
+<s> Algernon </s>
+<s> They are a snare that every sensible man would like to be caught in </s>
+<s> Cecily </s>
+<s> Oh, I don't think I would care to catch a sensible man </s>
+<s> I shouldn't know what to talk to him about </s>
+<s> [They pass into the house </s>
+<s> Miss Prism and Dr </s>
+<s> Chasuble return.] Miss Prism </s>
+<s> You are too much alone, dear Dr </s>
+<s> Chasuble </s>
+<s> You should get married </s>
+<s> A misanthrope I can understand--a womanthrope, never </s>
+<s> Chasuble </s>
+<s> [With a scholar's shudder.] Believe me, I do not deserve so neologistic a phrase </s>
+<s> The precept as well as the practice of the Primitive Church was distinctly against matrimony </s>
+<s> Miss Prism </s>
+<s> [Sententiously.] That is obviously the reason why the Primitive Church has not lasted up to the present day </s>
+<s> And you do not seem to realise, dear Doctor, that by persistently remaining single, a man converts himself into a permanent public temptation </s>
+<s> Men should be more careful; this very celibacy leads weaker vessels astray </s>
+<s> Chasuble </s>
+<s> But is a man not equally attractive when married </s>
+<s> Miss Prism </s>
+<s> No married man is ever attractive except to his wife </s>
+<s> Chasuble </s>
+<s> And often, I've been told, not even to her </s>
+<s> Miss Prism </s>
+<s> That depends on the intellectual sympathies of the woman </s>
+<s> Maturity can always be depended on </s>
+<s> Ripeness can be trusted </s>
+<s> Young women are green </s>
+<s> [Dr </s>
+<s> Chasuble starts.] I spoke horticulturally </s>
+<s> My metaphor was drawn from fruits </s>
+<s> But where is Cecily </s>
+<s> Chasuble </s>
+<s> Perhaps she followed us to the schools </s>
+<s> [Enter Jack slowly from the back of the garden </s>
+<s> He is dressed in the deepest mourning, with crape hatband and black gloves.] Miss Prism </s>
+<s> Mr Worthing </s>
+<s> Chasuble </s>
+<s> Mr Worthing </s>
+<s> Miss Prism </s>
+<s> This is indeed a surprise </s>
+<s> We did not look for you till Monday afternoon </s>
+<s> Jack </s>
+<s> [Shakes Miss Prism's hand in a tragic manner.] I have returned sooner than I expected </s>
+<s> Dr </s>
+<s> Chasuble, I hope you are well </s>
+<s> Chasuble </s>
+<s> Dear Mr Worthing, I trust this garb of woe does not betoken some terrible calamity </s>
+<s> Jack </s>
+<s> My brother </s>
+<s> Miss Prism </s>
+<s> More shameful debts and extravagance </s>
+<s> Chasuble </s>
+<s> Still leading his life of pleasure </s>
+<s> Jack </s>
+<s> [Shaking his head.] Dead </s>
+<s> Chasuble </s>
+<s> Your brother Ernest dead </s>
+<s> Jack </s>
+<s> Quite dead </s>
+<s> Miss Prism </s>
+<s> What a lesson for him </s>
+<s> I trust he will profit by it </s>
+<s> Chasuble </s>
+<s> Mr Worthing, I offer you my sincere condolence </s>
+<s> You have at least the consolation of knowing that you were always the most generous and forgiving of brothers </s>
+<s> Jack </s>
+<s> Poor Ernest </s>
+<s> He had many faults, but it is a sad, sad blow </s>
+<s> Chasuble </s>
+<s> Very sad indeed </s>
+<s> Were you with him at the end </s>
+<s> Jack </s>
+<s> No </s>
+<s> He died abroad; in Paris, in fact </s>
+<s> I had a telegram last night from the manager of the Grand Hotel </s>
+<s> Chasuble </s>
+<s> Was the cause of death mentioned </s>
+<s> Jack </s>
+<s> A severe chill, it seems </s>
+<s> Miss Prism </s>
+<s> As a man sows, so shall he reap </s>
+<s> Chasuble </s>
+<s> [Raising his hand.] Charity, dear Miss Prism, charity </s>
+<s> None of us are perfect </s>
+<s> I myself am peculiarly susceptible to draughts </s>
+<s> Will the interment take place here </s>
+<s> Jack </s>
+<s> No </s>
+<s> He seems to have expressed a desire to be buried in Paris </s>
+<s> Chasuble </s>
+<s> In Paris </s>
+<s> [Shakes his head.] I fear that hardly points to any very serious state of mind at the last </s>
+<s> You would no doubt wish me to make some slight allusion to this tragic domestic affliction next Sunday </s>
+<s> [Jack presses his hand convulsively.] My sermon on the meaning of the manna in the wilderness can be adapted to almost any occasion, joyful, or, as in the present case, distressing </s>
+<s> [All sigh.] I have preached it at harvest celebrations, christenings, confirmations, on days of humiliation and festal days </s>
+<s> The last time I delivered it was in the Cathedral, as a charity sermon on behalf of the Society for the Prevention of Discontent among the Upper Orders </s>
+<s> The Bishop, who was present, was much struck by some of the analogies I drew </s>
+<s> Jack </s>
+<s> Ah </s>
+<s> that reminds me, you mentioned christenings I think, Dr </s>
+<s> Chasuble </s>
+<s> I suppose you know how to christen all right </s>
+<s> [Dr </s>
+<s> Chasuble looks astounded.] I mean, of course, you are continually christening, aren't you </s>
+<s> Miss Prism </s>
+<s> It is, I regret to say, one of the Rector's most constant duties in this parish </s>
+<s> I have often spoken to the poorer classes on the subject </s>
+<s> But they don't seem to know what thrift is </s>
+<s> Chasuble </s>
+<s> But is there any particular infant in whom you are interested, Mr Worthing </s>
+<s> Your brother was, I believe, unmarried, was he not </s>
+<s> Jack </s>
+<s> Oh yes </s>
+<s> Miss Prism </s>
+<s> [Bitterly.] People who live entirely for pleasure usually are </s>
+<s> Jack </s>
+<s> But it is not for any child, dear Doctor </s>
+<s> I am very fond of children </s>
+<s> No </s>
+<s> the fact is, I would like to be christened myself, this afternoon, if you have nothing better to do </s>
+<s> Chasuble </s>
+<s> But surely, Mr Worthing, you have been christened already </s>
+<s> Jack </s>
+<s> I don't remember anything about it </s>
+<s> Chasuble </s>
+<s> But have you any grave doubts on the subject </s>
+<s> Jack </s>
+<s> I certainly intend to have </s>
+<s> Of course I don't know if the thing would bother you in any way, or if you think I am a little too old now </s>
+<s> Chasuble </s>
+<s> Not at all </s>
+<s> The sprinkling, and, indeed, the immersion of adults is a perfectly canonical practice </s>
+<s> Jack </s>
+<s> Immersion </s>
+<s> Chasuble </s>
+<s> You need have no apprehensions </s>
+<s> Sprinkling is all that is necessary, or indeed I think advisable </s>
+<s> Our weather is so changeable </s>
+<s> At what hour would you wish the ceremony performed </s>
+<s> Jack </s>
+<s> Oh, I might trot round about five if that would suit you </s>
+<s> Chasuble </s>
+<s> Perfectly, perfectly </s>
+<s> In fact I have two similar ceremonies to perform at that time </s>
+<s> A case of twins that occurred recently in one of the outlying cottages on your own estate </s>
+<s> Poor Jenkins the carter, a most hard-working man </s>
+<s> Jack </s>
+<s> Oh </s>
+<s> I don't see much fun in being christened along with other babies </s>
+<s> It would be childish </s>
+<s> Would half-past five do </s>
+<s> Chasuble </s>
+<s> Admirably </s>
+<s> Admirably </s>
+<s> [Takes out watch.] And now, dear Mr Worthing, I will not intrude any longer into a house of sorrow </s>
+<s> I would merely beg you not to be too much bowed down by grief </s>
+<s> What seem to us bitter trials are often blessings in disguise </s>
+<s> Miss Prism </s>
+<s> This seems to me a blessing of an extremely obvious kind </s>
+<s> [Enter Cecily from the house.] Cecily </s>
+<s> Uncle Jack </s>
+<s> Oh, I am pleased to see you back </s>
+<s> But what horrid clothes you have got on </s>
+<s> Do go and change them </s>
+<s> Miss Prism </s>
+<s> Cecily </s>
+<s> Chasuble </s>
+<s> My child </s>
+<s> my child </s>
+<s> [Cecily goes towards Jack; he kisses her brow in a melancholy manner.] Cecily </s>
+<s> What is the matter, Uncle Jack </s>
+<s> Do look happy </s>
+<s> You look as if you had toothache, and I have got such a surprise for you </s>
+<s> Who do you think is in the dining-room </s>
+<s> Your brother </s>
+<s> Jack </s>
+<s> Who </s>
+<s> Cecily </s>
+<s> Your brother Ernest </s>
+<s> He arrived about half an hour ago </s>
+<s> Jack </s>
+<s> What nonsense </s>
+<s> I haven't got a brother </s>
+<s> Cecily </s>
+<s> Oh, don't say that </s>
+<s> However badly he may have behaved to you in the past he is still your brother </s>
+<s> You couldn't be so heartless as to disown him </s>
+<s> I'll tell him to come out </s>
+<s> And you will shake hands with him, won't you, Uncle Jack </s>
+<s> [Runs back into the house.] Chasuble </s>
+<s> These are very joyful tidings </s>
+<s> Miss Prism </s>
+<s> After we had all been resigned to his loss, his sudden return seems to me peculiarly distressing </s>
+<s> Jack </s>
+<s> My brother is in the dining-room </s>
+<s> I don't know what it all means </s>
+<s> I think it is perfectly absurd </s>
+<s> [Enter Algernon and Cecily hand in hand </s>
+<s> They come slowly up to Jack.] Jack </s>
+<s> Good heavens </s>
+<s> [Motions Algernon away.] Algernon </s>
+<s> Brother John, I have come down from town to tell you that I am very sorry for all the trouble I have given you, and that I intend to lead a better life in the future </s>
+<s> [Jack glares at him and does not take his hand.] Cecily </s>
+<s> Uncle Jack, you are not going to refuse your own brother's hand </s>
+<s> Jack </s>
+<s> Nothing will induce me to take his hand </s>
+<s> I think his coming down here disgraceful </s>
+<s> He knows perfectly well why </s>
+<s> Cecily </s>
+<s> Uncle Jack, do be nice </s>
+<s> There is some good in every one </s>
+<s> Ernest has just been telling me about his poor invalid friend Mr Bunbury whom he goes to visit so often </s>
+<s> And surely there must be much good in one who is kind to an invalid, and leaves the pleasures of London to sit by a bed of pain </s>
+<s> Jack </s>
+<s> Oh </s>
+<s> he has been talking about Bunbury, has he </s>
+<s> Cecily </s>
+<s> Yes, he has told me all about poor Mr Bunbury, and his terrible state of health </s>
+<s> Jack </s>
+<s> Bunbury </s>
+<s> Well, I won't have him talk to you about Bunbury or about anything else </s>
+<s> It is enough to drive one perfectly frantic </s>
+<s> Algernon </s>
+<s> Of course I admit that the faults were all on my side </s>
+<s> But I must say that I think that Brother John's coldness to me is peculiarly painful </s>
+<s> I expected a more enthusiastic welcome, especially considering it is the first time I have come here </s>
+<s> Cecily </s>
+<s> Uncle Jack, if you don't shake hands with Ernest I will never forgive you </s>
+<s> Jack </s>
+<s> Never forgive me </s>
+<s> Cecily </s>
+<s> Never, never, never </s>
+<s> Jack </s>
+<s> Well, this is the last time I shall ever do it </s>
+<s> [Shakes with Algernon and glares.] Chasuble </s>
+<s> It's pleasant, is it not, to see so perfect a reconciliation </s>
+<s> I think we might leave the two brothers together </s>
+<s> Miss Prism </s>
+<s> Cecily, you will come with us </s>
+<s> Cecily </s>
+<s> Certainly, Miss Prism </s>
+<s> My little task of reconciliation is over </s>
+<s> Chasuble </s>
+<s> You have done a beautiful action to-day, dear child </s>
+<s> Miss Prism </s>
+<s> We must not be premature in our judgments </s>
+<s> Cecily </s>
+<s> I feel very happy </s>
+<s> [They all go off except Jack and Algernon.] Jack </s>
+<s> You young scoundrel, Algy, you must get out of this place as soon as possible </s>
+<s> I don't allow any Bunburying here </s>
+<s> [Enter Merriman.] Merriman </s>
+<s> I have put Mr Ernest's things in the room next to yours, sir </s>
+<s> I suppose that is all right </s>
+<s> Jack </s>
+<s> What </s>
+<s> Merriman </s>
+<s> Mr Ernest's luggage, sir </s>
+<s> I have unpacked it and put it in the room next to your own </s>
+<s> Jack </s>
+<s> His luggage </s>
+<s> Merriman </s>
+<s> Yes, sir </s>
+<s> Three portmanteaus, a dressing-case, two hat-boxes, and a large luncheon-basket </s>
+<s> Algernon </s>
+<s> I am afraid I can't stay more than a week this time </s>
+<s> Jack </s>
+<s> Merriman, order the dog-cart at once </s>
+<s> Mr Ernest has been suddenly called back to town </s>
+<s> Merriman </s>
+<s> Yes, sir </s>
+<s> [Goes back into the house.] Algernon </s>
+<s> What a fearful liar you are, Jack </s>
+<s> I have not been called back to town at all </s>
+<s> Jack </s>
+<s> Yes, you have </s>
+<s> Algernon </s>
+<s> I haven't heard any one call me </s>
+<s> Jack </s>
+<s> Your duty as a gentleman calls you back </s>
+<s> Algernon </s>
+<s> My duty as a gentleman has never interfered with my pleasures in the smallest degree </s>
+<s> Jack </s>
+<s> I can quite understand that </s>
+<s> Algernon </s>
+<s> Well, Cecily is a darling </s>
+<s> Jack </s>
+<s> You are not to talk of Miss Cardew like that </s>
+<s> I don't like it </s>
+<s> Algernon </s>
+<s> Well, I don't like your clothes </s>
+<s> You look perfectly ridiculous in them </s>
+<s> Why on earth don't you go up and change </s>
+<s> It is perfectly childish to be in deep mourning for a man who is actually staying for a whole week with you in your house as a guest </s>
+<s> I call it grotesque </s>
+<s> Jack </s>
+<s> You are certainly not staying with me for a whole week as a guest or anything else </s>
+<s> You have got to leave </s>
+<s> </s>
+<s> </s>
+<s> by the four-five train </s>
+<s> Algernon </s>
+<s> I certainly won't leave you so long as you are in mourning </s>
+<s> It would be most unfriendly </s>
+<s> If I were in mourning you would stay with me, I suppose </s>
+<s> I should think it very unkind if you didn't </s>
+<s> Jack </s>
+<s> Well, will you go if I change my clothes </s>
+<s> Algernon </s>
+<s> Yes, if you are not too long </s>
+<s> I never saw anybody take so long to dress, and with such little result </s>
+<s> Jack </s>
+<s> Well, at any rate, that is better than being always over-dressed as you are </s>
+<s> Algernon </s>
+<s> If I am occasionally a little over-dressed, I make up for it by being always immensely over-educated </s>
+<s> Jack </s>
+<s> Your vanity is ridiculous, your conduct an outrage, and your presence in my garden utterly absurd </s>
+<s> However, you have got to catch the four-five, and I hope you will have a pleasant journey back to town </s>
+<s> This Bunburying, as you call it, has not been a great success for you </s>
+<s> [Goes into the house.] Algernon </s>
+<s> I think it has been a great success </s>
+<s> I'm in love with Cecily, and that is everything </s>
+<s> [Enter Cecily at the back of the garden </s>
+<s> She picks up the can and begins to water the flowers.] But I must see her before I go, and make arrangements for another Bunbury </s>
+<s> Ah, there she is </s>
+<s> Cecily </s>
+<s> Oh, I merely came back to water the roses </s>
+<s> I thought you were with Uncle Jack </s>
+<s> Algernon </s>
+<s> He's gone to order the dog-cart for me </s>
+<s> Cecily </s>
+<s> Oh, is he going to take you for a nice drive </s>
+<s> Algernon </s>
+<s> He's going to send me away </s>
+<s> Cecily </s>
+<s> Then have we got to part </s>
+<s> Algernon </s>
+<s> I am afraid so </s>
+<s> It's a very painful parting </s>
+<s> Cecily </s>
+<s> It is always painful to part from people whom one has known for a very brief space of time </s>
+<s> The absence of old friends one can endure with equanimity </s>
+<s> But even a momentary separation from anyone to whom one has just been introduced is almost unbearable </s>
+<s> Algernon </s>
+<s> Thank you </s>
+<s> [Enter Merriman.] Merriman </s>
+<s> The dog-cart is at the door, sir </s>
+<s> [Algernon looks appealingly at Cecily.] Cecily </s>
+<s> It can wait, Merriman for </s>
+<s> </s>
+<s> </s>
+<s> five minutes </s>
+<s> Merriman </s>
+<s> Yes, Miss </s>
+<s> [Exit Merriman.] Algernon </s>
+<s> I hope, Cecily, I shall not offend you if I state quite frankly and openly that you seem to me to be in every way the visible personification of absolute perfection </s>
+<s> Cecily </s>
+<s> I think your frankness does you great credit, Ernest </s>
+<s> If you will allow me, I will copy your remarks into my diary </s>
+<s> [Goes over to table and begins writing in diary.] Algernon </s>
+<s> Do you really keep a diary </s>
+<s> I'd give anything to look at it </s>
+<s> May I </s>
+<s> Cecily </s>
+<s> Oh no </s>
+<s> [Puts her hand over it.] You see, it is simply a very young girl's record of her own thoughts and impressions, and consequently meant for publication </s>
+<s> When it appears in volume form I hope you will order a copy </s>
+<s> But pray, Ernest, don't stop </s>
+<s> I delight in taking down from dictation </s>
+<s> I have reached 'absolute perfection' </s>
+<s> You can go on </s>
+<s> I am quite ready for more </s>
+<s> Algernon </s>
+<s> [Somewhat taken aback.] Ahem </s>
+<s> Ahem </s>
+<s> Cecily </s>
+<s> Oh, don't cough, Ernest </s>
+<s> When one is dictating one should speak fluently and not cough </s>
+<s> Besides, I don't know how to spell a cough </s>
+<s> [Writes as Algernon speaks.] Algernon </s>
+<s> [Speaking very rapidly.] Cecily, ever since I first looked upon your wonderful and incomparable beauty, I have dared to love you wildly, passionately, devotedly, hopelessly </s>
+<s> Cecily </s>
+<s> I don't think that you should tell me that you love me wildly, passionately, devotedly, hopelessly </s>
+<s> Hopelessly doesn't seem to make much sense, does it </s>
+<s> Algernon </s>
+<s> Cecily </s>
+<s> [Enter Merriman.] Merriman </s>
+<s> The dog-cart is waiting, sir </s>
+<s> Algernon </s>
+<s> Tell it to come round next week, at the same hour </s>
+<s> Merriman </s>
+<s> [Looks at Cecily, who makes no sign.] Yes, sir </s>
+<s> [Merriman retires.] Cecily </s>
+<s> Uncle Jack would be very much annoyed if he knew you were staying on till next week, at the same hour </s>
+<s> Algernon </s>
+<s> Oh, I don't care about Jack </s>
+<s> I don't care for anybody in the whole world but you </s>
+<s> I love you, Cecily </s>
+<s> You will marry me, won't you </s>
+<s> Cecily </s>
+<s> You silly boy </s>
+<s> Of course </s>
+<s> Why, we have been engaged for the last three months </s>
+<s> Algernon </s>
+<s> For the last three months </s>
+<s> Cecily </s>
+<s> Yes, it will be exactly three months on Thursday </s>
+<s> Algernon </s>
+<s> But how did we become engaged </s>
+<s> Cecily </s>
+<s> Well, ever since dear Uncle Jack first confessed to us that he had a younger brother who was very wicked and bad, you of course have formed the chief topic of conversation between myself and Miss Prism </s>
+<s> And of course a man who is much talked about is always very attractive </s>
+<s> One feels there must be something in him, after all </s>
+<s> I daresay it was foolish of me, but I fell in love with you, Ernest </s>
+<s> Algernon </s>
+<s> Darling </s>
+<s> And when was the engagement actually settled </s>
+<s> Cecily </s>
+<s> On the 14th of February last </s>
+<s> Worn out by your entire ignorance of my existence, I determined to end the matter one way or the other, and after a long struggle with myself I accepted you under this dear old tree here </s>
+<s> The next day I bought this little ring in your name, and this is the little bangle with the true lover's knot I promised you always to wear </s>
+<s> Algernon </s>
+<s> Did I give you this </s>
+<s> It's very pretty, isn't it </s>
+<s> Cecily </s>
+<s> Yes, you've wonderfully good taste, Ernest </s>
+<s> It's the excuse I've always given for your leading such a bad life </s>
+<s> And this is the box in which I keep all your dear letters </s>
+<s> [Kneels at table, opens box, and produces letters tied up with blue ribbon.] Algernon </s>
+<s> My letters </s>
+<s> But, my own sweet Cecily, I have never written you any letters </s>
+<s> Cecily </s>
+<s> You need hardly remind me of that, Ernest </s>
+<s> I remember only too well that I was forced to write your letters for you </s>
+<s> I wrote always three times a week, and sometimes oftener </s>
+<s> Algernon </s>
+<s> Oh, do let me read them, Cecily </s>
+<s> Cecily </s>
+<s> Oh, I couldn't possibly </s>
+<s> They would make you far too conceited </s>
+<s> [Replaces box.] The three you wrote me after I had broken off the engagement are so beautiful, and so badly spelled, that even now I can hardly read them without crying a little </s>
+<s> Algernon </s>
+<s> But was our engagement ever broken off </s>
+<s> Cecily </s>
+<s> Of course it was </s>
+<s> On the 22nd of last March </s>
+<s> You can see the entry if you like </s>
+<s> [Shows diary.] 'To-day I broke off my engagement with Ernest </s>
+<s> I feel it is better to do so </s>
+<s> The weather still continues charming' </s>
+<s> Algernon </s>
+<s> But why on earth did you break it off </s>
+<s> What had I done </s>
+<s> I had done nothing at all </s>
+<s> Cecily, I am very much hurt indeed to hear you broke it off </s>
+<s> Particularly when the weather was so charming </s>
+<s> Cecily </s>
+<s> It would hardly have been a really serious engagement if it hadn't been broken off at least once </s>
+<s> But I forgave you before the week was out </s>
+<s> Algernon </s>
+<s> [Crossing to her, and kneeling.] What a perfect angel you are, Cecily </s>
+<s> Cecily </s>
+<s> You dear romantic boy </s>
+<s> [He kisses her, she puts her fingers through his hair.] I hope your hair curls naturally, does it </s>
+<s> Algernon </s>
+<s> Yes, darling, with a little help from others </s>
+<s> Cecily </s>
+<s> I am so glad </s>
+<s> Algernon </s>
+<s> You'll never break off our engagement again, Cecily </s>
+<s> Cecily </s>
+<s> I don't think I could break it off now that I have actually met you </s>
+<s> Besides, of course, there is the question of your name </s>
+<s> Algernon </s>
+<s> Yes, of course </s>
+<s> [Nervously.] Cecily </s>
+<s> You must not laugh at me, darling, but it had always been a girlish dream of mine to love some one whose name was Ernest </s>
+<s> [Algernon rises, Cecily also.] There is something in that name that seems to inspire absolute confidence </s>
+<s> I pity any poor married woman whose husband is not called Ernest </s>
+<s> Algernon </s>
+<s> But, my dear child, do you mean to say you could not love me if I had some other name </s>
+<s> Cecily </s>
+<s> But what name </s>
+<s> Algernon </s>
+<s> Oh, any name you like--Algernon--for instance </s>
+<s> </s>
+<s> </s>
+<s> Cecily </s>
+<s> But I don't like the name of Algernon </s>
+<s> Algernon </s>
+<s> Well, my own dear, sweet, loving little darling, I really can't see why you should object to the name of Algernon </s>
+<s> It is not at all a bad name </s>
+<s> In fact, it is rather an aristocratic name </s>
+<s> Half of the chaps who get into the Bankruptcy Court are called Algernon </s>
+<s> But seriously, Cecily </s>
+<s> </s>
+<s> </s>
+<s> [Moving to her] </s>
+<s> </s>
+<s> </s>
+<s> if my name was Algy, couldn't you love me </s>
+<s> Cecily </s>
+<s> [Rising.] I might respect you, Ernest, I might admire your character, but I fear that I should not be able to give you my undivided attention </s>
+<s> Algernon </s>
+<s> Ahem </s>
+<s> Cecily </s>
+<s> [Picking up hat.] Your Rector here is, I suppose, thoroughly experienced in the practice of all the rites and ceremonials of the Church </s>
+<s> Cecily </s>
+<s> Oh, yes </s>
+<s> Dr </s>
+<s> Chasuble is a most learned man </s>
+<s> He has never written a single book, so you can imagine how much he knows </s>
+<s> Algernon </s>
+<s> I must see him at once on a most important christening--I mean on most important business </s>
+<s> Cecily </s>
+<s> Oh </s>
+<s> Algernon </s>
+<s> I shan't be away more than half an hour </s>
+<s> Cecily </s>
+<s> Considering that we have been engaged since February the 14th, and that I only met you to-day for the first time, I think it is rather hard that you should leave me for so long a period as half an hour </s>
+<s> Couldn't you make it twenty minutes </s>
+<s> Algernon </s>
+<s> I'll be back in no time </s>
+<s> [Kisses her and rushes down the garden.] Cecily </s>
+<s> What an impetuous boy he is </s>
+<s> I like his hair so much </s>
+<s> I must enter his proposal in my diary </s>
+<s> [Enter Merriman.] Merriman </s>
+<s> A Miss Fairfax has just called to see Mr Worthing </s>
+<s> On very important business, Miss Fairfax states </s>
+<s> Cecily </s>
+<s> Isn't Mr Worthing in his library </s>
+<s> Merriman </s>
+<s> Mr Worthing went over in the direction of the Rectory some time ago </s>
+<s> Cecily </s>
+<s> Pray ask the lady to come out here; Mr Worthing is sure to be back soon </s>
+<s> And you can bring tea </s>
+<s> Merriman </s>
+<s> Yes, Miss </s>
+<s> [Goes out.] Cecily </s>
+<s> Miss Fairfax </s>
+<s> I suppose one of the many good elderly women who are associated with Uncle Jack in some of his philanthropic work in London </s>
+<s> I don't quite like women who are interested in philanthropic work </s>
+<s> I think it is so forward of them </s>
+<s> [Enter Merriman.] Merriman </s>
+<s> Miss Fairfax </s>
+<s> [Enter Gwendolen.] [Exit Merriman.] Cecily </s>
+<s> [Advancing to meet her.] Pray let me introduce myself to you </s>
+<s> My name is Cecily Cardew </s>
+<s> Gwendolen </s>
+<s> Cecily Cardew </s>
+<s> [Moving to her and shaking hands.] What a very sweet name </s>
+<s> Something tells me that we are going to be great friends </s>
+<s> I like you already more than I can say </s>
+<s> My first impressions of people are never wrong </s>
+<s> Cecily </s>
+<s> How nice of you to like me so much after we have known each other such a comparatively short time </s>
+<s> Pray sit down </s>
+<s> Gwendolen </s>
+<s> [Still standing up.] I may call you Cecily, may I not </s>
+<s> Cecily </s>
+<s> With pleasure </s>
+<s> Gwendolen </s>
+<s> And you will always call me Gwendolen, won't you </s>
+<s> Cecily </s>
+<s> If you wish </s>
+<s> Gwendolen </s>
+<s> Then that is all quite settled, is it not </s>
+<s> Cecily </s>
+<s> I hope so </s>
+<s> [A pause </s>
+<s> They both sit down together.] Gwendolen </s>
+<s> Perhaps this might be a favourable opportunity for my mentioning who I am </s>
+<s> My father is Lord Bracknell </s>
+<s> You have never heard of papa, I suppose </s>
+<s> Cecily </s>
+<s> I don't think so </s>
+<s> Gwendolen </s>
+<s> Outside the family circle, papa, I am glad to say, is entirely unknown </s>
+<s> I think that is quite as it should be </s>
+<s> The home seems to me to be the proper sphere for the man </s>
+<s> And certainly once a man begins to neglect his domestic duties he becomes painfully effeminate, does he not </s>
+<s> And I don't like that </s>
+<s> It makes men so very attractive </s>
+<s> Cecily, mamma, whose views on education are remarkably strict, has brought me up to be extremely short-sighted; it is part of her system; so do you mind my looking at you through my glasses </s>
+<s> Cecily </s>
+<s> Oh </s>
+<s> not at all, Gwendolen </s>
+<s> I am very fond of being looked at </s>
+<s> Gwendolen </s>
+<s> [After examining Cecily carefully through a lorgnette.] You are here on a short visit, I suppose </s>
+<s> Cecily </s>
+<s> Oh no </s>
+<s> I live here </s>
+<s> Gwendolen </s>
+<s> [Severely.] Really </s>
+<s> Your mother, no doubt, or some female relative of advanced years, resides here also </s>
+<s> Cecily </s>
+<s> Oh no </s>
+<s> I have no mother, nor, in fact, any relations </s>
+<s> Gwendolen </s>
+<s> Indeed </s>
+<s> Cecily </s>
+<s> My dear guardian, with the assistance of Miss Prism, has the arduous task of looking after me </s>
+<s> Gwendolen </s>
+<s> Your guardian </s>
+<s> Cecily </s>
+<s> Yes, I am Mr Worthing's ward </s>
+<s> Gwendolen </s>
+<s> Oh </s>
+<s> It is strange he never mentioned to me that he had a ward </s>
+<s> How secretive of him </s>
+<s> He grows more interesting hourly </s>
+<s> I am not sure, however, that the news inspires me with feelings of unmixed delight </s>
+<s> [Rising and going to her.] I am very fond of you, Cecily; I have liked you ever since I met you </s>
+<s> But I am bound to state that now that I know that you are Mr Worthing's ward, I cannot help expressing a wish you were--well, just a little older than you seem to be--and not quite so very alluring in appearance </s>
+<s> In fact, if I may speak candidly-- Cecily </s>
+<s> Pray do </s>
+<s> I think that whenever one has anything unpleasant to say, one should always be quite candid </s>
+<s> Gwendolen </s>
+<s> Well, to speak with perfect candour, Cecily, I wish that you were fully forty-two, and more than usually plain for your age </s>
+<s> Ernest has a strong upright nature </s>
+<s> He is the very soul of truth and honour </s>
+<s> Disloyalty would be as impossible to him as deception </s>
+<s> But even men of the noblest possible moral character are extremely susceptible to the influence of the physical charms of others </s>
+<s> Modern, no less than Ancient History, supplies us with many most painful examples of what I refer to </s>
+<s> If it were not so, indeed, History would be quite unreadable </s>
+<s> Cecily </s>
+<s> I beg your pardon, Gwendolen, did you say Ernest </s>
+<s> Gwendolen </s>
+<s> Yes </s>
+<s> Cecily </s>
+<s> Oh, but it is not Mr Ernest Worthing who is my guardian </s>
+<s> It is his brother--his elder brother </s>
+<s> Gwendolen </s>
+<s> [Sitting down again.] Ernest never mentioned to me that he had a brother </s>
+<s> Cecily </s>
+<s> I am sorry to say they have not been on good terms for a long time </s>
+<s> Gwendolen </s>
+<s> Ah </s>
+<s> that accounts for it </s>
+<s> And now that I think of it I have never heard any man mention his brother </s>
+<s> The subject seems distasteful to most men </s>
+<s> Cecily, you have lifted a load from my mind </s>
+<s> I was growing almost anxious </s>
+<s> It would have been terrible if any cloud had come across a friendship like ours, would it not </s>
+<s> Of course you are quite, quite sure that it is not Mr Ernest Worthing who is your guardian </s>
+<s> Cecily </s>
+<s> Quite sure </s>
+<s> [A pause.] In fact, I am going to be his </s>
+<s> Gwendolen </s>
+<s> [Inquiringly.] I beg your pardon </s>
+<s> Cecily </s>
+<s> [Rather shy and confidingly.] Dearest Gwendolen, there is no reason why I should make a secret of it to you </s>
+<s> Our little county newspaper is sure to chronicle the fact next week </s>
+<s> Mr Ernest Worthing and I are engaged to be married </s>
+<s> Gwendolen </s>
+<s> [Quite politely, rising.] My darling Cecily, I think there must be some slight error </s>
+<s> Mr Ernest Worthing is engaged to me </s>
+<s> The announcement will appear in the _Morning Post_ on Saturday at the latest </s>
+<s> Cecily </s>
+<s> [Very politely, rising.] I am afraid you must be under some misconception </s>
+<s> Ernest proposed to me exactly ten minutes ago </s>
+<s> [Shows diary.] Gwendolen </s>
+<s> [Examines diary through her lorgnettte carefully.] It is certainly very curious, for he asked me to be his wife yesterday afternoon at 5.30 </s>
+<s> If you would care to verify the incident, pray do so </s>
+<s> [Produces diary of her own.] I never travel without my diary </s>
+<s> One should always have something sensational to read in the train </s>
+<s> I am so sorry, dear Cecily, if it is any disappointment to you, but I am afraid I have the prior claim </s>
+<s> Cecily </s>
+<s> It would distress me more than I can tell you, dear Gwendolen, if it caused you any mental or physical anguish, but I feel bound to point out that since Ernest proposed to you he clearly has changed his mind </s>
+<s> Gwendolen </s>
+<s> [Meditatively.] If the poor fellow has been entrapped into any foolish promise I shall consider it my duty to rescue him at once, and with a firm hand </s>
+<s> Cecily </s>
+<s> [Thoughtfully and sadly.] Whatever unfortunate entanglement my dear boy may have got into, I will never reproach him with it after we are married </s>
+<s> Gwendolen </s>
+<s> Do you allude to me, Miss Cardew, as an entanglement </s>
+<s> You are presumptuous </s>
+<s> On an occasion of this kind it becomes more than a moral duty to speak one's mind </s>
+<s> It becomes a pleasure </s>
+<s> Cecily </s>
+<s> Do you suggest, Miss Fairfax, that I entrapped Ernest into an engagement </s>
+<s> How dare you </s>
+<s> This is no time for wearing the shallow mask of manners </s>
+<s> When I see a spade I call it a spade </s>
+<s> Gwendolen </s>
+<s> [Satirically.] I am glad to say that I have never seen a spade </s>
+<s> It is obvious that our social spheres have been widely different </s>
+<s> [Enter Merriman, followed by the footman </s>
+<s> He carries a salver, table cloth, and plate stand </s>
+<s> Cecily is about to retort </s>
+<s> The presence of the servants exercises a restraining influence, under which both girls chafe.] Merriman </s>
+<s> Shall I lay tea here as usual, Miss </s>
+<s> Cecily </s>
+<s> [Sternly, in a calm voice.] Yes, as usual </s>
+<s> [Merriman begins to clear table and lay cloth </s>
+<s> A long pause </s>
+<s> Cecily and Gwendolen glare at each other.] Gwendolen </s>
+<s> Are there many interesting walks in the vicinity, Miss Cardew </s>
+<s> Cecily </s>
+<s> Oh </s>
+<s> yes </s>
+<s> a great many </s>
+<s> From the top of one of the hills quite close one can see five counties </s>
+<s> Gwendolen </s>
+<s> Five counties </s>
+<s> I don't think I should like that; I hate crowds </s>
+<s> Cecily </s>
+<s> [Sweetly.] I suppose that is why you live in town </s>
+<s> [Gwendolen bites her lip, and beats her foot nervously with her parasol.] Gwendolen </s>
+<s> [Looking round.] Quite a well-kept garden this is, Miss Cardew </s>
+<s> Cecily </s>
+<s> So glad you like it, Miss Fairfax </s>
+<s> Gwendolen </s>
+<s> I had no idea there were any flowers in the country </s>
+<s> Cecily </s>
+<s> Oh, flowers are as common here, Miss Fairfax, as people are in London </s>
+<s> Gwendolen </s>
+<s> Personally I cannot understand how anybody manages to exist in the country, if anybody who is anybody does </s>
+<s> The country always bores me to death </s>
+<s> Cecily </s>
+<s> Ah </s>
+<s> This is what the newspapers call agricultural depression, is it not </s>
+<s> I believe the aristocracy are suffering very much from it just at present </s>
+<s> It is almost an epidemic amongst them, I have been told </s>
+<s> May I offer you some tea, Miss Fairfax </s>
+<s> Gwendolen </s>
+<s> [With elaborate politeness.] Thank you </s>
+<s> [Aside.] Detestable girl </s>
+<s> But I require tea </s>
+<s> Cecily </s>
+<s> [Sweetly.] Sugar </s>
+<s> Gwendolen </s>
+<s> [Superciliously.] No, thank you </s>
+<s> Sugar is not fashionable any more </s>
+<s> [Cecily looks angrily at her, takes up the tongs and puts four lumps of sugar into the cup.] Cecily </s>
+<s> [Severely.] Cake or bread and butter </s>
+<s> Gwendolen </s>
+<s> [In a bored manner.] Bread and butter, please </s>
+<s> Cake is rarely seen at the best houses nowadays </s>
+<s> Cecily </s>
+<s> [Cuts a very large slice of cake, and puts it on the tray.] Hand that to Miss Fairfax </s>
+<s> [Merriman does so, and goes out with footman </s>
+<s> Gwendolen drinks the tea and makes a grimace </s>
+<s> Puts down cup at once, reaches out her hand to the bread and butter, looks at it, and finds it is cake </s>
+<s> Rises in indignation.] Gwendolen </s>
+<s> You have filled my tea with lumps of sugar, and though I asked most distinctly for bread and butter, you have given me cake </s>
+<s> I am known for the gentleness of my disposition, and the extraordinary sweetness of my nature, but I warn you, Miss Cardew, you may go too far </s>
+<s> Cecily </s>
+<s> [Rising.] To save my poor, innocent, trusting boy from the machinations of any other girl there are no lengths to which I would not go </s>
+<s> Gwendolen </s>
+<s> From the moment I saw you I distrusted you </s>
+<s> I felt that you were false and deceitful </s>
+<s> I am never deceived in such matters </s>
+<s> My first impressions of people are invariably right </s>
+<s> Cecily </s>
+<s> It seems to me, Miss Fairfax, that I am trespassing on your valuable time </s>
+<s> No doubt you have many other calls of a similar character to make in the neighbourhood </s>
+<s> [Enter Jack.] Gwendolen </s>
+<s> [Catching sight of him.] Ernest </s>
+<s> My own Ernest </s>
+<s> Jack </s>
+<s> Gwendolen </s>
+<s> Darling </s>
+<s> [Offers to kiss her.] Gwendolen </s>
+<s> [Draws back.] A moment </s>
+<s> May I ask if you are engaged to be married to this young lady </s>
+<s> [Points to Cecily.] Jack </s>
+<s> [Laughing.] To dear little Cecily </s>
+<s> Of course not </s>
+<s> What could have put such an idea into your pretty little head </s>
+<s> Gwendolen </s>
+<s> Thank you </s>
+<s> You may </s>
+<s> [Offers her cheek.] Cecily </s>
+<s> [Very sweetly.] I knew there must be some misunderstanding, Miss Fairfax </s>
+<s> The gentleman whose arm is at present round your waist is my guardian, Mr John Worthing </s>
+<s> Gwendolen </s>
+<s> I beg your pardon </s>
+<s> Cecily </s>
+<s> This is Uncle Jack </s>
+<s> Gwendolen </s>
+<s> [Receding.] Jack </s>
+<s> Oh </s>
+<s> [Enter Algernon.] Cecily </s>
+<s> Here is Ernest </s>
+<s> Algernon </s>
+<s> [Goes straight over to Cecily without noticing any one else.] My own love </s>
+<s> [Offers to kiss her.] Cecily </s>
+<s> [Drawing back.] A moment, Ernest </s>
+<s> May I ask you--are you engaged to be married to this young lady </s>
+<s> Algernon </s>
+<s> [Looking round.] To what young lady </s>
+<s> Good heavens </s>
+<s> Gwendolen </s>
+<s> Cecily </s>
+<s> Yes </s>
+<s> to good heavens, Gwendolen, I mean to Gwendolen </s>
+<s> Algernon </s>
+<s> [Laughing.] Of course not </s>
+<s> What could have put such an idea into your pretty little head </s>
+<s> Cecily </s>
+<s> Thank you </s>
+<s> [Presenting her cheek to be kissed.] You may </s>
+<s> [Algernon kisses her.] Gwendolen </s>
+<s> I felt there was some slight error, Miss Cardew </s>
+<s> The gentleman who is now embracing you is my cousin, Mr Algernon Moncrieff </s>
+<s> Cecily </s>
+<s> [Breaking away from Algernon.] Algernon Moncrieff </s>
+<s> Oh </s>
+<s> [The two girls move towards each other and put their arms round each other's waists as if for protection.] Cecily </s>
+<s> Are you called Algernon </s>
+<s> Algernon </s>
+<s> I cannot deny it </s>
+<s> Cecily </s>
+<s> Oh </s>
+<s> Gwendolen </s>
+<s> Is your name really John </s>
+<s> Jack </s>
+<s> [Standing rather proudly.] I could deny it if I liked </s>
+<s> I could deny anything if I liked </s>
+<s> But my name certainly is John </s>
+<s> It has been John for years </s>
+<s> Cecily </s>
+<s> [To Gwendolen.] A gross deception has been practised on both of us </s>
+<s> Gwendolen </s>
+<s> My poor wounded Cecily </s>
+<s> Cecily </s>
+<s> My sweet wronged Gwendolen </s>
+<s> Gwendolen </s>
+<s> [Slowly and seriously.] You will call me sister, will you not </s>
+<s> [They embrace </s>
+<s> Jack and Algernon groan and walk up and down.] Cecily </s>
+<s> [Rather brightly.] There is just one question I would like to be allowed to ask my guardian </s>
+<s> Gwendolen </s>
+<s> An admirable idea </s>
+<s> Mr Worthing, there is just one question I would like to be permitted to put to you </s>
+<s> Where is your brother Ernest </s>
+<s> We are both engaged to be married to your brother Ernest, so it is a matter of some importance to us to know where your brother Ernest is at present </s>
+<s> Jack </s>
+<s> [Slowly and hesitatingly.] Gwendolen--Cecily--it is very painful for me to be forced to speak the truth </s>
+<s> It is the first time in my life that I have ever been reduced to such a painful position, and I am really quite inexperienced in doing anything of the kind </s>
+<s> However, I will tell you quite frankly that I have no brother Ernest </s>
+<s> I have no brother at all </s>
+<s> I never had a brother in my life, and I certainly have not the smallest intention of ever having one in the future </s>
+<s> Cecily </s>
+<s> [Surprised.] No brother at all </s>
+<s> Jack </s>
+<s> [Cheerily.] None </s>
+<s> Gwendolen </s>
+<s> [Severely.] Had you never a brother of any kind </s>
+<s> Jack </s>
+<s> [Pleasantly.] Never </s>
+<s> Not even of an kind </s>
+<s> Gwendolen </s>
+<s> I am afraid it is quite clear, Cecily, that neither of us is engaged to be married to any one </s>
+<s> Cecily </s>
+<s> It is not a very pleasant position for a young girl suddenly to find herself in </s>
+<s> Is it </s>
+<s> Gwendolen </s>
+<s> Let us go into the house </s>
+<s> They will hardly venture to come after us there </s>
+<s> Cecily </s>
+<s> No, men are so cowardly, aren't they </s>
+<s> [They retire into the house with scornful looks.] Jack </s>
+<s> This ghastly state of things is what you call Bunburying, I suppose </s>
+<s> Algernon </s>
+<s> Yes, and a perfectly wonderful Bunbury it is </s>
+<s> The most wonderful Bunbury I have ever had in my life </s>
+<s> Jack </s>
+<s> Well, you've no right whatsoever to Bunbury here </s>
+<s> Algernon </s>
+<s> That is absurd </s>
+<s> One has a right to Bunbury anywhere one chooses </s>
+<s> Every serious Bunburyist knows that </s>
+<s> Jack </s>
+<s> Serious Bunburyist </s>
+<s> Good heavens </s>
+<s> Algernon </s>
+<s> Well, one must be serious about something, if one wants to have any amusement in life </s>
+<s> I happen to be serious about Bunburying </s>
+<s> What on earth you are serious about I haven't got the remotest idea </s>
+<s> About everything, I should fancy </s>
+<s> You have such an absolutely trivial nature </s>
+<s> Jack </s>
+<s> Well, the only small satisfaction I have in the whole of this wretched business is that your friend Bunbury is quite exploded </s>
+<s> You won't be able to run down to the country quite so often as you used to do, dear Algy </s>
+<s> And a very good thing too </s>
+<s> Algernon </s>
+<s> Your brother is a little off colour, isn't he, dear Jack </s>
+<s> You won't be able to disappear to London quite so frequently as your wicked custom was </s>
+<s> And not a bad thing either </s>
+<s> Jack </s>
+<s> As for your conduct towards Miss Cardew, I must say that your taking in a sweet, simple, innocent girl like that is quite inexcusable </s>
+<s> To say nothing of the fact that she is my ward </s>
+<s> Algernon </s>
+<s> I can see no possible defence at all for your deceiving a brilliant, clever, thoroughly experienced young lady like Miss Fairfax </s>
+<s> To say nothing of the fact that she is my cousin </s>
+<s> Jack </s>
+<s> I wanted to be engaged to Gwendolen, that is all </s>
+<s> I love her </s>
+<s> Algernon </s>
+<s> Well, I simply wanted to be engaged to Cecily </s>
+<s> I adore her </s>
+<s> Jack </s>
+<s> There is certainly no chance of your marrying Miss Cardew </s>
+<s> Algernon </s>
+<s> I don't think there is much likelihood, Jack, of you and Miss Fairfax being united </s>
+<s> Jack </s>
+<s> Well, that is no business of yours </s>
+<s> Algernon </s>
+<s> If it was my business, I wouldn't talk about it </s>
+<s> [Begins to eat muffins.] It is very vulgar to talk about one's business </s>
+<s> Only people like stock-brokers do that, and then merely at dinner parties </s>
+<s> Jack </s>
+<s> How can you sit there, calmly eating muffins when we are in this horrible trouble, I can't make out </s>
+<s> You seem to me to be perfectly heartless </s>
+<s> Algernon </s>
+<s> Well, I can't eat muffins in an agitated manner </s>
+<s> The butter would probably get on my cuffs </s>
+<s> One should always eat muffins quite calmly </s>
+<s> It is the only way to eat them </s>
+<s> Jack </s>
+<s> I say it's perfectly heartless your eating muffins at all, under the circumstances </s>
+<s> Algernon </s>
+<s> When I am in trouble, eating is the only thing that consoles me </s>
+<s> Indeed, when I am in really great trouble, as any one who knows me intimately will tell you, I refuse everything except food and drink </s>
+<s> At the present moment I am eating muffins because I am unhappy </s>
+<s> Besides, I am particularly fond of muffins </s>
+<s> [Rising.] Jack </s>
+<s> [Rising.] Well, that is no reason why you should eat them all in that greedy way </s>
+<s> [Takes muffins from Algernon.] Algernon </s>
+<s> [Offering tea-cake.] I wish you would have tea-cake instead </s>
+<s> I don't like tea-cake </s>
+<s> Jack </s>
+<s> Good heavens </s>
+<s> I suppose a man may eat his own muffins in his own garden </s>
+<s> Algernon </s>
+<s> But you have just said it was perfectly heartless to eat muffins </s>
+<s> Jack </s>
+<s> I said it was perfectly heartless of you, under the circumstances </s>
+<s> That is a very different thing </s>
+<s> Algernon </s>
+<s> That may be </s>
+<s> But the muffins are the same </s>
+<s> [He seizes the muffin-dish from Jack.] Jack </s>
+<s> Algy, I wish to goodness you would go </s>
+<s> Algernon </s>
+<s> You can't possibly ask me to go without having some dinner </s>
+<s> It's absurd </s>
+<s> I never go without my dinner </s>
+<s> No one ever does, except vegetarians and people like that </s>
+<s> Besides I have just made arrangements with Dr </s>
+<s> Chasuble to be christened at a quarter to six under the name of Ernest </s>
+<s> Jack </s>
+<s> My dear fellow, the sooner you give up that nonsense the better </s>
+<s> I made arrangements this morning with Dr </s>
+<s> Chasuble to be christened myself at 5.30, and I naturally will take the name of Ernest </s>
+<s> Gwendolen would wish it </s>
+<s> We can't both be christened Ernest </s>
+<s> It's absurd </s>
+<s> Besides, I have a perfect right to be christened if I like </s>
+<s> There is no evidence at all that I have ever been christened by anybody </s>
+<s> I should think it extremely probable I never was, and so does Dr </s>
+<s> Chasuble </s>
+<s> It is entirely different in your case </s>
+<s> You have been christened already </s>
+<s> Algernon </s>
+<s> Yes, but I have not been christened for years </s>
+<s> Jack </s>
+<s> Yes, but you have been christened </s>
+<s> That is the important thing </s>
+<s> Algernon </s>
+<s> Quite so </s>
+<s> So I know my constitution can stand it </s>
+<s> If you are not quite sure about your ever having been christened, I must say I think it rather dangerous your venturing on it now </s>
+<s> It might make you very unwell </s>
+<s> You can hardly have forgotten that some one very closely connected with you was very nearly carried off this week in Paris by a severe chill </s>
+<s> Jack </s>
+<s> Yes, but you said yourself that a severe chill was not hereditary </s>
+<s> Algernon </s>
+<s> It usen't to be, I know--but I daresay it is now </s>
+<s> Science is always making wonderful improvements in things </s>
+<s> Jack </s>
+<s> [Picking up the muffin-dish.] Oh, that is nonsense; you are always talking nonsense </s>
+<s> Algernon </s>
+<s> Jack, you are at the muffins again </s>
+<s> I wish you wouldn't </s>
+<s> There are only two left </s>
+<s> [Takes them.] I told you I was particularly fond of muffins </s>
+<s> Jack </s>
+<s> But I hate tea-cake </s>
+<s> Algernon </s>
+<s> Why on earth then do you allow tea-cake to be served up for your guests </s>
+<s> What ideas you have of hospitality </s>
+<s> Jack </s>
+<s> Algernon </s>
+<s> I have already told you to go </s>
+<s> I don't want you here </s>
+<s> Why don't you go </s>
+<s> Algernon </s>
+<s> I haven't quite finished my tea yet </s>
+<s> and there is still one muffin left </s>
+<s> [Jack groans, and sinks into a chair </s>
+<s> Algernon still continues eating.] ACT DROP THIRD ACT SCENE Morning-room at the Manor House </s>
+<s> [Gwendolen and Cecily are at the window, looking out into the garden.] Gwendolen </s>
+<s> The fact that they did not follow us at once into the house, as any one else would have done, seems to me to show that they have some sense of shame left </s>
+<s> Cecily </s>
+<s> They have been eating muffins </s>
+<s> That looks like repentance </s>
+<s> Gwendolen </s>
+<s> [After a pause.] They don't seem to notice us at all </s>
+<s> Couldn't you cough </s>
+<s> Cecily </s>
+<s> But I haven't got a cough </s>
+<s> Gwendolen </s>
+<s> They're looking at us </s>
+<s> What effrontery </s>
+<s> Cecily </s>
+<s> They're approaching </s>
+<s> That's very forward of them </s>
+<s> Gwendolen </s>
+<s> Let us preserve a dignified silence </s>
+<s> Cecily </s>
+<s> Certainly </s>
+<s> It's the only thing to do now </s>
+<s> [Enter Jack followed by Algernon </s>
+<s> They whistle some dreadful popular air from a British Opera.] Gwendolen </s>
+<s> This dignified silence seems to produce an unpleasant effect </s>
+<s> Cecily </s>
+<s> A most distasteful one </s>
+<s> Gwendolen </s>
+<s> But we will not be the first to speak </s>
+<s> Cecily </s>
+<s> Certainly not </s>
+<s> Gwendolen </s>
+<s> Mr Worthing, I have something very particular to ask you </s>
+<s> Much depends on your reply </s>
+<s> Cecily </s>
+<s> Gwendolen, your common sense is invaluable </s>
+<s> Mr Moncrieff, kindly answer me the following question </s>
+<s> Why did you pretend to be my guardian's brother </s>
+<s> Algernon </s>
+<s> In order that I might have an opportunity of meeting you </s>
+<s> Cecily </s>
+<s> [To Gwendolen.] That certainly seems a satisfactory explanation, does it not </s>
+<s> Gwendolen </s>
+<s> Yes, dear, if you can believe him </s>
+<s> Cecily </s>
+<s> I don't </s>
+<s> But that does not affect the wonderful beauty of his answer </s>
+<s> Gwendolen </s>
+<s> True </s>
+<s> In matters of grave importance, style, not sincerity is the vital thing </s>
+<s> Mr Worthing, what explanation can you offer to me for pretending to have a brother </s>
+<s> Was it in order that you might have an opportunity of coming up to town to see me as often as possible </s>
+<s> Jack </s>
+<s> Can you doubt it, Miss Fairfax </s>
+<s> Gwendolen </s>
+<s> I have the gravest doubts upon the subject </s>
+<s> But I intend to crush them </s>
+<s> This is not the moment for German scepticism </s>
+<s> [Moving to Cecily.] Their explanations appear to be quite satisfactory, especially Mr Worthing's </s>
+<s> That seems to me to have the stamp of truth upon it </s>
+<s> Cecily </s>
+<s> I am more than content with what Mr Moncrieff said </s>
+<s> His voice alone inspires one with absolute credulity </s>
+<s> Gwendolen </s>
+<s> Then you think we should forgive them </s>
+<s> Cecily </s>
+<s> Yes </s>
+<s> I mean no </s>
+<s> Gwendolen </s>
+<s> True </s>
+<s> I had forgotten </s>
+<s> There are principles at stake that one cannot surrender </s>
+<s> Which of us should tell them </s>
+<s> The task is not a pleasant one </s>
+<s> Cecily </s>
+<s> Could we not both speak at the same time </s>
+<s> Gwendolen </s>
+<s> An excellent idea </s>
+<s> I nearly always speak at the same time as other people </s>
+<s> Will you take the time from me </s>
+<s> Cecily </s>
+<s> Certainly </s>
+<s> [Gwendolen beats time with uplifted finger.] Gwendolen and Cecily [Speaking together.] Your Christian names are still an insuperable barrier </s>
+<s> That is all </s>
+<s> Jack and Algernon [Speaking together.] Our Christian names </s>
+<s> Is that all </s>
+<s> But we are going to be christened this afternoon </s>
+<s> Gwendolen </s>
+<s> [To Jack.] For my sake you are prepared to do this terrible thing </s>
+<s> Jack </s>
+<s> I am </s>
+<s> Cecily </s>
+<s> [To Algernon.] To please me you are ready to face this fearful ordeal </s>
+<s> Algernon </s>
+<s> I am </s>
+<s> Gwendolen </s>
+<s> How absurd to talk of the equality of the sexes </s>
+<s> Where questions of self-sacrifice are concerned, men are infinitely beyond us </s>
+<s> Jack </s>
+<s> We are </s>
+<s> [Clasps hands with Algernon.] Cecily </s>
+<s> They have moments of physical courage of which we women know absolutely nothing </s>
+<s> Gwendolen </s>
+<s> [To Jack.] Darling </s>
+<s> Algernon </s>
+<s> [To Cecily.] Darling </s>
+<s> [They fall into each other's arms.] [Enter Merriman </s>
+<s> When he enters he coughs loudly, seeing the situation.] Merriman </s>
+<s> Ahem </s>
+<s> Ahem </s>
+<s> Lady Bracknell </s>
+<s> Jack </s>
+<s> Good heavens </s>
+<s> [Enter Lady Bracknell </s>
+<s> The couples separate in alarm </s>
+<s> Exit Merriman.] Lady Bracknell </s>
+<s> Gwendolen </s>
+<s> What does this mean </s>
+<s> Gwendolen </s>
+<s> Merely that I am engaged to be married to Mr Worthing, mamma </s>
+<s> Lady Bracknell </s>
+<s> Come here </s>
+<s> Sit down </s>
+<s> Sit down immediately </s>
+<s> Hesitation of any kind is a sign of mental decay in the young, of physical weakness in the old </s>
+<s> [Turns to Jack.] Apprised, sir, of my daughter's sudden flight by her trusty maid, whose confidence I purchased by means of a small coin, I followed her at once by a luggage train </s>
+<s> Her unhappy father is, I am glad to say, under the impression that she is attending a more than usually lengthy lecture by the University Extension Scheme on the Influence of a permanent income on Thought </s>
+<s> I do not propose to undeceive him </s>
+<s> Indeed I have never undeceived him on any question </s>
+<s> I would consider it wrong </s>
+<s> But of course, you will clearly understand that all communication between yourself and my daughter must cease immediately from this moment </s>
+<s> On this point, as indeed on all points, I am firm </s>
+<s> Jack </s>
+<s> I am engaged to be married to Gwendolen Lady Bracknell </s>
+<s> Lady Bracknell </s>
+<s> You are nothing of the kind, sir </s>
+<s> And now, as regards Algernon </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> Algernon </s>
+<s> Algernon </s>
+<s> Yes, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> May I ask if it is in this house that your invalid friend Mr Bunbury resides </s>
+<s> Algernon </s>
+<s> [Stammering.] Oh </s>
+<s> No </s>
+<s> Bunbury doesn't live here </s>
+<s> Bunbury is somewhere else at present </s>
+<s> In fact, Bunbury is dead </s>
+<s> Lady Bracknell </s>
+<s> Dead </s>
+<s> When did Mr Bunbury die </s>
+<s> His death must have been extremely sudden </s>
+<s> Algernon </s>
+<s> [Airily.] Oh </s>
+<s> I killed Bunbury this afternoon </s>
+<s> I mean poor Bunbury died this afternoon </s>
+<s> Lady Bracknell </s>
+<s> What did he die of </s>
+<s> Algernon </s>
+<s> Bunbury </s>
+<s> Oh, he was quite exploded </s>
+<s> Lady Bracknell </s>
+<s> Exploded </s>
+<s> Was he the victim of a revolutionary outrage </s>
+<s> I was not aware that Mr Bunbury was interested in social legislation </s>
+<s> If so, he is well punished for his morbidity </s>
+<s> Algernon </s>
+<s> My dear Aunt Augusta, I mean he was found out </s>
+<s> The doctors found out that Bunbury could not live, that is what I mean--so Bunbury died </s>
+<s> Lady Bracknell </s>
+<s> He seems to have had great confidence in the opinion of his physicians </s>
+<s> I am glad, however, that he made up his mind at the last to some definite course of action, and acted under proper medical advice </s>
+<s> And now that we have finally got rid of this Mr Bunbury, may I ask, Mr Worthing, who is that young person whose hand my nephew Algernon is now holding in what seems to me a peculiarly unnecessary manner </s>
+<s> Jack </s>
+<s> That lady is Miss Cecily Cardew, my ward </s>
+<s> [Lady Bracknell bows coldly to Cecily.] Algernon </s>
+<s> I am engaged to be married to Cecily, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> I beg your pardon </s>
+<s> Cecily </s>
+<s> Mr Moncrieff and I are engaged to be married, Lady Bracknell </s>
+<s> Lady Bracknell </s>
+<s> [With a shiver, crossing to the sofa and sitting down.] I do not know whether there is anything peculiarly exciting in the air of this particular part of Hertfordshire, but the number of engagements that go on seems to me considerably above the proper average that statistics have laid down for our guidance </s>
+<s> I think some preliminary inquiry on my part would not be out of place </s>
+<s> Mr Worthing, is Miss Cardew at all connected with any of the larger railway stations in London </s>
+<s> I merely desire information </s>
+<s> Until yesterday I had no idea that there were any families or persons whose origin was a Terminus </s>
+<s> [Jack looks perfectly furious, but restrains himself.] Jack </s>
+<s> [In a clear, cold voice.] Miss Cardew is the grand-daughter of the late Mr Thomas Cardew of 149 Belgrave Square, S.W.; Gervase Park, Dorking, Surrey; and the Sporran, Fifeshire, N.B </s>
+<s> Lady Bracknell </s>
+<s> That sounds not unsatisfactory </s>
+<s> Three addresses always inspire confidence, even in tradesmen </s>
+<s> But what proof have I of their authenticity </s>
+<s> Jack </s>
+<s> I have carefully preserved the Court Guides of the period </s>
+<s> They are open to your inspection, Lady Bracknell </s>
+<s> Lady Bracknell </s>
+<s> [Grimly.] I have known strange errors in that publication </s>
+<s> Jack </s>
+<s> Miss Cardew's family solicitors are Messrs </s>
+<s> Markby, Markby, and Markby </s>
+<s> Lady Bracknell </s>
+<s> Markby, Markby, and Markby </s>
+<s> A firm of the very highest position in their profession </s>
+<s> Indeed I am told that one of the Mr Markby's is occasionally to be seen at dinner parties </s>
+<s> So far I am satisfied </s>
+<s> Jack </s>
+<s> [Very irritably.] How extremely kind of you, Lady Bracknell </s>
+<s> I have also in my possession, you will be pleased to hear, certificates of Miss Cardew's birth, baptism, whooping cough, registration, vaccination, confirmation, and the measles; both the German and the English variety </s>
+<s> Lady Bracknell </s>
+<s> Ah </s>
+<s> A life crowded with incident, I see; though perhaps somewhat too exciting for a young girl </s>
+<s> I am not myself in favour of premature experiences </s>
+<s> [Rises, looks at her watch.] Gwendolen </s>
+<s> the time approaches for our departure </s>
+<s> We have not a moment to lose </s>
+<s> As a matter of form, Mr Worthing, I had better ask you if Miss Cardew has any little fortune </s>
+<s> Jack </s>
+<s> Oh </s>
+<s> about a hundred and thirty thousand pounds in the Funds </s>
+<s> That is all </s>
+<s> Goodbye, Lady Bracknell </s>
+<s> So pleased to have seen you </s>
+<s> Lady Bracknell </s>
+<s> [Sitting down again.] A moment, Mr Worthing </s>
+<s> A hundred and thirty thousand pounds </s>
+<s> And in the Funds </s>
+<s> Miss Cardew seems to me a most attractive young lady, now that I look at her </s>
+<s> Few girls of the present day have any really solid qualities, any of the qualities that last, and improve with time </s>
+<s> We live, I regret to say, in an age of surfaces </s>
+<s> [To Cecily.] Come over here, dear </s>
+<s> [Cecily goes across.] Pretty child </s>
+<s> your dress is sadly simple, and your hair seems almost as Nature might have left it </s>
+<s> But we can soon alter all that </s>
+<s> A thoroughly experienced French maid produces a really marvellous result in a very brief space of time </s>
+<s> I remember recommending one to young Lady Lancing, and after three months her own husband did not know her </s>
+<s> Jack </s>
+<s> And after six months nobody knew her </s>
+<s> Lady Bracknell </s>
+<s> [Glares at Jack for a few moments </s>
+<s> Then bends, with a practised smile, to Cecily.] Kindly turn round, sweet child </s>
+<s> [Cecily turns completely round.] No, the side view is what I want </s>
+<s> [Cecily presents her profile.] Yes, quite as I expected </s>
+<s> There are distinct social possibilities in your profile </s>
+<s> The two weak points in our age are its want of principle and its want of profile </s>
+<s> The chin a little higher, dear </s>
+<s> Style largely depends on the way the chin is worn </s>
+<s> They are worn very high, just at present </s>
+<s> Algernon </s>
+<s> Algernon </s>
+<s> Yes, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> There are distinct social possibilities in Miss Cardew's profile </s>
+<s> Algernon </s>
+<s> Cecily is the sweetest, dearest, prettiest girl in the whole world </s>
+<s> And I don't care twopence about social possibilities </s>
+<s> Lady Bracknell </s>
+<s> Never speak disrespectfully of Society, Algernon </s>
+<s> Only people who can't get into it do that </s>
+<s> [To Cecily.] Dear child, of course you know that Algernon has nothing but his debts to depend upon </s>
+<s> But I do not approve of mercenary marriages </s>
+<s> When I married Lord Bracknell I had no fortune of any kind </s>
+<s> But I never dreamed for a moment of allowing that to stand in my way </s>
+<s> Well, I suppose I must give my consent </s>
+<s> Algernon </s>
+<s> Thank you, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> Cecily, you may kiss me </s>
+<s> Cecily </s>
+<s> [Kisses her.] Thank you, Lady Bracknell </s>
+<s> Lady Bracknell </s>
+<s> You may also address me as Aunt Augusta for the future </s>
+<s> Cecily </s>
+<s> Thank you, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> The marriage, I think, had better take place quite soon </s>
+<s> Algernon </s>
+<s> Thank you, Aunt Augusta </s>
+<s> Cecily </s>
+<s> Thank you, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> To speak frankly, I am not in favour of long engagements </s>
+<s> They give people the opportunity of finding out each other's character before marriage, which I think is never advisable </s>
+<s> Jack </s>
+<s> I beg your pardon for interrupting you, Lady Bracknell, but this engagement is quite out of the question </s>
+<s> I am Miss Cardew's guardian, and she cannot marry without my consent until she comes of age </s>
+<s> That consent I absolutely decline to give </s>
+<s> Lady Bracknell </s>
+<s> Upon what grounds may I ask </s>
+<s> Algernon is an extremely, I may almost say an ostentatiously, eligible young man </s>
+<s> He has nothing, but he looks everything </s>
+<s> What more can one desire </s>
+<s> Jack </s>
+<s> It pains me very much to have to speak frankly to you, Lady Bracknell, about your nephew, but the fact is that I do not approve at all of his moral character </s>
+<s> I suspect him of being untruthful </s>
+<s> [Algernon and Cecily look at him in indignant amazement.] Lady Bracknell </s>
+<s> Untruthful </s>
+<s> My nephew Algernon </s>
+<s> Impossible </s>
+<s> He is an Oxonian </s>
+<s> Jack </s>
+<s> I fear there can be no possible doubt about the matter </s>
+<s> This afternoon during my temporary absence in London on an important question of romance, he obtained admission to my house by means of the false pretence of being my brother </s>
+<s> Under an assumed name he drank, I've just been informed by my butler, an entire pint bottle of my Perrier-Jouet, Brut, '89; wine I was specially reserving for myself </s>
+<s> Continuing his disgraceful deception, he succeeded in the course of the afternoon in alienating the affections of my only ward </s>
+<s> He subsequently stayed to tea, and devoured every single muffin </s>
+<s> And what makes his conduct all the more heartless is, that he was perfectly well aware from the first that I have no brother, that I never had a brother, and that I don't intend to have a brother, not even of any kind </s>
+<s> I distinctly told him so myself yesterday afternoon </s>
+<s> Lady Bracknell </s>
+<s> Ahem </s>
+<s> Mr Worthing, after careful consideration I have decided entirely to overlook my nephew's conduct to you </s>
+<s> Jack </s>
+<s> That is very generous of you, Lady Bracknell </s>
+<s> My own decision, however, is unalterable </s>
+<s> I decline to give my consent </s>
+<s> Lady Bracknell </s>
+<s> [To Cecily.] Come here, sweet child </s>
+<s> [Cecily goes over.] How old are you, dear </s>
+<s> Cecily </s>
+<s> Well, I am really only eighteen, but I always admit to twenty when I go to evening parties </s>
+<s> Lady Bracknell </s>
+<s> You are perfectly right in making some slight alteration </s>
+<s> Indeed, no woman should ever be quite accurate about her age </s>
+<s> It looks so calculating </s>
+<s> </s>
+<s> </s>
+<s> [In a meditative manner.] Eighteen, but admitting to twenty at evening parties </s>
+<s> Well, it will not be very long before you are of age and free from the restraints of tutelage </s>
+<s> So I don't think your guardian's consent is, after all, a matter of any importance </s>
+<s> Jack </s>
+<s> Pray excuse me, Lady Bracknell, for interrupting you again, but it is only fair to tell you that according to the terms of her grandfather's will Miss Cardew does not come legally of age till she is thirty-five </s>
+<s> Lady Bracknell </s>
+<s> That does not seem to me to be a grave objection </s>
+<s> Thirty- five is a very attractive age </s>
+<s> London society is full of women of the very highest birth who have, of their own free choice, remained thirty- five for years </s>
+<s> Lady Dumbleton is an instance in point </s>
+<s> To my own knowledge she has been thirty-five ever since she arrived at the age of forty, which was many years ago now </s>
+<s> I see no reason why our dear Cecily should not be even still more attractive at the age you mention than she is at present </s>
+<s> There will be a large accumulation of property </s>
+<s> Cecily </s>
+<s> Algy, could you wait for me till I was thirty-five </s>
+<s> Algernon </s>
+<s> Of course I could, Cecily </s>
+<s> You know I could </s>
+<s> Cecily </s>
+<s> Yes, I felt it instinctively, but I couldn't wait all that time </s>
+<s> I hate waiting even five minutes for anybody </s>
+<s> It always makes me rather cross </s>
+<s> I am not punctual myself, I know, but I do like punctuality in others, and waiting, even to be married, is quite out of the question </s>
+<s> Algernon </s>
+<s> Then what is to be done, Cecily </s>
+<s> Cecily </s>
+<s> I don't know, Mr Moncrieff </s>
+<s> Lady Bracknell </s>
+<s> My dear Mr Worthing, as Miss Cardew states positively that she cannot wait till she is thirty-five--a remark which I am bound to say seems to me to show a somewhat impatient nature--I would beg of you to reconsider your decision </s>
+<s> Jack </s>
+<s> But my dear Lady Bracknell, the matter is entirely in your own hands </s>
+<s> The moment you consent to my marriage with Gwendolen, I will most gladly allow your nephew to form an alliance with my ward </s>
+<s> Lady Bracknell </s>
+<s> [Rising and drawing herself up.] You must be quite aware that what you propose is out of the question </s>
+<s> Jack </s>
+<s> Then a passionate celibacy is all that any of us can look forward to </s>
+<s> Lady Bracknell </s>
+<s> That is not the destiny I propose for Gwendolen </s>
+<s> Algernon, of course, can choose for himself </s>
+<s> [Pulls out her watch.] Come, dear, [Gwendolen rises] we have already missed five, if not six, trains </s>
+<s> To miss any more might expose us to comment on the platform </s>
+<s> [Enter Dr </s>
+<s> Chasuble.] Chasuble </s>
+<s> Everything is quite ready for the christenings </s>
+<s> Lady Bracknell </s>
+<s> The christenings, sir </s>
+<s> Is not that somewhat premature </s>
+<s> Chasuble </s>
+<s> [Looking rather puzzled, and pointing to Jack and Algernon.] Both these gentlemen have expressed a desire for immediate baptism </s>
+<s> Lady Bracknell </s>
+<s> At their age </s>
+<s> The idea is grotesque and irreligious </s>
+<s> Algernon, I forbid you to be baptized </s>
+<s> I will not hear of such excesses </s>
+<s> Lord Bracknell would be highly displeased if he learned that that was the way in which you wasted your time and money </s>
+<s> Chasuble </s>
+<s> Am I to understand then that there are to be no christenings at all this afternoon </s>
+<s> Jack </s>
+<s> I don't think that, as things are now, it would be of much practical value to either of us, Dr </s>
+<s> Chasuble </s>
+<s> Chasuble </s>
+<s> I am grieved to hear such sentiments from you, Mr Worthing </s>
+<s> They savour of the heretical views of the Anabaptists, views that I have completely refuted in four of my unpublished sermons </s>
+<s> However, as your present mood seems to be one peculiarly secular, I will return to the church at once </s>
+<s> Indeed, I have just been informed by the pew-opener that for the last hour and a half Miss Prism has been waiting for me in the vestry </s>
+<s> Lady Bracknell </s>
+<s> [Starting.] Miss Prism </s>
+<s> Did I hear you mention a Miss Prism </s>
+<s> Chasuble </s>
+<s> Yes, Lady Bracknell </s>
+<s> I am on my way to join her </s>
+<s> Lady Bracknell </s>
+<s> Pray allow me to detain you for a moment </s>
+<s> This matter may prove to be one of vital importance to Lord Bracknell and myself </s>
+<s> Is this Miss Prism a female of repellent aspect, remotely connected with education </s>
+<s> Chasuble </s>
+<s> [Somewhat indignantly.] She is the most cultivated of ladies, and the very picture of respectability </s>
+<s> Lady Bracknell </s>
+<s> It is obviously the same person </s>
+<s> May I ask what position she holds in your household </s>
+<s> Chasuble </s>
+<s> [Severely.] I am a celibate, madam </s>
+<s> Jack </s>
+<s> [Interposing.] Miss Prism, Lady Bracknell, has been for the last three years Miss Cardew's esteemed governess and valued companion </s>
+<s> Lady Bracknell </s>
+<s> In spite of what I hear of her, I must see her at once </s>
+<s> Let her be sent for </s>
+<s> Chasuble </s>
+<s> [Looking off.] She approaches; she is nigh </s>
+<s> [Enter Miss Prism hurriedly.] Miss Prism </s>
+<s> I was told you expected me in the vestry, dear Canon </s>
+<s> I have been waiting for you there for an hour and three-quarters </s>
+<s> [Catches sight of Lady Bracknell, who has fixed her with a stony glare </s>
+<s> Miss Prism grows pale and quails </s>
+<s> She looks anxiously round as if desirous to escape.] Lady Bracknell </s>
+<s> [In a severe, judicial voice.] Prism </s>
+<s> [Miss Prism bows her head in shame.] Come here, Prism </s>
+<s> [Miss Prism approaches in a humble manner.] Prism </s>
+<s> Where is that baby </s>
+<s> [General consternation </s>
+<s> The Canon starts back in horror </s>
+<s> Algernon and Jack pretend to be anxious to shield Cecily and Gwendolen from hearing the details of a terrible public scandal.] Twenty-eight years ago, Prism, you left Lord Bracknell's house, Number 104, Upper Grosvenor Street, in charge of a perambulator that contained a baby of the male sex </s>
+<s> You never returned </s>
+<s> A few weeks later, through the elaborate investigations of the Metropolitan police, the perambulator was discovered at midnight, standing by itself in a remote corner of Bayswater </s>
+<s> It contained the manuscript of a three-volume novel of more than usually revolting sentimentality </s>
+<s> [Miss Prism starts in involuntary indignation.] But the baby was not there </s>
+<s> [Every one looks at Miss Prism.] Prism </s>
+<s> Where is that baby </s>
+<s> [A pause.] Miss Prism </s>
+<s> Lady Bracknell, I admit with shame that I do not know </s>
+<s> I only wish I did </s>
+<s> The plain facts of the case are these </s>
+<s> On the morning of the day you mention, a day that is for ever branded on my memory, I prepared as usual to take the baby out in its perambulator </s>
+<s> I had also with me a somewhat old, but capacious hand-bag in which I had intended to place the manuscript of a work of fiction that I had written during my few unoccupied hours </s>
+<s> In a moment of mental abstraction, for which I never can forgive myself, I deposited the manuscript in the basinette, and placed the baby in the hand-bag </s>
+<s> Jack </s>
+<s> [Who has been listening attentively.] But where did you deposit the hand-bag </s>
+<s> Miss Prism </s>
+<s> Do not ask me, Mr Worthing </s>
+<s> Jack </s>
+<s> Miss Prism, this is a matter of no small importance to me </s>
+<s> I insist on knowing where you deposited the hand-bag that contained that infant </s>
+<s> Miss Prism </s>
+<s> I left it in the cloak-room of one of the larger railway stations in London </s>
+<s> Jack </s>
+<s> What railway station </s>
+<s> Miss Prism </s>
+<s> [Quite crushed.] Victoria </s>
+<s> The Brighton line </s>
+<s> [Sinks into a chair.] Jack </s>
+<s> I must retire to my room for a moment </s>
+<s> Gwendolen, wait here for me </s>
+<s> Gwendolen </s>
+<s> If you are not too long, I will wait here for you all my life </s>
+<s> [Exit Jack in great excitement.] Chasuble </s>
+<s> What do you think this means, Lady Bracknell </s>
+<s> Lady Bracknell </s>
+<s> I dare not even suspect, Dr </s>
+<s> Chasuble </s>
+<s> I need hardly tell you that in families of high position strange coincidences are not supposed to occur </s>
+<s> They are hardly considered the thing </s>
+<s> [Noises heard overhead as if some one was throwing trunks about </s>
+<s> Every one looks up.] Cecily </s>
+<s> Uncle Jack seems strangely agitated </s>
+<s> Chasuble </s>
+<s> Your guardian has a very emotional nature </s>
+<s> Lady Bracknell </s>
+<s> This noise is extremely unpleasant </s>
+<s> It sounds as if he was having an argument </s>
+<s> I dislike arguments of any kind </s>
+<s> They are always vulgar, and often convincing </s>
+<s> Chasuble </s>
+<s> [Looking up.] It has stopped now </s>
+<s> [The noise is redoubled.] Lady Bracknell </s>
+<s> I wish he would arrive at some conclusion </s>
+<s> Gwendolen </s>
+<s> This suspense is terrible </s>
+<s> I hope it will last </s>
+<s> [Enter Jack with a hand-bag of black leather in his hand.] Jack </s>
+<s> [Rushing over to Miss Prism.] Is this the hand-bag, Miss Prism </s>
+<s> Examine it carefully before you speak </s>
+<s> The happiness of more than one life depends on your answer </s>
+<s> Miss Prism </s>
+<s> [Calmly.] It seems to be mine </s>
+<s> Yes, here is the injury it received through the upsetting of a Gower Street omnibus in younger and happier days </s>
+<s> Here is the stain on the lining caused by the explosion of a temperance beverage, an incident that occurred at Leamington </s>
+<s> And here, on the lock, are my initials </s>
+<s> I had forgotten that in an extravagant mood I had had them placed there </s>
+<s> The bag is undoubtedly mine </s>
+<s> I am delighted to have it so unexpectedly restored to me </s>
+<s> It has been a great inconvenience being without it all these years </s>
+<s> Jack </s>
+<s> [In a pathetic voice.] Miss Prism, more is restored to you than this hand-bag </s>
+<s> I was the baby you placed in it </s>
+<s> Miss Prism </s>
+<s> [Amazed.] You </s>
+<s> Jack </s>
+<s> [Embracing her.] Yes </s>
+<s> </s>
+<s> </s>
+<s> mother </s>
+<s> Miss Prism </s>
+<s> [Recoiling in indignant astonishment.] Mr Worthing </s>
+<s> I am unmarried </s>
+<s> Jack </s>
+<s> Unmarried </s>
+<s> I do not deny that is a serious blow </s>
+<s> But after all, who has the right to cast a stone against one who has suffered </s>
+<s> Cannot repentance wipe out an act of folly </s>
+<s> Why should there be one law for men, and another for women </s>
+<s> Mother, I forgive you </s>
+<s> [Tries to embrace her again.] Miss Prism </s>
+<s> [Still more indignant.] Mr Worthing, there is some error </s>
+<s> [Pointing to Lady Bracknell.] There is the lady who can tell you who you really are </s>
+<s> Jack </s>
+<s> [After a pause.] Lady Bracknell, I hate to seem inquisitive, but would you kindly inform me who I am </s>
+<s> Lady Bracknell </s>
+<s> I am afraid that the news I have to give you will not altogether please you </s>
+<s> You are the son of my poor sister, Mrs Moncrieff, and consequently Algernon's elder brother </s>
+<s> Jack </s>
+<s> Algy's elder brother </s>
+<s> Then I have a brother after all </s>
+<s> I knew I had a brother </s>
+<s> I always said I had a brother </s>
+<s> Cecily,--how could you have ever doubted that I had a brother </s>
+<s> [Seizes hold of Algernon.] Dr </s>
+<s> Chasuble, my unfortunate brother </s>
+<s> Miss Prism, my unfortunate brother </s>
+<s> Gwendolen, my unfortunate brother </s>
+<s> Algy, you young scoundrel, you will have to treat me with more respect in the future </s>
+<s> You have never behaved to me like a brother in all your life </s>
+<s> Algernon </s>
+<s> Well, not till to-day, old boy, I admit </s>
+<s> I did my best, however, though I was out of practice </s>
+<s> [Shakes hands.] Gwendolen </s>
+<s> [To Jack.] My own </s>
+<s> But what own are you </s>
+<s> What is your Christian name, now that you have become some one else </s>
+<s> Jack </s>
+<s> Good heavens </s>
+<s> </s>
+<s> </s>
+<s> </s>
+<s> I had quite forgotten that point </s>
+<s> Your decision on the subject of my name is irrevocable, I suppose </s>
+<s> Gwendolen </s>
+<s> I never change, except in my affections </s>
+<s> Cecily </s>
+<s> What a noble nature you have, Gwendolen </s>
+<s> Jack </s>
+<s> Then the question had better be cleared up at once </s>
+<s> Aunt Augusta, a moment </s>
+<s> At the time when Miss Prism left me in the hand-bag, had I been christened already </s>
+<s> Lady Bracknell </s>
+<s> Every luxury that money could buy, including christening, had been lavished on you by your fond and doting parents </s>
+<s> Jack </s>
+<s> Then I was christened </s>
+<s> That is settled </s>
+<s> Now, what name was I given </s>
+<s> Let me know the worst </s>
+<s> Lady Bracknell </s>
+<s> Being the eldest son you were naturally christened after your father </s>
+<s> Jack </s>
+<s> [Irritably.] Yes, but what was my father's Christian name </s>
+<s> Lady Bracknell </s>
+<s> [Meditatively.] I cannot at the present moment recall what the General's Christian name was </s>
+<s> But I have no doubt he had one </s>
+<s> He was eccentric, I admit </s>
+<s> But only in later years </s>
+<s> And that was the result of the Indian climate, and marriage, and indigestion, and other things of that kind </s>
+<s> Jack </s>
+<s> Algy </s>
+<s> Can't you recollect what our father's Christian name was </s>
+<s> Algernon </s>
+<s> My dear boy, we were never even on speaking terms </s>
+<s> He died before I was a year old </s>
+<s> Jack </s>
+<s> His name would appear in the Army Lists of the period, I suppose, Aunt Augusta </s>
+<s> Lady Bracknell </s>
+<s> The General was essentially a man of peace, except in his domestic life </s>
+<s> But I have no doubt his name would appear in any military directory </s>
+<s> Jack </s>
+<s> The Army Lists of the last forty years are here </s>
+<s> These delightful records should have been my constant study </s>
+<s> [Rushes to bookcase and tears the books out.] M </s>
+<s> Generals </s>
+<s> </s>
+<s> </s>
+<s> Mallam, Maxbohm, Magley, what ghastly names they have--Markby, Migsby, Mobbs, Moncrieff </s>
+<s> Lieutenant 1840, Captain, Lieutenant-Colonel, Colonel, General 1869, Christian names, Ernest John </s>
+<s> [Puts book very quietly down and speaks quite calmly.] I always told you, Gwendolen, my name was Ernest, didn't I </s>
+<s> Well, it is Ernest after all </s>
+<s> I mean it naturally is Ernest </s>
+<s> Lady Bracknell </s>
+<s> Yes, I remember now that the General was called Ernest, I knew I had some particular reason for disliking the name </s>
+<s> Gwendolen </s>
+<s> Ernest </s>
+<s> My own Ernest </s>
+<s> I felt from the first that you could have no other name </s>
+<s> Jack </s>
+<s> Gwendolen, it is a terrible thing for a man to find out suddenly that all his life he has been speaking nothing but the truth </s>
+<s> Can you forgive me </s>
+<s> Gwendolen </s>
+<s> I can </s>
+<s> For I feel that you are sure to change </s>
+<s> Jack </s>
+<s> My own one </s>
+<s> Chasuble </s>
+<s> [To Miss Prism.] Laetitia </s>
+<s> [Embraces her] Miss Prism </s>
+<s> [Enthusiastically.] Frederick </s>
+<s> At last </s>
+<s> Algernon </s>
+<s> Cecily </s>
+<s> [Embraces her.] At last </s>
+<s> Jack </s>
+<s> Gwendolen </s>
+<s> [Embraces her.] At last </s>
+<s> Lady Bracknell </s>
+<s> My nephew, you seem to be displaying signs of triviality </s>
+<s> Jack </s>
+<s> On the contrary, Aunt Augusta, I've now realised for the first time in my life the vital Importance of Being Earnest </s>
+<s> TABLEAU </s>

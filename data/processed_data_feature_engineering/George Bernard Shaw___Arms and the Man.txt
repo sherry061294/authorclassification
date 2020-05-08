@@ -1,0 +1,2706 @@
+<s> Arms and the Man by George Bernard Shaw INTRODUCTION To the irreverent--and which of us will claim entire exemption from that comfortable classification?--there is something very amusing in the attitude of the orthodox criticism toward Bernard Shaw </s>
+<s> He so obviously disregards all the canons and unities and other things which every well-bred dramatist is bound to respect that his work is really unworthy of serious criticism (orthodox) </s>
+<s> Indeed he knows no more about the dramatic art than, according to his own story in "The Man of Destiny," Napoleon at Tavazzano knew of the Art of War </s>
+<s> But both men were successes each in his way--the latter won victories and the former gained audiences, in the very teeth of the accepted theories of war and the theatre </s>
+<s> Shaw does not know that it is unpardonable sin to have his characters make long speeches at one another, apparently thinking that this embargo applies only to long speeches which consist mainly of bombast and rhetoric </s>
+<s> There never was an author who showed less predilection for a specific medium by which to accomplish his results </s>
+<s> He recognized, early in his days, many things awry in the world and he assumed the task of mundane reformation with a confident spirit </s>
+<s> It seems such a small job at twenty to set the times aright </s>
+<s> He began as an Essayist, but who reads essays now-a-days?--he then turned novelist with no better success, for no one would read such preposterous stuff as he chose to emit </s>
+<s> He only succeeded in proving that absolutely rational men and women--although he has created few of the latter--can be most extremely disagreeable to our conventional way of thinking </s>
+<s> As a last resort, he turned to the stage, not that he cared for the dramatic art, for no man seems to care less about "Art for Art's sake," being in this a perfect foil to his brilliant compatriot and contemporary, Wilde </s>
+<s> He cast his theories in dramatic forms merely because no other course except silence or physical revolt was open to him </s>
+<s> For a long time it seemed as if this resource too was doomed to fail him </s>
+<s> But finally he has attained a hearing and now attempts at suppression merely serve to advertise their victim </s>
+<s> It will repay those who seek analogies in literature to compare Shaw with Cervantes </s>
+<s> After a life of heroic endeavor, disappointment, slavery, and poverty, the author of "Don Quixote" gave the world a serious work which caused to be laughed off the world's stage forever the final vestiges of decadent chivalry </s>
+<s> The institution had long been outgrown, but its vernacular continued to be the speech and to express the thought "of the world and among the vulgar," as the quaint, old novelist puts it, just as to-day the novel intended for the consumption of the unenlightened must deal with peers and millionaires and be dressed in stilted language </s>
+<s> Marvellously he succeeded, but in a way he least intended </s>
+<s> We have not yet, after so many years, determined whether it is a work to laugh or cry over </s>
+<s> "It is our joyfullest modern book," says Carlyle, while Landor thinks that "readers who see nothing more than a burlesque in 'Don Quixote' have but shallow appreciation of the work" </s>
+<s> Shaw in like manner comes upon the scene when many of our social usages are outworn </s>
+<s> He sees the fact, announces it, and we burst into guffaws </s>
+<s> The continuous laughter which greets Shaw's plays arises from a real contrast in the point of view of the dramatist and his audiences </s>
+<s> When Pinero or Jones describes a whimsical situation we never doubt for a moment that the author's point of view is our own and that the abnormal predicament of his characters appeals to him in the same light as to his audience </s>
+<s> With Shaw this sense of community of feeling is wholly lacking </s>
+<s> He describes things as he sees them, and the house is in a roar </s>
+<s> Who is right </s>
+<s> If we were really using our own senses and not gazing through the glasses of convention and romance and make-believe, should we see things as Shaw does </s>
+<s> Must it not cause Shaw to doubt his own or the public's sanity to hear audiences laughing boisterously over tragic situations </s>
+<s> And yet, if they did not come to laugh, they would not come at all </s>
+<s> Mockery is the price he must pay for a hearing </s>
+<s> Or has he calculated to a nicety the power of reaction </s>
+<s> Does he seek to drive us to aspiration by the portrayal of sordidness, to disinterestedness by the picture of selfishness, to illusion by disillusionment </s>
+<s> It is impossible to believe that he is unconscious of the humor of his dramatic situations, yet he stoically gives no sign </s>
+<s> He even dares the charge, terrible in proportion to its truth, which the most serious of us shrinks from--the lack of a sense of humor </s>
+<s> Men would rather have their integrity impugned </s>
+<s> In "Arms and the Man" the subject which occupies the dramatist's attention is that survival of barbarity--militarism--which raises its horrid head from time to time to cast a doubt on the reality of our civilization </s>
+<s> No more hoary superstition survives than that the donning of a uniform changes the nature of the wearer </s>
+<s> This notion pervades society to such an extent that when we find some soldiers placed upon the stage acting rationally, our conventionalized senses are shocked </s>
+<s> The only men who have no illusions about war are those who have recently been there, and, of course, Mr Shaw, who has no illusions about anything </s>
+<s> It is hard to speak too highly of "Candida" </s>
+<s> No equally subtle and incisive study of domestic relations exists in the English drama </s>
+<s> One has to turn to George Meredith's "The Egoist" to find such character dissection </s>
+<s> The central note of the play is, that with the true woman, weakness which appeals to the maternal instinct is more powerful than strength which offers protection </s>
+<s> Candida is quite unpoetic, as, indeed, with rare exceptions, women are prone to be </s>
+<s> They have small delight in poetry, but are the stuff of which poems and dreams are made </s>
+<s> The husband glorying in his strength but convicted of his weakness, the poet pitiful in his physical impotence but strong in his perception of truth, the hopelessly de-moralized manufacturer, the conventional and hence emotional typist make up a group which the drama of any language may be challenged to rival </s>
+<s> In "The Man of Destiny" the object of the dramatist is not so much the destruction as the explanation of the Napoleonic tradition, which has so powerfully influenced generation after generation for a century </s>
+<s> However the man may be regarded, he was a miracle </s>
+<s> Shaw shows that he achieved his extraordinary career by suspending, for himself, the pressure of the moral and conventional atmosphere, while leaving it operative for others </s>
+<s> Those who study this play--extravaganza, that it is--will attain a clearer comprehension of Napoleon than they can get from all the biographies </s>
+<s> "You Never Can Tell" offers an amusing study of the play of social conventions </s>
+<s> The "twins" illustrate the disconcerting effects of that perfect frankness which would make life intolerable </s>
+<s> Gloria demonstrates the powerlessness of reason to overcome natural instincts </s>
+<s> The idea that parental duties and functions can be fulfilled by the light of such knowledge as man and woman attain by intuition is brilliantly lampooned </s>
+<s> Crampton, the father, typifies the common superstition that among the privileges of parenthood are inflexibility, tyranny, and respect, the last entirely regardless of whether it has been deserved </s>
+<s> The waiter, William, is the best illustration of the man "who knows his place" that the stage has seen </s>
+<s> He is the most pathetic figure of the play </s>
+<s> One touch of verisimilitude is lacking; none of the guests gives him a tip, yet he maintains his urbanity </s>
+<s> As Mr Shaw has not yet visited America he may be unaware of the improbability of this situation </s>
+<s> To those who regard literary men merely as purveyors of amusement for people who have not wit enough to entertain themselves, Ibsen and Shaw, Maeterlinck and Gorky must remain enigmas </s>
+<s> It is so much pleasanter to ignore than to face unpleasant realities--to take Riverside Drive and not Mulberry Street as the exponent of our life and the expression of our civilization </s>
+<s> These men are the sappers and miners of the advancing army of justice </s>
+<s> The audience which demands the truth and despises the contemptible conventions that dominate alike our stage and our life is daily growing </s>
+<s> Shaw and men like him--if indeed he is not absolutely unique--will not for the future lack a hearing </s>
+<s> M </s>
+<s> ARMS AND THE MAN ACT I Night </s>
+<s> A lady's bedchamber in Bulgaria, in a small town near the Dragoman Pass </s>
+<s> It is late in November in the year 1885, and through an open window with a little balcony on the left can be seen a peak of the Balkans, wonderfully white and beautiful in the starlit snow </s>
+<s> The interior of the room is not like anything to be seen in the east of Europe </s>
+<s> It is half rich Bulgarian, half cheap Viennese </s>
+<s> The counterpane and hangings of the bed, the window curtains, the little carpet, and all the ornamental textile fabrics in the room are oriental and gorgeous: the paper on the walls is occidental and paltry </s>
+<s> Above the head of the bed, which stands against a little wall cutting off the right hand corner of the room diagonally, is a painted wooden shrine, blue and gold, with an ivory image of Christ, and a light hanging before it in a pierced metal ball suspended by three chains </s>
+<s> On the left, further forward, is an ottoman </s>
+<s> The washstand, against the wall on the left, consists of an enamelled iron basin with a pail beneath it in a painted metal frame, and a single towel on the rail at the side </s>
+<s> A chair near it is Austrian bent wood, with cane seat </s>
+<s> The dressing table, between the bed and the window, is an ordinary pine table, covered with a cloth of many colors, but with an expensive toilet mirror on it </s>
+<s> The door is on the right; and there is a chest of drawers between the door and the bed </s>
+<s> This chest of drawers is also covered by a variegated native cloth, and on it there is a pile of paper backed novels, a box of chocolate creams, and a miniature easel, on which is a large photograph of an extremely handsome officer, whose lofty bearing and magnetic glance can be felt even from the portrait </s>
+<s> The room is lighted by a candle on the chest of drawers, and another on the dressing table, with a box of matches beside it </s>
+<s> The window is hinged doorwise and stands wide open, folding back to the left </s>
+<s> Outside a pair of wooden shutters, opening outwards, also stand open </s>
+<s> On the balcony, a young lady, intensely conscious of the romantic beauty of the night, and of the fact that her own youth and beauty is a part of it, is on the balcony, gazing at the snowy Balkans </s>
+<s> She is covered by a long mantle of furs, worth, on a moderate estimate, about three times the furniture of her room </s>
+<s> Her reverie is interrupted by her mother, Catherine Petkoff, a woman over forty, imperiously energetic, with magnificent black hair and eyes, who might be a very splendid specimen of the wife of a mountain farmer, but is determined to be a Viennese lady, and to that end wears a fashionable tea gown on all occasions </s>
+<s> CATHERINE (entering hastily, full of good news) </s>
+<s> Raina--(she pronounces it Rah-eena, with the stress on the ee) Raina--(she goes to the bed, expecting to find Raina there.) Why, where--(Raina looks into the room.) Heavens </s>
+<s> child, are you out in the night air instead of in your bed </s>
+<s> You'll catch your death </s>
+<s> Louka told me you were asleep </s>
+<s> RAINA (coming in) </s>
+<s> I sent her away </s>
+<s> I wanted to be alone </s>
+<s> The stars are so beautiful </s>
+<s> What is the matter </s>
+<s> CATHERINE </s>
+<s> Such news </s>
+<s> There has been a battle </s>
+<s> RAINA (her eyes dilating) </s>
+<s> Ah </s>
+<s> (She throws the cloak on the ottoman, and comes eagerly to Catherine in her nightgown, a pretty garment, but evidently the only one she has on.) CATHERINE </s>
+<s> A great battle at Slivnitza </s>
+<s> A victory </s>
+<s> And it was won by Sergius </s>
+<s> RAINA (with a cry of delight) </s>
+<s> Ah </s>
+<s> (Rapturously.) Oh, mother </s>
+<s> (Then, with sudden anxiety) Is father safe </s>
+<s> CATHERINE </s>
+<s> Of course: he sent me the news </s>
+<s> Sergius is the hero of the hour, the idol of the regiment </s>
+<s> RAINA </s>
+<s> Tell me, tell me </s>
+<s> How was it </s>
+<s> (Ecstatically) Oh, mother, mother, mother </s>
+<s> (Raina pulls her mother down on the ottoman; and they kiss one another frantically.) CATHERINE (with surging enthusiasm) </s>
+<s> You can't guess how splendid it is </s>
+<s> A cavalry charge--think of that </s>
+<s> He defied our Russian commanders--acted without orders--led a charge on his own responsibility--headed it himself--was the first man to sweep through their guns </s>
+<s> Can't you see it, Raina; our gallant splendid Bulgarians with their swords and eyes flashing, thundering down like an avalanche and scattering the wretched Servian dandies like chaff </s>
+<s> And you--you kept Sergius waiting a year before you would be betrothed to him </s>
+<s> Oh, if you have a drop of Bulgarian blood in your veins, you will worship him when he comes back </s>
+<s> RAINA </s>
+<s> What will he care for my poor little worship after the acclamations of a whole army of heroes </s>
+<s> But no matter: I am so happy--so proud </s>
+<s> (She rises and walks about excitedly.) It proves that all our ideas were real after all </s>
+<s> CATHERINE (indignantly) </s>
+<s> Our ideas real </s>
+<s> What do you mean </s>
+<s> RAINA </s>
+<s> Our ideas of what Sergius would do--our patriotism--our heroic ideals </s>
+<s> Oh, what faithless little creatures girls are!--I sometimes used to doubt whether they were anything but dreams </s>
+<s> When I buckled on Sergius's sword he looked so noble: it was treason to think of disillusion or humiliation or failure </s>
+<s> And yet--and yet--(Quickly.) Promise me you'll never tell him </s>
+<s> CATHERINE </s>
+<s> Don't ask me for promises until I know what I am promising </s>
+<s> RAINA </s>
+<s> Well, it came into my head just as he was holding me in his arms and looking into my eyes, that perhaps we only had our heroic ideas because we are so fond of reading Byron and Pushkin, and because we were so delighted with the opera that season at Bucharest </s>
+<s> Real life is so seldom like that--indeed never, as far as I knew it then </s>
+<s> (Remorsefully.) Only think, mother, I doubted him: I wondered whether all his heroic qualities and his soldiership might not prove mere imagination when he went into a real battle </s>
+<s> I had an uneasy fear that he might cut a poor figure there beside all those clever Russian officers </s>
+<s> CATHERINE </s>
+<s> A poor figure </s>
+<s> Shame on you </s>
+<s> The Servians have Austrian officers who are just as clever as our Russians; but we have beaten them in every battle for all that </s>
+<s> RAINA (laughing and sitting down again) </s>
+<s> Yes, I was only a prosaic little coward </s>
+<s> Oh, to think that it was all true--that Sergius is just as splendid and noble as he looks--that the world is really a glorious world for women who can see its glory and men who can act its romance </s>
+<s> What happiness </s>
+<s> what unspeakable fulfilment </s>
+<s> Ah </s>
+<s> (She throws herself on her knees beside her mother and flings her arms passionately round her </s>
+<s> They are interrupted by the entry of Louka, a handsome, proud girl in a pretty Bulgarian peasant's dress with double apron, so defiant that her servility to Raina is almost insolent </s>
+<s> She is afraid of Catherine, but even with her goes as far as she dares </s>
+<s> She is just now excited like the others; but she has no sympathy for Raina's raptures and looks contemptuously at the ecstasies of the two before she addresses them.) LOUKA </s>
+<s> If you please, madam, all the windows are to be closed and the shutters made fast </s>
+<s> They say there may be shooting in the streets </s>
+<s> (Raina and Catherine rise together, alarmed.) The Servians are being chased right back through the pass; and they say they may run into the town </s>
+<s> Our cavalry will be after them; and our people will be ready for them you may be sure, now that they are running away </s>
+<s> (She goes out on the balcony and pulls the outside shutters to; then steps back into the room.) RAINA </s>
+<s> I wish our people were not so cruel </s>
+<s> What glory is there in killing wretched fugitives </s>
+<s> CATHERINE (business-like, her housekeeping instincts aroused) </s>
+<s> I must see that everything is made safe downstairs </s>
+<s> RAINA (to Louka) </s>
+<s> Leave the shutters so that I can just close them if I hear any noise </s>
+<s> CATHERINE (authoritatively, turning on her way to the door) </s>
+<s> Oh, no, dear, you must keep them fastened </s>
+<s> You would be sure to drop off to sleep and leave them open </s>
+<s> Make them fast, Louka </s>
+<s> LOUKA </s>
+<s> Yes, madam </s>
+<s> (She fastens them.) RAINA </s>
+<s> Don't be anxious about me </s>
+<s> The moment I hear a shot, I shall blow out the candles and roll myself up in bed with my ears well covered </s>
+<s> CATHERINE </s>
+<s> Quite the wisest thing you can do, my love </s>
+<s> Good-night </s>
+<s> RAINA </s>
+<s> Good-night </s>
+<s> (They kiss one another, and Raina's emotion comes back for a moment.) Wish me joy of the happiest night of my life--if only there are no fugitives </s>
+<s> CATHERINE </s>
+<s> Go to bed, dear; and don't think of them </s>
+<s> (She goes out.) LOUKA (secretly, to Raina) </s>
+<s> If you would like the shutters open, just give them a push like this </s>
+<s> (She pushes them: they open: she pulls them to again.) One of them ought to be bolted at the bottom; but the bolt's gone </s>
+<s> RAINA (with dignity, reproving her) </s>
+<s> Thanks, Louka; but we must do what we are told </s>
+<s> (Louka makes a grimace.) Good-night </s>
+<s> LOUKA (carelessly) </s>
+<s> Good-night </s>
+<s> (She goes out, swaggering.) (Raina, left alone, goes to the chest of drawers, and adores the portrait there with feelings that are beyond all expression </s>
+<s> She does not kiss it or press it to her breast, or shew it any mark of bodily affection; but she takes it in her hands and elevates it like a priestess.) RAINA (looking up at the picture with worship.) Oh, I shall never be unworthy of you any more, my hero--never, never, never </s>
+<s> (She replaces it reverently, and selects a novel from the little pile of books </s>
+<s> She turns over the leaves dreamily; finds her page; turns the book inside out at it; and then, with a happy sigh, gets into bed and prepares to read herself to sleep </s>
+<s> But before abandoning herself to fiction, she raises her eyes once more, thinking of the blessed reality and murmurs) My hero </s>
+<s> my hero </s>
+<s> (A distant shot breaks the quiet of the night outside </s>
+<s> She starts, listening; and two more shots, much nearer, follow, startling her so that she scrambles out of bed, and hastily blows out the candle on the chest of drawers </s>
+<s> Then, putting her fingers in her ears, she runs to the dressing-table and blows out the light there, and hurries back to bed </s>
+<s> The room is now in darkness: nothing is visible but the glimmer of the light in the pierced ball before the image, and the starlight seen through the slits at the top of the shutters </s>
+<s> The firing breaks out again: there is a startling fusillade quite close at hand </s>
+<s> Whilst it is still echoing, the shutters disappear, pulled open from without, and for an instant the rectangle of snowy starlight flashes out with the figure of a man in black upon it </s>
+<s> The shutters close immediately and the room is dark again </s>
+<s> But the silence is now broken by the sound of panting </s>
+<s> Then there is a scrape; and the flame of a match is seen in the middle of the room.) RAINA (crouching on the bed) </s>
+<s> Who's there </s>
+<s> (The match is out instantly.) Who's there </s>
+<s> Who is that </s>
+<s> A MAN'S VOICE (in the darkness, subduedly, but threateningly) </s>
+<s> Sh--sh </s>
+<s> Don't call out or you'll be shot </s>
+<s> Be good; and no harm will happen to you </s>
+<s> (She is heard leaving her bed, and making for the door.) Take care, there's no use in trying to run away </s>
+<s> Remember, if you raise your voice my pistol will go off </s>
+<s> (Commandingly.) Strike a light and let me see you </s>
+<s> Do you hear </s>
+<s> (Another moment of silence and darkness </s>
+<s> Then she is heard retreating to the dressing-table </s>
+<s> She lights a candle, and the mystery is at an end </s>
+<s> A man of about 35, in a deplorable plight, bespattered with mud and blood and snow, his belt and the strap of his revolver case keeping together the torn ruins of the blue coat of a Servian artillery officer </s>
+<s> As far as the candlelight and his unwashed, unkempt condition make it possible to judge, he is a man of middling stature and undistinguished appearance, with strong neck and shoulders, a roundish, obstinate looking head covered with short crisp bronze curls, clear quick blue eyes and good brows and mouth, a hopelessly prosaic nose like that of a strong-minded baby, trim soldierlike carriage and energetic manner, and with all his wits about him in spite of his desperate predicament--even with a sense of humor of it, without, however, the least intention of trifling with it or throwing away a chance </s>
+<s> He reckons up what he can guess about Raina--her age, her social position, her character, the extent to which she is frightened--at a glance, and continues, more politely but still most determinedly) Excuse my disturbing you; but you recognise my uniform--Servian </s>
+<s> If I'm caught I shall be killed </s>
+<s> (Determinedly.) Do you understand that </s>
+<s> RAINA </s>
+<s> Yes </s>
+<s> MAN </s>
+<s> Well, I don't intend to get killed if I can help it </s>
+<s> (Still more determinedly.) Do you understand that </s>
+<s> (He locks the door with a snap.) RAINA (disdainfully) </s>
+<s> I suppose not </s>
+<s> (She draws herself up superbly, and looks him straight in the face, saying with emphasis) Some soldiers, I know, are afraid of death </s>
+<s> MAN (with grim goodhumor) </s>
+<s> All of them, dear lady, all of them, believe me </s>
+<s> It is our duty to live as long as we can, and kill as many of the enemy as we can </s>
+<s> Now if you raise an alarm-- RAINA (cutting him short) </s>
+<s> You will shoot me </s>
+<s> How do you know that I am afraid to die </s>
+<s> MAN (cunningly) </s>
+<s> Ah; but suppose I don't shoot you, what will happen then </s>
+<s> Why, a lot of your cavalry--the greatest blackguards in your army--will burst into this pretty room of yours and slaughter me here like a pig; for I'll fight like a demon: they shan't get me into the street to amuse themselves with: I know what they are </s>
+<s> Are you prepared to receive that sort of company in your present undress </s>
+<s> (Raina, suddenly conscious of her nightgown, instinctively shrinks and gathers it more closely about her </s>
+<s> He watches her, and adds, pitilessly) It's rather scanty, eh </s>
+<s> (She turns to the ottoman </s>
+<s> He raises his pistol instantly, and cries) Stop </s>
+<s> (She stops.) Where are you going </s>
+<s> RAINA (with dignified patience) </s>
+<s> Only to get my cloak </s>
+<s> MAN (darting to the ottoman and snatching the cloak) </s>
+<s> A good idea </s>
+<s> No: I'll keep the cloak: and you will take care that nobody comes in and sees you without it </s>
+<s> This is a better weapon than the pistol </s>
+<s> (He throws the pistol down on the ottoman.) RAINA (revolted) </s>
+<s> It is not the weapon of a gentleman </s>
+<s> MAN </s>
+<s> It's good enough for a man with only you to stand between him and death </s>
+<s> (As they look at one another for a moment, Raina hardly able to believe that even a Servian officer can be so cynically and selfishly unchivalrous, they are startled by a sharp fusillade in the street </s>
+<s> The chill of imminent death hushes the man's voice as he adds) Do you hear </s>
+<s> If you are going to bring those scoundrels in on me you shall receive them as you are </s>
+<s> (Raina meets his eye with unflinching scorn </s>
+<s> Suddenly he starts, listening </s>
+<s> There is a step outside </s>
+<s> Someone tries the door, and then knocks hurriedly and urgently at it </s>
+<s> Raina looks at the man, breathless </s>
+<s> He throws up his head with the gesture of a man who sees that it is all over with him, and, dropping the manner which he has been assuming to intimidate her, flings the cloak to her, exclaiming, sincerely and kindly) No use: I'm done for </s>
+<s> Quick </s>
+<s> wrap yourself up: they're coming </s>
+<s> RAINA (catching the cloak eagerly) </s>
+<s> Oh, thank you </s>
+<s> (She wraps herself up with great relief </s>
+<s> He draws his sabre and turns to the door, waiting.) LOUKA (outside, knocking) </s>
+<s> My lady, my lady </s>
+<s> Get up, quick, and open the door </s>
+<s> RAINA (anxiously) </s>
+<s> What will you do </s>
+<s> MAN (grimly) </s>
+<s> Never mind </s>
+<s> Keep out of the way </s>
+<s> It will not last long </s>
+<s> RAINA (impulsively) </s>
+<s> I'll help you </s>
+<s> Hide yourself, oh, hide yourself, quick, behind the curtain </s>
+<s> (She seizes him by a torn strip of his sleeve, and pulls him towards the window.) MAN (yielding to her) </s>
+<s> There is just half a chance, if you keep your head </s>
+<s> Remember: nine soldiers out of ten are born fools </s>
+<s> (He hides behind the curtain, looking out for a moment to say, finally) If they find me, I promise you a fight--a devil of a fight </s>
+<s> (He disappears </s>
+<s> Raina takes of the cloak and throws it across the foot of the bed </s>
+<s> Then with a sleepy, disturbed air, she opens the door </s>
+<s> Louka enters excitedly.) LOUKA </s>
+<s> A man has been seen climbing up the water-pipe to your balcony--a Servian </s>
+<s> The soldiers want to search for him; and they are so wild and drunk and furious </s>
+<s> My lady says you are to dress at once </s>
+<s> RAINA (as if annoyed at being disturbed) </s>
+<s> They shall not search here </s>
+<s> Why have they been let in </s>
+<s> CATHERINE (coming in hastily) </s>
+<s> Raina, darling, are you safe </s>
+<s> Have you seen anyone or heard anything </s>
+<s> RAINA </s>
+<s> I heard the shooting </s>
+<s> Surely the soldiers will not dare come in here </s>
+<s> CATHERINE </s>
+<s> I have found a Russian officer, thank Heaven: he knows Sergius </s>
+<s> (Speaking through the door to someone outside.) Sir, will you come in now </s>
+<s> My daughter is ready </s>
+<s> (A young Russian officer, in Bulgarian uniform, enters, sword in hand.) THE OFFICER </s>
+<s> (with soft, feline politeness and stiff military carriage) </s>
+<s> Good evening, gracious lady; I am sorry to intrude, but there is a fugitive hiding on the balcony </s>
+<s> Will you and the gracious lady your mother please to withdraw whilst we search </s>
+<s> RAINA (petulantly) </s>
+<s> Nonsense, sir, you can see that there is no one on the balcony </s>
+<s> (She throws the shutters wide open and stands with her back to the curtain where the man is hidden, pointing to the moonlit balcony </s>
+<s> A couple of shots are fired right under the window, and a bullet shatters the glass opposite Raina, who winks and gasps, but stands her ground, whilst Catherine screams, and the officer rushes to the balcony.) THE OFFICER </s>
+<s> (on the balcony, shouting savagely down to the street) </s>
+<s> Cease firing there, you fools: do you hear </s>
+<s> Cease firing, damn you </s>
+<s> (He glares down for a moment; then turns to Raina, trying to resume his polite manner.) Could anyone have got in without your knowledge </s>
+<s> Were you asleep </s>
+<s> RAINA </s>
+<s> No, I have not been to bed </s>
+<s> THE OFFICER </s>
+<s> (impatiently, coming back into the room) </s>
+<s> Your neighbours have their heads so full of runaway Servians that they see them everywhere </s>
+<s> (Politely.) Gracious lady, a thousand pardons </s>
+<s> Good-night </s>
+<s> (Military bow, which Raina returns coldly </s>
+<s> Another to Catherine, who follows him out </s>
+<s> Raina closes the shutters </s>
+<s> She turns and sees Louka, who has been watching the scene curiously.) RAINA </s>
+<s> Don't leave my mother, Louka, whilst the soldiers are here </s>
+<s> (Louka glances at Raina, at the ottoman, at the curtain; then purses her lips secretively, laughs to herself, and goes out </s>
+<s> Raina follows her to the door, shuts it behind her with a slam, and locks it violently </s>
+<s> The man immediately steps out from behind the curtain, sheathing his sabre, and dismissing the danger from his mind in a businesslike way.) MAN </s>
+<s> A narrow shave; but a miss is as good as a mile </s>
+<s> Dear young lady, your servant until death </s>
+<s> I wish for your sake I had joined the Bulgarian army instead of the Servian </s>
+<s> I am not a native Servian </s>
+<s> RAINA (haughtily) </s>
+<s> No, you are one of the Austrians who set the Servians on to rob us of our national liberty, and who officer their army for them </s>
+<s> We hate them </s>
+<s> MAN </s>
+<s> Austrian </s>
+<s> not I </s>
+<s> Don't hate me, dear young lady </s>
+<s> I am only a Swiss, fighting merely as a professional soldier </s>
+<s> I joined Servia because it was nearest to me </s>
+<s> Be generous: you've beaten us hollow </s>
+<s> RAINA </s>
+<s> Have I not been generous </s>
+<s> MAN </s>
+<s> Noble!--heroic </s>
+<s> But I'm not saved yet </s>
+<s> This particular rush will soon pass through; but the pursuit will go on all night by fits and starts </s>
+<s> I must take my chance to get off during a quiet interval </s>
+<s> You don't mind my waiting just a minute or two, do you </s>
+<s> RAINA </s>
+<s> Oh, no: I am sorry you will have to go into danger again </s>
+<s> (Motioning towards ottoman.) Won't you sit--(She breaks off with an irrepressible cry of alarm as she catches sight of the pistol </s>
+<s> The man, all nerves, shies like a frightened horse.) MAN (irritably) </s>
+<s> Don't frighten me like that </s>
+<s> What is it </s>
+<s> RAINA </s>
+<s> Your pistol </s>
+<s> It was staring that officer in the face all the time </s>
+<s> What an escape </s>
+<s> MAN (vexed at being unnecessarily terrified) </s>
+<s> Oh, is that all </s>
+<s> RAINA (staring at him rather superciliously, conceiving a poorer and poorer opinion of him, and feeling proportionately more and more at her ease with him) </s>
+<s> I am sorry I frightened you </s>
+<s> (She takes up the pistol and hands it to him.) Pray take it to protect yourself against me </s>
+<s> MAN (grinning wearily at the sarcasm as he takes the pistol) </s>
+<s> No use, dear young lady: there's nothing in it </s>
+<s> It's not loaded </s>
+<s> (He makes a grimace at it, and drops it disparagingly into his revolver case.) RAINA </s>
+<s> Load it by all means </s>
+<s> MAN </s>
+<s> I've no ammunition </s>
+<s> What use are cartridges in battle </s>
+<s> I always carry chocolate instead; and I finished the last cake of that yesterday </s>
+<s> RAINA (outraged in her most cherished ideals of manhood) </s>
+<s> Chocolate </s>
+<s> Do you stuff your pockets with sweets--like a schoolboy--even in the field </s>
+<s> MAN </s>
+<s> Yes </s>
+<s> Isn't it contemptible </s>
+<s> (Raina stares at him, unable to utter her feelings </s>
+<s> Then she sails away scornfully to the chest of drawers, and returns with the box of confectionery in her hand.) RAINA </s>
+<s> Allow me </s>
+<s> I am sorry I have eaten them all except these </s>
+<s> (She offers him the box.) MAN (ravenously) </s>
+<s> You're an angel </s>
+<s> (He gobbles the comfits.) Creams </s>
+<s> Delicious </s>
+<s> (He looks anxiously to see whether there are any more </s>
+<s> There are none </s>
+<s> He accepts the inevitable with pathetic goodhumor, and says, with grateful emotion) Bless you, dear lady </s>
+<s> You can always tell an old soldier by the inside of his holsters and cartridge boxes </s>
+<s> The young ones carry pistols and cartridges; the old ones, grub </s>
+<s> Thank you </s>
+<s> (He hands back the box </s>
+<s> She snatches it contemptuously from him and throws it away </s>
+<s> This impatient action is so sudden that he shies again.) Ugh </s>
+<s> Don't do things so suddenly, gracious lady </s>
+<s> Don't revenge yourself because I frightened you just now </s>
+<s> RAINA (superbly) </s>
+<s> Frighten me </s>
+<s> Do you know, sir, that though I am only a woman, I think I am at heart as brave as you </s>
+<s> MAN </s>
+<s> I should think so </s>
+<s> You haven't been under fire for three days as I have </s>
+<s> I can stand two days without shewing it much; but no man can stand three days: I'm as nervous as a mouse </s>
+<s> (He sits down on the ottoman, and takes his head in his hands.) Would you like to see me cry </s>
+<s> RAINA (quickly) </s>
+<s> No </s>
+<s> MAN </s>
+<s> If you would, all you have to do is to scold me just as if I were a little boy and you my nurse </s>
+<s> If I were in camp now they'd play all sorts of tricks on me </s>
+<s> RAINA (a little moved) </s>
+<s> I'm sorry </s>
+<s> I won't scold you </s>
+<s> (Touched by the sympathy in her tone, he raises his head and looks gratefully at her: she immediately draws hack and says stiffly) You must excuse me: our soldiers are not like that </s>
+<s> (She moves away from the ottoman.) MAN </s>
+<s> Oh, yes, they are </s>
+<s> There are only two sorts of soldiers: old ones and young ones </s>
+<s> I've served fourteen years: half of your fellows never smelt powder before </s>
+<s> Why, how is it that you've just beaten us </s>
+<s> Sheer ignorance of the art of war, nothing else </s>
+<s> (Indignantly.) I never saw anything so unprofessional </s>
+<s> RAINA (ironically) </s>
+<s> Oh, was it unprofessional to beat you </s>
+<s> MAN </s>
+<s> Well, come, is it professional to throw a regiment of cavalry on a battery of machine guns, with the dead certainty that if the guns go off not a horse or man will ever get within fifty yards of the fire </s>
+<s> I couldn't believe my eyes when I saw it </s>
+<s> RAINA (eagerly turning to him, as all her enthusiasm and her dream of glory rush back on her) </s>
+<s> Did you see the great cavalry charge </s>
+<s> Oh, tell me about it </s>
+<s> Describe it to me </s>
+<s> MAN </s>
+<s> You never saw a cavalry charge, did you </s>
+<s> RAINA </s>
+<s> How could I </s>
+<s> MAN </s>
+<s> Ah, perhaps not--of course </s>
+<s> Well, it's a funny sight </s>
+<s> It's like slinging a handful of peas against a window pane: first one comes; then two or three close behind him; and then all the rest in a lump </s>
+<s> RAINA (her eyes dilating as she raises her clasped hands ecstatically) </s>
+<s> Yes, first One!--the bravest of the brave </s>
+<s> MAN (prosaically) </s>
+<s> Hm </s>
+<s> you should see the poor devil pulling at his horse </s>
+<s> RAINA </s>
+<s> Why should he pull at his horse </s>
+<s> MAN (impatient of so stupid a question) </s>
+<s> It's running away with him, of course: do you suppose the fellow wants to get there before the others and be killed </s>
+<s> Then they all come </s>
+<s> You can tell the young ones by their wildness and their slashing </s>
+<s> The old ones come bunched up under the number one guard: they know that they are mere projectiles, and that it's no use trying to fight </s>
+<s> The wounds are mostly broken knees, from the horses cannoning together </s>
+<s> RAINA </s>
+<s> Ugh </s>
+<s> But I don't believe the first man is a coward </s>
+<s> I believe he is a hero </s>
+<s> MAN (goodhumoredly) </s>
+<s> That's what you'd have said if you'd seen the first man in the charge to-day </s>
+<s> RAINA (breathless) </s>
+<s> Ah, I knew it </s>
+<s> Tell me--tell me about him </s>
+<s> MAN </s>
+<s> He did it like an operatic tenor--a regular handsome fellow, with flashing eyes and lovely moustache, shouting a war-cry and charging like Don Quixote at the windmills </s>
+<s> We nearly burst with laughter at him; but when the sergeant ran up as white as a sheet, and told us they'd sent us the wrong cartridges, and that we couldn't fire a shot for the next ten minutes, we laughed at the other side of our mouths </s>
+<s> I never felt so sick in my life, though I've been in one or two very tight places </s>
+<s> And I hadn't even a revolver cartridge--nothing but chocolate </s>
+<s> We'd no bayonets--nothing </s>
+<s> Of course, they just cut us to bits </s>
+<s> And there was Don Quixote flourishing like a drum major, thinking he'd done the cleverest thing ever known, whereas he ought to be courtmartialled for it </s>
+<s> Of all the fools ever let loose on a field of battle, that man must be the very maddest </s>
+<s> He and his regiment simply committed suicide--only the pistol missed fire, that's all </s>
+<s> RAINA (deeply wounded, but steadfastly loyal to her ideals) </s>
+<s> Indeed </s>
+<s> Would you know him again if you saw him </s>
+<s> MAN </s>
+<s> Shall I ever forget him </s>
+<s> (She again goes to the chest of drawers </s>
+<s> He watches her with a vague hope that she may have something else for him to eat </s>
+<s> She takes the portrait from its stand and brings it to him.) RAINA </s>
+<s> That is a photograph of the gentleman--the patriot and hero--to whom I am betrothed </s>
+<s> MAN (looking at it) </s>
+<s> I'm really very sorry </s>
+<s> (Looking at her.) Was it fair to lead me on </s>
+<s> (He looks at the portrait again.) Yes: that's him: not a doubt of it </s>
+<s> (He stifles a laugh.) RAINA (quickly) </s>
+<s> Why do you laugh </s>
+<s> MAN (shamefacedly, but still greatly tickled) </s>
+<s> I didn't laugh, I assure you </s>
+<s> At least I didn't mean to </s>
+<s> But when I think of him charging the windmills and thinking he was doing the finest thing--(chokes with suppressed laughter) </s>
+<s> RAINA (sternly) </s>
+<s> Give me back the portrait, sir </s>
+<s> MAN (with sincere remorse) </s>
+<s> Of course </s>
+<s> Certainly </s>
+<s> I'm really very sorry </s>
+<s> (She deliberately kisses it, and looks him straight in the face, before returning to the chest of drawers to replace it </s>
+<s> He follows her, apologizing.) Perhaps I'm quite wrong, you know: no doubt I am </s>
+<s> Most likely he had got wind of the cartridge business somehow, and knew it was a safe job </s>
+<s> RAINA </s>
+<s> That is to say, he was a pretender and a coward </s>
+<s> You did not dare say that before </s>
+<s> MAN (with a comic gesture of despair) </s>
+<s> It's no use, dear lady: I can't make you see it from the professional point of view </s>
+<s> (As he turns away to get back to the ottoman, the firing begins again in the distance.) RAINA (sternly, as she sees him listening to the shots) </s>
+<s> So much the better for you </s>
+<s> MAN (turning) </s>
+<s> How </s>
+<s> RAINA </s>
+<s> You are my enemy; and you are at my mercy </s>
+<s> What would I do if I were a professional soldier </s>
+<s> MAN </s>
+<s> Ah, true, dear young lady: you're always right </s>
+<s> I know how good you have been to me: to my last hour I shall remember those three chocolate creams </s>
+<s> It was unsoldierly; but it was angelic </s>
+<s> RAINA (coldly) </s>
+<s> Thank you </s>
+<s> And now I will do a soldierly thing </s>
+<s> You cannot stay here after what you have just said about my future husband; but I will go out on the balcony and see whether it is safe for you to climb down into the street </s>
+<s> (She turns to the window.) MAN (changing countenance) </s>
+<s> Down that waterpipe </s>
+<s> Stop </s>
+<s> Wait </s>
+<s> I can't </s>
+<s> I daren't </s>
+<s> The very thought of it makes me giddy </s>
+<s> I came up it fast enough with death behind me </s>
+<s> But to face it now in cold blood!--(He sinks on the ottoman.) It's no use: I give up: I'm beaten </s>
+<s> Give the alarm </s>
+<s> (He drops his head in his hands in the deepest dejection.) RAINA (disarmed by pity) </s>
+<s> Come, don't be disheartened </s>
+<s> (She stoops over him almost maternally: he shakes his head.) Oh, you are a very poor soldier--a chocolate cream soldier </s>
+<s> Come, cheer up: it takes less courage to climb down than to face capture--remember that </s>
+<s> MAN (dreamily, lulled by her voice) </s>
+<s> No, capture only means death; and death is sleep--oh, sleep, sleep, sleep, undisturbed sleep </s>
+<s> Climbing down the pipe means doing something--exerting myself--thinking </s>
+<s> Death ten times over first </s>
+<s> RAINA (softly and wonderingly, catching the rhythm of his weariness) </s>
+<s> Are you so sleepy as that </s>
+<s> MAN </s>
+<s> I've not had two hours' undisturbed sleep since the war began </s>
+<s> I'm on the staff: you don't know what that means </s>
+<s> I haven't closed my eyes for thirty-six hours </s>
+<s> RAINA (desperately) </s>
+<s> But what am I to do with you </s>
+<s> MAN (staggering up) </s>
+<s> Of course I must do something </s>
+<s> (He shakes himself; pulls himself together; and speaks with rallied vigour and courage.) You see, sleep or no sleep, hunger or no hunger, tired or not tired, you can always do a thing when you know it must be done </s>
+<s> Well, that pipe must be got down--(He hits himself on the chest, and adds)--Do you hear that, you chocolate cream soldier </s>
+<s> (He turns to the window.) RAINA (anxiously) </s>
+<s> But if you fall </s>
+<s> MAN </s>
+<s> I shall sleep as if the stones were a feather bed </s>
+<s> Good-bye </s>
+<s> (He makes boldly for the window, and his hand is on the shutter when there is a terrible burst of firing in the street beneath.) RAINA (rushing to him) </s>
+<s> Stop </s>
+<s> (She catches him by the shoulder, and turns him quite round.) They'll kill you </s>
+<s> MAN (coolly, but attentively) </s>
+<s> Never mind: this sort of thing is all in my day's work </s>
+<s> I'm bound to take my chance </s>
+<s> (Decisively.) Now do what I tell you </s>
+<s> Put out the candles, so that they shan't see the light when I open the shutters </s>
+<s> And keep away from the window, whatever you do </s>
+<s> If they see me, they're sure to have a shot at me </s>
+<s> RAINA (clinging to him) </s>
+<s> They're sure to see you: it's bright moonlight </s>
+<s> I'll save you--oh, how can you be so indifferent </s>
+<s> You want me to save you, don't you </s>
+<s> MAN </s>
+<s> I really don't want to be troublesome </s>
+<s> (She shakes him in her impatience.) I am not indifferent, dear young lady, I assure you </s>
+<s> But how is it to be done </s>
+<s> RAINA </s>
+<s> Come away from the window--please </s>
+<s> (She coaxes him back to the middle of the room </s>
+<s> He submits humbly </s>
+<s> She releases him, and addresses him patronizingly.) Now listen </s>
+<s> You must trust to our hospitality </s>
+<s> You do not yet know in whose house you are </s>
+<s> I am a Petkoff </s>
+<s> MAN </s>
+<s> What's that </s>
+<s> RAINA (rather indignantly) </s>
+<s> I mean that I belong to the family of the Petkoffs, the richest and best known in our country </s>
+<s> MAN </s>
+<s> Oh, yes, of course </s>
+<s> I beg your pardon </s>
+<s> The Petkoffs, to be sure </s>
+<s> How stupid of me </s>
+<s> RAINA </s>
+<s> You know you never heard of them until this minute </s>
+<s> How can you stoop to pretend </s>
+<s> MAN </s>
+<s> Forgive me: I'm too tired to think; and the change of subject was too much for me </s>
+<s> Don't scold me </s>
+<s> RAINA </s>
+<s> I forgot </s>
+<s> It might make you cry </s>
+<s> (He nods, quite seriously </s>
+<s> She pouts and then resumes her patronizing tone.) I must tell you that my father holds the highest command of any Bulgarian in our army </s>
+<s> He is (proudly) a Major </s>
+<s> MAN (pretending to be deeply impressed) </s>
+<s> A Major </s>
+<s> Bless me </s>
+<s> Think of that </s>
+<s> RAINA </s>
+<s> You shewed great ignorance in thinking that it was necessary to climb up to the balcony, because ours is the only private house that has two rows of windows </s>
+<s> There is a flight of stairs inside to get up and down by </s>
+<s> MAN </s>
+<s> Stairs </s>
+<s> How grand </s>
+<s> You live in great luxury indeed, dear young lady </s>
+<s> RAINA </s>
+<s> Do you know what a library is </s>
+<s> MAN </s>
+<s> A library </s>
+<s> A roomful of books </s>
+<s> RAINA </s>
+<s> Yes, we have one, the only one in Bulgaria </s>
+<s> MAN </s>
+<s> Actually a real library </s>
+<s> I should like to see that </s>
+<s> RAINA (affectedly) </s>
+<s> I tell you these things to shew you that you are not in the house of ignorant country folk who would kill you the moment they saw your Servian uniform, but among civilized people </s>
+<s> We go to Bucharest every year for the opera season; and I have spent a whole month in Vienna </s>
+<s> MAN </s>
+<s> I saw that, dear young lady </s>
+<s> I saw at once that you knew the world </s>
+<s> RAINA </s>
+<s> Have you ever seen the opera of Ernani </s>
+<s> MAN </s>
+<s> Is that the one with the devil in it in red velvet, and a soldier's chorus </s>
+<s> RAINA (contemptuously) </s>
+<s> No </s>
+<s> MAN (stifling a heavy sigh of weariness) </s>
+<s> Then I don't know it </s>
+<s> RAINA </s>
+<s> I thought you might have remembered the great scene where Ernani, flying from his foes just as you are tonight, takes refuge in the castle of his bitterest enemy, an old Castilian noble </s>
+<s> The noble refuses to give him up </s>
+<s> His guest is sacred to him </s>
+<s> MAN (quickly waking up a little) </s>
+<s> Have your people got that notion </s>
+<s> RAINA (with dignity) </s>
+<s> My mother and I can understand that notion, as you call it </s>
+<s> And if instead of threatening me with your pistol as you did, you had simply thrown yourself as a fugitive on our hospitality, you would have been as safe as in your father's house </s>
+<s> MAN </s>
+<s> Quite sure </s>
+<s> RAINA (turning her back on him in disgust.) Oh, it is useless to try and make you understand </s>
+<s> MAN </s>
+<s> Don't be angry: you see how awkward it would be for me if there was any mistake </s>
+<s> My father is a very hospitable man: he keeps six hotels; but I couldn't trust him as far as that </s>
+<s> What about YOUR father </s>
+<s> RAINA </s>
+<s> He is away at Slivnitza fighting for his country </s>
+<s> I answer for your safety </s>
+<s> There is my hand in pledge of it </s>
+<s> Will that reassure you </s>
+<s> (She offers him her hand.) MAN (looking dubiously at his own hand) </s>
+<s> Better not touch my hand, dear young lady </s>
+<s> I must have a wash first </s>
+<s> RAINA (touched) </s>
+<s> That is very nice of you </s>
+<s> I see that you are a gentleman </s>
+<s> MAN (puzzled) </s>
+<s> Eh </s>
+<s> RAINA </s>
+<s> You must not think I am surprised </s>
+<s> Bulgarians of really good standing--people in OUR position--wash their hands nearly every day </s>
+<s> But I appreciate your delicacy </s>
+<s> You may take my hand </s>
+<s> (She offers it again.) MAN (kissing it with his hands behind his back) </s>
+<s> Thanks, gracious young lady: I feel safe at last </s>
+<s> And now would you mind breaking the news to your mother </s>
+<s> I had better not stay here secretly longer than is necessary </s>
+<s> RAINA </s>
+<s> If you will be so good as to keep perfectly still whilst I am away </s>
+<s> MAN </s>
+<s> Certainly </s>
+<s> (He sits down on the ottoman.) (Raina goes to the bed and wraps herself in the fur cloak </s>
+<s> His eyes close </s>
+<s> She goes to the door, but on turning for a last look at him, sees that he is dropping of to sleep.) RAINA (at the door) </s>
+<s> You are not going asleep, are you </s>
+<s> (He murmurs inarticulately: she runs to him and shakes him.) Do you hear </s>
+<s> Wake up: you are falling asleep </s>
+<s> MAN </s>
+<s> Eh </s>
+<s> Falling aslee-- </s>
+<s> Oh, no, not the least in the world: I was only thinking </s>
+<s> It's all right: I'm wide awake </s>
+<s> RAINA (severely) </s>
+<s> Will you please stand up while I am away </s>
+<s> (He rises reluctantly.) All the time, mind </s>
+<s> MAN (standing unsteadily) </s>
+<s> Certainly--certainly: you may depend on me </s>
+<s> (Raina looks doubtfully at him </s>
+<s> He smiles foolishly </s>
+<s> She goes reluctantly, turning again at the door, and almost catching him in the act of yawning </s>
+<s> She goes out.) MAN (drowsily) </s>
+<s> Sleep, sleep, sleep, sleep, slee--(The words trail off into a murmur </s>
+<s> He wakes again with a shock on the point of falling.) Where am I </s>
+<s> That's what I want to know: where am I </s>
+<s> Must keep awake </s>
+<s> Nothing keeps me awake except danger--remember that--(intently) danger, danger, danger, dan-- Where's danger </s>
+<s> Must find it </s>
+<s> (He starts of vaguely around the room in search of it.) What am I looking for </s>
+<s> Sleep--danger--don't know </s>
+<s> (He stumbles against the bed.) Ah, yes: now I know </s>
+<s> All right now </s>
+<s> I'm to go to bed, but not to sleep--be sure not to sleep--because of danger </s>
+<s> Not to lie down, either, only sit down </s>
+<s> (He sits on the bed </s>
+<s> A blissful expression comes into his face.) Ah </s>
+<s> (With a happy sigh he sinks back at full length; lifts his boots into the bed with a final effort; and falls fast asleep instantly.) (Catherine comes in, followed by Raina.) RAINA (looking at the ottoman) </s>
+<s> He's gone </s>
+<s> I left him here </s>
+<s> CATHERINE, Here </s>
+<s> Then he must have climbed down from the-- RAINA (seeing him) </s>
+<s> Oh </s>
+<s> (She points.) CATHERINE (scandalized) </s>
+<s> Well </s>
+<s> (She strides to the left side of the bed, Raina following and standing opposite her on the right.) He's fast asleep </s>
+<s> The brute </s>
+<s> RAINA (anxiously) </s>
+<s> Sh </s>
+<s> CATHERINE (shaking him) </s>
+<s> Sir </s>
+<s> (Shaking him again, harder.) Sir! </s>
+<s> (Vehemently shaking very bard.) Sir!! </s>
+<s> RAINA (catching her arm) </s>
+<s> Don't, mamma: the poor dear is worn out </s>
+<s> Let him sleep </s>
+<s> CATHERINE (letting him go and turning amazed to Raina) </s>
+<s> The poor dear </s>
+<s> Raina!! </s>
+<s> (She looks sternly at her daughter </s>
+<s> The man sleeps profoundly.) ACT II The sixth of March, 1886 </s>
+<s> In the garden of major Petkoff's house </s>
+<s> It is a fine spring morning; and the garden looks fresh and pretty </s>
+<s> Beyond the paling the tops of a couple of minarets can be seen, shewing that there is a valley there, with the little town in it </s>
+<s> A few miles further the Balkan mountains rise and shut in the view </s>
+<s> Within the garden the side of the house is seen on the right, with a garden door reached by a little flight of steps </s>
+<s> On the left the stable yard, with its gateway, encroaches on the garden </s>
+<s> There are fruit bushes along the paling and house, covered with washing hung out to dry </s>
+<s> A path runs by the house, and rises by two steps at the corner where it turns out of the right along the front </s>
+<s> In the middle a small table, with two bent wood chairs at it, is laid for breakfast with Turkish coffee pot, cups, rolls, etc; but the cups have been used and the bread broken </s>
+<s> There is a wooden garden seat against the wall on the left </s>
+<s> Louka, smoking a cigaret, is standing between the table and the house, turning her back with angry disdain on a man-servant who is lecturing her </s>
+<s> He is a middle-aged man of cool temperament and low but clear and keen intelligence, with the complacency of the servant who values himself on his rank in servility, and the imperturbability of the accurate calculator who has no illusions </s>
+<s> He wears a white Bulgarian costume jacket with decorated harder, sash, wide knickerbockers, and decorated gaiters </s>
+<s> His head is shaved up to the crown, giving him a high Japanese forehead </s>
+<s> His name is Nicola </s>
+<s> NICOLA </s>
+<s> Be warned in time, Louka: mend your manners </s>
+<s> I know the mistress </s>
+<s> She is so grand that she never dreams that any servant could dare to be disrespectful to her; but if she once suspects that you are defying her, out you go </s>
+<s> LOUKA </s>
+<s> I do defy her </s>
+<s> I will defy her </s>
+<s> What do I care for her </s>
+<s> NICOLA </s>
+<s> If you quarrel with the family, I never can marry you </s>
+<s> It's the same as if you quarrelled with me </s>
+<s> LOUKA </s>
+<s> You take her part against me, do you </s>
+<s> NICOLA (sedately) </s>
+<s> I shall always be dependent on the good will of the family </s>
+<s> When I leave their service and start a shop in Sofia, their custom will be half my capital: their bad word would ruin me </s>
+<s> LOUKA </s>
+<s> You have no spirit </s>
+<s> I should like to see them dare say a word against me </s>
+<s> NICOLA (pityingly) </s>
+<s> I should have expected more sense from you, Louka </s>
+<s> But you're young, you're young </s>
+<s> LOUKA </s>
+<s> Yes; and you like me the better for it, don't you </s>
+<s> But I know some family secrets they wouldn't care to have told, young as I am </s>
+<s> Let them quarrel with me if they dare </s>
+<s> NICOLA (with compassionate superiority) </s>
+<s> Do you know what they would do if they heard you talk like that </s>
+<s> LOUKA </s>
+<s> What could they do </s>
+<s> NICOLA </s>
+<s> Discharge you for untruthfulness </s>
+<s> Who would believe any stories you told after that </s>
+<s> Who would give you another situation </s>
+<s> Who in this house would dare be seen speaking to you ever again </s>
+<s> How long would your father be left on his little farm </s>
+<s> (She impatiently throws away the end of her cigaret, and stamps on it.) Child, you don't know the power such high people have over the like of you and me when we try to rise out of our poverty against them </s>
+<s> (He goes close to her and lowers his voice.) Look at me, ten years in their service </s>
+<s> Do you think I know no secrets </s>
+<s> I know things about the mistress that she wouldn't have the master know for a thousand levas </s>
+<s> I know things about him that she wouldn't let him hear the last of for six months if I blabbed them to her </s>
+<s> I know things about Raina that would break off her match with Sergius if-- LOUKA (turning on him quickly) </s>
+<s> How do you know </s>
+<s> I never told you </s>
+<s> NICOLA (opening his eyes cunningly) </s>
+<s> So that's your little secret, is it </s>
+<s> I thought it might be something like that </s>
+<s> Well, you take my advice, and be respectful; and make the mistress feel that no matter what you know or don't know, they can depend on you to hold your tongue and serve the family faithfully </s>
+<s> That's what they like; and that's how you'll make most out of them </s>
+<s> LOUKA (with searching scorn) </s>
+<s> You have the soul of a servant, Nicola </s>
+<s> NICOLA (complacently) </s>
+<s> Yes: that's the secret of success in service </s>
+<s> (A loud knocking with a whip handle on a wooden door, outside on the left, is heard.) MALE VOICE OUTSIDE </s>
+<s> Hollo </s>
+<s> Hollo there </s>
+<s> Nicola </s>
+<s> LOUKA </s>
+<s> Master </s>
+<s> back from the war </s>
+<s> NICOLA (quickly) </s>
+<s> My word for it, Louka, the war's over </s>
+<s> Off with you and get some fresh coffee </s>
+<s> (He runs out into the stable yard.) LOUKA (as she puts the coffee pot and the cups upon the tray, and carries it into the house) </s>
+<s> You'll never put the soul of a servant into me </s>
+<s> (Major Petkoff comes from the stable yard, followed by Nicola </s>
+<s> He is a cheerful, excitable, insignificant, unpolished man of about 50, naturally unambitious except as to his income and his importance in local society, but just now greatly pleased with the military rank which the war has thrust on him as a man of consequence in his town </s>
+<s> The fever of plucky patriotism which the Servian attack roused in all the Bulgarians has pulled him through the war; but he is obviously glad to be home again.) PETKOFF (pointing to the table with his whip) </s>
+<s> Breakfast out here, eh </s>
+<s> NICOLA </s>
+<s> Yes, sir </s>
+<s> The mistress and Miss Raina have just gone in </s>
+<s> PETKOFF (fitting down and taking a roll) </s>
+<s> Go in and say I've come; and get me some fresh coffee </s>
+<s> NICOLA </s>
+<s> It's coming, sir </s>
+<s> (He goes to the house door </s>
+<s> Louka, with fresh coffee, a clean cup, and a brandy bottle on her tray meets him.) Have you told the mistress </s>
+<s> LOUKA </s>
+<s> Yes: she's coming </s>
+<s> (Nicola goes into the house </s>
+<s> Louka brings the coffee to the table.) PETKOFF </s>
+<s> Well, the Servians haven't run away with you, have they </s>
+<s> LOUKA </s>
+<s> No, sir </s>
+<s> PETKOFF </s>
+<s> That's right </s>
+<s> Have you brought me some cognac </s>
+<s> LOUKA (putting the bottle on the table) </s>
+<s> Here, sir </s>
+<s> PETKOFF </s>
+<s> That's right </s>
+<s> (He pours some into his coffee.) (Catherine who has at this early hour made only a very perfunctory toilet, and wears a Bulgarian apron over a once brilliant, but now half worn out red dressing gown, and a colored handkerchief tied over her thick black hair, with Turkish slippers on her bare feet, comes from the house, looking astonishingly handsome and stately under all the circumstances </s>
+<s> Louka goes into the house.) CATHERINE </s>
+<s> My dear Paul, what a surprise for us </s>
+<s> (She stoops over the back of his chair to kiss him.) Have they brought you fresh coffee </s>
+<s> PETKOFF </s>
+<s> Yes, Louka's been looking after me </s>
+<s> The war's over </s>
+<s> The treaty was signed three days ago at Bucharest; and the decree for our army to demobilize was issued yesterday </s>
+<s> CATHERINE (springing erect, with flashing eyes) </s>
+<s> The war over </s>
+<s> Paul: have you let the Austrians force you to make peace </s>
+<s> PETKOFF (submissively) </s>
+<s> My dear: they didn't consult me </s>
+<s> What could _I_ do </s>
+<s> (She sits down and turns away from him.) But of course we saw to it that the treaty was an honorable one </s>
+<s> It declares peace-- CATHERINE (outraged) </s>
+<s> Peace </s>
+<s> PETKOFF (appeasing her).--but not friendly relations: remember that </s>
+<s> They wanted to put that in; but I insisted on its being struck out </s>
+<s> What more could I do </s>
+<s> CATHERINE </s>
+<s> You could have annexed Servia and made Prince Alexander Emperor of the Balkans </s>
+<s> That's what I would have done </s>
+<s> PETKOFF </s>
+<s> I don't doubt it in the least, my dear </s>
+<s> But I should have had to subdue the whole Austrian Empire first; and that would have kept me too long away from you </s>
+<s> I missed you greatly </s>
+<s> CATHERINE (relenting) </s>
+<s> Ah </s>
+<s> (Stretches her hand affectionately across the table to squeeze his.) PETKOFF </s>
+<s> And how have you been, my dear </s>
+<s> CATHERINE </s>
+<s> Oh, my usual sore throats, that's all </s>
+<s> PETKOFF (with conviction) </s>
+<s> That comes from washing your neck every day </s>
+<s> I've often told you so </s>
+<s> CATHERINE </s>
+<s> Nonsense, Paul </s>
+<s> PETKOFF (over his coffee and cigaret) </s>
+<s> I don't believe in going too far with these modern customs </s>
+<s> All this washing can't be good for the health: it's not natural </s>
+<s> There was an Englishman at Phillipopolis who used to wet himself all over with cold water every morning when he got up </s>
+<s> Disgusting </s>
+<s> It all comes from the English: their climate makes them so dirty that they have to be perpetually washing themselves </s>
+<s> Look at my father: he never had a bath in his life; and he lived to be ninety-eight, the healthiest man in Bulgaria </s>
+<s> I don't mind a good wash once a week to keep up my position; but once a day is carrying the thing to a ridiculous extreme </s>
+<s> CATHERINE </s>
+<s> You are a barbarian at heart still, Paul </s>
+<s> I hope you behaved yourself before all those Russian officers </s>
+<s> PETKOFF </s>
+<s> I did my best </s>
+<s> I took care to let them know that we had a library </s>
+<s> CATHERINE </s>
+<s> Ah; but you didn't tell them that we have an electric bell in it </s>
+<s> I have had one put up </s>
+<s> PETKOFF </s>
+<s> What's an electric bell </s>
+<s> CATHERINE </s>
+<s> You touch a button; something tinkles in the kitchen; and then Nicola comes up </s>
+<s> PETKOFF </s>
+<s> Why not shout for him </s>
+<s> CATHERINE </s>
+<s> Civilized people never shout for their servants </s>
+<s> I've learnt that while you were away </s>
+<s> PETKOFF </s>
+<s> Well, I'll tell you something I've learnt, too </s>
+<s> Civilized people don't hang out their washing to dry where visitors can see it; so you'd better have all that (indicating the clothes on the bushes) put somewhere else </s>
+<s> CATHERINE </s>
+<s> Oh, that's absurd, Paul: I don't believe really refined people notice such things </s>
+<s> (Someone is heard knocking at the stable gates.) PETKOFF </s>
+<s> There's Sergius </s>
+<s> (Shouting.) Hollo, Nicola </s>
+<s> CATHERINE </s>
+<s> Oh, don't shout, Paul: it really isn't nice </s>
+<s> PETKOFF </s>
+<s> Bosh </s>
+<s> (He shouts louder than before.) Nicola </s>
+<s> NICOLA (appearing at the house door) </s>
+<s> Yes, sir </s>
+<s> PETKOFF </s>
+<s> If that is Major Saranoff, bring him round this way </s>
+<s> (He pronounces the name with the stress on the second syllable--Sarah-noff.) NICOLA </s>
+<s> Yes, sir </s>
+<s> (He goes into the stable yard.) PETKOFF </s>
+<s> You must talk to him, my dear, until Raina takes him off our hands </s>
+<s> He bores my life out about our not promoting him--over my head, mind you </s>
+<s> CATHERINE </s>
+<s> He certainly ought to be promoted when he marries Raina </s>
+<s> Besides, the country should insist on having at least one native general </s>
+<s> PETKOFF </s>
+<s> Yes, so that he could throw away whole brigades instead of regiments </s>
+<s> It's no use, my dear: he has not the slightest chance of promotion until we are quite sure that the peace will be a lasting one </s>
+<s> NICOLA (at the gate, announcing) </s>
+<s> Major Sergius Saranoff </s>
+<s> (He goes into the house and returns presently with a third chair, which he places at the table </s>
+<s> He then withdraws.) (Major Sergius Saranoff, the original of the portrait in Raina's room, is a tall, romantically handsome man, with the physical hardihood, the high spirit, and the susceptible imagination of an untamed mountaineer chieftain </s>
+<s> But his remarkable personal distinction is of a characteristically civilized type </s>
+<s> The ridges of his eyebrows, curving with a ram's-horn twist round the marked projections at the outer corners, his jealously observant eye, his nose, thin, keen, and apprehensive in spite of the pugnacious high bridge and large nostril, his assertive chin, would not be out of place in a Paris salon </s>
+<s> In short, the clever, imaginative barbarian has an acute critical faculty which has been thrown into intense activity by the arrival of western civilization in the Balkans; and the result is precisely what the advent of nineteenth-century thought first produced in England: to-wit, Byronism </s>
+<s> By his brooding on the perpetual failure, not only of others, but of himself, to live up to his imaginative ideals, his consequent cynical scorn for humanity, the jejune credulity as to the absolute validity of his ideals and the unworthiness of the world in disregarding them, his wincings and mockeries under the sting of the petty disillusions which every hour spent among men brings to his infallibly quick observation, he has acquired the half tragic, half ironic air, the mysterious moodiness, the suggestion of a strange and terrible history that has left him nothing but undying remorse, by which Childe Harold fascinated the grandmothers of his English contemporaries </s>
+<s> Altogether it is clear that here or nowhere is Raina's ideal hero </s>
+<s> Catherine is hardly less enthusiastic, and much less reserved in shewing her enthusiasm </s>
+<s> As he enters from the stable gate, she rises effusively to greet him </s>
+<s> Petkoff is distinctly less disposed to make a fuss about him.) PETKOFF </s>
+<s> Here already, Sergius </s>
+<s> Glad to see you </s>
+<s> CATHERINE </s>
+<s> My dear Sergius!(She holds out both her hands.) SERGIUS (kissing them with scrupulous gallantry) </s>
+<s> My dear mother, if I may call you so </s>
+<s> PETKOFF (drily) </s>
+<s> Mother-in-law, Sergius; mother-in-law </s>
+<s> Sit down, and have some coffee </s>
+<s> SERGIUS </s>
+<s> Thank you, none for me </s>
+<s> (He gets away from the table with a certain distaste for Petkoff's enjoyment of it, and posts himself with conscious grace against the rail of the steps leading to the house.) CATHERINE </s>
+<s> You look superb--splendid </s>
+<s> The campaign has improved you </s>
+<s> Everybody here is mad about you </s>
+<s> We were all wild with enthusiasm about that magnificent cavalry charge </s>
+<s> SERGIUS (with grave irony) </s>
+<s> Madam: it was the cradle and the grave of my military reputation </s>
+<s> CATHERINE </s>
+<s> How so </s>
+<s> SERGIUS </s>
+<s> I won the battle the wrong way when our worthy Russian generals were losing it the right way </s>
+<s> That upset their plans, and wounded their self-esteem </s>
+<s> Two of their colonels got their regiments driven back on the correct principles of scientific warfare </s>
+<s> Two major-generals got killed strictly according to military etiquette </s>
+<s> Those two colonels are now major-generals; and I am still a simple major </s>
+<s> CATHERINE </s>
+<s> You shall not remain so, Sergius </s>
+<s> The women are on your side; and they will see that justice is done you </s>
+<s> SERGIUS </s>
+<s> It is too late </s>
+<s> I have only waited for the peace to send in my resignation </s>
+<s> PETKOFF (dropping his cup in his amazement) </s>
+<s> Your resignation </s>
+<s> CATHERINE </s>
+<s> Oh, you must withdraw it </s>
+<s> SERGIUS (with resolute, measured emphasis, folding his arms) </s>
+<s> I never withdraw </s>
+<s> PETKOFF (vexed) </s>
+<s> Now who could have supposed you were going to do such a thing </s>
+<s> SERGIUS (with fire) </s>
+<s> Everyone that knew me </s>
+<s> But enough of myself and my affairs </s>
+<s> How is Raina; and where is Raina </s>
+<s> RAINA (suddenly coming round the corner of the house and standing at the top of the steps in the path) </s>
+<s> Raina is here </s>
+<s> (She makes a charming picture as they all turn to look at her </s>
+<s> She wears an underdress of pale green silk, draped with an overdress of thin ecru canvas embroidered with gold </s>
+<s> On her head she wears a pretty Phrygian cap of gold tinsel </s>
+<s> Sergius, with an exclamation of pleasure, goes impulsively to meet her </s>
+<s> She stretches out her hand: he drops chivalrously on one knee and kisses it.) PETKOFF (aside to Catherine, beaming with parental pride) </s>
+<s> Pretty, isn't it </s>
+<s> She always appears at the right moment </s>
+<s> CATHERINE (impatiently) </s>
+<s> Yes: she listens for it </s>
+<s> It is an abominable habit </s>
+<s> (Sergius leads Raina forward with splendid gallantry, as if she were a queen </s>
+<s> When they come to the table, she turns to him with a bend of the head; he bows; and thus they separate, he coming to his place, and she going behind her father's chair.) RAINA (stooping and kissing her father) </s>
+<s> Dear father </s>
+<s> Welcome home </s>
+<s> PETKOFF (patting her cheek) </s>
+<s> My little pet girl </s>
+<s> (He kisses her; she goes to the chair left by Nicola for Sergius, and sits down.) CATHERINE </s>
+<s> And so you're no longer a soldier, Sergius </s>
+<s> SERGIUS </s>
+<s> I am no longer a soldier </s>
+<s> Soldiering, my dear madam, is the coward's art of attacking mercilessly when you are strong, and keeping out of harm's way when you are weak </s>
+<s> That is the whole secret of successful fighting </s>
+<s> Get your enemy at a disadvantage; and never, on any account, fight him on equal terms </s>
+<s> Eh, Major </s>
+<s> PETKOFF </s>
+<s> They wouldn't let us make a fair stand-up fight of it </s>
+<s> However, I suppose soldiering has to be a trade like any other trade </s>
+<s> SERGIUS </s>
+<s> Precisely </s>
+<s> But I have no ambition to succeed as a tradesman; so I have taken the advice of that bagman of a captain that settled the exchange of prisoners with us at Peerot, and given it up </s>
+<s> PETKOFF </s>
+<s> What, that Swiss fellow </s>
+<s> Sergius: I've often thought of that exchange since </s>
+<s> He over-reached us about those horses </s>
+<s> SERGIUS </s>
+<s> Of course he over-reached us </s>
+<s> His father was a hotel and livery stable keeper; and he owed his first step to his knowledge of horse-dealing </s>
+<s> (With mock enthusiasm.) Ah, he was a soldier--every inch a soldier </s>
+<s> If only I had bought the horses for my regiment instead of foolishly leading it into danger, I should have been a field-marshal now </s>
+<s> CATHERINE </s>
+<s> A Swiss </s>
+<s> What was he doing in the Servian army </s>
+<s> PETKOFF </s>
+<s> A volunteer of course--keen on picking up his profession </s>
+<s> (Chuckling.) We shouldn't have been able to begin fighting if these foreigners hadn't shewn us how to do it: we knew nothing about it; and neither did the Servians </s>
+<s> Egad, there'd have been no war without them </s>
+<s> RAINA </s>
+<s> Are there many Swiss officers in the Servian Army </s>
+<s> PETKOFF </s>
+<s> No--all Austrians, just as our officers were all Russians </s>
+<s> This was the only Swiss I came across </s>
+<s> I'll never trust a Swiss again </s>
+<s> He cheated us--humbugged us into giving him fifty able bodied men for two hundred confounded worn out chargers </s>
+<s> They weren't even eatable </s>
+<s> SERGIUS </s>
+<s> We were two children in the hands of that consummate soldier, Major: simply two innocent little children </s>
+<s> RAINA </s>
+<s> What was he like </s>
+<s> CATHERINE </s>
+<s> Oh, Raina, what a silly question </s>
+<s> SERGIUS </s>
+<s> He was like a commercial traveller in uniform </s>
+<s> Bourgeois to his boots </s>
+<s> PETKOFF (grinning) </s>
+<s> Sergius: tell Catherine that queer story his friend told us about him--how he escaped after Slivnitza </s>
+<s> You remember?--about his being hid by two women </s>
+<s> SERGIUS (with bitter irony) </s>
+<s> Oh, yes, quite a romance </s>
+<s> He was serving in the very battery I so unprofessionally charged </s>
+<s> Being a thorough soldier, he ran away like the rest of them, with our cavalry at his heels </s>
+<s> To escape their attentions, he had the good taste to take refuge in the chamber of some patriotic young Bulgarian lady </s>
+<s> The young lady was enchanted by his persuasive commercial traveller's manners </s>
+<s> She very modestly entertained him for an hour or so and then called in her mother lest her conduct should appear unmaidenly </s>
+<s> The old lady was equally fascinated; and the fugitive was sent on his way in the morning, disguised in an old coat belonging to the master of the house, who was away at the war </s>
+<s> RAINA (rising with marked stateliness) </s>
+<s> Your life in the camp has made you coarse, Sergius </s>
+<s> I did not think you would have repeated such a story before me </s>
+<s> (She turns away coldly.) CATHERINE (also rising) </s>
+<s> She is right, Sergius </s>
+<s> If such women exist, we should be spared the knowledge of them </s>
+<s> PETKOFF </s>
+<s> Pooh </s>
+<s> nonsense </s>
+<s> what does it matter </s>
+<s> SERGIUS (ashamed) </s>
+<s> No, Petkoff: I was wrong </s>
+<s> (To Raina, with earnest humility.) I beg your pardon </s>
+<s> I have behaved abominably </s>
+<s> Forgive me, Raina </s>
+<s> (She bows reservedly.) And you, too, madam </s>
+<s> (Catherine bows graciously and sits down </s>
+<s> He proceeds solemnly, again addressing Raina.) The glimpses I have had of the seamy side of life during the last few months have made me cynical; but I should not have brought my cynicism here--least of all into your presence, Raina </s>
+<s> I--(Here, turning to the others, he is evidently about to begin a long speech when the Major interrupts him.) PETKOFF </s>
+<s> Stuff and nonsense, Sergius </s>
+<s> That's quite enough fuss about nothing: a soldier's daughter should be able to stand up without flinching to a little strong conversation </s>
+<s> (He rises.) Come: it's time for us to get to business </s>
+<s> We have to make up our minds how those three regiments are to get back to Phillipopolis:--there's no forage for them on the Sofia route </s>
+<s> (He goes towards the house.) Come along </s>
+<s> (Sergius is about to follow him when Catherine rises and intervenes.) CATHERINE </s>
+<s> Oh, Paul, can't you spare Sergius for a few moments </s>
+<s> Raina has hardly seen him yet </s>
+<s> Perhaps I can help you to settle about the regiments </s>
+<s> SERGIUS (protesting) </s>
+<s> My dear madam, impossible: you-- CATHERINE (stopping him playfully) </s>
+<s> You stay here, my dear Sergius: there's no hurry </s>
+<s> I have a word or two to say to Paul </s>
+<s> (Sergius instantly bows and steps back.) Now, dear (taking Petkoff's arm), come and see the electric bell </s>
+<s> PETKOFF </s>
+<s> Oh, very well, very well </s>
+<s> (They go into the house together affectionately </s>
+<s> Sergius, left alone with Raina, looks anxiously at her, fearing that she may be still offended </s>
+<s> She smiles, and stretches out her arms to him.) (Exit R </s>
+<s> into house, followed by Catherine.) SERGIUS (hastening to her, but refraining from touching her without express permission) </s>
+<s> Am I forgiven </s>
+<s> RAINA (placing her hands on his shoulder as she looks up at him with admiration and worship) </s>
+<s> My hero </s>
+<s> My king </s>
+<s> SERGIUS </s>
+<s> My queen </s>
+<s> (He kisses her on the forehead with holy awe.) RAINA </s>
+<s> How I have envied you, Sergius </s>
+<s> You have been out in the world, on the field of battle, able to prove yourself there worthy of any woman in the world; whilst I have had to sit at home inactive,--dreaming--useless--doing nothing that could give me the right to call myself worthy of any man </s>
+<s> SERGIUS </s>
+<s> Dearest, all my deeds have been yours </s>
+<s> You inspired me </s>
+<s> I have gone through the war like a knight in a tournament with his lady looking on at him </s>
+<s> RAINA </s>
+<s> And you have never been absent from my thoughts for a moment </s>
+<s> (Very solemnly.) Sergius: I think we two have found the higher love </s>
+<s> When I think of you, I feel that I could never do a base deed, or think an ignoble thought </s>
+<s> SERGIUS </s>
+<s> My lady, and my saint </s>
+<s> (Clasping her reverently.) RAINA (returning his embrace) </s>
+<s> My lord and my g-- SERGIUS </s>
+<s> Sh--sh </s>
+<s> Let me be the worshipper, dear </s>
+<s> You little know how unworthy even the best man is of a girl's pure passion </s>
+<s> RAINA </s>
+<s> I trust you </s>
+<s> I love you </s>
+<s> You will never disappoint me, Sergius </s>
+<s> (Louka is heard singing within the house </s>
+<s> They quickly release each other.) Hush </s>
+<s> I can't pretend to talk indifferently before her: my heart is too full </s>
+<s> (Louka comes from the house with her tray </s>
+<s> She goes to the table, and begins to clear it, with her back turned to them.) I will go and get my hat; and then we can go out until lunch time </s>
+<s> Wouldn't you like that </s>
+<s> SERGIUS </s>
+<s> Be quick </s>
+<s> If you are away five minutes, it will seem five hours </s>
+<s> (Raina runs to the top of the steps and turns there to exchange a look with him and wave him a kiss with both hands </s>
+<s> He looks after her with emotion for a moment, then turns slowly away, his face radiant with the exultation of the scene which has just passed </s>
+<s> The movement shifts his field of vision, into the corner of which there now comes the tail of Louka's double apron </s>
+<s> His eye gleams at once </s>
+<s> He takes a stealthy look at her, and begins to twirl his moustache nervously, with his left hand akimbo on his hip </s>
+<s> Finally, striking the ground with his heels in something of a cavalry swagger, he strolls over to the left of the table, opposite her, and says) Louka: do you know what the higher love is </s>
+<s> LOUKA (astonished) </s>
+<s> No, sir </s>
+<s> SERGIUS </s>
+<s> Very fatiguing thing to keep up for any length of time, Louka </s>
+<s> One feels the need of some relief after it </s>
+<s> LOUKA (innocently) </s>
+<s> Perhaps you would like some coffee, sir </s>
+<s> (She stretches her hand across the table for the coffee pot.) SERGIUS (taking her hand) </s>
+<s> Thank you, Louka </s>
+<s> LOUKA (pretending to pull) </s>
+<s> Oh, sir, you know I didn't mean that </s>
+<s> I'm surprised at you </s>
+<s> SERGIUS (coming clear of the table and drawing her with him) </s>
+<s> I am surprised at myself, Louka </s>
+<s> What would Sergius, the hero of Slivnitza, say if he saw me now </s>
+<s> What would Sergius, the apostle of the higher love, say if he saw me now </s>
+<s> What would the half dozen Sergiuses who keep popping in and out of this handsome figure of mine say if they caught us here </s>
+<s> (Letting go her hand and slipping his arm dexterously round her waist.) Do you consider my figure handsome, Louka </s>
+<s> LOUKA </s>
+<s> Let me go, sir </s>
+<s> I shall be disgraced </s>
+<s> (She struggles: he holds her inexorably.) Oh, will you let go </s>
+<s> SERGIUS (looking straight into her eyes) </s>
+<s> No </s>
+<s> LOUKA </s>
+<s> Then stand back where we can't be seen </s>
+<s> Have you no common sense </s>
+<s> SERGIUS </s>
+<s> Ah, that's reasonable </s>
+<s> (He takes her into the stableyard gateway, where they are hidden from the house.) LOUKA (complaining) </s>
+<s> I may have been seen from the windows: Miss Raina is sure to be spying about after you </s>
+<s> SERGIUS (stung--letting her go) </s>
+<s> Take care, Louka </s>
+<s> I may be worthless enough to betray the higher love; but do not you insult it </s>
+<s> LOUKA (demurely) </s>
+<s> Not for the world, sir, I'm sure </s>
+<s> May I go on with my work please, now </s>
+<s> SERGIUS (again putting his arm round her) </s>
+<s> You are a provoking little witch, Louka </s>
+<s> If you were in love with me, would you spy out of windows on me </s>
+<s> LOUKA </s>
+<s> Well, you see, sir, since you say you are half a dozen different gentlemen all at once, I should have a great deal to look after </s>
+<s> SERGIUS (charmed) </s>
+<s> Witty as well as pretty </s>
+<s> (He tries to kiss her.) LOUKA (avoiding him) </s>
+<s> No, I don't want your kisses </s>
+<s> Gentlefolk are all alike--you making love to me behind Miss Raina's back, and she doing the same behind yours </s>
+<s> SERGIUS (recoiling a step) </s>
+<s> Louka </s>
+<s> LOUKA </s>
+<s> It shews how little you really care </s>
+<s> SERGIUS (dropping his familiarity and speaking with freezing politeness) </s>
+<s> If our conversation is to continue, Louka, you will please remember that a gentleman does not discuss the conduct of the lady he is engaged to with her maid </s>
+<s> LOUKA </s>
+<s> It's so hard to know what a gentleman considers right </s>
+<s> I thought from your trying to kiss me that you had given up being so particular </s>
+<s> SERGIUS (turning from her and striking his forehead as he comes back into the garden from the gateway) </s>
+<s> Devil </s>
+<s> devil </s>
+<s> LOUKA </s>
+<s> Ha </s>
+<s> ha </s>
+<s> I expect one of the six of you is very like me, sir, though I am only Miss Raina's maid </s>
+<s> (She goes back to her work at the table, taking no further notice of him.) SERGIUS (speaking to himself) </s>
+<s> Which of the six is the real man?--that's the question that torments me </s>
+<s> One of them is a hero, another a buffoon, another a humbug, another perhaps a bit of a blackguard </s>
+<s> (He pauses and looks furtively at Louka, as he adds with deep bitterness) And one, at least, is a coward--jealous, like all cowards </s>
+<s> (He goes to the table.) Louka </s>
+<s> LOUKA </s>
+<s> Yes </s>
+<s> SERGIUS </s>
+<s> Who is my rival </s>
+<s> LOUKA </s>
+<s> You shall never get that out of me, for love or money </s>
+<s> SERGIUS </s>
+<s> Why </s>
+<s> LOUKA </s>
+<s> Never mind why </s>
+<s> Besides, you would tell that I told you; and I should lose my place </s>
+<s> SERGIUS (holding out his right hand in affirmation) </s>
+<s> No; on the honor of a--(He checks himself, and his hand drops nerveless as he concludes, sardonically)--of a man capable of behaving as I have been behaving for the last five minutes </s>
+<s> Who is he </s>
+<s> LOUKA </s>
+<s> I don't know </s>
+<s> I never saw him </s>
+<s> I only heard his voice through the door of her room </s>
+<s> SERGIUS </s>
+<s> Damnation </s>
+<s> How dare you </s>
+<s> LOUKA (retreating) </s>
+<s> Oh, I mean no harm: you've no right to take up my words like that </s>
+<s> The mistress knows all about it </s>
+<s> And I tell you that if that gentleman ever comes here again, Miss Raina will marry him, whether he likes it or not </s>
+<s> I know the difference between the sort of manner you and she put on before one another and the real manner </s>
+<s> (Sergius shivers as if she had stabbed him </s>
+<s> Then, setting his face like iron, he strides grimly to her, and grips her above the elbows with both bands.) SERGIUS </s>
+<s> Now listen you to me </s>
+<s> LOUKA (wincing) </s>
+<s> Not so tight: you're hurting me </s>
+<s> SERGIUS </s>
+<s> That doesn't matter </s>
+<s> You have stained my honor by making me a party to your eavesdropping </s>
+<s> And you have betrayed your mistress-- LOUKA (writhing) </s>
+<s> Please-- SERGIUS </s>
+<s> That shews that you are an abominable little clod of common clay, with the soul of a servant </s>
+<s> (He lets her go as if she were an unclean thing, and turns away, dusting his hands of her, to the bench by the wall, where he sits down with averted head, meditating gloomily.) LOUKA (whimpering angrily with her hands up her sleeves, feeling her bruised arms) </s>
+<s> You know how to hurt with your tongue as well as with your hands </s>
+<s> But I don't care, now I've found out that whatever clay I'm made of, you're made of the same </s>
+<s> As for her, she's a liar; and her fine airs are a cheat; and I'm worth six of her </s>
+<s> (She shakes the pain off hardily; tosses her head; and sets to work to put the things on the tray </s>
+<s> He looks doubtfully at her once or twice </s>
+<s> She finishes packing the tray, and laps the cloth over the edges, so as to carry all out together </s>
+<s> As she stoops to lift it, he rises.) SERGIUS </s>
+<s> Louka </s>
+<s> (She stops and looks defiantly at him with the tray in her hands.) A gentleman has no right to hurt a woman under any circumstances </s>
+<s> (With profound humility, uncovering his head.) I beg your pardon </s>
+<s> LOUKA </s>
+<s> That sort of apology may satisfy a lady </s>
+<s> Of what use is it to a servant </s>
+<s> SERGIUS (thus rudely crossed in his chivalry, throws it off with a bitter laugh and says slightingly) </s>
+<s> Oh, you wish to be paid for the hurt </s>
+<s> (He puts on his shako, and takes some money from his pocket.) LOUKA (her eyes filling with tears in spite of herself) </s>
+<s> No, I want my hurt made well </s>
+<s> SERGIUS (sobered by her tone) </s>
+<s> How </s>
+<s> (She rolls up her left sleeve; clasps her arm with the thumb and fingers of her right hand; and looks down at the bruise </s>
+<s> Then she raises her head and looks straight at him </s>
+<s> Finally, with a superb gesture she presents her arm to be kissed </s>
+<s> Amazed, he looks at her; at the arm; at her again; hesitates; and then, with shuddering intensity, exclaims) SERGIUS </s>
+<s> Never </s>
+<s> (and gets away as far as possible from her.) (Her arm drops </s>
+<s> Without a word, and with unaffected dignity, she takes her tray, and is approaching the house when Raina returns wearing a hat and jacket in the height of the Vienna fashion of the previous year, 1885 </s>
+<s> Louka makes way proudly for her, and then goes into the house.) RAINA </s>
+<s> I'm ready </s>
+<s> What's the matter </s>
+<s> (Gaily.) Have you been flirting with Louka </s>
+<s> SERGIUS (hastily) </s>
+<s> No, no </s>
+<s> How can you think such a thing </s>
+<s> RAINA (ashamed of herself) </s>
+<s> Forgive me, dear: it was only a jest </s>
+<s> I am so happy to-day </s>
+<s> (He goes quickly to her, and kisses her hand remorsefully </s>
+<s> Catherine comes out and calls to them from the top of the steps.) CATHERINE (coming down to them) </s>
+<s> I am sorry to disturb you, children; but Paul is distracted over those three regiments </s>
+<s> He does not know how to get them to Phillipopolis; and he objects to every suggestion of mine </s>
+<s> You must go and help him, Sergius </s>
+<s> He is in the library </s>
+<s> RAINA (disappointed) </s>
+<s> But we are just going out for a walk </s>
+<s> SERGIUS </s>
+<s> I shall not be long </s>
+<s> Wait for me just five minutes </s>
+<s> (He runs up the steps to the door.) RAINA (following him to the foot of the steps and looking up at him with timid coquetry) </s>
+<s> I shall go round and wait in full view of the library windows </s>
+<s> Be sure you draw father's attention to me </s>
+<s> If you are a moment longer than five minutes, I shall go in and fetch you, regiments or no regiments </s>
+<s> SERGIUS (laughing) </s>
+<s> Very well </s>
+<s> (He goes in </s>
+<s> Raina watches him until he is out of her sight </s>
+<s> Then, with a perceptible relaxation of manner, she begins to pace up and down about the garden in a brown study.) CATHERINE </s>
+<s> Imagine their meeting that Swiss and hearing the whole story </s>
+<s> The very first thing your father asked for was the old coat we sent him off in </s>
+<s> A nice mess you have got us into </s>
+<s> RAINA (gazing thoughtfully at the gravel as she walks) </s>
+<s> The little beast </s>
+<s> CATHERINE </s>
+<s> Little beast </s>
+<s> What little beast </s>
+<s> RAINA </s>
+<s> To go and tell </s>
+<s> Oh, if I had him here, I'd stuff him with chocolate creams till he couldn't ever speak again </s>
+<s> CATHERINE </s>
+<s> Don't talk nonsense </s>
+<s> Tell me the truth, Raina </s>
+<s> How long was he in your room before you came to me </s>
+<s> RAINA (whisking round and recommencing her march in the opposite direction) </s>
+<s> Oh, I forget </s>
+<s> CATHERINE </s>
+<s> You cannot forget </s>
+<s> Did he really climb up after the soldiers were gone, or was he there when that officer searched the room </s>
+<s> RAINA </s>
+<s> No </s>
+<s> Yes, I think he must have been there then </s>
+<s> CATHERINE </s>
+<s> You think </s>
+<s> Oh, Raina, Raina </s>
+<s> Will anything ever make you straightforward </s>
+<s> If Sergius finds out, it is all over between you </s>
+<s> RAINA (with cool impertinence) </s>
+<s> Oh, I know Sergius is your pet </s>
+<s> I sometimes wish you could marry him instead of me </s>
+<s> You would just suit him </s>
+<s> You would pet him, and spoil him, and mother him to perfection </s>
+<s> CATHERINE (opening her eyes very widely indeed) </s>
+<s> Well, upon my word </s>
+<s> RAINA (capriciously--half to herself) </s>
+<s> I always feel a longing to do or say something dreadful to him--to shock his propriety--to scandalize the five senses out of him </s>
+<s> (To Catherine perversely.) I don't care whether he finds out about the chocolate cream soldier or not </s>
+<s> I half hope he may </s>
+<s> (She again turns flippantly away and strolls up the path to the corner of the house.) CATHERINE </s>
+<s> And what should I be able to say to your father, pray </s>
+<s> RAINA (over her shoulder, from the top of the two steps) </s>
+<s> Oh, poor father </s>
+<s> As if he could help himself </s>
+<s> (She turns the corner and passes out of sight.) CATHERINE (looking after her, her fingers itching) </s>
+<s> Oh, if you were only ten years younger </s>
+<s> (Louka comes from the house with a salver, which she carries hanging down by her side.) Well </s>
+<s> LOUKA </s>
+<s> There's a gentleman just called, madam--a Servian officer-- CATHERINE (flaming) </s>
+<s> A Servian </s>
+<s> How dare he--(Checking herself bitterly.) Oh, I forgot </s>
+<s> We are at peace now </s>
+<s> I suppose we shall have them calling every day to pay their compliments </s>
+<s> Well, if he is an officer why don't you tell your master </s>
+<s> He is in the library with Major Saranoff </s>
+<s> Why do you come to me </s>
+<s> LOUKA </s>
+<s> But he asks for you, madam </s>
+<s> And I don't think he knows who you are: he said the lady of the house </s>
+<s> He gave me this little ticket for you </s>
+<s> (She takes a card out of her bosom; puts it on the salver and offers it to Catherine.) CATHERINE (reading) </s>
+<s> "Captain Bluntschli" </s>
+<s> That's a German name </s>
+<s> LOUKA </s>
+<s> Swiss, madam, I think </s>
+<s> CATHERINE (with a bound that makes Louka jump back) </s>
+<s> Swiss </s>
+<s> What is he like </s>
+<s> LOUKA (timidly) </s>
+<s> He has a big carpet bag, madam </s>
+<s> CATHERINE </s>
+<s> Oh, Heavens, he's come to return the coat </s>
+<s> Send him away--say we're not at home--ask him to leave his address and I'll write to him--Oh, stop: that will never do </s>
+<s> Wait </s>
+<s> (She throws herself into a chair to think it out </s>
+<s> Louka waits.) The master and Major Saranoff are busy in the library, aren't they </s>
+<s> LOUKA </s>
+<s> Yes, madam </s>
+<s> CATHERINE (decisively) </s>
+<s> Bring the gentleman out here at once </s>
+<s> (Imperatively.) And be very polite to him </s>
+<s> Don't delay </s>
+<s> Here (impatiently snatching the salver from her): leave that here; and go straight back to him </s>
+<s> LOUKA </s>
+<s> Yes, madam </s>
+<s> (Going.) CATHERINE </s>
+<s> Louka </s>
+<s> LOUKA (stopping) </s>
+<s> Yes, madam </s>
+<s> CATHERINE </s>
+<s> Is the library door shut </s>
+<s> LOUKA </s>
+<s> I think so, madam </s>
+<s> CATHERINE </s>
+<s> If not, shut it as you pass through </s>
+<s> LOUKA </s>
+<s> Yes, madam </s>
+<s> (Going.) CATHERINE </s>
+<s> Stop </s>
+<s> (Louka stops.) He will have to go out that way (indicating the gate of the stable yard) </s>
+<s> Tell Nicola to bring his bag here after him </s>
+<s> Don't forget </s>
+<s> LOUKA (surprised) </s>
+<s> His bag </s>
+<s> CATHERINE </s>
+<s> Yes, here, as soon as possible </s>
+<s> (Vehemently.) Be quick </s>
+<s> (Louka runs into the house </s>
+<s> Catherine snatches her apron off and throws it behind a bush </s>
+<s> She then takes up the salver and uses it as a mirror, with the result that the handkerchief tied round her head follows the apron </s>
+<s> A touch to her hair and a shake to her dressing gown makes her presentable.) Oh, how--how--how can a man be such a fool </s>
+<s> Such a moment to select </s>
+<s> (Louka appears at the door of the house, announcing "Captain Bluntschli;" and standing aside at the top of the steps to let him pass before she goes in again </s>
+<s> He is the man of the adventure in Raina's room </s>
+<s> He is now clean, well brushed, smartly uniformed, and out of trouble, but still unmistakably the same man </s>
+<s> The moment Louka's back is turned, Catherine swoops on him with hurried, urgent, coaxing appeal.) Captain Bluntschli, I am very glad to see you; but you must leave this house at once </s>
+<s> (He raises his eyebrows.) My husband has just returned, with my future son-in-law; and they know nothing </s>
+<s> If they did, the consequences would be terrible </s>
+<s> You are a foreigner: you do not feel our national animosities as we do </s>
+<s> We still hate the Servians: the only effect of the peace on my husband is to make him feel like a lion baulked of his prey </s>
+<s> If he discovered our secret, he would never forgive me; and my daughter's life would hardly be safe </s>
+<s> Will you, like the chivalrous gentleman and soldier you are, leave at once before he finds you here </s>
+<s> BLUNTSCHLI (disappointed, but philosophical) </s>
+<s> At once, gracious lady </s>
+<s> I only came to thank you and return the coat you lent me </s>
+<s> If you will allow me to take it out of my bag and leave it with your servant as I pass out, I need detain you no further </s>
+<s> (He turns to go into the house.) CATHERINE (catching him by the sleeve) </s>
+<s> Oh, you must not think of going back that way </s>
+<s> (Coaxing him across to the stable gates.) This is the shortest way out </s>
+<s> Many thanks </s>
+<s> So glad to have been of service to you </s>
+<s> Good-bye </s>
+<s> BLUNTSCHLI </s>
+<s> But my bag </s>
+<s> CATHERINE </s>
+<s> It will be sent on </s>
+<s> You will leave me your address </s>
+<s> BLUNTSCHLI </s>
+<s> True </s>
+<s> Allow me </s>
+<s> (He takes out his card-case, and stops to write his address, keeping Catherine in an agony of impatience </s>
+<s> As he hands her the card, Petkoff, hatless, rushes from the house in a fluster of hospitality, followed by Sergius.) PETKOFF (as he hurries down the steps) </s>
+<s> My dear Captain Bluntschli-- CATHERINE </s>
+<s> Oh Heavens </s>
+<s> (She sinks on the seat against the wall.) PETKOFF (too preoccupied to notice her as he shakes Bluntschli's hand heartily) </s>
+<s> Those stupid people of mine thought I was out here, instead of in the--haw!--library </s>
+<s> (He cannot mention the library without betraying how proud he is of it.) I saw you through the window </s>
+<s> I was wondering why you didn't come in </s>
+<s> Saranoff is with me: you remember him, don't you </s>
+<s> SERGIUS (saluting humorously, and then offering his hand with great charm of manner) </s>
+<s> Welcome, our friend the enemy </s>
+<s> PETKOFF </s>
+<s> No longer the enemy, happily </s>
+<s> (Rather anxiously.) I hope you've come as a friend, and not on business </s>
+<s> CATHERINE </s>
+<s> Oh, quite as a friend, Paul </s>
+<s> I was just asking Captain Bluntschli to stay to lunch; but he declares he must go at once </s>
+<s> SERGIUS (sardonically) </s>
+<s> Impossible, Bluntschli </s>
+<s> We want you here badly </s>
+<s> We have to send on three cavalry regiments to Phillipopolis; and we don't in the least know how to do it </s>
+<s> BLUNTSCHLI (suddenly attentive and business-like) </s>
+<s> Phillipopolis </s>
+<s> The forage is the trouble, eh </s>
+<s> PETKOFF (eagerly) </s>
+<s> Yes, that's it </s>
+<s> (To Sergius.) He sees the whole thing at once </s>
+<s> BLUNTSCHLI </s>
+<s> I think I can shew you how to manage that </s>
+<s> SERGIUS </s>
+<s> Invaluable man </s>
+<s> Come along </s>
+<s> (Towering over Bluntschli, he puts his hand on his shoulder and takes him to the steps, Petkoff following </s>
+<s> As Bluntschli puts his foot on the first step, Raina comes out of the house.) RAINA (completely losing her presence of mind) </s>
+<s> Oh, the chocolate cream soldier </s>
+<s> (Bluntschli stands rigid </s>
+<s> Sergius, amazed, looks at Raina, then at Petkoff, who looks back at him and then at his wife.) CATHERINE (with commanding presence of mind) </s>
+<s> My dear Raina, don't you see that we have a guest here--Captain Bluntschli, one of our new Servian friends </s>
+<s> (Raina bows; Bluntschli bows.) RAINA </s>
+<s> How silly of me </s>
+<s> (She comes down into the centre of the group, between Bluntschli and Petkoff) I made a beautiful ornament this morning for the ice pudding; and that stupid Nicola has just put down a pile of plates on it and spoiled it </s>
+<s> (To Bluntschli, winningly.) I hope you didn't think that you were the chocolate cream soldier, Captain Bluntschli </s>
+<s> BLUNTSCHLI (laughing) </s>
+<s> I assure you I did </s>
+<s> (Stealing a whimsical glance at her.) Your explanation was a relief </s>
+<s> PETKOFF (suspiciously, to Raina) </s>
+<s> And since when, pray, have you taken to cooking </s>
+<s> CATHERINE </s>
+<s> Oh, whilst you were away </s>
+<s> It is her latest fancy </s>
+<s> PETKOFF (testily) </s>
+<s> And has Nicola taken to drinking </s>
+<s> He used to be careful enough </s>
+<s> First he shews Captain Bluntschli out here when he knew quite well I was in the--hum!--library; and then he goes downstairs and breaks Raina's chocolate soldier </s>
+<s> He must--(At this moment Nicola appears at the top of the steps R., with a carpet bag </s>
+<s> He descends; places it respectfully before Bluntschli; and waits for further orders </s>
+<s> General amazement </s>
+<s> Nicola, unconscious of the effect he is producing, looks perfectly satisfied with himself </s>
+<s> When Petkoff recovers his power of speech, he breaks out at him with) Are you mad, Nicola </s>
+<s> NICOLA (taken aback) </s>
+<s> Sir </s>
+<s> PETKOFF </s>
+<s> What have you brought that for </s>
+<s> NICOLA </s>
+<s> My lady's orders, sir </s>
+<s> Louka told me that-- CATHERINE (interrupting him) </s>
+<s> My orders </s>
+<s> Why should I order you to bring Captain Bluntschli's luggage out here </s>
+<s> What are you thinking of, Nicola </s>
+<s> NICOLA (after a moment's bewilderment, picking up the bag as he addresses Bluntschli with the very perfection of servile discretion) </s>
+<s> I beg your pardon, sir, I am sure </s>
+<s> (To Catherine.) My fault, madam </s>
+<s> I hope you'll overlook it </s>
+<s> (He bows, and is going to the steps with the bag, when Petkoff addresses him angrily.) PETKOFF </s>
+<s> You'd better go and slam that bag, too, down on Miss Raina's ice pudding </s>
+<s> (This is too much for Nicola </s>
+<s> The bag drops from his hands on Petkoff's corns, eliciting a roar of anguish from him.) Begone, you butter-fingered donkey </s>
+<s> NICOLA (snatching up the bag, and escaping into the house) </s>
+<s> Yes, sir </s>
+<s> CATHERINE </s>
+<s> Oh, never mind, Paul, don't be angry </s>
+<s> PETKOFF (muttering) </s>
+<s> Scoundrel </s>
+<s> He's got out of hand while I was away </s>
+<s> I'll teach him </s>
+<s> (Recollecting his guest.) Oh, well, never mind </s>
+<s> Come, Bluntschli, lets have no more nonsense about you having to go away </s>
+<s> You know very well you're not going back to Switzerland yet </s>
+<s> Until you do go back you'll stay with us </s>
+<s> RAINA </s>
+<s> Oh, do, Captain Bluntschli </s>
+<s> PETKOFF (to Catherine) </s>
+<s> Now, Catherine, it's of you that he's afraid </s>
+<s> Press him and he'll stay </s>
+<s> CATHERINE </s>
+<s> Of course I shall be only too delighted if (appealingly) Captain Bluntschli really wishes to stay </s>
+<s> He knows my wishes </s>
+<s> BLUNTSCHLI (in his driest military manner) </s>
+<s> I am at madame's orders </s>
+<s> SERGIUS (cordially) </s>
+<s> That settles it </s>
+<s> PETKOFF (heartily) </s>
+<s> Of course </s>
+<s> RAINA </s>
+<s> You see, you must stay </s>
+<s> BLUNTSCHLI (smiling) </s>
+<s> Well, If I must, I must </s>
+<s> (Gesture of despair from Catherine.) ACT III In the library after lunch </s>
+<s> It is not much of a library, its literary equipment consisting of a single fixed shelf stocked with old paper-covered novels, broken backed, coffee stained, torn and thumbed, and a couple of little hanging shelves with a few gift books on them, the rest of the wall space being occupied by trophies of war and the chase </s>
+<s> But it is a most comfortable sitting-room </s>
+<s> A row of three large windows in the front of the house shew a mountain panorama, which is just now seen in one of its softest aspects in the mellowing afternoon light </s>
+<s> In the left hand corner, a square earthenware stove, a perfect tower of colored pottery, rises nearly to the ceiling and guarantees plenty of warmth </s>
+<s> The ottoman in the middle is a circular bank of decorated cushions, and the window seats are well upholstered divans </s>
+<s> Little Turkish tables, one of them with an elaborate hookah on it, and a screen to match them, complete the handsome effect of the furnishing </s>
+<s> There is one object, however, which is hopelessly out of keeping with its surroundings </s>
+<s> This is a small kitchen table, much the worse for wear, fitted as a writing table with an old canister full of pens, an eggcup filled with ink, and a deplorable scrap of severely used pink blotting paper </s>
+<s> At the side of this table, which stands on the right, Bluntschli is hard at work, with a couple of maps before him, writing orders </s>
+<s> At the head of it sits Sergius, who is also supposed to be at work, but who is actually gnawing the feather of a pen, and contemplating Bluntschli's quick, sure, businesslike progress with a mixture of envious irritation at his own incapacity, and awestruck wonder at an ability which seems to him almost miraculous, though its prosaic character forbids him to esteem it </s>
+<s> The major is comfortably established on the ottoman, with a newspaper in his hand and the tube of the hookah within his reach </s>
+<s> Catherine sits at the stove, with her back to them, embroidering </s>
+<s> Raina, reclining on the divan under the left hand window, is gazing in a daydream out at the Balkan landscape, with a neglected novel in her lap </s>
+<s> The door is on the left </s>
+<s> The button of the electric bell is between the door and the fireplace </s>
+<s> PETKOFF (looking up from his paper to watch how they are getting on at the table) </s>
+<s> Are you sure I can't help you in any way, Bluntschli </s>
+<s> BLUNTSCHLI (without interrupting his writing or looking up) </s>
+<s> Quite sure, thank you </s>
+<s> Saranoff and I will manage it </s>
+<s> SERGIUS (grimly) </s>
+<s> Yes: we'll manage it </s>
+<s> He finds out what to do; draws up the orders; and I sign 'em </s>
+<s> Division of labour, Major </s>
+<s> (Bluntschli passes him a paper.) Another one </s>
+<s> Thank you </s>
+<s> (He plants the papers squarely before him; sets his chair carefully parallel to them; and signs with the air of a man resolutely performing a difficult and dangerous feat.) This hand is more accustomed to the sword than to the pen </s>
+<s> PETKOFF </s>
+<s> It's very good of you, Bluntschli, it is indeed, to let yourself be put upon in this way </s>
+<s> Now are you quite sure I can do nothing </s>
+<s> CATHERINE (in a low, warning tone) </s>
+<s> You can stop interrupting, Paul </s>
+<s> PETKOFF (starting and looking round at her) </s>
+<s> Eh </s>
+<s> Oh </s>
+<s> Quite right, my love, quite right </s>
+<s> (He takes his newspaper up, but lets it drop again.) Ah, you haven't been campaigning, Catherine: you don't know how pleasant it is for us to sit here, after a good lunch, with nothing to do but enjoy ourselves </s>
+<s> There's only one thing I want to make me thoroughly comfortable </s>
+<s> CATHERINE </s>
+<s> What is that </s>
+<s> PETKOFF </s>
+<s> My old coat </s>
+<s> I'm not at home in this one: I feel as if I were on parade </s>
+<s> CATHERINE </s>
+<s> My dear Paul, how absurd you are about that old coat </s>
+<s> It must be hanging in the blue closet where you left it </s>
+<s> PETKOFF </s>
+<s> My dear Catherine, I tell you I've looked there </s>
+<s> Am I to believe my own eyes or not </s>
+<s> (Catherine quietly rises and presses the button of the electric bell by the fireplace.) What are you shewing off that bell for </s>
+<s> (She looks at him majestically, and silently resumes her chair and her needlework.) My dear: if you think the obstinacy of your sex can make a coat out of two old dressing gowns of Raina's, your waterproof, and my mackintosh, you're mistaken </s>
+<s> That's exactly what the blue closet contains at present </s>
+<s> (Nicola presents himself.) CATHERINE (unmoved by Petkoff's sally) </s>
+<s> Nicola: go to the blue closet and bring your master's old coat here--the braided one he usually wears in the house </s>
+<s> NICOLA </s>
+<s> Yes, madam </s>
+<s> (Nicola goes out.) PETKOFF </s>
+<s> Catherine </s>
+<s> CATHERINE </s>
+<s> Yes, Paul </s>
+<s> PETKOFF </s>
+<s> I bet you any piece of jewellery you like to order from Sofia against a week's housekeeping money, that the coat isn't there </s>
+<s> CATHERINE </s>
+<s> Done, Paul </s>
+<s> PETKOFF (excited by the prospect of a gamble) </s>
+<s> Come: here's an opportunity for some sport </s>
+<s> Who'll bet on it </s>
+<s> Bluntschli: I'll give you six to one </s>
+<s> BLUNTSCHLI (imperturbably) </s>
+<s> It would be robbing you, Major </s>
+<s> Madame is sure to be right </s>
+<s> (Without looking up, he passes another batch of papers to Sergius.) SERGIUS (also excited) </s>
+<s> Bravo, Switzerland </s>
+<s> Major: I bet my best charger against an Arab mare for Raina that Nicola finds the coat in the blue closet </s>
+<s> PETKOFF (eagerly) </s>
+<s> Your best char-- CATHERINE (hastily interrupting him) </s>
+<s> Don't be foolish, Paul </s>
+<s> An Arabian mare will cost you 50,000 levas </s>
+<s> RAINA (suddenly coming out of her picturesque revery) </s>
+<s> Really, mother, if you are going to take the jewellery, I don't see why you should grudge me my Arab </s>
+<s> (Nicola comes back with the coat and brings it to Petkoff, who can hardly believe his eyes.) CATHERINE </s>
+<s> Where was it, Nicola </s>
+<s> NICOLA </s>
+<s> Hanging in the blue closet, madam </s>
+<s> PETKOFF </s>
+<s> Well, I am d-- CATHERINE (stopping him) </s>
+<s> Paul </s>
+<s> PETKOFF </s>
+<s> I could have sworn it wasn't there </s>
+<s> Age is beginning to tell on me </s>
+<s> I'm getting hallucinations </s>
+<s> (To Nicola.) Here: help me to change </s>
+<s> Excuse me, Bluntschli </s>
+<s> (He begins changing coats, Nicola acting as valet.) Remember: I didn't take that bet of yours, Sergius </s>
+<s> You'd better give Raina that Arab steed yourself, since you've roused her expectations </s>
+<s> Eh, Raina </s>
+<s> (He looks round at her; but she is again rapt in the landscape </s>
+<s> With a little gush of paternal affection and pride, he points her out to them and says) She's dreaming, as usual </s>
+<s> SERGIUS </s>
+<s> Assuredly she shall not be the loser </s>
+<s> PETKOFF </s>
+<s> So much the better for her </s>
+<s> I shan't come off so cheap, I expect </s>
+<s> (The change is now complete </s>
+<s> Nicola goes out with the discarded coat.) Ah, now I feel at home at last </s>
+<s> (He sits down and takes his newspaper with a grunt of relief.) BLUNTSCHLI (to Sergius, handing a paper) </s>
+<s> That's the last order </s>
+<s> PETKOFF (jumping up) </s>
+<s> What </s>
+<s> finished </s>
+<s> BLUNTSCHLI </s>
+<s> Finished </s>
+<s> (Petkoff goes beside Sergius; looks curiously over his left shoulder as he signs; and says with childlike envy) Haven't you anything for me to sign </s>
+<s> BLUNTSCHLI </s>
+<s> Not necessary </s>
+<s> His signature will do </s>
+<s> PETKOFF </s>
+<s> Ah, well, I think we've done a thundering good day's work </s>
+<s> (He goes away from the table.) Can I do anything more </s>
+<s> BLUNTSCHLI </s>
+<s> You had better both see the fellows that are to take these </s>
+<s> (To Sergius.) Pack them off at once; and shew them that I've marked on the orders the time they should hand them in by </s>
+<s> Tell them that if they stop to drink or tell stories--if they're five minutes late, they'll have the skin taken off their backs </s>
+<s> SERGIUS (rising indignantly) </s>
+<s> I'll say so </s>
+<s> And if one of them is man enough to spit in my face for insulting him, I'll buy his discharge and give him a pension </s>
+<s> (He strides out, his humanity deeply outraged.) BLUNTSCHLI (confidentially) </s>
+<s> Just see that he talks to them properly, Major, will you </s>
+<s> PETKOFF (officiously) </s>
+<s> Quite right, Bluntschli, quite right </s>
+<s> I'll see to it </s>
+<s> (He goes to the door importantly, but hesitates on the threshold.) By the bye, Catherine, you may as well come, too </s>
+<s> They'll be far more frightened of you than of me </s>
+<s> CATHERINE (putting down her embroidery) </s>
+<s> I daresay I had better </s>
+<s> You will only splutter at them </s>
+<s> (She goes out, Petkoff holding the door for her and following her.) BLUNTSCHLI </s>
+<s> What a country </s>
+<s> They make cannons out of cherry trees; and the officers send for their wives to keep discipline </s>
+<s> (He begins to fold and docket the papers </s>
+<s> Raina, who has risen from the divan, strolls down the room with her hands clasped behind her, and looks mischievously at him.) RAINA </s>
+<s> You look ever so much nicer than when we last met </s>
+<s> (He looks up, surprised.) What have you done to yourself </s>
+<s> BLUNTSCHLI </s>
+<s> Washed; brushed; good night's sleep and breakfast </s>
+<s> That's all </s>
+<s> RAINA </s>
+<s> Did you get back safely that morning </s>
+<s> BLUNTSCHLI </s>
+<s> Quite, thanks </s>
+<s> RAINA </s>
+<s> Were they angry with you for running away from Sergius's charge </s>
+<s> BLUNTSCHLI </s>
+<s> No, they were glad; because they'd all just run away themselves </s>
+<s> RAINA (going to the table, and leaning over it towards him) </s>
+<s> It must have made a lovely story for them--all that about me and my room </s>
+<s> BLUNTSCHLI </s>
+<s> Capital story </s>
+<s> But I only told it to one of them--a particular friend </s>
+<s> RAINA </s>
+<s> On whose discretion you could absolutely rely </s>
+<s> BLUNTSCHLI </s>
+<s> Absolutely </s>
+<s> RAINA </s>
+<s> Hm </s>
+<s> He told it all to my father and Sergius the day you exchanged the prisoners </s>
+<s> (She turns away and strolls carelessly across to the other side of the room.) BLUNTSCHLI (deeply concerned and half incredulous) </s>
+<s> No </s>
+<s> you don't mean that, do you </s>
+<s> RAINA (turning, with sudden earnestness) </s>
+<s> I do indeed </s>
+<s> But they don't know that it was in this house that you hid </s>
+<s> If Sergius knew, he would challenge you and kill you in a duel </s>
+<s> BLUNTSCHLI </s>
+<s> Bless me </s>
+<s> then don't tell him </s>
+<s> RAINA (full of reproach for his levity) </s>
+<s> Can you realize what it is to me to deceive him </s>
+<s> I want to be quite perfect with Sergius--no meanness, no smallness, no deceit </s>
+<s> My relation to him is the one really beautiful and noble part of my life </s>
+<s> I hope you can understand that </s>
+<s> BLUNTSCHLI (sceptically) </s>
+<s> You mean that you wouldn't like him to find out that the story about the ice pudding was a--a--a--You know </s>
+<s> RAINA (wincing) </s>
+<s> Ah, don't talk of it in that flippant way </s>
+<s> I lied: I know it </s>
+<s> But I did it to save your life </s>
+<s> He would have killed you </s>
+<s> That was the second time I ever uttered a falsehood </s>
+<s> (Bluntschli rises quickly and looks doubtfully and somewhat severely at her.) Do you remember the first time </s>
+<s> BLUNTSCHLI </s>
+<s> I </s>
+<s> No </s>
+<s> Was I present </s>
+<s> RAINA </s>
+<s> Yes; and I told the officer who was searching for you that you were not present </s>
+<s> BLUNTSCHLI </s>
+<s> True </s>
+<s> I should have remembered it </s>
+<s> RAINA (greatly encouraged) </s>
+<s> Ah, it is natural that you should forget it first </s>
+<s> It cost you nothing: it cost me a lie!--a lie! </s>
+<s> (She sits down on the ottoman, looking straight before her with her hands clasped on her knee </s>
+<s> Bluntschli, quite touched, goes to the ottoman with a particularly reassuring and considerate air, and sits down beside her.) BLUNTSCHLI </s>
+<s> My dear young lady, don't let this worry you </s>
+<s> Remember: I'm a soldier </s>
+<s> Now what are the two things that happen to a soldier so often that he comes to think nothing of them </s>
+<s> One is hearing people tell lies (Raina recoils): the other is getting his life saved in all sorts of ways by all sorts of people </s>
+<s> RAINA (rising in indignant protest) </s>
+<s> And so he becomes a creature incapable of faith and of gratitude </s>
+<s> BLUNTSCHLI (making a wry face) </s>
+<s> Do you like gratitude </s>
+<s> I don't </s>
+<s> If pity is akin to love, gratitude is akin to the other thing </s>
+<s> RAINA </s>
+<s> Gratitude </s>
+<s> (Turning on him.) If you are incapable of gratitude you are incapable of any noble sentiment </s>
+<s> Even animals are grateful </s>
+<s> Oh, I see now exactly what you think of me </s>
+<s> You were not surprised to hear me lie </s>
+<s> To you it was something I probably did every day--every hour </s>
+<s> That is how men think of women </s>
+<s> (She walks up the room melodramatically.) BLUNTSCHLI (dubiously) </s>
+<s> There's reason in everything </s>
+<s> You said you'd told only two lies in your whole life </s>
+<s> Dear young lady: isn't that rather a short allowance </s>
+<s> I'm quite a straightforward man myself; but it wouldn't last me a whole morning </s>
+<s> RAINA (staring haughtily at him) </s>
+<s> Do you know, sir, that you are insulting me </s>
+<s> BLUNTSCHLI </s>
+<s> I can't help it </s>
+<s> When you get into that noble attitude and speak in that thrilling voice, I admire you; but I find it impossible to believe a single word you say </s>
+<s> RAINA (superbly) </s>
+<s> Captain Bluntschli </s>
+<s> BLUNTSCHLI (unmoved) </s>
+<s> Yes </s>
+<s> RAINA (coming a little towards him, as if she could not believe her senses) </s>
+<s> Do you mean what you said just now </s>
+<s> Do you know what you said just now </s>
+<s> BLUNTSCHLI </s>
+<s> I do </s>
+<s> RAINA (gasping) </s>
+<s> I </s>
+<s> I!! </s>
+<s> (She points to herself incredulously, meaning "I, Raina Petkoff, tell lies" </s>
+<s> He meets her gaze unflinchingly </s>
+<s> She suddenly sits down beside him, and adds, with a complete change of manner from the heroic to the familiar) How did you find me out </s>
+<s> BLUNTSCHLI (promptly) </s>
+<s> Instinct, dear young lady </s>
+<s> Instinct, and experience of the world </s>
+<s> RAINA (wonderingly) </s>
+<s> Do you know, you are the first man I ever met who did not take me seriously </s>
+<s> BLUNTSCHLI </s>
+<s> You mean, don't you, that I am the first man that has ever taken you quite seriously </s>
+<s> RAINA </s>
+<s> Yes, I suppose I do mean that </s>
+<s> (Cosily, quite at her ease with him.) How strange it is to be talked to in such a way </s>
+<s> You know, I've always gone on like that--I mean the noble attitude and the thrilling voice </s>
+<s> I did it when I was a tiny child to my nurse </s>
+<s> She believed in it </s>
+<s> I do it before my parents </s>
+<s> They believe in it </s>
+<s> I do it before Sergius </s>
+<s> He believes in it </s>
+<s> BLUNTSCHLI </s>
+<s> Yes: he's a little in that line himself, isn't he </s>
+<s> RAINA (startled) </s>
+<s> Do you think so </s>
+<s> BLUNTSCHLI </s>
+<s> You know him better than I do </s>
+<s> RAINA </s>
+<s> I wonder--I wonder is he </s>
+<s> If I thought that-- </s>
+<s> (Discouraged.) Ah, well, what does it matter </s>
+<s> I suppose, now that you've found me out, you despise me </s>
+<s> BLUNTSCHLI (warmly, rising) </s>
+<s> No, my dear young lady, no, no, no a thousand times </s>
+<s> It's part of your youth--part of your charm </s>
+<s> I'm like all the rest of them--the nurse--your parents--Sergius: I'm your infatuated admirer </s>
+<s> RAINA (pleased) </s>
+<s> Really </s>
+<s> BLUNTSCHLI (slapping his breast smartly with his hand, German fashion) </s>
+<s> Hand aufs Herz </s>
+<s> Really and truly </s>
+<s> RAINA (very happy) </s>
+<s> But what did you think of me for giving you my portrait </s>
+<s> BLUNTSCHLI (astonished) </s>
+<s> Your portrait </s>
+<s> You never gave me your portrait </s>
+<s> RAINA (quickly) </s>
+<s> Do you mean to say you never got it </s>
+<s> BLUNTSCHLI </s>
+<s> No </s>
+<s> (He sits down beside her, with renewed interest, and says, with some complacency.) When did you send it to me </s>
+<s> RAINA (indignantly) </s>
+<s> I did not send it to you </s>
+<s> (She turns her head away, and adds, reluctantly.) It was in the pocket of that coat </s>
+<s> BLUNTSCHLI (pursing his lips and rounding his eyes) </s>
+<s> Oh-o-oh </s>
+<s> I never found it </s>
+<s> It must be there still </s>
+<s> RAINA (springing up) </s>
+<s> There still!--for my father to find the first time he puts his hand in his pocket </s>
+<s> Oh, how could you be so stupid </s>
+<s> BLUNTSCHLI (rising also) </s>
+<s> It doesn't matter: it's only a photograph: how can he tell who it was intended for </s>
+<s> Tell him he put it there himself </s>
+<s> RAINA (impatiently) </s>
+<s> Yes, that is so clever--so clever </s>
+<s> What shall I do </s>
+<s> BLUNTSCHLI </s>
+<s> Ah, I see </s>
+<s> You wrote something on it </s>
+<s> That was rash </s>
+<s> RAINA (annoyed almost to tears) </s>
+<s> Oh, to have done such a thing for you, who care no more--except to laugh at me--oh </s>
+<s> Are you sure nobody has touched it </s>
+<s> BLUNTSCHLI </s>
+<s> Well, I can't be quite sure </s>
+<s> You see I couldn't carry it about with me all the time: one can't take much luggage on active service </s>
+<s> RAINA </s>
+<s> What did you do with it </s>
+<s> BLUNTSCHLI </s>
+<s> When I got through to Peerot I had to put it in safe keeping somehow </s>
+<s> I thought of the railway cloak room; but that's the surest place to get looted in modern warfare </s>
+<s> So I pawned it </s>
+<s> RAINA </s>
+<s> Pawned it!! </s>
+<s> BLUNTSCHLI </s>
+<s> I know it doesn't sound nice; but it was much the safest plan </s>
+<s> I redeemed it the day before yesterday </s>
+<s> Heaven only knows whether the pawnbroker cleared out the pockets or not </s>
+<s> RAINA (furious--throwing the words right into his face) </s>
+<s> You have a low, shopkeeping mind </s>
+<s> You think of things that would never come into a gentleman's head </s>
+<s> BLUNTSCHLI (phlegmatically) </s>
+<s> That's the Swiss national character, dear lady </s>
+<s> RAINA </s>
+<s> Oh, I wish I had never met you </s>
+<s> (She flounces away and sits at the window fuming.) (Louka comes in with a heap of letters and telegrams on her salver, and crosses, with her bold, free gait, to the table </s>
+<s> Her left sleeve is looped up to the shoulder with a brooch, shewing her naked arm, with a broad gilt bracelet covering the bruise.) LOUKA (to Bluntschli) </s>
+<s> For you </s>
+<s> (She empties the salver recklessly on the table.) The messenger is waiting </s>
+<s> (She is determined not to be civil to a Servian, even if she must bring him his letters.) BLUNTSCHLI (to Raina) </s>
+<s> Will you excuse me: the last postal delivery that reached me was three weeks ago </s>
+<s> These are the subsequent accumulations </s>
+<s> Four telegrams--a week old </s>
+<s> (He opens one.) Oho </s>
+<s> Bad news </s>
+<s> RAINA (rising and advancing a little remorsefully) </s>
+<s> Bad news </s>
+<s> BLUNTSCHLI </s>
+<s> My father's dead </s>
+<s> (He looks at the telegram with his lips pursed, musing on the unexpected change in his arrangements.) RAINA </s>
+<s> Oh, how very sad </s>
+<s> BLUNTSCHLI </s>
+<s> Yes: I shall have to start for home in an hour </s>
+<s> He has left a lot of big hotels behind him to be looked after </s>
+<s> (Takes up a heavy letter in a long blue envelope.) Here's a whacking letter from the family solicitor </s>
+<s> (He pulls out the enclosures and glances over them.) Great Heavens </s>
+<s> Seventy </s>
+<s> Two hundred </s>
+<s> (In a crescendo of dismay.) Four hundred </s>
+<s> Four thousand! </s>
+<s> Nine thousand six hundred!! </s>
+<s> What on earth shall I do with them all </s>
+<s> RAINA (timidly) </s>
+<s> Nine thousand hotels </s>
+<s> BLUNTSCHLI </s>
+<s> Hotels </s>
+<s> Nonsense </s>
+<s> If you only knew!--oh, it's too ridiculous </s>
+<s> Excuse me: I must give my fellow orders about starting </s>
+<s> (He leaves the room hastily, with the documents in his hand.) LOUKA (tauntingly) </s>
+<s> He has not much heart, that Swiss, though he is so fond of the Servians </s>
+<s> He has not a word of grief for his poor father </s>
+<s> RAINA (bitterly) </s>
+<s> Grief!--a man who has been doing nothing but killing people for years </s>
+<s> What does he care </s>
+<s> What does any soldier care </s>
+<s> (She goes to the door, evidently restraining her tears with difficulty.) LOUKA </s>
+<s> Major Saranoff has been fighting, too; and he has plenty of heart left </s>
+<s> (Raina, at the door, looks haughtily at her and goes out.) Aha </s>
+<s> I thought you wouldn't get much feeling out of your soldier </s>
+<s> (She is following Raina when Nicola enters with an armful of logs for the fire.) NICOLA (grinning amorously at her) </s>
+<s> I've been trying all the afternoon to get a minute alone with you, my girl </s>
+<s> (His countenance changes as he notices her arm.) Why, what fashion is that of wearing your sleeve, child </s>
+<s> LOUKA (proudly) </s>
+<s> My own fashion </s>
+<s> NICOLA </s>
+<s> Indeed </s>
+<s> If the mistress catches you, she'll talk to you </s>
+<s> (He throws the logs down on the ottoman, and sits comfortably beside them.) LOUKA </s>
+<s> Is that any reason why you should take it on yourself to talk to me </s>
+<s> NICOLA </s>
+<s> Come: don't be so contrary with me </s>
+<s> I've some good news for you </s>
+<s> (He takes out some paper money </s>
+<s> Louka, with an eager gleam in her eyes, comes close to look at it.) See, a twenty leva bill </s>
+<s> Sergius gave me that out of pure swagger </s>
+<s> A fool and his money are soon parted </s>
+<s> There's ten levas more </s>
+<s> The Swiss gave me that for backing up the mistress's and Raina's lies about him </s>
+<s> He's no fool, he isn't </s>
+<s> You should have heard old Catherine downstairs as polite as you please to me, telling me not to mind the Major being a little impatient; for they knew what a good servant I was--after making a fool and a liar of me before them all </s>
+<s> The twenty will go to our savings; and you shall have the ten to spend if you'll only talk to me so as to remind me I'm a human being </s>
+<s> I get tired of being a servant occasionally </s>
+<s> LOUKA (scornfully) </s>
+<s> Yes: sell your manhood for thirty levas, and buy me for ten </s>
+<s> Keep your money </s>
+<s> You were born to be a servant </s>
+<s> I was not </s>
+<s> When you set up your shop you will only be everybody's servant instead of somebody's servant </s>
+<s> NICOLA (picking up his logs, and going to the stove) </s>
+<s> Ah, wait till you see </s>
+<s> We shall have our evenings to ourselves; and I shall be master in my own house, I promise you </s>
+<s> (He throws the logs down and kneels at the stove.) LOUKA </s>
+<s> You shall never be master in mine </s>
+<s> (She sits down on Sergius's chair.) NICOLA (turning, still on his knees, and squatting down rather forlornly, on his calves, daunted by her implacable disdain) </s>
+<s> You have a great ambition in you, Louka </s>
+<s> Remember: if any luck comes to you, it was I that made a woman of you </s>
+<s> LOUKA </s>
+<s> You </s>
+<s> NICOLA (with dogged self-assertion) </s>
+<s> Yes, me </s>
+<s> Who was it made you give up wearing a couple of pounds of false black hair on your head and reddening your lips and cheeks like any other Bulgarian girl </s>
+<s> I did </s>
+<s> Who taught you to trim your nails, and keep your hands clean, and be dainty about yourself, like a fine Russian lady </s>
+<s> Me </s>
+<s> do you hear that </s>
+<s> me </s>
+<s> (She tosses her head defiantly; and he rises, ill-humoredly, adding more coolly) I've often thought that if Raina were out of the way, and you just a little less of a fool and Sergius just a little more of one, you might come to be one of my grandest customers, instead of only being my wife and costing me money </s>
+<s> LOUKA </s>
+<s> I believe you would rather be my servant than my husband </s>
+<s> You would make more out of me </s>
+<s> Oh, I know that soul of yours </s>
+<s> NICOLA (going up close to her for greater emphasis) </s>
+<s> Never you mind my soul; but just listen to my advice </s>
+<s> If you want to be a lady, your present behaviour to me won't do at all, unless when we're alone </s>
+<s> It's too sharp and imprudent; and impudence is a sort of familiarity: it shews affection for me </s>
+<s> And don't you try being high and mighty with me either </s>
+<s> You're like all country girls: you think it's genteel to treat a servant the way I treat a stable-boy </s>
+<s> That's only your ignorance; and don't you forget it </s>
+<s> And don't be so ready to defy everybody </s>
+<s> Act as if you expected to have your own way, not as if you expected to be ordered about </s>
+<s> The way to get on as a lady is the same as the way to get on as a servant: you've got to know your place; that's the secret of it </s>
+<s> And you may depend on me to know my place if you get promoted </s>
+<s> Think over it, my girl </s>
+<s> I'll stand by you: one servant should always stand by another </s>
+<s> LOUKA (rising impatiently) </s>
+<s> Oh, I must behave in my own way </s>
+<s> You take all the courage out of me with your cold-blooded wisdom </s>
+<s> Go and put those logs on the fire: that's the sort of thing you understand </s>
+<s> (Before Nicola can retort, Sergius comes in </s>
+<s> He checks himself a moment on seeing Louka; then goes to the stove.) SERGIUS (to Nicola) </s>
+<s> I am not in the way of your work, I hope </s>
+<s> NICOLA (in a smooth, elderly manner) </s>
+<s> Oh, no, sir, thank you kindly </s>
+<s> I was only speaking to this foolish girl about her habit of running up here to the library whenever she gets a chance, to look at the books </s>
+<s> That's the worst of her education, sir: it gives her habits above her station </s>
+<s> (To Louka.) Make that table tidy, Louka, for the Major </s>
+<s> (He goes out sedately.) (Louka, without looking at Sergius, begins to arrange the papers on the table </s>
+<s> He crosses slowly to her, and studies the arrangement of her sleeve reflectively.) SERGIUS </s>
+<s> Let me see: is there a mark there </s>
+<s> (He turns up the bracelet and sees the bruise made by his grasp </s>
+<s> She stands motionless, not looking at him: fascinated, but on her guard.) Ffff </s>
+<s> Does it hurt </s>
+<s> LOUKA </s>
+<s> Yes </s>
+<s> SERGIUS </s>
+<s> Shall I cure it </s>
+<s> LOUKA (instantly withdrawing herself proudly, but still not looking at him) </s>
+<s> No </s>
+<s> You cannot cure it now </s>
+<s> SERGIUS (masterfully) </s>
+<s> Quite sure </s>
+<s> (He makes a movement as if to take her in his arms.) LOUKA </s>
+<s> Don't trifle with me, please </s>
+<s> An officer should not trifle with a servant </s>
+<s> SERGIUS (touching the arm with a merciless stroke of his forefinger) </s>
+<s> That was no trifle, Louka </s>
+<s> LOUKA </s>
+<s> No </s>
+<s> (Looking at him for the first time.) Are you sorry </s>
+<s> SERGIUS (with measured emphasis, folding his arms) </s>
+<s> I am never sorry </s>
+<s> LOUKA (wistfully) </s>
+<s> I wish I could believe a man could be so unlike a woman as that </s>
+<s> I wonder are you really a brave man </s>
+<s> SERGIUS (unaffectedly, relaxing his attitude) </s>
+<s> Yes: I am a brave man </s>
+<s> My heart jumped like a woman's at the first shot; but in the charge I found that I was brave </s>
+<s> Yes: that at least is real about me </s>
+<s> LOUKA </s>
+<s> Did you find in the charge that the men whose fathers are poor like mine were any less brave than the men who are rich like you </s>
+<s> SERGIUS (with bitter levity.) Not a bit </s>
+<s> They all slashed and cursed and yelled like heroes </s>
+<s> Psha </s>
+<s> the courage to rage and kill is cheap </s>
+<s> I have an English bull terrier who has as much of that sort of courage as the whole Bulgarian nation, and the whole Russian nation at its back </s>
+<s> But he lets my groom thrash him, all the same </s>
+<s> That's your soldier all over </s>
+<s> No, Louka, your poor men can cut throats; but they are afraid of their officers; they put up with insults and blows; they stand by and see one another punished like children---aye, and help to do it when they are ordered </s>
+<s> And the officers!---well (with a short, bitter laugh) I am an officer </s>
+<s> Oh, (fervently) give me the man who will defy to the death any power on earth or in heaven that sets itself up against his own will and conscience: he alone is the brave man </s>
+<s> LOUKA </s>
+<s> How easy it is to talk </s>
+<s> Men never seem to me to grow up: they all have schoolboy's ideas </s>
+<s> You don't know what true courage is </s>
+<s> SERGIUS (ironically) </s>
+<s> Indeed </s>
+<s> I am willing to be instructed </s>
+<s> LOUKA </s>
+<s> Look at me </s>
+<s> how much am I allowed to have my own will </s>
+<s> I have to get your room ready for you--to sweep and dust, to fetch and carry </s>
+<s> How could that degrade me if it did not degrade you to have it done for you </s>
+<s> But (with subdued passion) if I were Empress of Russia, above everyone in the world, then--ah, then, though according to you I could shew no courage at all; you should see, you should see </s>
+<s> SERGIUS </s>
+<s> What would you do, most noble Empress </s>
+<s> LOUKA </s>
+<s> I would marry the man I loved, which no other queen in Europe has the courage to do </s>
+<s> If I loved you, though you would be as far beneath me as I am beneath you, I would dare to be the equal of my inferior </s>
+<s> Would you dare as much if you loved me </s>
+<s> No: if you felt the beginnings of love for me you would not let it grow </s>
+<s> You dare not: you would marry a rich man's daughter because you would be afraid of what other people would say of you </s>
+<s> SERGIUS (carried away) </s>
+<s> You lie: it is not so, by all the stars </s>
+<s> If I loved you, and I were the Czar himself, I would set you on the throne by my side </s>
+<s> You know that I love another woman, a woman as high above you as heaven is above earth </s>
+<s> And you are jealous of her </s>
+<s> LOUKA </s>
+<s> I have no reason to be </s>
+<s> She will never marry you now </s>
+<s> The man I told you of has come back </s>
+<s> She will marry the Swiss </s>
+<s> SERGIUS (recoiling) </s>
+<s> The Swiss </s>
+<s> LOUKA </s>
+<s> A man worth ten of you </s>
+<s> Then you can come to me; and I will refuse you </s>
+<s> You are not good enough for me </s>
+<s> (She turns to the door.) SERGIUS (springing after her and catching her fiercely in his arms) </s>
+<s> I will kill the Swiss; and afterwards I will do as I please with you </s>
+<s> LOUKA (in his arms, passive and steadfast) </s>
+<s> The Swiss will kill you, perhaps </s>
+<s> He has beaten you in love </s>
+<s> He may beat you in war </s>
+<s> SERGIUS (tormentedly) </s>
+<s> Do you think I believe that she--she </s>
+<s> whose worst thoughts are higher than your best ones, is capable of trifling with another man behind my back </s>
+<s> LOUKA </s>
+<s> Do you think she would believe the Swiss if he told her now that I am in your arms </s>
+<s> SERGIUS (releasing her in despair) </s>
+<s> Damnation </s>
+<s> Oh, damnation </s>
+<s> Mockery, mockery everywhere: everything I think is mocked by everything I do </s>
+<s> (He strikes himself frantically on the breast.) Coward, liar, fool </s>
+<s> Shall I kill myself like a man, or live and pretend to laugh at myself </s>
+<s> (She again turns to go.) Louka </s>
+<s> (She stops near the door.) Remember: you belong to me </s>
+<s> LOUKA (quietly) </s>
+<s> What does that mean--an insult </s>
+<s> SERGIUS (commandingly) </s>
+<s> It means that you love me, and that I have had you here in my arms, and will perhaps have you there again </s>
+<s> Whether that is an insult I neither know nor care: take it as you please </s>
+<s> But (vehemently) I will not be a coward and a trifler </s>
+<s> If I choose to love you, I dare marry you, in spite of all Bulgaria </s>
+<s> If these hands ever touch you again, they shall touch my affianced bride </s>
+<s> LOUKA </s>
+<s> We shall see whether you dare keep your word </s>
+<s> But take care </s>
+<s> I will not wait long </s>
+<s> SERGIUS (again folding his arms and standing motionless in the middle of the room) </s>
+<s> Yes, we shall see </s>
+<s> And you shall wait my pleasure </s>
+<s> (Bluntschli, much preoccupied, with his papers still in his hand, enters, leaving the door open for Louka to go out </s>
+<s> He goes across to the table, glancing at her as he passes </s>
+<s> Sergius, without altering his resolute attitude, watches him steadily </s>
+<s> Louka goes out, leaving the door open.) BLUNTSCHLI (absently, sitting at the table as before, and putting down his papers) </s>
+<s> That's a remarkable looking young woman </s>
+<s> SERGIUS (gravely, without moving) </s>
+<s> Captain Bluntschli </s>
+<s> BLUNTSCHLI </s>
+<s> Eh </s>
+<s> SERGIUS </s>
+<s> You have deceived me </s>
+<s> You are my rival </s>
+<s> I brook no rivals </s>
+<s> At six o'clock I shall be in the drilling-ground on the Klissoura road, alone, on horseback, with my sabre </s>
+<s> Do you understand </s>
+<s> BLUNTSCHLI (staring, but sitting quite at his ease) </s>
+<s> Oh, thank you: that's a cavalry man's proposal </s>
+<s> I'm in the artillery; and I have the choice of weapons </s>
+<s> If I go, I shall take a machine gun </s>
+<s> And there shall be no mistake about the cartridges this time </s>
+<s> SERGIUS (flushing, but with deadly coldness) </s>
+<s> Take care, sir </s>
+<s> It is not our custom in Bulgaria to allow invitations of that kind to be trifled with </s>
+<s> BLUNTSCHLI (warmly) </s>
+<s> Pooh </s>
+<s> don't talk to me about Bulgaria </s>
+<s> You don't know what fighting is </s>
+<s> But have it your own way </s>
+<s> Bring your sabre along </s>
+<s> I'll meet you </s>
+<s> SERGIUS (fiercely delighted to find his opponent a man of spirit) </s>
+<s> Well said, Switzer </s>
+<s> Shall I lend you my best horse </s>
+<s> BLUNTSCHLI </s>
+<s> No: damn your horse!---thank you all the same, my dear fellow </s>
+<s> (Raina comes in, and hears the next sentence.) I shall fight you on foot </s>
+<s> Horseback's too dangerous: I don't want to kill you if I can help it </s>
+<s> RAINA (hurrying forward anxiously) </s>
+<s> I have heard what Captain Bluntschli said, Sergius </s>
+<s> You are going to fight </s>
+<s> Why </s>
+<s> (Sergius turns away in silence, and goes to the stove, where he stands watching her as she continues, to Bluntschli) What about </s>
+<s> BLUNTSCHLI </s>
+<s> I don't know: he hasn't told me </s>
+<s> Better not interfere, dear young lady </s>
+<s> No harm will be done: I've often acted as sword instructor </s>
+<s> He won't be able to touch me; and I'll not hurt him </s>
+<s> It will save explanations </s>
+<s> In the morning I shall be off home; and you'll never see me or hear of me again </s>
+<s> You and he will then make it up and live happily ever after </s>
+<s> RAINA (turning away deeply hurt, almost with a sob in her voice) </s>
+<s> I never said I wanted to see you again </s>
+<s> SERGIUS (striding forward) </s>
+<s> Ha </s>
+<s> That is a confession </s>
+<s> RAINA (haughtily) </s>
+<s> What do you mean </s>
+<s> SERGIUS </s>
+<s> You love that man </s>
+<s> RAINA (scandalized) </s>
+<s> Sergius </s>
+<s> SERGIUS </s>
+<s> You allow him to make love to you behind my back, just as you accept me as your affianced husband behind his </s>
+<s> Bluntschli: you knew our relations; and you deceived me </s>
+<s> It is for that that I call you to account, not for having received favours that I never enjoyed </s>
+<s> BLUNTSCHLI (jumping up indignantly) </s>
+<s> Stuff </s>
+<s> Rubbish </s>
+<s> I have received no favours </s>
+<s> Why, the young lady doesn't even know whether I'm married or not </s>
+<s> RAINA (forgetting herself) </s>
+<s> Oh </s>
+<s> (Collapsing on the ottoman.) Are you </s>
+<s> SERGIUS </s>
+<s> You see the young lady's concern, Captain Bluntschli </s>
+<s> Denial is useless </s>
+<s> You have enjoyed the privilege of being received in her own room, late at night-- BLUNTSCHLI (interrupting him pepperily) </s>
+<s> Yes; you blockhead </s>
+<s> She received me with a pistol at her head </s>
+<s> Your cavalry were at my heels </s>
+<s> I'd have blown out her brains if she'd uttered a cry </s>
+<s> SERGIUS (taken aback) </s>
+<s> Bluntschli </s>
+<s> Raina: is this true </s>
+<s> RAINA (rising in wrathful majesty) </s>
+<s> Oh, how dare you, how dare you </s>
+<s> BLUNTSCHLI </s>
+<s> Apologize, man, apologize </s>
+<s> (He resumes his seat at the table.) SERGIUS (with the old measured emphasis, folding his arms) </s>
+<s> I never apologize </s>
+<s> RAINA (passionately) </s>
+<s> This is the doing of that friend of yours, Captain Bluntschli </s>
+<s> It is he who is spreading this horrible story about me </s>
+<s> (She walks about excitedly.) BLUNTSCHLI </s>
+<s> No: he's dead--burnt alive </s>
+<s> RAINA (stopping, shocked) </s>
+<s> Burnt alive </s>
+<s> BLUNTSCHLI </s>
+<s> Shot in the hip in a wood yard </s>
+<s> Couldn't drag himself out </s>
+<s> Your fellows' shells set the timber on fire and burnt him, with half a dozen other poor devils in the same predicament </s>
+<s> RAINA </s>
+<s> How horrible </s>
+<s> SERGIUS </s>
+<s> And how ridiculous </s>
+<s> Oh, war </s>
+<s> war </s>
+<s> the dream of patriots and heroes </s>
+<s> A fraud, Bluntschli, a hollow sham, like love </s>
+<s> RAINA (outraged) </s>
+<s> Like love </s>
+<s> You say that before me </s>
+<s> BLUNTSCHLI </s>
+<s> Come, Saranoff: that matter is explained </s>
+<s> SERGIUS </s>
+<s> A hollow sham, I say </s>
+<s> Would you have come back here if nothing had passed between you, except at the muzzle of your pistol </s>
+<s> Raina is mistaken about our friend who was burnt </s>
+<s> He was not my informant </s>
+<s> RAINA </s>
+<s> Who then </s>
+<s> (Suddenly guessing the truth.) Ah, Louka </s>
+<s> my maid, my servant </s>
+<s> You were with her this morning all that time after---after---Oh, what sort of god is this I have been worshipping </s>
+<s> (He meets her gaze with sardonic enjoyment of her disenchantment </s>
+<s> Angered all the more, she goes closer to him, and says, in a lower, intenser tone) Do you know that I looked out of the window as I went upstairs, to have another sight of my hero; and I saw something that I did not understand then </s>
+<s> I know now that you were making love to her </s>
+<s> SERGIUS (with grim humor) </s>
+<s> You saw that </s>
+<s> RAINA </s>
+<s> Only too well </s>
+<s> (She turns away, and throws herself on the divan under the centre window, quite overcome.) SERGIUS (cynically) </s>
+<s> Raina: our romance is shattered </s>
+<s> Life's a farce </s>
+<s> BLUNTSCHLI (to Raina, goodhumoredly) </s>
+<s> You see: he's found himself out now </s>
+<s> SERGIUS </s>
+<s> Bluntschli: I have allowed you to call me a blockhead </s>
+<s> You may now call me a coward as well </s>
+<s> I refuse to fight you </s>
+<s> Do you know why </s>
+<s> BLUNTSCHLI </s>
+<s> No; but it doesn't matter </s>
+<s> I didn't ask the reason when you cried on; and I don't ask the reason now that you cry off </s>
+<s> I'm a professional soldier </s>
+<s> I fight when I have to, and am very glad to get out of it when I haven't to </s>
+<s> You're only an amateur: you think fighting's an amusement </s>
+<s> SERGIUS </s>
+<s> You shall hear the reason all the same, my professional </s>
+<s> The reason is that it takes two men--real men--men of heart, blood and honor--to make a genuine combat </s>
+<s> I could no more fight with you than I could make love to an ugly woman </s>
+<s> You've no magnetism: you're not a man, you're a machine </s>
+<s> BLUNTSCHLI (apologetically) </s>
+<s> Quite true, quite true </s>
+<s> I always was that sort of chap </s>
+<s> I'm very sorry </s>
+<s> But now that you've found that life isn't a farce, but something quite sensible and serious, what further obstacle is there to your happiness </s>
+<s> RAINA (riling) </s>
+<s> You are very solicitous about my happiness and his </s>
+<s> Do you forget his new love--Louka </s>
+<s> It is not you that he must fight now, but his rival, Nicola </s>
+<s> SERGIUS </s>
+<s> Rival! </s>
+<s> (Striking his forehead.) RAINA </s>
+<s> Did you not know that they are engaged </s>
+<s> SERGIUS </s>
+<s> Nicola </s>
+<s> Are fresh abysses opening </s>
+<s> Nicola! </s>
+<s> RAINA (sarcastically) </s>
+<s> A shocking sacrifice, isn't it </s>
+<s> Such beauty, such intellect, such modesty, wasted on a middle-aged servant man </s>
+<s> Really, Sergius, you cannot stand by and allow such a thing </s>
+<s> It would be unworthy of your chivalry </s>
+<s> SERGIUS (losing all self-control) </s>
+<s> Viper </s>
+<s> Viper </s>
+<s> (He rushes to and fro, raging.) BLUNTSCHLI </s>
+<s> Look here, Saranoff; you're getting the worst of this </s>
+<s> RAINA (getting angrier) </s>
+<s> Do you realize what he has done, Captain Bluntschli </s>
+<s> He has set this girl as a spy on us; and her reward is that he makes love to her </s>
+<s> SERGIUS </s>
+<s> False </s>
+<s> Monstrous </s>
+<s> RAINA </s>
+<s> Monstrous </s>
+<s> (Confronting him.) Do you deny that she told you about Captain Bluntschli being in my room </s>
+<s> SERGIUS </s>
+<s> No; but-- RAINA (interrupting) </s>
+<s> Do you deny that you were making love to her when she told you </s>
+<s> SERGIUS </s>
+<s> No; but I tell you-- RAINA (cutting him short contemptuously) </s>
+<s> It is unnecessary to tell us anything more </s>
+<s> That is quite enough for us </s>
+<s> (She turns her back on him and sweeps majestically back to the window.) BLUNTSCHLI (quietly, as Sergius, in an agony of mortification, rinks on the ottoman, clutching his averted head between his fists) </s>
+<s> I told you you were getting the worst of it, Saranoff </s>
+<s> SERGIUS </s>
+<s> Tiger cat </s>
+<s> RAINA (running excitedly to Bluntschli) </s>
+<s> You hear this man calling me names, Captain Bluntschli </s>
+<s> BLUNTSCHLI </s>
+<s> What else can he do, dear lady </s>
+<s> He must defend himself somehow </s>
+<s> Come (very persuasively), don't quarrel </s>
+<s> What good does it do </s>
+<s> (Raina, with a gasp, sits down on the ottoman, and after a vain effort to look vexedly at Bluntschli, she falls a victim to her sense of humor, and is attacked with a disposition to laugh.) SERGIUS </s>
+<s> Engaged to Nicola </s>
+<s> (He rises.) Ha </s>
+<s> ha </s>
+<s> (Going to the stove and standing with his back to it.) Ah, well, Bluntschli, you are right to take this huge imposture of a world coolly </s>
+<s> RAINA (to Bluntschli with an intuitive guess at his state of mind) </s>
+<s> I daresay you think us a couple of grown up babies, don't you </s>
+<s> SERGIUS (grinning a little) </s>
+<s> He does, he does </s>
+<s> Swiss civilization nursetending Bulgarian barbarism, eh </s>
+<s> BLUNTSCHLI (blushing) </s>
+<s> Not at all, I assure you </s>
+<s> I'm only very glad to get you two quieted </s>
+<s> There now, let's be pleasant and talk it over in a friendly way </s>
+<s> Where is this other young lady </s>
+<s> RAINA </s>
+<s> Listening at the door, probably </s>
+<s> SERGIUS (shivering as if a bullet had struck him, and speaking with quiet but deep indignation) </s>
+<s> I will prove that that, at least, is a calumny </s>
+<s> (He goes with dignity to the door and opens it </s>
+<s> A yell of fury bursts from him as he looks out </s>
+<s> He darts into the passage, and returns dragging in Louka, whom he flings against the table, R., as he cries) Judge her, Bluntschli--you, the moderate, cautious man: judge the eavesdropper </s>
+<s> (Louka stands her ground, proud and silent.) BLUNTSCHLI (shaking his head) </s>
+<s> I mustn't judge her </s>
+<s> I once listened myself outside a tent when there was a mutiny brewing </s>
+<s> It's all a question of the degree of provocation </s>
+<s> My life was at stake </s>
+<s> LOUKA </s>
+<s> My love was at stake </s>
+<s> (Sergius flinches, ashamed of her in spite of himself.) I am not ashamed </s>
+<s> RAINA (contemptuously) </s>
+<s> Your love </s>
+<s> Your curiosity, you mean </s>
+<s> LOUKA (facing her and retorting her contempt with interest) </s>
+<s> My love, stronger than anything you can feel, even for your chocolate cream soldier </s>
+<s> SERGIUS (with quick suspicion--to Louka) </s>
+<s> What does that mean </s>
+<s> LOUKA (fiercely) </s>
+<s> It means-- SERGIUS (interrupting her slightingly) </s>
+<s> Oh, I remember, the ice pudding </s>
+<s> A paltry taunt, girl </s>
+<s> (Major Petkoff enters, in his shirtsleeves.) PETKOFF </s>
+<s> Excuse my shirtsleeves, gentlemen </s>
+<s> Raina: somebody has been wearing that coat of mine: I'll swear it--somebody with bigger shoulders than mine </s>
+<s> It's all burst open at the back </s>
+<s> Your mother is mending it </s>
+<s> I wish she'd make haste </s>
+<s> I shall catch cold </s>
+<s> (He looks more attentively at them.) Is anything the matter </s>
+<s> RAINA </s>
+<s> No </s>
+<s> (She sits down at the stove with a tranquil air.) SERGIUS </s>
+<s> Oh, no </s>
+<s> (He sits down at the end of the table, as at first.) BLUNTSCHLI (who is already seated) </s>
+<s> Nothing, nothing </s>
+<s> PETKOFF (sitting down on the ottoman in his old place) </s>
+<s> That's all right </s>
+<s> (He notices Louka.) Anything the matter, Louka </s>
+<s> LOUKA </s>
+<s> No, sir </s>
+<s> PETKOFF (genially) </s>
+<s> That's all right </s>
+<s> (He sneezes.) Go and ask your mistress for my coat, like a good girl, will you </s>
+<s> (She turns to obey; but Nicola enters with the coat; and she makes a pretence of having business in the room by taking the little table with the hookah away to the wall near the windows.) RAINA (rising quickly, as she sees the coat on Nicola's arm) </s>
+<s> Here it is, papa </s>
+<s> Give it to me, Nicola; and do you put some more wood on the fire </s>
+<s> (She takes the coat, and brings it to the Major, who stands up to put it on </s>
+<s> Nicola attends to the fire.) PETKOFF (to Raina, teasing her affectionately) </s>
+<s> Aha </s>
+<s> Going to be very good to poor old papa just for one day after his return from the wars, eh </s>
+<s> RAINA (with solemn reproach) </s>
+<s> Ah, how can you say that to me, father </s>
+<s> PETKOFF </s>
+<s> Well, well, only a joke, little one </s>
+<s> Come, give me a kiss </s>
+<s> (She kisses him.) Now give me the coat </s>
+<s> RAINA </s>
+<s> Now, I am going to put it on for you </s>
+<s> Turn your back </s>
+<s> (He turns his back and feels behind him with his arms for the sleeves </s>
+<s> She dexterously takes the photograph from the pocket and throws it on the table before Bluntschli, who covers it with a sheet of paper under the very nose of Sergius, who looks on amazed, with his suspicions roused in the highest degree </s>
+<s> She then helps Petkoff on with his coat.) There, dear </s>
+<s> Now are you comfortable </s>
+<s> PETKOFF </s>
+<s> Quite, little love </s>
+<s> Thanks </s>
+<s> (He sits down; and Raina returns to her seat near the stove.) Oh, by the bye, I've found something funny </s>
+<s> What's the meaning of this </s>
+<s> (He put his hand into the picked pocket.) Eh </s>
+<s> Hallo </s>
+<s> (He tries the other pocket.) Well, I could have sworn--(Much puzzled, he tries the breast pocket.) I wonder--(Tries the original pocket.) Where can it--(A light flashes on him; he rises, exclaiming) Your mother's taken it </s>
+<s> RAINA (very red) </s>
+<s> Taken what </s>
+<s> PETKOFF </s>
+<s> Your photograph, with the inscription: "Raina, to her Chocolate Cream Soldier--a souvenir" </s>
+<s> Now you know there's something more in this than meets the eye; and I'm going to find it out </s>
+<s> (Shouting) Nicola </s>
+<s> NICOLA (dropping a log, and turning) </s>
+<s> Sir </s>
+<s> PETKOFF </s>
+<s> Did you spoil any pastry of Miss Raina's this morning </s>
+<s> NICOLA </s>
+<s> You heard Miss Raina say that I did, sir </s>
+<s> PETKOFF </s>
+<s> I know that, you idiot </s>
+<s> Was it true </s>
+<s> NICOLA </s>
+<s> I am sure Miss Raina is incapable of saying anything that is not true, sir </s>
+<s> PETKOFF </s>
+<s> Are you </s>
+<s> Then I'm not </s>
+<s> (Turning to the others.) Come: do you think I don't see it all </s>
+<s> (Goes to Sergius, and slaps him on the shoulder.) Sergius: you're the chocolate cream soldier, aren't you </s>
+<s> SERGIUS (starting up) </s>
+<s> I </s>
+<s> a chocolate cream soldier </s>
+<s> Certainly not </s>
+<s> PETKOFF </s>
+<s> Not </s>
+<s> (He looks at them </s>
+<s> They are all very serious and very conscious.) Do you mean to tell me that Raina sends photographic souvenirs to other men </s>
+<s> SERGIUS (enigmatically) </s>
+<s> The world is not such an innocent place as we used to think, Petkoff </s>
+<s> BLUNTSCHLI (rising) </s>
+<s> It's all right, Major </s>
+<s> I'm the chocolate cream soldier </s>
+<s> (Petkoff and Sergius are equally astonished.) The gracious young lady saved my life by giving me chocolate creams when I was starving--shall I ever forget their flavour </s>
+<s> My late friend Stolz told you the story at Peerot </s>
+<s> I was the fugitive </s>
+<s> PETKOFF </s>
+<s> You </s>
+<s> (He gasps.) Sergius: do you remember how those two women went on this morning when we mentioned it </s>
+<s> (Sergius smiles cynically </s>
+<s> Petkoff confronts Raina severely.) You're a nice young woman, aren't you </s>
+<s> RAINA (bitterly) </s>
+<s> Major Saranoff has changed his mind </s>
+<s> And when I wrote that on the photograph, I did not know that Captain Bluntschli was married </s>
+<s> BLUNTSCHLI (much startled protesting vehemently) </s>
+<s> I'm not married </s>
+<s> RAINA (with deep reproach) </s>
+<s> You said you were </s>
+<s> BLUNTSCHLI </s>
+<s> I did not </s>
+<s> I positively did not </s>
+<s> I never was married in my life </s>
+<s> PETKOFF (exasperated) </s>
+<s> Raina: will you kindly inform me, if I am not asking too much, which gentleman you are engaged to </s>
+<s> RAINA </s>
+<s> To neither of them </s>
+<s> This young lady (introducing Louka, who faces them all proudly) is the object of Major Saranoff's affections at present </s>
+<s> PETKOFF </s>
+<s> Louka </s>
+<s> Are you mad, Sergius </s>
+<s> Why, this girl's engaged to Nicola </s>
+<s> NICOLA (coming forward ) </s>
+<s> I beg your pardon, sir </s>
+<s> There is a mistake </s>
+<s> Louka is not engaged to me </s>
+<s> PETKOFF </s>
+<s> Not engaged to you, you scoundrel </s>
+<s> Why, you had twenty-five levas from me on the day of your betrothal; and she had that gilt bracelet from Miss Raina </s>
+<s> NICOLA (with cool unction) </s>
+<s> We gave it out so, sir </s>
+<s> But it was only to give Louka protection </s>
+<s> She had a soul above her station; and I have been no more than her confidential servant </s>
+<s> I intend, as you know, sir, to set up a shop later on in Sofia; and I look forward to her custom and recommendation should she marry into the nobility </s>
+<s> (He goes out with impressive discretion, leaving them all staring after him.) PETKOFF (breaking the silence) </s>
+<s> Well, I am---hm </s>
+<s> SERGIUS </s>
+<s> This is either the finest heroism or the most crawling baseness </s>
+<s> Which is it, Bluntschli </s>
+<s> BLUNTSCHLI </s>
+<s> Never mind whether it's heroism or baseness </s>
+<s> Nicola's the ablest man I've met in Bulgaria </s>
+<s> I'll make him manager of a hotel if he can speak French and German </s>
+<s> LOUKA (suddenly breaking out at Sergius) </s>
+<s> I have been insulted by everyone here </s>
+<s> You set them the example </s>
+<s> You owe me an apology </s>
+<s> (Sergius immediately, like a repeating clock of which the spring has been touched, begins to fold his arms.) BLUNTSCHLI (before he can speak) </s>
+<s> It's no use </s>
+<s> He never apologizes </s>
+<s> LOUKA </s>
+<s> Not to you, his equal and his enemy </s>
+<s> To me, his poor servant, he will not refuse to apologize </s>
+<s> SERGIUS (approvingly) </s>
+<s> You are right </s>
+<s> (He bends his knee in his grandest manner.) Forgive me </s>
+<s> LOUKA </s>
+<s> I forgive you </s>
+<s> (She timidly gives him her hand, which he kisses.) That touch makes me your affianced wife </s>
+<s> SERGIUS (springing up) </s>
+<s> Ah, I forgot that </s>
+<s> LOUKA (coldly) </s>
+<s> You can withdraw if you like </s>
+<s> SERGIUS </s>
+<s> Withdraw </s>
+<s> Never </s>
+<s> You belong to me </s>
+<s> (He puts his arm about her and draws her to him.) (Catherine comes in and finds Louka in Sergius's arms, and all the rest gazing at them in bewildered astonishment.) CATHERINE </s>
+<s> What does this mean </s>
+<s> (Sergius releases Louka.) PETKOFF </s>
+<s> Well, my dear, it appears that Sergius is going to marry Louka instead of Raina </s>
+<s> (She is about to break out indignantly at him: he stops her by exclaiming testily.) Don't blame me: I've nothing to do with it </s>
+<s> (He retreats to the stove.) CATHERINE </s>
+<s> Marry Louka </s>
+<s> Sergius: you are bound by your word to us </s>
+<s> SERGIUS (folding his arms) </s>
+<s> Nothing binds me </s>
+<s> BLUNTSCHLI (much pleased by this piece of common sense) </s>
+<s> Saranoff: your hand </s>
+<s> My congratulations </s>
+<s> These heroics of yours have their practical side after all </s>
+<s> (To Louka.) Gracious young lady: the best wishes of a good Republican </s>
+<s> (He kisses her hand, to Raina's great disgust.) CATHERINE (threateningly) </s>
+<s> Louka: you have been telling stories </s>
+<s> LOUKA </s>
+<s> I have done Raina no harm </s>
+<s> CATHERINE (haughtily) </s>
+<s> Raina </s>
+<s> (Raina is equally indignant at the liberty.) LOUKA </s>
+<s> I have a right to call her Raina: she calls me Louka </s>
+<s> I told Major Saranoff she would never marry him if the Swiss gentleman came back </s>
+<s> BLUNTSCHLI (surprised) </s>
+<s> Hallo </s>
+<s> LOUKA (turning to Raina) </s>
+<s> I thought you were fonder of him than of Sergius </s>
+<s> You know best whether I was right </s>
+<s> BLUNTSCHLI </s>
+<s> What nonsense </s>
+<s> I assure you, my dear Major, my dear Madame, the gracious young lady simply saved my life, nothing else </s>
+<s> She never cared two straws for me </s>
+<s> Why, bless my heart and soul, look at the young lady and look at me </s>
+<s> She, rich, young, beautiful, with her imagination full of fairy princes and noble natures and cavalry charges and goodness knows what </s>
+<s> And I, a common-place Swiss soldier who hardly knows what a decent life is after fifteen years of barracks and battles--a vagabond--a man who has spoiled all his chances in life through an incurably romantic disposition--a man-- SERGIUS (starting as if a needle had pricked him and interrupting Bluntschli in incredulous amazement) </s>
+<s> Excuse me, Bluntschli: what did you say had spoiled your chances in life </s>
+<s> BLUNTSCHLI (promptly) </s>
+<s> An incurably romantic disposition </s>
+<s> I ran away from home twice when I was a boy </s>
+<s> I went into the army instead of into my father's business </s>
+<s> I climbed the balcony of this house when a man of sense would have dived into the nearest cellar </s>
+<s> I came sneaking back here to have another look at the young lady when any other man of my age would have sent the coat back-- PETKOFF </s>
+<s> My coat </s>
+<s> BLUNTSCHLI.--Yes: that's the coat I mean--would have sent it back and gone quietly home </s>
+<s> Do you suppose I am the sort of fellow a young girl falls in love with </s>
+<s> Why, look at our ages </s>
+<s> I'm thirty-four: I don't suppose the young lady is much over seventeen </s>
+<s> (This estimate produces a marked sensation, all the rest turning and staring at one another </s>
+<s> He proceeds innocently.) All that adventure which was life or death to me, was only a schoolgirl's game to her--chocolate creams and hide and seek </s>
+<s> Here's the proof </s>
+<s> (He takes the photograph from the table.) Now, I ask you, would a woman who took the affair seriously have sent me this and written on it: "Raina, to her chocolate cream soldier--a souvenir" </s>
+<s> (He exhibits the photograph triumphantly, as if it settled the matter beyond all possibility of refutation.) PETKOFF </s>
+<s> That's what I was looking for </s>
+<s> How the deuce did it get there </s>
+<s> BLUNTSCHLI (to Raina complacently) </s>
+<s> I have put everything right, I hope, gracious young lady </s>
+<s> RAINA (in uncontrollable vexation) </s>
+<s> I quite agree with your account of yourself </s>
+<s> You are a romantic idiot </s>
+<s> (Bluntschli is unspeakably taken aback.) Next time I hope you will know the difference between a schoolgirl of seventeen and a woman of twenty-three </s>
+<s> BLUNTSCHLI (stupefied) </s>
+<s> Twenty-three </s>
+<s> (She snaps the photograph contemptuously from his hand; tears it across; and throws the pieces at his feet.) SERGIUS (with grim enjoyment of Bluntschli's discomfiture) </s>
+<s> Bluntschli: my one last belief is gone </s>
+<s> Your sagacity is a fraud, like all the other things </s>
+<s> You have less sense than even I have </s>
+<s> BLUNTSCHLI (overwhelmed) </s>
+<s> Twenty-three </s>
+<s> Twenty-three! </s>
+<s> (He considers.) Hm </s>
+<s> (Swiftly making up his mind.) In that case, Major Petkoff, I beg to propose formally to become a suitor for your daughter's hand, in place of Major Saranoff retired </s>
+<s> RAINA </s>
+<s> You dare </s>
+<s> BLUNTSCHLI </s>
+<s> If you were twenty-three when you said those things to me this afternoon, I shall take them seriously </s>
+<s> CATHERINE (loftily polite) </s>
+<s> I doubt, sir, whether you quite realize either my daughter's position or that of Major Sergius Saranoff, whose place you propose to take </s>
+<s> The Petkoffs and the Saranoffs are known as the richest and most important families in the country </s>
+<s> Our position is almost historical: we can go back for nearly twenty years </s>
+<s> PETKOFF </s>
+<s> Oh, never mind that, Catherine </s>
+<s> (To Bluntschli.) We should be most happy, Bluntschli, if it were only a question of your position; but hang it, you know, Raina is accustomed to a very comfortable establishment </s>
+<s> Sergius keeps twenty horses </s>
+<s> BLUNTSCHLI </s>
+<s> But what on earth is the use of twenty horses </s>
+<s> Why, it's a circus </s>
+<s> CATHERINE (severely) </s>
+<s> My daughter, sir, is accustomed to a first-rate stable </s>
+<s> RAINA </s>
+<s> Hush, mother, you're making me ridiculous </s>
+<s> BLUNTSCHLI </s>
+<s> Oh, well, if it comes to a question of an establishment, here goes </s>
+<s> (He goes impetuously to the table and seizes the papers in the blue envelope.) How many horses did you say </s>
+<s> SERGIUS </s>
+<s> Twenty, noble Switzer </s>
+<s> BLUNTSCHLI </s>
+<s> I have two hundred horses </s>
+<s> (They are amazed.) How many carriages </s>
+<s> SERGIUS </s>
+<s> Three </s>
+<s> BLUNTSCHLI </s>
+<s> I have seventy </s>
+<s> Twenty-four of them will hold twelve inside, besides two on the box, without counting the driver and conductor </s>
+<s> How many tablecloths have you </s>
+<s> SERGIUS </s>
+<s> How the deuce do I know </s>
+<s> BLUNTSCHLI </s>
+<s> Have you four thousand </s>
+<s> SERGIUS </s>
+<s> NO </s>
+<s> BLUNTSCHLI </s>
+<s> I have </s>
+<s> I have nine thousand six hundred pairs of sheets and blankets, with two thousand four hundred eider-down quilts </s>
+<s> I have ten thousand knives and forks, and the same quantity of dessert spoons </s>
+<s> I have six hundred servants </s>
+<s> I have six palatial establishments, besides two livery stables, a tea garden and a private house </s>
+<s> I have four medals for distinguished services; I have the rank of an officer and the standing of a gentleman; and I have three native languages </s>
+<s> Show me any man in Bulgaria that can offer as much </s>
+<s> PETKOFF (with childish awe) </s>
+<s> Are you Emperor of Switzerland </s>
+<s> BLUNTSCHLI </s>
+<s> My rank is the highest known in Switzerland: I'm a free citizen </s>
+<s> CATHERINE </s>
+<s> Then Captain Bluntschli, since you are my daughter's choice, I shall not stand in the way of her happiness </s>
+<s> (Petkoff is about to speak.) That is Major Petkoff's feeling also </s>
+<s> PETKOFF </s>
+<s> Oh, I shall be only too glad </s>
+<s> Two hundred horses </s>
+<s> Whew </s>
+<s> SERGIUS </s>
+<s> What says the lady </s>
+<s> RAINA (pretending to sulk) </s>
+<s> The lady says that he can keep his tablecloths and his omnibuses </s>
+<s> I am not here to be sold to the highest bidder </s>
+<s> BLUNTSCHLI </s>
+<s> I won't take that answer </s>
+<s> I appealed to you as a fugitive, a beggar, and a starving man </s>
+<s> You accepted me </s>
+<s> You gave me your hand to kiss, your bed to sleep in, and your roof to shelter me-- RAINA (interrupting him) </s>
+<s> I did not give them to the Emperor of Switzerland </s>
+<s> BLUNTSCHLI </s>
+<s> That's just what I say </s>
+<s> (He catches her hand quickly and looks her straight in the face as he adds, with confident mastery) Now tell us who you did give them to </s>
+<s> RAINA (succumbing with a shy smile) </s>
+<s> To my chocolate cream soldier </s>
+<s> BLUNTSCHLI (with a boyish laugh of delight) </s>
+<s> That'll do </s>
+<s> Thank you </s>
+<s> (Looks at his watch and suddenly becomes businesslike.) Time's up, Major </s>
+<s> You've managed those regiments so well that you are sure to be asked to get rid of some of the Infantry of the Teemok division </s>
+<s> Send them home by way of Lom Palanka </s>
+<s> Saranoff: don't get married until I come back: I shall be here punctually at five in the evening on Tuesday fortnight </s>
+<s> Gracious ladies--good evening </s>
+<s> (He makes them a military bow, and goes.) SERGIUS </s>
+<s> What a man </s>
+<s> What a man </s>
+<s> </s>

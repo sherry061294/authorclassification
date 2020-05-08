@@ -1,0 +1,785 @@
+<s> O'FLAHERTY V.C.: A RECRUITING PAMPHLET By George Bernard Shaw It may surprise some people to learn that in 1915 this little play was a recruiting poster in disguise </s>
+<s> The British officer seldom likes Irish soldiers; but he always tries to have a certain proportion of them in his battalion, because, partly from a want of common sense which leads them to value their lives less than Englishmen do [lives are really less worth living in a poor country], and partly because even the most cowardly Irishman feels obliged to outdo an Englishman in bravery if possible, and at least to set a perilous pace for him, Irish soldiers give impetus to those military operations which require for their spirited execution more devilment than prudence </s>
+<s> Unfortunately, Irish recruiting was badly bungled in 1915 </s>
+<s> The Irish were for the most part Roman Catholics and loyal Irishmen, which means that from the English point of view they were heretics and rebels </s>
+<s> But they were willing enough to go soldiering on the side of France and see the world outside Ireland, which is a dull place to live in </s>
+<s> It was quite easy to enlist them by approaching them from their own point of view </s>
+<s> But the War Office insisted on approaching them from the point of view of Dublin Castle </s>
+<s> They were discouraged and repulsed by refusals to give commissions to Roman Catholic officers, or to allow distinct Irish units to be formed </s>
+<s> To attract them, the walls were covered with placards headed REMEMBER BELGIUM </s>
+<s> The folly of asking an Irishman to remember anything when you want him to fight for England was apparent to everyone outside the Castle: FORGET AND FORGIVE would have been more to the point </s>
+<s> Remembering Belgium and its broken treaty led Irishmen to remember Limerick and its broken treaty; and the recruiting ended in a rebellion, in suppressing which the British artillery quite unnecessarily reduced the centre of Dublin to ruins, and the British commanders killed their leading prisoners of war in cold blood morning after morning with an effect of long-drawn-out ferocity </s>
+<s> Really it was only the usual childish petulance in which John Bull does things in a week that disgrace him for a century, though he soon recovers his good humor, and cannot understand why the survivors of his wrath do not feel as jolly with him as he does with them </s>
+<s> On the smouldering ruins of Dublin the appeals to remember Louvain were presently supplemented by a fresh appeal </s>
+<s> IRISHMEN, DO YOU WISH TO HAVE THE HORRORS OF WAR BROUGHT TO YOUR OWN HEARTHS AND HOMES </s>
+<s> Dublin laughed sourly </s>
+<s> As for me I addressed myself quite simply to the business of obtaining recruits </s>
+<s> I knew by personal experience and observation what anyone might have inferred from the records of Irish emigration, that all an Irishman's hopes and ambitions turn on his opportunities of getting out of Ireland </s>
+<s> Stimulate his loyalty, and he will stay in Ireland and die for her; for, incomprehensible as it seems to an Englishman, Irish patriotism does not take the form of devotion to England and England's king </s>
+<s> Appeal to his discontent, his deadly boredom, his thwarted curiosity and desire for change and adventure, and, to escape from Ireland, he will go abroad to risk his life for France, for the Papal States, for secession in America, and even, if no better may be, for England </s>
+<s> Knowing that the ignorance and insularity of the Irishman is a danger to himself and to his neighbors, I had no scruple in making that appeal when there was something for him to fight which the whole world had to fight unless it meant to come under the jack boot of the German version of Dublin Castle </s>
+<s> There was another consideration, unmentionable by the recruiting sergeants and war orators, which must nevertheless have helped them powerfully in procuring soldiers by voluntary enlistment </s>
+<s> The happy home of the idealist may become common under millennial conditions </s>
+<s> It is not common at present </s>
+<s> No one will ever know how many men joined the army in 1914 and 1915 to escape from tyrants and taskmasters, termagants and shrews, none of whom are any the less irksome when they happen by ill-luck to be also our fathers, our mothers, our wives and our children </s>
+<s> Even at their amiablest, a holiday from them may be a tempting change for all parties </s>
+<s> That is why I did not endow O'Flaherty V.C </s>
+<s> with an ideal Irish colleen for his sweetheart, and gave him for his mother a Volumnia of the potato patch rather than a affectionate parent from whom he could not so easily have torn himself away </s>
+<s> I need hardly say that a play thus carefully adapted to its purpose was voted utterly inadmissible; and in due course the British Government, frightened out of its wits for the moment by the rout of the Fifth Army, ordained Irish Conscription, and then did not dare to go through with it </s>
+<s> I still think my own line was the more businesslike </s>
+<s> But during the war everyone except the soldiers at the front imagined that nothing but an extreme assertion of our most passionate prejudices, without the smallest regard to their effect on others, could win the war </s>
+<s> Finally the British blockade won the war; but the wonder is that the British blockhead did not lose it </s>
+<s> I suppose the enemy was no wiser </s>
+<s> War is not a sharpener of wits; and I am afraid I gave great offence by keeping my head in this matter of Irish recruiting </s>
+<s> What can I do but apologize, and publish the play now that it can no longer do any good </s>
+<s> O'FLAHERTY V.C </s>
+<s> At the door of an Irish country house in a park </s>
+<s> Fine, summer weather; the summer of 1916 </s>
+<s> The porch, painted white, projects into the drive: but the door is at the side and the front has a window </s>
+<s> The porch faces east: and the door is in the north side of it </s>
+<s> On the south side is a tree in which a thrush is singing </s>
+<s> Under the window is a garden seat with an iron chair at each end of it </s>
+<s> The last four bars of God Save the King are heard in the distance, followed by three cheers </s>
+<s> Then the band strikes up It's a Long Way to Tipperary and recedes until it is out of hearing </s>
+<s> Private O'Flaherty V.C </s>
+<s> comes wearily southward along the drive, and falls exhausted into the garden seat </s>
+<s> The thrush utters a note of alarm and flies away </s>
+<s> The tramp of a horse is heard </s>
+<s> A GENTLEMAN'S VOICE </s>
+<s> Tim </s>
+<s> Hi </s>
+<s> Tim </s>
+<s> [He is heard dismounting.] A LABORER'S VOICE </s>
+<s> Yes, your honor </s>
+<s> THE GENTLEMAN'S VOICE </s>
+<s> Take this horse to the stables, will you </s>
+<s> A LABORER'S VOICE </s>
+<s> Right, your honor </s>
+<s> Yup there </s>
+<s> Gwan now </s>
+<s> Gwan </s>
+<s> [The horse is led away.] General Sir Pearce Madigan, an elderly baronet in khaki, beaming with enthusiasm, arrives </s>
+<s> O'Flaherty rises and stands at attention </s>
+<s> SIR PEARCE </s>
+<s> No, no, O'Flaherty: none of that now </s>
+<s> You're off duty </s>
+<s> Remember that though I am a general of forty years service, that little Cross of yours gives you a higher rank in the roll of glory than I can pretend to </s>
+<s> O'FLAHERTY [relaxing] </s>
+<s> I'm thankful to you, Sir Pearce; but I wouldn't have anyone think that the baronet of my native place would let a common soldier like me sit down in his presence without leave </s>
+<s> SIR PEARCE </s>
+<s> Well, you're not a common soldier, O'Flaherty: you're a very uncommon one; and I'm proud to have you for my guest here today </s>
+<s> O'FLAHERTY </s>
+<s> Sure I know, sir </s>
+<s> You have to put up with a lot from the like of me for the sake of the recruiting </s>
+<s> All the quality shakes hands with me and says they're proud to know me, just the way the king said when he pinned the Cross on me </s>
+<s> And it's as true as I'm standing here, sir, the queen said to me: "I hear you were born on the estate of General Madigan," she says; "and the General himself tells me you were always a fine young fellow" </s>
+<s> "Bedad, Mam," I says to her, "if the General knew all the rabbits I snared on him, and all the salmon I snatched on him, and all the cows I milked on him, he'd think me the finest ornament for the county jail he ever sent there for poaching" </s>
+<s> SIR PEARCE [Laughing] </s>
+<s> You're welcome to them all, my lad </s>
+<s> Come [he makes him sit down again on the garden seat] </s>
+<s> sit down and enjoy your holiday [he sits down on one of the iron chairs; the one at the doorless side of the porch.] O'FLAHERTY </s>
+<s> Holiday, is it </s>
+<s> I'd give five shillings to be back in the trenches for the sake of a little rest and quiet </s>
+<s> I never knew what hard work was till I took to recruiting </s>
+<s> What with the standing on my legs all day, and the shaking hands, and the making speeches, and--what's worse--the listening to them and the calling for cheers for king and country, and the saluting the flag till I'm stiff with it, and the listening to them playing God Save the King and Tipperary, and the trying to make my eyes look moist like a man in a picture book, I'm that bet that I hardly get a wink of sleep </s>
+<s> I give you my word, Sir Pearce, that I never heard the tune of Tipperary in my life till I came back from Flanders; and already it's drove me to that pitch of tiredness of it that when a poor little innocent slip of a boy in the street the other night drew himself up and saluted and began whistling it at me, I clouted his head for him, God forgive me </s>
+<s> SIR PEARCE [soothingly] </s>
+<s> Yes, yes: I know </s>
+<s> I know </s>
+<s> One does get fed up with it: I've been dog tired myself on parade many a time </s>
+<s> But still, you know, there's a gratifying side to it, too </s>
+<s> After all, he is our king; and it's our own country, isn't it </s>
+<s> O'FLAHERTY </s>
+<s> Well, sir, to you that have an estate in it, it would feel like your country </s>
+<s> But the divil a perch of it ever I owned </s>
+<s> And as to the king: God help him, my mother would have taken the skin off my back if I'd ever let on to have any other king than Parnell </s>
+<s> SIR PEARCE [rising, painfully shocked] </s>
+<s> Your mother </s>
+<s> What are you dreaming about, O'Flaherty </s>
+<s> A most loyal woman </s>
+<s> Always most loyal </s>
+<s> Whenever there is an illness in the Royal Family, she asks me every time we meet about the health of the patient as anxiously as if it were yourself, her only son </s>
+<s> O'FLAHERTY </s>
+<s> Well, she's my mother; and I won't utter a word agen her </s>
+<s> But I'm not saying a word of lie when I tell you that that old woman is the biggest kanatt from here to the cross of Monasterboice </s>
+<s> Sure she's the wildest Fenian and rebel, and always has been, that ever taught a poor innocent lad like myself to pray night and morning to St Patrick to clear the English out of Ireland the same as he cleared the snakes </s>
+<s> You'll be surprised at my telling you that now, maybe, Sir Pearce </s>
+<s> SIR PEARCE [unable to keep still, walking away from O'Flaherty] </s>
+<s> Surprised </s>
+<s> I'm more than surprised, O'Flaherty </s>
+<s> I'm overwhelmed </s>
+<s> [Turning and facing him.] Are you--are you joking </s>
+<s> O'FLAHERTY </s>
+<s> If you'd been brought up by my mother, sir, you'd know better than to joke about her </s>
+<s> What I'm telling you is the truth; and I wouldn't tell it to you if I could see my way to get out of the fix I'll be in when my mother comes here this day to see her boy in his glory, and she after thinking all the time it was against the English I was fighting </s>
+<s> SIR PEARCE </s>
+<s> Do you mean to say you told her such a monstrous falsehood as that you were fighting in the German army </s>
+<s> O'FLAHERTY </s>
+<s> I never told her one word that wasn't the truth and nothing but the truth </s>
+<s> I told her I was going to fight for the French and for the Russians; and sure who ever heard of the French or the Russians doing anything to the English but fighting them </s>
+<s> That was how it was, sir </s>
+<s> And sure the poor woman kissed me and went about the house singing in her old cracky voice that the French was on the sea, and they'd be here without delay, and the Orange will decay, says the Shan Van Vocht </s>
+<s> SIR PEARCE [sitting down again, exhausted by his feelings] </s>
+<s> Well, I never could have believed this </s>
+<s> Never </s>
+<s> What do you suppose will happen when she finds out </s>
+<s> O'FLAHERTY </s>
+<s> She mustn't find out </s>
+<s> It's not that she'd half kill me, as big as I am and as brave as I am </s>
+<s> It's that I'm fond of her, and can't bring myself to break the heart in her </s>
+<s> You may think it queer that a man should be fond of his mother, sir, and she having bet him from the time he could feel to the time she was too slow to ketch him; but I'm fond of her; and I'm not ashamed of it </s>
+<s> Besides, didn't she win the Cross for me </s>
+<s> SIR PEARCE </s>
+<s> Your mother </s>
+<s> How </s>
+<s> O'FLAHERTY </s>
+<s> By bringing me up to be more afraid of running away than of fighting </s>
+<s> I was timid by nature; and when the other boys hurted me, I'd want to run away and cry </s>
+<s> But she whaled me for disgracing the blood of the O'Flahertys until I'd have fought the divil himself sooner than face her after funking a fight </s>
+<s> That was how I got to know that fighting was easier than it looked, and that the others was as much afeard of me as I was of them, and that if I only held out long enough they'd lose heart and give rip </s>
+<s> That's the way I came to be so courageous </s>
+<s> I tell you, Sir Pearce, if the German army had been brought up by my mother, the Kaiser would be dining in the banqueting hall at Buckingham Palace this day, and King George polishing his jack boots for him in the scullery </s>
+<s> SIR PEARCE </s>
+<s> But I don't like this, O'Flaherty </s>
+<s> You can't go on deceiving your mother, you know </s>
+<s> It's not right </s>
+<s> O'FLAHERTY </s>
+<s> Can't go on deceiving her, can't I </s>
+<s> It's little you know what a son's love can do, sir </s>
+<s> Did you ever notice what a ready liar I am </s>
+<s> SIR PEARCE </s>
+<s> Well, in recruiting a man gets carried away </s>
+<s> I stretch it a bit occasionally myself </s>
+<s> After all, it's for king and country </s>
+<s> But if you won't mind my saying it, O'Flaherty, I think that story about your fighting the Kaiser and the twelve giants of the Prussian guard singlehanded would be the better for a little toning down </s>
+<s> I don't ask you to drop it, you know; for it's popular, undoubtedly; but still, the truth is the truth </s>
+<s> Don't you think it would fetch in almost as many recruits if you reduced the number of guardsmen to six </s>
+<s> O'FLAHERTY </s>
+<s> You're not used to telling lies like I am, sir </s>
+<s> I got great practice at home with my mother </s>
+<s> What with saving my skin when I was young and thoughtless, and sparing her feelings when I was old enough to understand them, I've hardly told my mother the truth twice a year since I was born; and would you have me turn round on her and tell it now, when she's looking to have some peace and quiet in her old age </s>
+<s> SIR PEARCE [troubled in his conscience] </s>
+<s> Well, it's not my affair, of course, O'Flaherty </s>
+<s> But hadn't you better talk to Father Quinlan about it </s>
+<s> O'FLAHERTY </s>
+<s> Talk to Father Quinlan, is it </s>
+<s> Do you know what Father Quinlan says to me this very morning </s>
+<s> SIR PEARCE </s>
+<s> Oh, you've seen him already, have you </s>
+<s> What did he say </s>
+<s> O'FLAHERTY </s>
+<s> He says "You know, don't you," he says, "that it's your duty, as a Christian and a good son of the Holy Church, to love your enemies" </s>
+<s> he says </s>
+<s> "I know it's my juty as a soldier to kill them," I says </s>
+<s> "That's right, Dinny," he says: "quite right </s>
+<s> But," says he, "you can kill them and do them a good turn afterward to show your love for them" he says; "and it's your duty to have a mass said for the souls of the hundreds of Germans you say you killed," says he; "for many and many of them were Bavarians and good Catholics," he says </s>
+<s> "Is it me that must pay for masses for the souls of the Boshes" </s>
+<s> I says </s>
+<s> "Let the King of England pay for them," I says; "for it was his quarrel and not mine" </s>
+<s> SIR PEARCE [warmly] </s>
+<s> It is the quarrel of every honest man and true patriot, O'Flaherty </s>
+<s> Your mother must see that as clearly as I do </s>
+<s> After all, she is a reasonable, well disposed woman, quite capable of understanding the right and the wrong of the war </s>
+<s> Why can't you explain to her what the war is about </s>
+<s> O'FLAHERTY </s>
+<s> Arra, sir, how the divil do I know what the war is about </s>
+<s> SIR PEARCE [rising again and standing over him] </s>
+<s> What </s>
+<s> O'Flaherty: do you know what you are saying </s>
+<s> You sit there wearing the Victoria Cross for having killed God knows how many Germans; and you tell me you don't know why you did it </s>
+<s> O'FLAHERTY </s>
+<s> Asking your pardon, Sir Pearce, I tell you no such thing </s>
+<s> I know quite well why I kilt them, because I was afeard that, if I didn't, they'd kill me </s>
+<s> SIR PEARCE [giving it up, and sitting down again] </s>
+<s> Yes, yes, of course; but have you no knowledge of the causes of the war </s>
+<s> of the interests at stake </s>
+<s> of the importance--I may almost say--in fact I will say--the sacred right for which we are fighting </s>
+<s> Don't you read the papers </s>
+<s> O'FLAHERTY </s>
+<s> I do when I can get them </s>
+<s> There's not many newsboys crying the evening paper in the trenches </s>
+<s> They do say, Sir Pearce, that we shall never beat the Boshes until we make Horatio Bottomley Lord Leftnant of England </s>
+<s> Do you think that's true, sir </s>
+<s> SIR PEARCE </s>
+<s> Rubbish, man </s>
+<s> there's no Lord Lieutenant in England: the king is Lord Lieutenant </s>
+<s> It's a simple question of patriotism </s>
+<s> Does patriotism mean nothing to you </s>
+<s> O'FLAHERTY </s>
+<s> It means different to me than what it would to you, sir </s>
+<s> It means England and England's king to you </s>
+<s> To me and the like of me, it means talking about the English just the way the English papers talk about the Boshes </s>
+<s> And what good has it ever done here in Ireland </s>
+<s> It's kept me ignorant because it filled up my mother's mind, and she thought it ought to fill up mine too </s>
+<s> It's kept Ireland poor, because instead of trying to better ourselves we thought we was the fine fellows of patriots when we were speaking evil of Englishmen that was as poor as ourselves and maybe as good as ourselves </s>
+<s> The Boshes I kilt was more knowledgable men than me; and what better am I now that I've kilt them </s>
+<s> What better is anybody </s>
+<s> SIR PEARCE [huffed, turning a cold shoulder to him] </s>
+<s> I am sorry the terrible experience of this war--the greatest war ever fought--has taught you no better, O'Flaherty </s>
+<s> O'FLAHERTY [preserving his dignity] </s>
+<s> I don't know about it's being a great war, sir </s>
+<s> It's a big war; but that's not the same thing </s>
+<s> Father Quinlan's new church is a big church: you might take the little old chapel out of the middle of it and not miss it </s>
+<s> But my mother says there was more true religion in the old chapel </s>
+<s> And the war has taught me that maybe she was right </s>
+<s> SIR PEARCE [grunts sulkily]! </s>
+<s> O'FLAHERTY [respectfully but doggedly] </s>
+<s> And there's another thing it's taught me too, sir, that concerns you and me, if I may make bold to tell it to you </s>
+<s> SIR PEARCE [still sulky] </s>
+<s> I hope it's nothing you oughtn't to say to me, O'Flaherty </s>
+<s> O'FLAHERTY </s>
+<s> It's this, sir: that I'm able to sit here now and talk to you without humbugging you; and that's what not one of your tenants or your tenants' childer ever did to you before in all your long life </s>
+<s> It's a true respect I'm showing you at last, sir </s>
+<s> Maybe you'd rather have me humbug you and tell you lies as I used, just as the boys here, God help them, would rather have me tell them how I fought the Kaiser, that all the world knows I never saw in my life, than tell them the truth </s>
+<s> But I can't take advantage of you the way I used, not even if I seem to be wanting in respect to you and cocked up by winning the Cross </s>
+<s> SIR PEARCE [touched] </s>
+<s> Not at all, O'Flaherty </s>
+<s> Not at all </s>
+<s> O'FLAHERTY </s>
+<s> Sure what's the Cross to me, barring the little pension it carries </s>
+<s> Do you think I don't know that there's hundreds of men as brave as me that never had the luck to get anything for their bravery but a curse from the sergeant, and the blame for the faults of them that ought to have been their betters </s>
+<s> I've learnt more than you'd think, sir; for how would a gentleman like you know what a poor ignorant conceited creature I was when I went from here into the wide world as a soldier </s>
+<s> What use is all the lying, and pretending, and humbugging, and letting on, when the day comes to you that your comrade is killed in the trench beside you, and you don't as much as look round at him until you trip over his poor body, and then all you say is to ask why the hell the stretcher-bearers don't take it out of the way </s>
+<s> Why should I read the papers to be humbugged and lied to by them that had the cunning to stay at home and send me to fight for them </s>
+<s> Don't talk to me or to any soldier of the war being right </s>
+<s> No war is right; and all the holy water that Father Quinlan ever blessed couldn't make one right </s>
+<s> There, sir </s>
+<s> Now you know what O'Flaherty V.C </s>
+<s> thinks; and you're wiser so than the others that only knows what he done </s>
+<s> SIR PEARCE [making the best of it, and turning goodhumoredly to him again] </s>
+<s> Well, what you did was brave and manly, anyhow </s>
+<s> O'FLAHERTY </s>
+<s> God knows whether it was or not, better than you nor me, General </s>
+<s> I hope He won't be too hard on me for it, anyhow </s>
+<s> SIR PEARCE [sympathetically] </s>
+<s> Oh yes: we all have to think seriously sometimes, especially when we're a little run down </s>
+<s> I'm afraid we've been overworking you a bit over these recruiting meetings </s>
+<s> However, we can knock off for the rest of the day; and tomorrow's Sunday </s>
+<s> I've had about as much as I can stand myself </s>
+<s> [He looks at his watch.] It's teatime </s>
+<s> I wonder what's keeping your mother </s>
+<s> O'FLAHERTY </s>
+<s> It's nicely cocked up the old woman will be having tea at the same table as you, sir, instead of in the kitchen </s>
+<s> She'll be after dressing in the heighth of grandeur; and stop she will at every house on the way to show herself off and tell them where she's going, and fill the whole parish with spite and envy </s>
+<s> But sure, she shouldn't keep you waiting, sir </s>
+<s> SIR PEARCE </s>
+<s> Oh, that's all right: she must be indulged on an occasion like this </s>
+<s> I'm sorry my wife is in London: she'd have been glad to welcome your mother </s>
+<s> O'FLAHERTY </s>
+<s> Sure, I know she would, sir </s>
+<s> She was always a kind friend to the poor </s>
+<s> Little her ladyship knew, God help her, the depth of divilment that was in us: we were like a play to her </s>
+<s> You see, sir, she was English: that was how it was </s>
+<s> We was to her what the Pathans and Senegalese was to me when I first seen them: I couldn't think, somehow, that they were liars, and thieves, and backbiters, and drunkards, just like ourselves or any other Christians </s>
+<s> Oh, her ladyship never knew all that was going on behind her back: how would she </s>
+<s> When I was a weeshy child, she gave me the first penny I ever had in my hand; and I wanted to pray for her conversion that night the same as my mother made me pray for yours; and-- SIR PEARCE [scandalized] </s>
+<s> Do you mean to say that your mother made you pray for MY conversion </s>
+<s> O'FLAHERTY </s>
+<s> Sure and she wouldn't want to see a gentleman like you going to hell after she nursing your own son and bringing up my sister Annie on the bottle </s>
+<s> That was how it was, sir </s>
+<s> She'd rob you; and she'd lie to you; and she'd call down all the blessings of God on your head when she was selling you your own three geese that you thought had been ate by the fox the day after you'd finished fattening them, sir; and all the time you were like a bit of her own flesh and blood to her </s>
+<s> Often has she said she'd live to see you a good Catholic yet, leading victorious armies against the English and wearing the collar of gold that Malachi won from the proud invader </s>
+<s> Oh, she's the romantic woman is my mother, and no mistake </s>
+<s> SIR PEARCE [in great perturbation] </s>
+<s> I really can't believe this, O'Flaherty </s>
+<s> I could have sworn your mother was as honest a woman as ever breathed </s>
+<s> O'FLAHERTY </s>
+<s> And so she is, sir </s>
+<s> She's as honest as the day </s>
+<s> SIR PEARCE </s>
+<s> Do you call it honest to steal my geese </s>
+<s> O'FLAHERTY </s>
+<s> She didn't steal them, sir </s>
+<s> It was me that stole them </s>
+<s> SIR PEARCE </s>
+<s> Oh </s>
+<s> And why the devil did you steal them </s>
+<s> O'FLAHERTY </s>
+<s> Sure we needed them, sir </s>
+<s> Often and often we had to sell our own geese to pay you the rent to satisfy your needs; and why shouldn't we sell your geese to satisfy ours </s>
+<s> SIR PEARCE </s>
+<s> Well, damn me </s>
+<s> O'FLAHERTY [sweetly] </s>
+<s> Sure you had to get what you could out of us; and we had to get what we could out of you </s>
+<s> God forgive us both </s>
+<s> SIR PEARCE </s>
+<s> Really, O'Flaherty, the war seems to have upset you a little </s>
+<s> O'FLAHERTY </s>
+<s> It's set me thinking, sir; and I'm not used to it </s>
+<s> It's like the patriotism of the English </s>
+<s> They never thought of being patriotic until the war broke out; and now the patriotism has took them so sudden and come so strange to them that they run about like frightened chickens, uttering all manner of nonsense </s>
+<s> But please God they'll forget all about it when the war's over </s>
+<s> They're getting tired of it already </s>
+<s> SIR PEARCE </s>
+<s> No, no: it has uplifted us all in a wonderful way </s>
+<s> The world will never be the same again, O'Flaherty </s>
+<s> Not after a war like this </s>
+<s> O'FLAHERTY </s>
+<s> So they all say, sir </s>
+<s> I see no great differ myself </s>
+<s> It's all the fright and the excitement; and when that quiets down they'll go back to their natural divilment and be the same as ever </s>
+<s> It's like the vermin: it'll wash off after a while </s>
+<s> SIR PEARCE [rising and planting himself firmly behind the garden seat] </s>
+<s> Well, the long and the short of it is, O'Flaherty, I must decline to be a party to any attempt to deceive your mother </s>
+<s> I thoroughly disapprove of this feeling against the English, especially at a moment like the present </s>
+<s> Even if your mother's political sympathies are really what you represent them to be, I should think that her gratitude to Gladstone ought to cure her of such disloyal prejudices </s>
+<s> O'FLAHERTY [over his shoulder] </s>
+<s> She says Gladstone was an Irishman, Sir </s>
+<s> What call would he have to meddle with Ireland as he did if he wasn't </s>
+<s> SIR PEARCE </s>
+<s> What nonsense </s>
+<s> Does she suppose Mr Asquith is an Irishman </s>
+<s> O'FLAHERTY </s>
+<s> She won't give him any credit for Home Rule, Sir </s>
+<s> She says Redmond made him do it </s>
+<s> She says you told her so </s>
+<s> SIR PEARCE [convicted out of his own mouth] </s>
+<s> Well, I never meant her to take it up in that ridiculous way </s>
+<s> [He moves to the end of the garden seat on O'Flaherty's left.] I'll give her a good talking to when she comes </s>
+<s> I'm not going to stand any of her nonsense </s>
+<s> O'FLAHERTY </s>
+<s> It's not a bit of use, sir </s>
+<s> She says all the English generals is Irish </s>
+<s> She says all the English poets and great men was Irish </s>
+<s> She says the English never knew how to read their own books until we taught them </s>
+<s> She says we're the lost tribes of the house of Israel and the chosen people of God </s>
+<s> She says that the goddess Venus, that was born out of the foam of the sea, came up out of the water in Killiney Bay off Bray Head </s>
+<s> She says that Moses built the seven churches, and that Lazarus was buried in Glasnevin </s>
+<s> SIR PEARCE </s>
+<s> Bosh </s>
+<s> How does she know he was </s>
+<s> Did you ever ask her </s>
+<s> O'FLAHERTY </s>
+<s> I did, sir, often </s>
+<s> SIR PEARCE </s>
+<s> And what did she say </s>
+<s> O'FLAHERTY </s>
+<s> She asked me how did I know he wasn't, and fetched me a clout on the side of my head </s>
+<s> SIR PEARCE </s>
+<s> But have you never mentioned any famous Englishman to her, and asked her what she had to say about him </s>
+<s> O'FLAHERTY </s>
+<s> The only one I could think of was Shakespeare, sir; and she says he was born in Cork </s>
+<s> SIR PEARCE [exhausted] </s>
+<s> Well, I give it up [he throws himself into the nearest chair] </s>
+<s> The woman is--Oh, well </s>
+<s> No matter </s>
+<s> O'FLAHERTY [sympathetically] </s>
+<s> Yes, sir: she's pigheaded and obstinate: there's no doubt about it </s>
+<s> She's like the English: they think there's no one like themselves </s>
+<s> It's the same with the Germans, though they're educated and ought to know better </s>
+<s> You'll never have a quiet world till you knock the patriotism out of the human race </s>
+<s> SIR PEARCE </s>
+<s> Still, we-- O'FLAHERTY </s>
+<s> Whisht, sir, for God's sake: here she is </s>
+<s> The General jumps up </s>
+<s> Mrs O'Flaherty arrives and comes between the two men </s>
+<s> She is very clean, and carefully dressed in the old fashioned peasant costume; black silk sunbonnet with a tiara of trimmings, and black cloak </s>
+<s> O'FLAHERTY [rising shyly] </s>
+<s> Good evening, mother </s>
+<s> MRS O'FLAHERTY [severely] </s>
+<s> You hold your whisht, and learn behavior while I pay my juty to his honor </s>
+<s> [To Sir Pearce, heartily.] And how is your honor's good self </s>
+<s> And how is her ladyship and all the young ladies </s>
+<s> Oh, it's right glad we are to see your honor back again and looking the picture of health </s>
+<s> SIR PEARCE [forcing a note of extreme geniality] </s>
+<s> Thank you, Mrs O'Flaherty </s>
+<s> Well, you see we've brought you back your son safe and sound </s>
+<s> I hope you're proud of him </s>
+<s> MRS O'FLAHERTY </s>
+<s> And indeed and I am, your honor </s>
+<s> It's the brave boy he is; and why wouldn't he be, brought up on your honor's estate and with you before his eyes for a pattern of the finest soldier in Ireland </s>
+<s> Come and kiss your old mother, Dinny darlint </s>
+<s> [O'Flaherty does so sheepishly.] That's my own darling boy </s>
+<s> And look at your fine new uniform stained already with the eggs you've been eating and the porter you've been drinking </s>
+<s> [She takes out her handkerchief: spits on it: and scrubs his lapel with it.] Oh, it's the untidy slovenly one you always were </s>
+<s> There </s>
+<s> It won't be seen on the khaki: it's not like the old red coat that would show up everything that dribbled down on it </s>
+<s> [To Sir Pearce.] And they tell me down at the lodge that her ladyship is staying in London, and that Miss Agnes is to be married to a fine young nobleman </s>
+<s> Oh, it's your honor that is the lucky and happy father </s>
+<s> It will be bad news for many of the young gentlemen of the quality round here, sir </s>
+<s> There's lots thought she was going to marry young Master Lawless SIR PEARCE </s>
+<s> What </s>
+<s> That--that--that bosthoon </s>
+<s> MRS O'FLAHERTY [hilariously] </s>
+<s> Let your honor alone for finding the right word </s>
+<s> A big bosthoon he is indeed, your honor </s>
+<s> Oh, to think of the times and times I have said that Miss Agnes would be my lady as her mother was before her </s>
+<s> Didn't I, Dinny </s>
+<s> SIR PEARCE </s>
+<s> And now, Mrs O'Flaherty, I daresay you have a great deal to say to Dennis that doesn't concern me </s>
+<s> I'll just go in and order tea </s>
+<s> MRS O'FLAHERTY </s>
+<s> Oh, why would your honor disturb yourself </s>
+<s> Sure I can take the boy into the yard </s>
+<s> SIR PEARCE </s>
+<s> Not at all </s>
+<s> It won't disturb me in the least </s>
+<s> And he's too big a boy to be taken into the yard now </s>
+<s> He has made a front seat for himself </s>
+<s> Eh </s>
+<s> [He goes into the house.] MRS O'FLAHERTY </s>
+<s> Sure he has that, your honor </s>
+<s> God bless your honor </s>
+<s> [The General being now out of hearing, she turns threateningly to her son with one of those sudden Irish changes of manner which amaze and scandalize less flexible nations, and exclaims.] And what do you mean, you lying young scald, by telling me you were going to fight agen the English </s>
+<s> Did you take me for a fool that couldn't find out, and the papers all full of you shaking hands with the English king at Buckingham Palace </s>
+<s> O'FLAHERTY </s>
+<s> I didn't shake hands with him: he shook hands with me </s>
+<s> Could I turn on the man in his own house, before his own wife, with his money in my pocket and in yours, and throw his civility back in his face </s>
+<s> MRS O'FLAHERTY </s>
+<s> You would take the hand of a tyrant red with the blood of Ireland-- O'FLAHERTY </s>
+<s> Arra hold your nonsense, mother: he's not half the tyrant you are, God help him </s>
+<s> His hand was cleaner than mine that had the blood of his own relations on it, maybe </s>
+<s> MRS O'FLAHERTY [threateningly] </s>
+<s> Is that a way to speak to your mother, you young spalpeen </s>
+<s> O'FLAHERTY [stoutly] </s>
+<s> It is so, if you won't talk sense to me </s>
+<s> It's a nice thing for a poor boy to be made much of by kings and queens, and shook hands with by the heighth of his country's nobility in the capital cities of the world, and then to come home and be scolded and insulted by his own mother </s>
+<s> I'll fight for who I like; and I'll shake hands with what kings I like; and if your own son is not good enough for you, you can go and look for another </s>
+<s> Do you mind me now </s>
+<s> MRS O'FLAHERTY </s>
+<s> And was it the Belgians learned you such brazen impudence </s>
+<s> O'FLAHERTY </s>
+<s> The Belgians is good men; and the French ought to be more civil to them, let alone their being half murdered by the Boshes </s>
+<s> MRS O'FLAHERTY </s>
+<s> Good men is it </s>
+<s> Good men </s>
+<s> to come over here when they were wounded because it was a Catholic country, and then to go to the Protestant Church because it didn't cost them anything, and some of them to never go near a church at all </s>
+<s> That's what you call good men </s>
+<s> O'FLAHERTY </s>
+<s> Oh, you're the mighty fine politician, aren't you </s>
+<s> Much you know about Belgians or foreign parts or the world you're living in, God help you </s>
+<s> MRS O'FLAHERTY </s>
+<s> Why wouldn't I know better than you </s>
+<s> Amment I your mother </s>
+<s> O'FLAHERTY </s>
+<s> And if you are itself, how can you know what you never seen as well as me that was dug into the continent of Europe for six months, and was buried in the earth of it three times with the shells bursting on the top of me </s>
+<s> I tell you I know what I'm about </s>
+<s> I have my own reasons for taking part in this great conflict </s>
+<s> I'd be ashamed to stay at home and not fight when everybody else is fighting </s>
+<s> MRS O'FLAHERTY </s>
+<s> If you wanted to fight, why couldn't you fight in the German army </s>
+<s> O'FLAHERTY </s>
+<s> Because they only get a penny a day </s>
+<s> MRS O'FLAHERTY </s>
+<s> Well, and if they do itself, isn't there the French army </s>
+<s> O'FLAHERTY </s>
+<s> They only get a hapenny a day </s>
+<s> MRS O'FLAHERTY [much dashed] </s>
+<s> Oh murder </s>
+<s> They must be a mean lot, Dinny </s>
+<s> O'FLAHERTY [sarcastic] </s>
+<s> Maybe you'd have me in the Turkish army, and worship the heathen Mahomet that put a corn in his ear and pretended it was a message from the heavens when the pigeon come to pick it out and eat it </s>
+<s> I went where I could get the biggest allowance for you; and little thanks I get for it </s>
+<s> MRS O'FLAHERTY </s>
+<s> Allowance, is it </s>
+<s> Do you know what the thieving blackguards did on me </s>
+<s> They came to me and they says, "Was your son a big eater" </s>
+<s> they says </s>
+<s> "Oh, he was that," says I: "ten shillings a week wouldn't keep him" </s>
+<s> Sure I thought the more I said the more they'd give me </s>
+<s> "Then," says they, "that's ten shillings a week off your allowance," they says, "because you save that by the king feeding him" </s>
+<s> "Indeed" </s>
+<s> says I: "I suppose if I'd six sons, you'd stop three pound a week from me, and make out that I ought to pay you money instead of you paying me" </s>
+<s> "There's a fallacy in your argument," they says </s>
+<s> O'FLAHERTY </s>
+<s> A what </s>
+<s> MRS O'FLAHERTY </s>
+<s> A fallacy: that's the word he said </s>
+<s> I says to him, "It's a Pharisee I'm thinking you mean, sir; but you can keep your dirty money that your king grudges a poor old widow; and please God the English will be got yet for the deadly sin of oppressing the poor;" and with that I shut the door in his face </s>
+<s> O'FLAHERTY [furious] </s>
+<s> Do you tell me they knocked ten shillings off you for my keep </s>
+<s> MRS O'FLAHERTY [soothing him] </s>
+<s> No, darlint: they only knocked off half a crown </s>
+<s> I put up with it because I've got the old age pension; and they know very well I'm only sixty-two; so I've the better of them by half a crown a week anyhow </s>
+<s> O'FLAHERTY </s>
+<s> It's a queer way of doing business </s>
+<s> If they'd tell you straight out what they was going to give you, you wouldn't mind; but if there was twenty ways of telling the truth and only one way of telling a lie, the Government would find it out </s>
+<s> It's in the nature of governments to tell lies </s>
+<s> Teresa Driscoll, a parlor maid, comes from the house, TERESA </s>
+<s> You're to come up to the drawing-room to have your tea, Mrs O'Flaherty </s>
+<s> MRS O'FLAHERTY </s>
+<s> Mind you have a sup of good black tea for me in the kitchen afterwards, acushla </s>
+<s> That washy drawing-room tea will give me the wind if I leave it on my stomach </s>
+<s> [She goes into the house, leaving the two young people alone together.] O'FLAHERTY </s>
+<s> Is that yourself, Tessie </s>
+<s> And how are you </s>
+<s> TERESA </s>
+<s> Nicely, thank you </s>
+<s> And how's yourself </s>
+<s> O'FLAHERTY </s>
+<s> Finely, thank God </s>
+<s> [He produces a gold chain.] Look what I've brought you, Tessie </s>
+<s> TERESA [shrinking] </s>
+<s> Sure I don't like to touch it, Denny </s>
+<s> Did you take it off a dead man </s>
+<s> O'FLAHERTY </s>
+<s> No: I took it off a live one; and thankful he was to me to be alive and kept a prisoner in ease and comfort, and me left fighting in peril of my life </s>
+<s> TERESA [taking it] </s>
+<s> Do you think it's real gold, Denny </s>
+<s> O'FLAHERTY </s>
+<s> It's real German gold, anyhow </s>
+<s> TERESA </s>
+<s> But German silver isn't real, Denny </s>
+<s> O'FLAHERTY [his face darkening] </s>
+<s> Well, it's the best the Bosh could do for me, anyhow </s>
+<s> TERESA </s>
+<s> Do you think I might take it to the jeweller next market day and ask him </s>
+<s> O'FLAHERTY [sulkily] </s>
+<s> You may take it to the divil if you like </s>
+<s> TERESA </s>
+<s> You needn't lose your temper about it </s>
+<s> I only thought I'd like to know </s>
+<s> The nice fool I'd look if I went about showing off a chain that turned out to be only brass </s>
+<s> O'FLAHERTY </s>
+<s> I think you might say Thank you </s>
+<s> TERESA </s>
+<s> Do you </s>
+<s> I think you might have said something more to me than "Is that yourself" </s>
+<s> You couldn't say less to the postman </s>
+<s> O'FLAHERTY [his brow clearing] </s>
+<s> Oh, is that what's the matter </s>
+<s> Here </s>
+<s> come and take the taste of ther brass out of my mouth </s>
+<s> [He seizes her and kisses her.] Teresa, without losing her Irish dignity, takes the kiss as appreciatively as a connoisseur might take a glass of wine, and sits down with him on the garden seat, TERESA [as he squeezes her waist] </s>
+<s> Thank God the priest can't see us here </s>
+<s> O'FLAHERTY </s>
+<s> It's little they care for priests in France, alanna </s>
+<s> TERESA </s>
+<s> And what had the queen on her, Denny, when she spoke to you in the palace </s>
+<s> O'FLAHERTY </s>
+<s> She had a bonnet on without any strings to it </s>
+<s> And she had a plakeen of embroidery down her bosom </s>
+<s> And she had her waist where it used to be, and not where the other ladies had it </s>
+<s> And she had little brooches in her ears, though she hadn't half the jewelry of Mrs Sullivan that keeps the popshop in Drumpogue </s>
+<s> And she dresses her hair down over her forehead, in a fringe like </s>
+<s> And she has an Irish look about her eyebrows </s>
+<s> And she didn't know what to say to me, poor woman </s>
+<s> and I didn't know what to say to her, God help me </s>
+<s> TERESA </s>
+<s> You'll have a pension now with the Cross, won't you, Denny </s>
+<s> O'FLAHERTY </s>
+<s> Sixpence three farthings a day </s>
+<s> TERESA </s>
+<s> That isn't much </s>
+<s> O'FLAHERTY </s>
+<s> I take out the rest in glory </s>
+<s> TERESA </s>
+<s> And if you're wounded, you'll have a wound pension, won't you </s>
+<s> O'FLAHERTY </s>
+<s> I will, please God </s>
+<s> TERESA </s>
+<s> You're going out again, aren't you, Denny </s>
+<s> O'FLAHERTY </s>
+<s> I can't help myself </s>
+<s> I'd be shot for a deserter if I didn't go; and maybe I'll be shot by the Boshes if I do go; so between the two of them I'm nicely fixed up </s>
+<s> MRS O'FLAHERTY [calling from within the house] </s>
+<s> Tessie </s>
+<s> Tessie darlint </s>
+<s> TERESA [disengaging herself from his arm and rising] </s>
+<s> I'm wanted for the tea table </s>
+<s> You'll have a pension anyhow, Denny, won't you, whether you're wounded or not </s>
+<s> MRS O'FLAHERTY </s>
+<s> Come, child, come </s>
+<s> TERESA [impatiently] </s>
+<s> Oh, sure I'm coming </s>
+<s> [She tries to smile at Denny, not very convincingly, and hurries into the house.] O'FLAHERTY [alone] </s>
+<s> And if I do get a pension itself, the divil a penny of it you'll ever have the spending of </s>
+<s> MRS O'FLAHERTY [as she comes from the porch] </s>
+<s> Oh, it's a shame for you to keep the girl from her juties, Dinny </s>
+<s> You might get her into trouble </s>
+<s> O'FLAHERTY </s>
+<s> Much I care whether she gets into trouble or not </s>
+<s> I pity the man that gets her into trouble </s>
+<s> He'll get himself into worse </s>
+<s> MRS O'FLAHERTY </s>
+<s> What's that you tell me </s>
+<s> Have you been falling out with her, and she a girl with a fortune of ten pounds </s>
+<s> O'FLAHERTY </s>
+<s> Let her keep her fortune </s>
+<s> I wouldn't touch her with the tongs if she had thousands and millions </s>
+<s> MRS O'FLAHERTY </s>
+<s> Oh fie for shame, Dinny </s>
+<s> why would you say the like of that of a decent honest girl, and one of the Driscolls too </s>
+<s> O'FLAHERTY </s>
+<s> Why wouldn't I say it </s>
+<s> She's thinking of nothing but to get me out there again to be wounded so that she may spend my pension, bad scran to her </s>
+<s> MRS O'FLAHERTY </s>
+<s> Why, what's come over you, child, at all at all </s>
+<s> O'FLAHERTY </s>
+<s> Knowledge and wisdom has come over me with pain and fear and trouble </s>
+<s> I've been made a fool of and imposed upon all my life </s>
+<s> I thought that covetious sthreal in there was a walking angel; and now if ever I marry at all I'll marry a Frenchwoman </s>
+<s> MRS O'FLARERTY [fiercely] </s>
+<s> You'll not, so; and don't you dar repeat such a thing to me </s>
+<s> O'FLAHERTY </s>
+<s> Won't I, faith </s>
+<s> I've been as good as married to a couple of them already </s>
+<s> MRS O'FLAHERTY </s>
+<s> The Lord be praised, what wickedness have you been up to, you young blackguard </s>
+<s> O'FLAHERTY </s>
+<s> One of them Frenchwomen would cook you a meal twice in the day and all days and every day that Sir Pearce himself might go begging through Ireland for, and never see the like of </s>
+<s> I'll have a French wife, I tell you; and when I settle down to be a farmer I'll have a French farm, with a field as big as the continent of Europe that ten of your dirty little fields here wouldn't so much as fill the ditch of </s>
+<s> MRS O'FLAHERTY [furious] </s>
+<s> Then it's a French mother you may go look for; for I'm done with you </s>
+<s> O'FLAHERTY </s>
+<s> And it's no great loss you'd be if it wasn't for my natural feelings for you; for it's only a silly ignorant old countrywoman you are with all your fine talk about Ireland: you that never stepped beyond the few acres of it you were born on </s>
+<s> MRS O'FLAHERTY [tottering to the garden seat and showing signs of breaking down] </s>
+<s> Dinny darlint, why are you like this to me </s>
+<s> What's happened to you </s>
+<s> O'FLAHERTY [gloomily] </s>
+<s> What's happened to everybody </s>
+<s> that's what I want to know </s>
+<s> What's happened to you that I thought all the world of and was afeard of </s>
+<s> What's happened to Sir Pearce, that I thought was a great general, and that I now see to be no more fit to command an army than an old hen </s>
+<s> What's happened to Tessie, that I was mad to marry a year ago, and that I wouldn't take now with all Ireland for her fortune </s>
+<s> I tell you the world's creation is crumbling in ruins about me; and then you come and ask what's happened to me </s>
+<s> MRS O'FLAHERTY [giving way to wild grief] </s>
+<s> Ochone </s>
+<s> ochone </s>
+<s> my son's turned agen me </s>
+<s> Oh, what'll I do at all at all </s>
+<s> Oh </s>
+<s> oh </s>
+<s> oh </s>
+<s> oh </s>
+<s> SIR PEARCE [running out of the house] </s>
+<s> What's this infernal noise </s>
+<s> What on earth is the matter </s>
+<s> O'FLAHERTY </s>
+<s> Arra hold your whisht, mother </s>
+<s> Don't you see his honor </s>
+<s> MRS O'FLAHERTY </s>
+<s> Oh, Sir, I'm ruined and destroyed </s>
+<s> Oh, won't you speak to Dinny, Sir: I'm heart scalded with him </s>
+<s> He wants to marry a Frenchwoman on me, and to go away and be a foreigner and desert his mother and betray his country </s>
+<s> It's mad he is with the roaring of the cannons and he killing the Germans and the Germans killing him, bad cess to them </s>
+<s> My boy is taken from me and turned agen me; and who is to take care of me in my old age after all I've done for him, ochone </s>
+<s> ochone </s>
+<s> O'FLAHERTY </s>
+<s> Hold your noise, I tell you </s>
+<s> Who's going to leave you </s>
+<s> I'm going to take you with me </s>
+<s> There now: does that satisfy you </s>
+<s> MRS O'FLAHERTY </s>
+<s> Is it take me into a strange land among heathens and pagans and savages, and me not knowing a word of their language nor them of mine </s>
+<s> O'FLAHERTY </s>
+<s> A good job they don't: maybe they'll think you're talking sense </s>
+<s> MRS O'FLAHERTY </s>
+<s> Ask me to die out of Ireland, is it </s>
+<s> and the angels not to find me when they come for me </s>
+<s> O'FLAHERTY </s>
+<s> And would you ask me to live in Ireland where I've been imposed on and kept in ignorance, and to die where the divil himself wouldn't take me as a gift, let alone the blessed angels </s>
+<s> You can come or stay </s>
+<s> You can take your old way or take my young way </s>
+<s> But stick in this place I will not among a lot of good-for-nothing divils that'll not do a hand's turn but watch the grass growing and build up the stone wall where the cow walked through it </s>
+<s> And Sir Horace Plunkett breaking his heart all the time telling them how they might put the land into decent tillage like the French and Belgians </s>
+<s> SIR PEARCE </s>
+<s> Yes, he's quite right, you know, Mrs O'Flaherty: quite right there </s>
+<s> MRS O'FLAHERTY </s>
+<s> Well, sir, please God the war will last a long time yet; and maybe I'll die before it's over and the separation allowance stops </s>
+<s> O'FLAHERTY </s>
+<s> That's all you care about </s>
+<s> It's nothing but milch cows we men are for the women, with their separation allowances, ever since the war began, bad luck to them that made it </s>
+<s> TERESA [coming from the porch between the General and Mrs O'Flaherty.] Hannah sent me out for to tell you, sir, that the tea will be black and the cake not fit to eat with the cold if yous all don't come at wanst </s>
+<s> MRS O'FLAHERTY [breaking out again] </s>
+<s> Oh, Tessie darlint, what have you been saying to Dinny at all at all </s>
+<s> Oh </s>
+<s> Oh-- SIR PEARCE [out of patience] </s>
+<s> You can't discuss that here </s>
+<s> We shall have Tessie beginning now </s>
+<s> O'FLAHERTY </s>
+<s> That's right, sir: drive them in </s>
+<s> TERESA </s>
+<s> I haven't said a word to him </s>
+<s> He-- SIR PEARCE </s>
+<s> Hold your tongue; and go in and attend to your business at the tea table </s>
+<s> TERESA </s>
+<s> But amment I telling your honor that I never said a word to him </s>
+<s> He gave me a beautiful gold chain </s>
+<s> Here it is to show your honor that it's no lie I'm telling you </s>
+<s> SIR PEARCE </s>
+<s> What's this, O'Flaherty </s>
+<s> You've been looting some unfortunate officer </s>
+<s> O'FLAHERTY </s>
+<s> No, sir: I stole it from him of his own accord </s>
+<s> MRS O'FLAHERTY </s>
+<s> Wouldn't your honor tell him that his mother has the first call on it </s>
+<s> What would a slip of a girl like that be doing with a gold chain round her neck </s>
+<s> TERESA [venomously] </s>
+<s> Anyhow, I have a neck to put it round and not a hank of wrinkles </s>
+<s> At this unfortunate remark, Mrs O'Flaherty bounds from her seat: and an appalling tempest of wordy wrath breaks out </s>
+<s> The remonstrances and commands of the General, and the protests and menaces of O'Flaherty, only increase the hubbub </s>
+<s> They are soon all speaking at once at the top of their voices </s>
+<s> MRS O'FLAHERTY [solo] </s>
+<s> You impudent young heifer, how dar you say such a thing to me </s>
+<s> [Teresa retorts furiously: the men interfere: and the solo becomes a quartet, fortissimo.] I've a good mind to clout your ears for you to teach you manners </s>
+<s> Be ashamed of yourself, do; and learn to know who you're speaking to </s>
+<s> That I maytn't sin </s>
+<s> but I don't know what the good God was thinking about when he made the like of you </s>
+<s> Let me not see you casting sheep's eyes at my son again </s>
+<s> There never was an O'Flaherty yet that would demean himself by keeping company with a dirty Driscoll; and if I see you next or nigh my house I'll put you in the ditch with a flea in your ear: mind that now </s>
+<s> TERESA </s>
+<s> Is it me you offer such a name to, you fou-mouthed, dirty-minded, lying, sloothering old sow, you </s>
+<s> I wouldn't soil my tongue by calling you in your right name and telling Sir Pearce what's the common talk of the town about you </s>
+<s> You and your O'Flahertys </s>
+<s> setting yourself up agen the Driscolls that would never lower themselves to be seen in conversation with you at the fair </s>
+<s> You can keep your ugly stingy lump of a son; for what is he but a common soldier </s>
+<s> and God help the girl that gets him, say I </s>
+<s> So the back of my hand to you, Mrs O'Flaherty; and that the cat may tear your ugly old face </s>
+<s> SIR PEARCE </s>
+<s> Silence </s>
+<s> Tessie, did you hear me ordering you to go into the house </s>
+<s> Mrs O'Flaherty </s>
+<s> [Louder.] Mrs O'Flaherty! </s>
+<s> Will you just listen to me one moment </s>
+<s> Please </s>
+<s> [Furiously.] Do you hear me speaking to you, woman </s>
+<s> Are you human beings or are you wild beasts </s>
+<s> Stop that noise immediately: do you hear </s>
+<s> [Yelling.] Are you going to do what I order you, or are you not </s>
+<s> Scandalous </s>
+<s> Disgraceful </s>
+<s> This comes of being too familiar with you </s>
+<s> O'Flaherty, shove them into the house </s>
+<s> Out with the whole damned pack of you </s>
+<s> O'FLAHERTY [to the women] </s>
+<s> Here now: none of that, none of that </s>
+<s> Go easy, I tell you </s>
+<s> Hold your whisht, mother, will you, or you'll be sorry for it after </s>
+<s> [To Teresa.] Is that the way for a decent young girl to speak </s>
+<s> [Despairingly.] Oh, for the Lord's sake, shut up, will yous </s>
+<s> Have you no respect for yourselves or your betters </s>
+<s> [Peremptorily.] Let me have no more of it, I tell you </s>
+<s> Och </s>
+<s> the divil's in the whole crew of you </s>
+<s> In with you into the house this very minute and tear one another's eyes out in the kitchen if you like </s>
+<s> In with you </s>
+<s> The two men seize the two women, and push them, still violently abusing one another, into the house </s>
+<s> Sir Pearce slams the door upon them savagely </s>
+<s> Immediately a heavenly silence falls on the summer afternoon </s>
+<s> The two sit down out of breath: and for a long time nothing is said </s>
+<s> Sir Pearce sits on an iron chair </s>
+<s> O'Flaherty sits on the garden seat </s>
+<s> The thrush begins to sing melodiously </s>
+<s> O'Flaherty cocks his ears, and looks up at it </s>
+<s> A smile spreads over his troubled features </s>
+<s> Sir Pearce, with a long sigh, takes out his pipe and begins to fill it </s>
+<s> O'FLAHERTY [idyllically] </s>
+<s> What a discontented sort of an animal a man is, sir </s>
+<s> Only a month ago, I was in the quiet of the country out at the front, with not a sound except the birds and the bellow of a cow in the distance as it might be, and the shrapnel making little clouds in the heavens, and the shells whistling, and maybe a yell or two when one of us was hit; and would you believe it, sir, I complained of the noise and wanted to have a peaceful hour at home </s>
+<s> Well: them two has taught me a lesson </s>
+<s> This morning, sir, when I was telling the boys here how I was longing to be back taking my part for king and country with the others, I was lying, as you well knew, sir </s>
+<s> Now I can go and say it with a clear conscience </s>
+<s> Some likes war's alarums; and some likes home life </s>
+<s> I've tried both, sir; and I'm for war's alarums now </s>
+<s> I always was a quiet lad by natural disposition </s>
+<s> SIR PEARCE </s>
+<s> Strictly between ourselves, O'Flaherty, and as one soldier to another [O'Flaherty salutes, but without stiffening], do you think we should have got an army without conscription if domestic life had been as happy as people say it is </s>
+<s> O'FLAHERTY </s>
+<s> Well, between you and me and the wall, Sir Pearce, I think the less we say about that until the war's over, the better </s>
+<s> He winks at the General </s>
+<s> The General strikes a match </s>
+<s> The thrush sings </s>
+<s> A jay laughs </s>
+<s> The conversation drops </s>
+<s> </s>
